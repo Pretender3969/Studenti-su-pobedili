@@ -1,0 +1,832 @@
+{
+ "generisano": "2026-10-29T18:19+00:00",
+ "stanje": {
+  "azurirano": "2026-10-29",
+  "izbori": "2026-10-25",
+  "mandati": 141,
+  "procenat": "53,01%",
+  "skupstina": "Nije konstituisana",
+  "vlada": "Nije formirana (tehnički mandat)"
+ },
+ "vesti": [
+  {
+   "datum": "2026-10-29",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Strah je promenio stranu!",
+   "red": 90,
+   "sazetak": "Studentska lista poziva zaposlene u državnim institucijama da prijave nezakonite radnje i pokušaje uništavanja dokaza na uzbunjivaci@studenti.org.rs. Stiglo je već nekoliko stotina mejlova.",
+   "url": "https://studenti.org.rs/vesti/strah_promena/",
+   "id": "v01"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "program",
+   "naslov": "Studentska lista traži ostavke u policiji, BIA, VBA i tužilaštvima, proveru novca za sve projekte i nove istrage",
+   "red": 85,
+   "sazetak": "Traže se ostavke direktora policije Dragana Vasiljevića, direktora BIA Vladimira Orlića, direktora VBA Đura Jovanića, predsednika Ustavnog suda Vladana Petrova i VJT Nenada Stefanovića. Provera tokova novca za Ekspo, Beograd na vodi, stadione, Koridor 10, Rio Tinto i nabavke tokom kovida. Ponovo otvoriti slučajeve Krušik, Savamala, Oliver Ivanović i pad helikoptera.",
+   "url": "https://n1info.rs/vesti/studentska-lista-trazi-ostavke-u-policiji-bia-vba-tuzilastvima-proveru-novca-za-sve-projekte-i-ponovno-pokretanje-istraga-u-mnogim-slucajevima/",
+   "id": "v03"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Konferencija u Pionirskom parku: tražimo tranziciju bez odlaganja",
+   "red": 80,
+   "sazetak": "Zahtev RIK-u da u roku proglasi konačne rezultate kako bi se konstituisala Skupština. Traži se hitan popis zatečenog stanja u ministarstvima, javnim preduzećima, EPS-u i državnim fondovima. Svi ugovori i javne nabavke biće preispitani.",
+   "url": "https://studenti.org.rs/vesti/pionirski_park/",
+   "id": "v02"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1 / Beta",
+   "kategorija": "hapsenje",
+   "naslov": "Milivojević: krivične prijave protiv Tabaković zbog sumnjive transakcije i Vučića zbog Skaj prepiski",
+   "red": 75,
+   "sazetak": "Predsednik DS podneo je TOK-u prijavu protiv guvernerke NBS zbog odobrene zamene dinara u evre za Alta banku, oko 50 miliona evra, bez uobičajene procedure. Druga prijava je protiv bivšeg predsednika zbog pominjanja u Skaj prepiskama sa Šarićem koje je objavio Radar.",
+   "url": "https://n1info.rs/vesti/milivojevic-krivicne-prijave-protiv-tabakovic-zbog-sumnjive-transakcije-i-vucica-zbog-skaj-prepiski/",
+   "id": "v05"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "program",
+   "naslov": "Jovo Bakić: „Krupne ribe“ neće moći da izbegnu odgovornost, ni ako pobegnu u inostranstvo",
+   "red": 70,
+   "sazetak": "Kandidat Studentske liste očekuje mnogo hapšenja nakon preuzimanja vlasti i poziva funkcionere u policiji, pravosuđu i medijima da podnesu ostavke. Navodi da je bilo pokušaja iznošenja novca iz banaka i dokumentacije iz Ministarstva finansija (nepotvrđeno).",
+   "url": "https://n1info.rs/vesti/jovo-bakic-krupne-ribe-nece-moci-da-izbegnu-odgovornost-ni-ako-pobegnu-u-inostranstvo/",
+   "id": "v04"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "VJT u Beogradu traži da MUP prikupi podatke po krivičnoj prijavi protiv direktora PIO fonda Relje Ognjenovića",
+   "red": 65,
+   "sazetak": "Više javno tužilaštvo naložilo je prikupljanje podataka po prijavi protiv direktora PIO fonda. ASNS istovremeno traži njegovo hitno razrešenje.",
+   "url": "https://n1info.rs/vesti/vjt-u-beogradu-trazi-da-mup-prikupi-podatke-zbog-krivicne-prijave-protiv-direktora-pio-fonda/",
+   "id": "v07"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1 / Nova",
+   "kategorija": "korupcija",
+   "naslov": "Savović: tužilaštvo bi moglo da ispita da li je prljav novac uložen u kupovinu medija Junajted grupe",
+   "red": 60,
+   "sazetak": "Prvi korak bila bi dokumentacija iz Portugalije o kaznama koje je regulator CMVM 2024. izrekao fondu Alpac Capital zbog kršenja propisa o sprečavanju pranja novca.",
+   "url": "https://n1info.rs/biznis/savovic-tuzilastvo-bi-moglo-da-ispita-da-li-je-prljav-novac-ulozen-u-kupovinu-medija-junajted-grupe/",
+   "id": "v06"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Zagorka Dolovac izdala hitno obavezno uputstvo tužiocima da spreče uništavanje službenih spisa",
+   "red": 55,
+   "sazetak": "Vrhovna javna tužiteljka naložila je svim tužilaštvima da spreče uništavanje dokumentacije u državnim institucijama u prelaznom periodu.",
+   "url": "https://n1info.rs/vesti/zagorka-dolovac-izdala-hitno-obavezno-uputstvo-tuziocima-da-sprece-unistavanje-sluzbenih-spisa-u-drzavnim-institucijama/",
+   "id": "v08"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Tužilaštvo u Novom Sadu naložilo policiji da hitno spreči uništavanje službene dokumentacije",
+   "red": 54,
+   "sazetak": "Nalog policiji da spreči uništavanje dokumentacije u institucijama na teritoriji tužilaštva.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-u-novom-sadu-nalozilo-policiji-da-hitno-spreci-unistavanje-sluzbene-dokumentacije-u-institucijama/",
+   "id": "v09"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Ninić objavio fotografije iseckanih papira, tvrdi da su iz PIO fonda: „Seckalica radi, ne prestaje“",
+   "red": 53,
+   "sazetak": "Fotografije navodno uništene dokumentacije iz PIO fonda. Tvrdnja nije zvanično potvrđena.",
+   "url": "https://n1info.rs/vesti/ninic-objavio-fotografije-iseckanih-papira-tvrdi-da-su-iz-pio-fonda-seckalica-radi-ne-prestaje/",
+   "id": "v10"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Mogu li dokazi biti uništeni „seckanjem papira“: finansijski forenzičar objašnjava",
+   "red": 52,
+   "sazetak": "Zašto je teško sakriti finansijske tragove i šta ostaje u elektronskim sistemima i bankama.",
+   "url": "https://n1info.rs/vesti/mogu-li-dokazi-biti-unisteni-seckanjem-papira-finansijski-forenzicar-objasnjava-zasto-je-tesko-sakriti-tragove/",
+   "id": "v11"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Lista Ujedinjena Srbija za TV oglašavanje potrošila 10,8 miliona evra, daleko iznad zakonskog maksimuma",
+   "red": 50,
+   "sazetak": "Podaci Transparentnosti Srbija o troškovima kampanje liste Aleksandra Vučića.",
+   "url": "https://n1info.rs/vesti/ts-lista-ujedinjena-srbija-za-oglasavanje-na-tv-stanicama-potrosila-108-miliona-evra/",
+   "id": "v12"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1 / Radar",
+   "kategorija": "korupcija",
+   "naslov": "Radar: MUP ignoriše TOK, banka Davora Macure dala milione evra biznismenu optuženom za pokušaj ubistva",
+   "red": 45,
+   "sazetak": "Istraživanje Radara o kreditima banke i neizvršenom nalogu Tužilaštva za organizovani kriminal.",
+   "url": "https://n1info.rs/biznis/radar-mup-ignorise-tok-banka-davora-macure-dala-milione-evra-biznismenu-optuzenom-za-pokusaj-ubistva/",
+   "id": "v13"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Radonjić i Obradović o „Dosijeu nadstrešnica“: tužilaštvo sada nema izgovor za odugovlačenje",
+   "red": 44,
+   "sazetak": "Tragedija u Novom Sadu kao posledica korupcije; poziv tužilaštvu da ubrza postupak.",
+   "url": "https://n1info.rs/vesti/radonjic-i-obradovic-o-dosijeu-nadstresnica-tragedija-je-posledica-korupcije-i-kriminala-tuzilastvo-sada-nema-izgovor-za-odugovlacenje/",
+   "id": "v14"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Viši sud u Nišu: bivša gradonačelnica Dragana Sotirovski nije pomilovana",
+   "red": 43,
+   "sazetak": "Sud demantuje da je bivša gradonačelnica Niša na spisku pomilovanih.",
+   "url": "https://n1info.rs/vesti/-bivsa-gradonacelnica-nisa-dragana-sotirovski-nije-pomilovana/",
+   "id": "v15"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Vlada u tehničkom mandatu usvojila više dokumenata i izveštaja, većinom bez navođenja o kojima se radi",
+   "red": 42,
+   "sazetak": "Odlazeća vlada nastavlja da donosi odluke u prelaznom periodu bez javnog obrazloženja.",
+   "url": "https://n1info.rs/vesti/vlada-srbije-tehnicki-mandat-usvojeni-dokumenti-29-oktobar-2026/",
+   "id": "v16"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "program",
+   "naslov": "Saičić: na formiranje vlade neće se čekati predugo, nelegalno stečena imovina biće oduzeta",
+   "red": 41,
+   "sazetak": "Najava brzog formiranja vlade i oduzimanja imovine stečene krivičnim delima.",
+   "url": "https://n1info.rs/vesti/saicic-na-formiranje-vlade-nece-se-cekati-predugo-nelegalno-stecena-imovina-bice-oduzeta/",
+   "id": "v17"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Savet REM pokreće postupak protiv Informera, za N1 ocenio da nema osnova",
+   "red": 40,
+   "sazetak": "Regulator medija pokreće postupak protiv Informera.",
+   "url": "https://n1info.rs/vesti/savet-rem-pokrece-postupak-i-protiv-informera-ocenio-da-nema-osnova-za-postupak-protiv-n1/",
+   "id": "v18"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Bivši komandant SAJ: podaci su ukazivali da će Vučić proglasiti pobedu, spremali su se za okršaj sa građanima",
+   "red": 35,
+   "sazetak": "Svedočenje bivšeg komandanta o pripremama policije za izbornu noć. Vučić je to negirao.",
+   "url": "https://n1info.rs/vesti/bivsi-komandant-saj-podacima-koje-smo-dobili-ukazivali-da-ce-vucic-proglasiti-pobedu-spremali-se-za-okrsaj-sa-gradjanima/",
+   "id": "v19"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Vučić negirao da je planirao nasilje u izbornoj noći",
+   "red": 34,
+   "sazetak": "Bivši predsednik odbacuje navode bivšeg komandanta SAJ.",
+   "url": "https://n1info.rs/vesti/vucic-negirao-da-je-planirao-nasilje-u-izbornoj-noci-niko-me-od-stranaca-nije-zvao/",
+   "id": "v20"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "Studenti",
+   "kategorija": "izbori",
+   "naslov": "Repriza izbora",
+   "red": 30,
+   "sazetak": "Glasanje se ponavlja na biračkim mestima na kojima lokalne izborne komisije nisu mogle da utvrde rezultate (među njima više mesta u Aleksincu).",
+   "url": "https://studenti.org.rs/vesti/izbori_repriza/",
+   "id": "v21"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Tužilaštvo proverava tvrdnje o izbornim neregularnostima u Novom Pazaru",
+   "red": 29,
+   "sazetak": "Provera prijava o nepravilnostima na izborima 25. oktobra.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-proverava-tvrdnje-o-izbornim-neregularnostima-u-novom-pazaru/",
+   "id": "v22"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšen direktor Jovine gimnazije u Novom Sadu",
+   "red": 90,
+   "sazetak": "OJT Bačka Palanka: direktor R. S. osumnjičen za četiri krivična dela neizvršenja sudskih odluka jer nije vratio na posao četiri profesora kojima su sudovi poništili suspenzije. Zadržan do 48 sati; MUP potvrdio hapšenje.",
+   "url": "https://n1info.rs/vesti/ojt-u-backoj-palanci-uhapsen-direktor-jovine-gimnazije/",
+   "id": "v23"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Nemanja Karović: pokušano iznošenje ogromne količine novca iz Poštanske štedionice",
+   "red": 85,
+   "sazetak": "Kandidat Studentske liste tvrdi da je pokušano iznošenje oko milijardu dinara, da je to sprečeno i prijavljeno NBS i tužilaštvu. Navodi i da je Informer dobijao 500.000 do 700.000 evra mesečno.",
+   "url": "https://n1info.rs/vesti/nemanja-karovic-pokusano-iznosenje-ogromne-kolicine-novca-iz-postanske-stedionice/",
+   "id": "v24"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "Studenti",
+   "kategorija": "izbori",
+   "naslov": "141 mandat: Studentska lista osvojila 53,01% glasova",
+   "red": 80,
+   "sazetak": "Na osnovu 99,2% obrađenih biračkih mesta Studentska lista „Studenti pobeđuju“ ima apsolutnu većinu u Skupštini.",
+   "url": "https://studenti.org.rs/vesti/izbori/",
+   "id": "v25"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Manja Grčić podnela ostavku u RTS-u",
+   "red": 70,
+   "sazetak": "Ostavka posle otvorenog pisma studenata u kom se traže ostavke rukovodstva javnog servisa.",
+   "url": "https://n1info.rs/vesti/manja-grcic-podnela-ostavku-na-mestu-direktorke-rts-a/",
+   "id": "v26"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Dejan Jovanović obavljaće funkciju direktora RTS-a",
+   "red": 69,
+   "sazetak": "Imenovan za v.d. direktora iako su studenti tražili njegovu ostavku.",
+   "url": "https://n1info.rs/vesti/dejan-jovanovic-izabran-za-vd-direktora-rts-a/",
+   "id": "v27"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "RIK: izbori se ponavljaju na 53 biračka mesta u nedelju, 1. novembra",
+   "red": 60,
+   "sazetak": "Ponovljeno glasanje ne može da promeni većinu, ali odlaže proglašenje konačnih rezultata.",
+   "url": "https://n1info.rs/vesti/rik-izbori-se-ponavljaju-na-53-biracka-mesta-u-nedelju-1-novembra/",
+   "id": "v28"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "DRI dala negativnu ocenu: gde je zemljište vredno više od 5 milijardi evra u knjigama Grada Beograda?",
+   "red": 50,
+   "sazetak": "Državna revizorska institucija ne može da potvrdi imovinu iskazanu u poslovnim knjigama grada.",
+   "url": "https://n1info.rs/biznis/gde-je-zemljiste-vredno-5-miljardi-evra-u-poslovnim-knjigama-grada-beograda-dri/",
+   "id": "v29"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "Studenti",
+   "kategorija": "mediji",
+   "naslov": "Inscenirani incidenti",
+   "red": 40,
+   "sazetak": "Upozorenje da interesna grupa pokušava da režira napad na redakciju Informera i okrivi studente. Poziv da se ne odaziva na takve pozive.",
+   "url": "https://studenti.org.rs/vesti/dez_info/",
+   "id": "v30"
+  },
+  {
+   "datum": "2026-10-27",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Pobeda nas obavezuje!",
+   "red": 80,
+   "sazetak": "Priznanje poraza ne zamenjuje institucionalne procedure. Oni koji su se ogrešili o državu odgovaraće institucionalno kada nova vlast položi zakletvu.",
+   "url": "https://studenti.org.rs/vesti/pobeda_obavezuje/",
+   "id": "v31"
+  },
+  {
+   "datum": "2026-10-27",
+   "izvor": "Studenti",
+   "kategorija": "mediji",
+   "naslov": "Otvoreno pismo RTS-u, REM-u i Narodnoj skupštini",
+   "red": 70,
+   "sazetak": "Zahtev za departizaciju javnog servisa i ostavke generalnog direktora, zamenika i glavnih urednika.",
+   "url": "https://studenti.org.rs/vesti/rts_pismo/",
+   "id": "v32"
+  },
+  {
+   "datum": "2026-10-27",
+   "izvor": "Studenti",
+   "kategorija": "bezbednost",
+   "naslov": "Pravda je dostižna, odgovaraćete!",
+   "red": 60,
+   "sazetak": "Napad pristalica bivšeg režima na studente i građane koji su slavili na trgu u Ubu; dvoje povređenih, jedan teže.",
+   "url": "https://studenti.org.rs/vesti/odgovarace_ub/",
+   "id": "v33"
+  },
+  {
+   "datum": "2026-10-27",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Pamtimo",
+   "red": 50,
+   "sazetak": "Izborna pobeda ne znači da su studentski zahtevi ispunjeni; obaveza je da se sprovede program Studentske liste.",
+   "url": "https://studenti.org.rs/vesti/pamtimo/",
+   "id": "v34"
+  },
+  {
+   "datum": "2026-10-26",
+   "izvor": "Studenti",
+   "kategorija": "mediji",
+   "naslov": "Slavlje je na Slaviji!",
+   "red": 50,
+   "sazetak": "Studentska lista ne podržava upade u medije i institucije: „medije ćemo oslobađati u Skupštini“.",
+   "url": "https://studenti.org.rs/vesti/ne_rts/",
+   "id": "v35"
+  },
+  {
+   "datum": "2026-10-25",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Vučić: Izgubili smo izbore, pobedila je Studentska lista",
+   "red": 90,
+   "sazetak": "Lista „Aleksandar Vučić – Ujedinjena Srbija“ priznala je poraz na vanrednim parlamentarnim izborima.",
+   "url": "https://www.rts.rs/lat/vesti/izbori-2026/6069583/vucic-izgubili-smo-izbore-pobedila-je-studentska-lista.html",
+   "id": "v36"
+  },
+  {
+   "datum": "2026-10-25",
+   "izvor": "Danas",
+   "kategorija": "izbori",
+   "naslov": "Studentska lista pobedila, u Skupštinu ulazi još samo SNS",
+   "red": 80,
+   "sazetak": "Projekcije: Studentska lista oko 53%, Ujedinjena Srbija oko 39%; ostale liste ispod cenzusa, osim manjinskih.",
+   "url": "https://www.danas.rs/vesti/politika/izbori-2026-rezultati-glasanje-uzivo/",
+   "id": "v37"
+  },
+  {
+   "datum": "2026-10-25",
+   "izvor": "Studenti",
+   "kategorija": "izbori",
+   "naslov": "Izjava povodom napada na člana biračkog odbora u Doljevcu",
+   "red": 70,
+   "sazetak": "Član biračkog odbora ispred Studentske liste napadnut na biračkom mestu; sumnja na kriminalne strukture povezane sa vladajućom strankom.",
+   "url": "https://studenti.org.rs/vesti/izbori_doljevac/",
+   "id": "v38"
+  },
+  {
+   "datum": "2026-10-20",
+   "izvor": "Studenti",
+   "kategorija": "bezbednost",
+   "naslov": "Počeli pretresi objekata radi hapšenja studenata",
+   "red": 50,
+   "sazetak": "Policija pretresala objekte koje navodno koristi student Lazar Mišić; advokati navode da je cilj zastrašivanje.",
+   "url": "https://studenti.org.rs/vesti/lm/",
+   "id": "v39"
+  },
+  {
+   "datum": "2026-10-16",
+   "izvor": "Studenti",
+   "kategorija": "korupcija",
+   "naslov": "Naša istorija, njihov privatni profit: Gardijan o slučaju Generalštab",
+   "red": 50,
+   "sazetak": "Gardijan je 15. oktobra objavio da postoje dokazi o direktnoj umešanosti Aleksandra Vučića u slučaj Generalštab. Dokazi bi trebalo da budu predstavljeni na ročištu 4. novembra.",
+   "url": "https://studenti.org.rs/vesti/studentiorgrs-generalstab_tramp/",
+   "id": "v40"
+  },
+  {
+   "datum": "2026-10-11",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Ko su pomilovani?",
+   "red": 50,
+   "sazetak": "Vučić je 27. septembra, uz ostavku, pomilovao i abolirao 49 osoba. Imena 26 osoba i dalje nisu objavljena; Ministarstvo pravde kaže da nije učestvovalo u postupku.",
+   "url": "https://studenti.org.rs/vesti/ko_je_pomilovan/",
+   "id": "v41"
+  },
+  {
+   "datum": "2026-10-10",
+   "izvor": "Studenti",
+   "kategorija": "izbori",
+   "naslov": "Slom izborne zakonitosti",
+   "red": 50,
+   "sazetak": "RIK je posle isteka roka od 72 sata odbio prigovore studenata o pravu glasa više od 111.000 građana u dijaspori.",
+   "url": "https://studenti.org.rs/vesti/slom_zakonitosti/",
+   "id": "v42"
+  },
+  {
+   "datum": "2026-10-01",
+   "izvor": "Studenti / KRIK",
+   "kategorija": "korupcija",
+   "naslov": "Vi ste lopovi: sudija Ustavnog suda kupila neprijavljen stan od pola miliona evra",
+   "red": 50,
+   "sazetak": "Prema KRIK-u, bivša ministarka pravde Maja Popović kupila je stan od 122 m² vredan oko 500.000 evra uz kredit od 150.000; stan nije u imovinskoj karti. Sa suprugom poseduje pet stanova vrednih oko 1,5 miliona evra.",
+   "url": "https://studenti.org.rs/vesti/sudija_lopov/",
+   "id": "v43"
+  },
+  {
+   "datum": "2026-09-28",
+   "izvor": "Studenti",
+   "kategorija": "bezbednost",
+   "naslov": "Hapšenja na KiM",
+   "red": 50,
+   "sazetak": "U Zubinom Potoku uhapšeno devetoro Srba osumnjičenih za ratne zločine, među njima čovek od 90 godina. Traži se transparentnost i poštovanje prava.",
+   "url": "https://studenti.org.rs/vesti/zp_uhapseni/",
+   "id": "v44"
+  },
+  {
+   "datum": "2026-09-26",
+   "izvor": "Studenti / BIRN",
+   "kategorija": "korupcija",
+   "naslov": "Zakon o oduzimanju imovine proistekle iz krivičnog dela",
+   "red": 50,
+   "sazetak": "Predlog programa: novac izvučen iz budžeta mora biti vraćen. Primer: prema BIRN-u oko 5 miliona evra iz Ministarstva za brigu o porodici izvučeno preko fantomskih udruženja bliskih SNS-u.",
+   "url": "https://studenti.org.rs/vesti/zakon_imovina/",
+   "id": "v45"
+  }
+ ],
+ "hronika": [
+  {
+   "datum": "2026-11-04",
+   "izvori": [
+    "https://studenti.org.rs/vesti/studentiorgrs-generalstab_tramp/"
+   ],
+   "naslov": "Ročište u slučaju Generalštab",
+   "opis": "Na ovom ročištu očekuje se predstavljanje dokaza o kojima je pisao Gardijan.",
+   "red": 50,
+   "status": "najavljeno",
+   "tip": "prijava",
+   "id": "h20"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvori": [
+    "https://n1info.rs/vesti/rik-izbori-se-ponavljaju-na-53-biracka-mesta-u-nedelju-1-novembra/"
+   ],
+   "naslov": "Ponavljanje glasanja na 53 biračka mesta",
+   "opis": "Posle toga RIK bi trebalo da proglasi konačne rezultate, što otvara put konstituisanju Skupštine.",
+   "red": 50,
+   "status": "najavljeno",
+   "tip": "izbori",
+   "id": "h19"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvori": [
+    "https://n1info.rs/vesti/studentska-lista-trazi-ostavke-u-policiji-bia-vba-tuzilastvima-proveru-novca-za-sve-projekte-i-ponovno-pokretanje-istraga-u-mnogim-slucajevima/",
+    "https://studenti.org.rs/vesti/pionirski_park/"
+   ],
+   "naslov": "Studentska lista traži ostavke čelnika službi i tužilaštava i proveru novca za velike projekte",
+   "opis": "Lista ostavki: direktor policije, BIA, VBA, predsednik Ustavnog suda, VJT u Beogradu. Provera: Ekspo, Beograd na vodi, stadioni, Miloš Veliki, Koridor 10, Rio Tinto, kovid nabavke.",
+   "osobe": "Dragan Vasiljević · Vladimir Orlić · Đuro Jovanić · Vladan Petrov · Nenad Stefanović",
+   "red": 90,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h13"
+  },
+  {
+   "datum": "2026-10-29",
+   "iznos": "≈ 50 mil. €",
+   "izvori": [
+    "https://n1info.rs/vesti/milivojevic-krivicne-prijave-protiv-tabakovic-zbog-sumnjive-transakcije-i-vucica-zbog-skaj-prepiski/"
+   ],
+   "naslov": "Krivične prijave protiv guvernerke NBS i bivšeg predsednika",
+   "opis": "Prijava protiv Tabaković zbog odobrene zamene dinara u evre za Alta banku bez uobičajene procedure; protiv Vučića zbog Skaj prepiski sa Šarićem. Prijave su podnete TOK-u; to su navodi podnosioca, ne optužnice.",
+   "osobe": "Jorgovanka Tabaković · Aleksandar Vučić · podneo Srđan Milivojević (DS)",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h14"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvori": [
+    "https://n1info.rs/vesti/vjt-u-beogradu-trazi-da-mup-prikupi-podatke-zbog-krivicne-prijave-protiv-direktora-pio-fonda/",
+    "https://n1info.rs/vesti/ninic-objavio-fotografije-iseckanih-papira-tvrdi-da-su-iz-pio-fonda-seckalica-radi-ne-prestaje/"
+   ],
+   "naslov": "VJT traži od MUP-a podatke po prijavi protiv direktora PIO fonda",
+   "opis": "Istovremeno se pojavljuju fotografije navodno iseckane dokumentacije iz PIO fonda.",
+   "osobe": "Relja Ognjenović · VJT Beograd",
+   "red": 75,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h15"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvori": [
+    "https://n1info.rs/vesti/zagorka-dolovac-izdala-hitno-obavezno-uputstvo-tuziocima-da-sprece-unistavanje-sluzbenih-spisa-u-drzavnim-institucijama/",
+    "https://n1info.rs/vesti/tuzilastvo-u-novom-sadu-nalozilo-policiji-da-hitno-spreci-unistavanje-sluzbene-dokumentacije-u-institucijama/"
+   ],
+   "naslov": "Tužilaštva naložila sprečavanje uništavanja dokumentacije",
+   "opis": "Vrhovna javna tužiteljka izdala hitno obavezno uputstvo svim tužiocima; tužilaštvo u Novom Sadu naložilo policiji hitnu zaštitu spisa.",
+   "osobe": "Zagorka Dolovac · tužilaštvo u Novom Sadu",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h16"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvori": [
+    "https://studenti.org.rs/vesti/strah_promena/"
+   ],
+   "naslov": "Poziv uzbunjivačima: stiglo nekoliko stotina prijava",
+   "opis": "Studentska lista prikuplja prijave nezakonitih radnji i uništavanja dokaza u prelaznom periodu.",
+   "red": 65,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h17"
+  },
+  {
+   "datum": "2026-10-29",
+   "iznos": "10,8 mil. €",
+   "izvori": [
+    "https://n1info.rs/vesti/ts-lista-ujedinjena-srbija-za-oglasavanje-na-tv-stanicama-potrosila-108-miliona-evra/"
+   ],
+   "naslov": "Kampanja Ujedinjene Srbije na TV-u daleko iznad zakonskog maksimuma",
+   "opis": "Procena Transparentnosti Srbija o troškovima TV oglašavanja liste bivšeg predsednika.",
+   "osobe": "Lista „Aleksandar Vučić – Ujedinjena Srbija“",
+   "red": 60,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h18"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvori": [
+    "https://studenti.org.rs/vesti/izbori/",
+    "https://n1info.rs/vesti/rik-izbori-se-ponavljaju-na-53-biracka-mesta-u-nedelju-1-novembra/"
+   ],
+   "naslov": "53,01% i 141 mandat posle 99,2% obrađenih biračkih mesta",
+   "opis": "Apsolutna većina u Skupštini od 250 poslanika. RIK je zakazao ponavljanje glasanja na 53 biračka mesta za 1. novembar.",
+   "red": 90,
+   "status": "zvanicno",
+   "tip": "izbori",
+   "id": "h08"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvori": [
+    "https://n1info.rs/vesti/ojt-u-backoj-palanci-uhapsen-direktor-jovine-gimnazije/",
+    "https://www.danas.rs/vesti/drustvo/mup-hapsenje-direktor-jovine-gimnazije/",
+    "https://www.021.rs/novi-sad/vesti/459589/uhapsen-direktor-jovine-gimnazije-radivoje-p-stojkovic"
+   ],
+   "naslov": "Uhapšen direktor Jovine gimnazije u Novom Sadu",
+   "opis": "Osumnjičen za četiri krivična dela neizvršenja sudskih odluka: nije vratio na posao četiri profesora kojima su sudovi poništili suspenzije. Zadržan do 48 sati. Mediji ga opisuju kao otvorenog pristalicu bivšeg predsednika.",
+   "osobe": "R. S., direktor gimnazije · OJT Bačka Palanka · MUP",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h09"
+  },
+  {
+   "datum": "2026-10-28",
+   "iznos": "≈ 1 mlrd RSD",
+   "izvori": [
+    "https://n1info.rs/vesti/nemanja-karovic-pokusano-iznosenje-ogromne-kolicine-novca-iz-postanske-stedionice/"
+   ],
+   "naslov": "Pokušaj iznošenja novca iz Poštanske štedionice",
+   "opis": "Kandidat Studentske liste tvrdi da je pokušaj sprečen i prijavljen NBS i tužilaštvu. Nije navedeno ko je pokušao.",
+   "osobe": "Nemanja Karović (izvor navoda)",
+   "red": 70,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h10"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvori": [
+    "https://n1info.rs/vesti/manja-grcic-podnela-ostavku-na-mestu-direktorke-rts-a/",
+    "https://n1info.rs/vesti/dejan-jovanovic-izabran-za-vd-direktora-rts-a/"
+   ],
+   "naslov": "Manja Grčić podnela ostavku u RTS-u",
+   "opis": "Posle otvorenog pisma studenata. Istog dana Dejan Jovanović imenovan za v.d. direktora, iako su studenti tražili i njegovu ostavku.",
+   "osobe": "Manja Grčić · Dejan Jovanović · RTS",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "ostavka",
+   "id": "h11"
+  },
+  {
+   "datum": "2026-10-28",
+   "iznos": "> 5 mlrd €",
+   "izvori": [
+    "https://n1info.rs/biznis/gde-je-zemljiste-vredno-5-miljardi-evra-u-poslovnim-knjigama-grada-beograda-dri/"
+   ],
+   "naslov": "DRI: negativna ocena za zemljište u knjigama Grada Beograda",
+   "opis": "Državna revizorska institucija ne može da potvrdi zemljište iskazano u poslovnim knjigama grada.",
+   "osobe": "Grad Beograd · DRI",
+   "red": 50,
+   "status": "zvanicno",
+   "tip": "otkrice",
+   "id": "h12"
+  },
+  {
+   "datum": "2026-10-27",
+   "izvori": [
+    "https://studenti.org.rs/vesti/odgovarace_ub/"
+   ],
+   "naslov": "Napad na studente i građane koji su slavili u Ubu",
+   "opis": "Grupa pristalica bivšeg režima, prema svedocima naoružana palicama i vatrenim oružjem; dvoje povređenih zbrinuto u bolnici u Valjevu.",
+   "red": 50,
+   "status": "navod",
+   "tip": "incident",
+   "id": "h07"
+  },
+  {
+   "datum": "2026-10-25",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/izbori-2026/6069583/vucic-izgubili-smo-izbore-pobedila-je-studentska-lista.html",
+    "https://www.danas.rs/vesti/politika/izbori-2026-rezultati-glasanje-uzivo/"
+   ],
+   "naslov": "Studentska lista pobedila na vanrednim parlamentarnim izborima, Vučić priznao poraz",
+   "opis": "Projekcije CeSID-a i Ipsosa: oko 53% za Studentsku listu, oko 39% za listu Ujedinjena Srbija.",
+   "red": 90,
+   "status": "zvanicno",
+   "tip": "izbori",
+   "id": "h05"
+  },
+  {
+   "datum": "2026-10-25",
+   "izvori": [
+    "https://studenti.org.rs/vesti/izbori_doljevac/"
+   ],
+   "naslov": "Napadnut član biračkog odbora Studentske liste u Doljevcu",
+   "opis": "Prema izjavi advokata, napali su ga ljudi iz kriminalnih struktura za koje se sumnja da su povezani sa vladajućom strankom.",
+   "red": 50,
+   "status": "navod",
+   "tip": "incident",
+   "id": "h06"
+  },
+  {
+   "datum": "2026-10-20",
+   "izvori": [
+    "https://studenti.org.rs/vesti/lm/"
+   ],
+   "naslov": "Policija pretresa objekte radi hapšenja studenata",
+   "opis": "Prvi na udaru je student Lazar Mišić, koji nije lišen slobode.",
+   "osobe": "Lazar Mišić · MUP",
+   "red": 50,
+   "status": "zvanicno",
+   "tip": "incident",
+   "id": "h04"
+  },
+  {
+   "datum": "2026-10-15",
+   "izvori": [
+    "https://studenti.org.rs/vesti/studentiorgrs-generalstab_tramp/"
+   ],
+   "naslov": "Gardijan: dokazi o Vučićevoj ličnoj umešanosti u slučaj Generalštab",
+   "opis": "Prema listu, dokazi su već deo predmeta; zaprećena kazna za moguća krivična dela je od jedne do osam godina zatvora.",
+   "osobe": "Aleksandar Vučić",
+   "red": 50,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h03"
+  },
+  {
+   "datum": "2026-10-01",
+   "iznos": "≈ 500.000 €",
+   "izvori": [
+    "https://studenti.org.rs/vesti/sudija_lopov/"
+   ],
+   "naslov": "Sudija Ustavnog suda kupila stan koji nije prijavila",
+   "opis": "Istraživanje KRIK-a: stan od 122 m², kredit od 150.000 €, poreklo ostatka novca nepoznato. Supružnici Popović poseduju pet stanova vrednih oko 1,5 mil. €.",
+   "osobe": "Maja Popović (bivša ministarka pravde) · Rastko Popović",
+   "red": 50,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h02"
+  },
+  {
+   "datum": "2026-09-27",
+   "izvori": [
+    "https://studenti.org.rs/vesti/ko_je_pomilovan/"
+   ],
+   "naslov": "Vučić podneo ostavku i pomilovao 49 osoba",
+   "opis": "Uz ostavku na mesto predsednika saopštio je da je pomilovao i abolirao 49 osoba. Imena 26 osoba nisu objavljena, a Ministarstvo pravde kaže da nije učestvovalo u postupku.",
+   "osobe": "Aleksandar Vučić · Ministarstvo pravde",
+   "red": 50,
+   "status": "zvanicno",
+   "tip": "ostavka",
+   "id": "h01"
+  }
+ ],
+ "obecanja": [
+  {
+   "datum": "2026-10-29",
+   "napomena": "Glasanje se ponavlja 1. novembra na 53 mesta.",
+   "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
+   "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
+   "status": "u_toku",
+   "url": "https://studenti.org.rs/vesti/pionirski_park/",
+   "id": "o01"
+  },
+  {
+   "datum": "2026-10-29",
+   "naslov": "Hitan popis zatečenog stanja u institucijama",
+   "opis": "Ministarstva, javna preduzeća, EPS i državni fondovi: finansije, ugovori, javne nabavke i preuzete obaveze.",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/pionirski_park/",
+   "id": "o02"
+  },
+  {
+   "datum": "2026-10-29",
+   "naslov": "Preispitivanje svih ugovora i javnih nabavki",
+   "opis": "U skladu sa zakonom, posle formiranja vlasti.",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/pionirski_park/",
+   "id": "o03"
+  },
+  {
+   "datum": "2026-10-29",
+   "naslov": "Provera tokova novca za velike projekte",
+   "opis": "Ekspo, Beograd na vodi, stadioni u Leskovcu i Loznici, auto-put Miloš Veliki, Koridor 10, Rio Tinto i nabavke tokom kovida.",
+   "status": "najavljeno",
+   "url": "https://n1info.rs/vesti/studentska-lista-trazi-ostavke-u-policiji-bia-vba-tuzilastvima-proveru-novca-za-sve-projekte-i-ponovno-pokretanje-istraga-u-mnogim-slucajevima/",
+   "id": "o04"
+  },
+  {
+   "datum": "2026-10-29",
+   "naslov": "Ponovno otvaranje zaustavljenih istraga",
+   "opis": "Krušik, naplatna rampa Doljevac, ubistvo Aleksandra Nešovića, rušenje u Savamali, ubistvo Olivera Ivanovića, pad helikoptera.",
+   "status": "najavljeno",
+   "url": "https://n1info.rs/vesti/studentska-lista-trazi-ostavke-u-policiji-bia-vba-tuzilastvima-proveru-novca-za-sve-projekte-i-ponovno-pokretanje-istraga-u-mnogim-slucajevima/",
+   "id": "o05"
+  },
+  {
+   "datum": "2026-10-29",
+   "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
+   "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
+   "status": "najavljeno",
+   "url": "https://n1info.rs/vesti/studentska-lista-trazi-ostavke-u-policiji-bia-vba-tuzilastvima-proveru-novca-za-sve-projekte-i-ponovno-pokretanje-istraga-u-mnogim-slucajevima/",
+   "id": "o06"
+  },
+  {
+   "datum": "2026-09-26",
+   "naslov": "Zakon o oduzimanju imovine proistekle iz krivičnog dela",
+   "opis": "Novac izvučen iz budžeta treba da bude vraćen građanima, ne samo da neko kazneno odgovara.",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/zakon_imovina/",
+   "id": "o07"
+  },
+  {
+   "datum": "2026-10-27",
+   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu.",
+   "naslov": "Departizacija RTS-a i ostavke rukovodstva javnog servisa",
+   "opis": "Ostavke generalnog direktora, zamenika i glavnih urednika; nezavisan REM.",
+   "status": "delimicno",
+   "url": "https://studenti.org.rs/vesti/rts_pismo/",
+   "id": "o08"
+  },
+  {
+   "datum": "2026-10-29",
+   "napomena": "Nekoliko stotina prijava; tužilaštva izdala naloge za zaštitu spisa.",
+   "naslov": "Zaštita uzbunjivača i dokaza u prelaznom periodu",
+   "opis": "Prikupljanje prijava o uništavanju dokumentacije i nezakonitim radnjama.",
+   "status": "u_toku",
+   "url": "https://studenti.org.rs/vesti/strah_promena/",
+   "id": "o09"
+  },
+  {
+   "datum": "2026-10-11",
+   "naslov": "Objavljivanje celog spiska pomilovanih",
+   "opis": "Imena 26 od 49 osoba koje je Vučić pomilovao ili abolirao i provera zakonitosti postupka.",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/ko_je_pomilovan/",
+   "id": "o10"
+  },
+  {
+   "datum": "2026-10-27",
+   "naslov": "Institucionalna odgovornost, bez osvete",
+   "opis": "Ko se ogrešio o državu odgovaraće pred zakonom posle zakletve nove vlasti; bez upada u medije i institucije.",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/pobeda_obavezuje/",
+   "id": "o11"
+  },
+  {
+   "datum": "2026-10-27",
+   "naslov": "Ispunjenje studentskih zahteva",
+   "opis": "Zahtevi studenata u blokadi i dalje nisu ispunjeni; obaveza je sprovođenje programa Studentske liste.",
+   "status": "u_toku",
+   "url": "https://studenti.org.rs/vesti/pamtimo/",
+   "id": "o12"
+  }
+ ]
+}
