@@ -55,9 +55,9 @@ body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 
 <nav class="tabs" aria-label="Odeljci">
   <div class="wrap tabrow" role="tablist">
-    <button class="tab" role="tab" data-view="vesti" aria-selected="true">Vesti<span class="n" id="n-vesti"></span></button>
-    <button class="tab" role="tab" data-view="hronika" aria-selected="false">Hronika događaja<span class="n" id="n-hronika"></span></button>
-    <button class="tab" role="tab" data-view="obecanja" aria-selected="false">Obećanja i zahtevi<span class="n" id="n-obecanja"></span></button>
+    <button class="tab" role="tab" id="tab-vesti" data-view="vesti" aria-selected="true"><span>Vesti</span><span class="n" id="n-vesti"></span></button>
+    <button class="tab" role="tab" id="tab-hronika" data-view="hronika" aria-selected="false"><span>Hronika<span class="lg"> događaja</span></span><span class="n" id="n-hronika"></span></button>
+    <button class="tab" role="tab" id="tab-obecanja" data-view="obecanja" aria-selected="false"><span>Obećanja<span class="lg"> i zahtevi</span></span><span class="n" id="n-obecanja"></span></button>
   </div>
 </nav>
 
@@ -75,6 +75,7 @@ const TYPES = {
   ostavka:{l:"Ostavka / smena",c:"--t-ostavka"}, korak:{l:"Korak ka promeni",c:"--t-korak"}, izbori:{l:"Izbori",c:"--t-izbori"}, incident:{l:"Incident / pritisak",c:"--t-incident"}
 };
 const CATS = { korupcija:"Korupcija i novac", hapsenje:"Hapšenja i prijave", institucije:"Institucije", program:"Studentska lista", izbori:"Izbori", mediji:"Mediji", bezbednost:"Bezbednost" };
+const CATC = { korupcija:"--t-otkrice", hapsenje:"--t-hapsenje", institucije:"--t-ostavka", program:"--t-korak", izbori:"--t-izbori", mediji:"--t-prijava", bezbednost:"--t-incident" };
 const PSTAT = { najavljeno:{l:"Najavljeno",c:"--s-idle"}, u_toku:{l:"U toku",c:"--accent"}, delimicno:{l:"Delimično",c:"--s-warn"}, ispunjeno:{l:"Ispunjeno",c:"--s-ok"}, odstupljeno:{l:"Odstupljeno",c:"--s-bad"} };
 const MONTHS=["jan","feb","mar","apr","maj","jun","jul","avg","sep","okt","nov","dec"];
 const DAYS=["nedelja","ponedeljak","utorak","sreda","četvrtak","petak","subota"];
@@ -114,11 +115,11 @@ const toolsHtml = filters => `<div class="tools"><input class="search" id="q" ty
 const emptyOr = (all, list, what) => !state.loaded ? `<div class="empty">Učitavam ${what}…</div>` : !all.length ? `<div class="empty">Još nema unosa.</div>` : !list.length ? `<div class="empty">Ništa ne odgovara pretrazi ili filteru.</div>` : null;
 
 function renderVesti(){
-  const filters = `<button class="fbtn" data-cat="" aria-pressed="${!state.cat}">Sve</button>` + Object.entries(CATS).map(([k,l])=>`<button class="fbtn" data-cat="${k}" aria-pressed="${state.cat===k}">${l}</button>`).join("");
+  const filters = `<button class="fbtn" data-cat="" aria-pressed="${!state.cat}">Sve</button>` + Object.entries(CATS).map(([k,l])=>`<button class="fbtn" data-cat="${k}" aria-pressed="${state.cat===k}"><span class="dot" style="background:var(${CATC[k]})"></span>${l}</button>`).join("");
   const list = sortDesc(state.vesti).filter(n => (!state.cat || n.kategorija===state.cat) && match(n,["naslov","sazetak","izvor"]));
   const body = emptyOr(state.vesti, list, "vesti") ?? groupByDate(list).map(([d,items])=>`<section class="daygroup"><div class="dlabel"><b>${fmtDate(d)}</b>${dayName(d)}</div><div class="items">${
-    items.map(n=>{ const u=safeUrl(n.url); return `<article class="news" id="vest-${esc(n.id)}" data-id="${esc(n.id)}"><button type="button" aria-expanded="false"><span class="ttl">${esc(n.naslov)}</span><span class="chev" aria-hidden="true">▶</span>
-      <span class="meta"><span class="src">${esc(n.izvor)}</span><span class="cat">${esc(CATS[n.kategorija]||"")}</span></span></button>
+    items.map(n=>{ const u=safeUrl(n.url); return `<article class="news" id="vest-${esc(n.id)}" data-id="${esc(n.id)}"${CATC[n.kategorija]?` style="--tc:var(${CATC[n.kategorija]})"`:""}><button type="button" aria-expanded="false"><span class="ttl">${esc(n.naslov)}</span><span class="chev" aria-hidden="true">▶</span>
+      <span class="meta"><span class="src">${esc(n.izvor)}</span><span class="cat"><span class="dot" style="background:var(--tc,var(--muted))"></span>${esc(CATS[n.kategorija]||"")}</span></span></button>
       <div class="body">${n.sazetak?`<p>${esc(n.sazetak)}</p>`:""}<div class="row">${u?`<a href="${esc(u)}" target="_blank" rel="noopener">Pročitaj ceo tekst na ${esc(host(u))} ↗</a>`:""}</div></div></article>`;}).join("")}</div></section>`).join("");
   return toolsHtml(filters) + body;
 }
