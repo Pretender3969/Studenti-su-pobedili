@@ -1,5 +1,5 @@
 {
- "generisano": "2026-10-29T18:19+00:00",
+ "generisano": "2026-10-30T07:21+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -9,6 +9,16 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "DRI: Komisija za zaštitu konkurencije kupila prostor za 7,2 miliona evra bez saglasnosti Direkcije za imovinu",
+   "red": 60,
+   "sazetak": "Državna revizorska institucija utvrdila je da je Komisija 2023. kupila poslovni prostor i 20 parking mesta u Prokopu za 7.224.196 evra bez PDV-a, bez saglasnosti Republičke direkcije za imovinu i bez prikupljanja ponuda, uz nepravilnosti u javnim nabavkama.",
+   "url": "https://n1info.rs/biznis/komisija-za-zastitu-konkurencije-pod-lupom-dri-sedam-miliona-evra-za-poslovni-prostor-u-prokopu/",
+   "id": "v59"
+  },
   {
    "datum": "2026-10-29",
    "izvor": "Studenti",
@@ -28,6 +38,16 @@
    "sazetak": "Traže se ostavke direktora policije Dragana Vasiljevića, direktora BIA Vladimira Orlića, direktora VBA Đura Jovanića, predsednika Ustavnog suda Vladana Petrova i VJT Nenada Stefanovića. Provera tokova novca za Ekspo, Beograd na vodi, stadione, Koridor 10, Rio Tinto i nabavke tokom kovida. Ponovo otvoriti slučajeve Krušik, Savamala, Oliver Ivanović i pad helikoptera.",
    "url": "https://n1info.rs/vesti/studentska-lista-trazi-ostavke-u-policiji-bia-vba-tuzilastvima-proveru-novca-za-sve-projekte-i-ponovno-pokretanje-istraga-u-mnogim-slucajevima/",
    "id": "v03"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Bivšem načelniku novosadske Uprave za privredu određen pritvor do 30 dana",
+   "red": 85,
+   "sazetak": "Viši sud u Novom Sadu odredio je pritvor do 30 dana bivšem načelniku Gradske uprave za privredu S.B. zbog opasnosti od uticaja na svedoke i ponavljanja dela. Tereti se za nesavestan rad u službi kojim je gradu pričinjena šteta od 83,26 miliona dinara; mediji navode da je reč o Saši Bilinoviću.",
+   "url": "https://n1info.rs/vesti/nacelniku-novosadske-uprave-za-privredu-odredjen-pritvor-od-30-dana/",
+   "id": "v46"
   },
   {
    "datum": "2026-10-29",
@@ -61,6 +81,16 @@
   },
   {
    "datum": "2026-10-29",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Uskoković smenio urednike Informativnog programa RTS-a",
+   "red": 70,
+   "sazetak": "V.d. glavnog urednika Informativnog programa Borivoje Uskoković smenio je urednike više redakcija i urednike centralnog Dnevnika. Novo uredništvo je u Dnevniku 2 poručilo da je to „prva mera izvinjenja“ za sve izostavljene u prethodnom periodu.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6071744/v-d-glavnog-urednika-informativnog-programa-rts-a-borivoje-uskokovic-smenio-urednike-u-informativnom-programu.html",
+   "id": "v48"
+  },
+  {
+   "datum": "2026-10-29",
    "izvor": "N1",
    "kategorija": "hapsenje",
    "naslov": "VJT u Beogradu traži da MUP prikupi podatke po krivičnoj prijavi protiv direktora PIO fonda Relje Ognjenovića",
@@ -68,6 +98,16 @@
    "sazetak": "Više javno tužilaštvo naložilo je prikupljanje podataka po prijavi protiv direktora PIO fonda. ASNS istovremeno traži njegovo hitno razrešenje.",
    "url": "https://n1info.rs/vesti/vjt-u-beogradu-trazi-da-mup-prikupi-podatke-zbog-krivicne-prijave-protiv-direktora-pio-fonda/",
    "id": "v07"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Advokatska komora Beograda traži ostavke Petrova, Dolovac, Stefanovića i Miloševića",
+   "red": 65,
+   "sazetak": "Upravni odbor komore zatražio je hitne ostavke predsednika Ustavnog suda, vrhovne javne tužiteljke, glavnog tužioca VJT u Beogradu i predsednika Višeg suda u Beogradu, navodeći teška kršenja ljudskih prava i zloupotrebu ovlašćenja.",
+   "url": "https://n1info.rs/vesti/advokatska-komora-beograda-zatrazila-ostavke-nosilaca-pravosudnih-funkcija-u-tuzilastvima-i-sudovima/",
+   "id": "v51"
   },
   {
    "datum": "2026-10-29",
@@ -88,6 +128,26 @@
    "sazetak": "Vrhovna javna tužiteljka naložila je svim tužilaštvima da spreče uništavanje dokumentacije u državnim institucijama u prelaznom periodu.",
    "url": "https://n1info.rs/vesti/zagorka-dolovac-izdala-hitno-obavezno-uputstvo-tuziocima-da-sprece-unistavanje-sluzbenih-spisa-u-drzavnim-institucijama/",
    "id": "v08"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Studenti ne prihvataju izvinjenje RTS-a: „Prihvatamo samo ostavke“",
+   "red": 55,
+   "sazetak": "Studenti u blokadi odbili su „prvu meru izvinjenja“ novog uredništva RTS-a i poručili da prihvataju samo ostavke.",
+   "url": "https://n1info.rs/vesti/studenti-reagovali-na-prvu-meru-izvinjenja-rts-a/",
+   "id": "v49"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu: nadzor komisije Vrhovnog tužilaštva i izveštavanje o njemu su „napad na tužilaštvo“",
+   "red": 55,
+   "sazetak": "Više javno tužilaštvo u Beogradu saopštilo je da je komisiji VJT omogućilo uvid u sve tražene predmete, ali dovodi u pitanje objektivnost njenog sastava; nadzor je nastavljen 29. oktobra. Tužilaštvo je demantovalo i navode da je ranije odbijalo kontrole.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1470/",
+   "id": "v52"
   },
   {
    "datum": "2026-10-29",
@@ -131,6 +191,26 @@
   },
   {
    "datum": "2026-10-29",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "RIK: u inostranstvu Studentskoj listi 57.756 glasova, Ujedinjenoj Srbiji 19.763",
+   "red": 50,
+   "sazetak": "RIK je usvojio izveštaj o glasanju na 93 biračka mesta u inostranstvu, gde je od 102.147 upisanih glasalo 79.597 birača.",
+   "url": "https://www.rts.rs/lat/vesti/izbori-2026/6072060/rik-usvojio-izvestaj-o-glasanju-u-inostranstvu-najvise-glasova-studentskoj-listi.html",
+   "id": "v55"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Poštanska štedionica demantuje pokušaj iznošenja milijardu dinara, sindikat kaže da je pokušaj sprečen",
+   "red": 50,
+   "sazetak": "Banka je demantovala navode o pokušaju iznošenja oko milijardu dinara, dok predsednik sindikata banke tvrdi da su zaposleni sprečili pokušaj „isplate gotovog novca“ i da građani nemaju razloga za strah.",
+   "url": "https://n1info.rs/vesti/predsednik-sindikata-banke-postanska-stedionica-vladan-urosevic-novac/",
+   "id": "v58"
+  },
+  {
+   "datum": "2026-10-29",
    "izvor": "N1 / Radar",
    "kategorija": "korupcija",
    "naslov": "Radar: MUP ignoriše TOK, banka Davora Macure dala milione evra biznismenu optuženom za pokušaj ubistva",
@@ -138,6 +218,36 @@
    "sazetak": "Istraživanje Radara o kreditima banke i neizvršenom nalogu Tužilaštva za organizovani kriminal.",
    "url": "https://n1info.rs/biznis/radar-mup-ignorise-tok-banka-davora-macure-dala-milione-evra-biznismenu-optuzenom-za-pokusaj-ubistva/",
    "id": "v13"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Prvi program Radio Beograda: najavljene ostavke glavnog urednika i zamenice",
+   "red": 45,
+   "sazetak": "Kolektivu je saopšteno da će glavni urednik Nebojša Nikolić podneti ostavku čim bude imenovan v.d. generalnog direktora RTS-a, a da je zamenica Nataša Raketić ponudila ostavku.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6072032/radio-beograd-prvi-program-direktor-nebojsa-nikolic-ostavke-zamenica-natasa-raketic.html",
+   "id": "v50"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Fond PIO: usitnjavanje papira u skladu sa propisima",
+   "red": 45,
+   "sazetak": "Posle objavljenih fotografija iseckanih papira, Fond PIO saopštio je da redovno usitnjava dokumentaciju sa poverljivim podacima osiguranika u skladu sa zakonom i ISO standardima.",
+   "url": "https://n1info.rs/vesti/fond-pio-proces-usitnjavanja-hartija-u-skladu-sa-najvisim-bezbednosnim-standardima/",
+   "id": "v57"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "RTV",
+   "kategorija": "mediji",
+   "naslov": "Savet REM-a na sledećoj sednici o konkursu za nove upravne odbore RTS-a i RTV-a",
+   "red": 45,
+   "sazetak": "Predsednik Saveta REM Stevica Smederevac rekao je da bi telo moglo da razmatra raspisivanje konkursa za popunu upravnih odbora javnih servisa, posle zahteva sindikata RTS-a.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/smederevac-savet-rem-a-na-sledecoj-sednici-o-popuni-upravnih-odbora-javnih-servisa_1755065.html",
+   "id": "v62"
   },
   {
    "datum": "2026-10-29",
@@ -191,6 +301,26 @@
   },
   {
    "datum": "2026-10-29",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Vučić najavio skupštinu SNS-a i novo rukovodstvo stranke",
+   "red": 40,
+   "sazetak": "Vučić je rekao da će u naredna tri dana zasedati organi SNS-a, a u narednih mesec dana skupština stranke na kojoj će biti izabrano novo rukovodstvo.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6071806/vucic-u-narednih-mesec-dana-skupstina-sns-a-izabracemo-novo-rukovodstvo.html",
+   "id": "v56"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "RTV",
+   "kategorija": "bezbednost",
+   "naslov": "NUNS: pretnje N1 i sekretarijatu NUNS-a zahtevaju hitnu reakciju",
+   "red": 40,
+   "sazetak": "Pretnje su usledile nakon vesti o inicijativi za oduzimanje dozvole za emitovanje televiziji Informer; NUNS traži da nadležni identifikuju i sankcionišu odgovorne.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/nuns-pretnje-upucene-n1-i-sekretarijatu-nuns-a-zahtevaju-hitnu-reakciju-nadleznih_1755014.html",
+   "id": "v60"
+  },
+  {
+   "datum": "2026-10-29",
    "izvor": "N1",
    "kategorija": "bezbednost",
    "naslov": "Bivši komandant SAJ: podaci su ukazivali da će Vučić proglasiti pobedu, spremali su se za okršaj sa građanima",
@@ -198,6 +328,36 @@
    "sazetak": "Svedočenje bivšeg komandanta o pripremama policije za izbornu noć. Vučić je to negirao.",
    "url": "https://n1info.rs/vesti/bivsi-komandant-saj-podacima-koje-smo-dobili-ukazivali-da-ce-vucic-proglasiti-pobedu-spremali-se-za-okrsaj-sa-gradjanima/",
    "id": "v19"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Lažne dojave o bombama u objektima RTS-a",
+   "red": 35,
+   "sazetak": "Posle dojave u 18.42 MUP je proverio objekte RTS-a; dojave su bile lažne, a Dnevnik 2 emitovan je posle provere.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6072044/lazne-dojave-o-bombi-u-objektima-rts-a-zaposleni-se-vratili-na-radna-mesta.html",
+   "id": "v61"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "PSG traži ostavke rukovodilaca Ministarstva kulture i ustanova kulture",
+   "red": 35,
+   "sazetak": "Pokret slobodnih građana, koji je podržao Studentsku listu, zatražio je ostavke u Ministarstvu kulture i najvažnijim ustanovama kulture.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6072002/psg-zatrazio-ostavke-rukovodilaca-ministarstva-kulture-i-najvaznijih-ustanova-kulture.html",
+   "id": "v63"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "program",
+   "naslov": "Gašić: Studentska lista neće sarađivati sa Srpskom listom",
+   "red": 35,
+   "sazetak": "Kandidat Studentske liste Jugoslav Gašić rekao je da lista Srpsku listu posmatra isto kao politiku SNS-a i da neće biti političke saradnje.",
+   "url": "https://n1info.rs/vesti/gasic-nece-biti-politicke-saradnje-studentske-liste-sa-srpskom-listom/",
+   "id": "v64"
   },
   {
    "datum": "2026-10-29",
@@ -218,6 +378,26 @@
    "sazetak": "Glasanje se ponavlja na biračkim mestima na kojima lokalne izborne komisije nisu mogle da utvrde rezultate (među njima više mesta u Aleksincu).",
    "url": "https://studenti.org.rs/vesti/izbori_repriza/",
    "id": "v21"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "RTS",
+   "kategorija": "korupcija",
+   "naslov": "GSP upozorava na obustavu isporuke struje, gasa i goriva; DS: Grad duguje prevoznicima četiri milijarde",
+   "red": 30,
+   "sazetak": "Sindikat GSP „Beograd“ upozorava da zbog dugova prema dobavljačima može doći do obustave isporuka, a DS navodi da Grad Beograd duguje prevoznicima oko četiri milijarde dinara.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6071621/sindikat-gsp-demokratska-stranka-problemi-javni-prevoz.html",
+   "id": "v66"
+  },
+  {
+   "datum": "2026-10-29",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Liste ispod 1% moraće da vrate budžetski novac za kampanju",
+   "red": 30,
+   "sazetak": "Prema Zakonu o finansiranju političkih aktivnosti, liste koje nisu osvojile 1% glasova (manjinske 0,2%) moraju u roku od 30 dana od konačnih rezultata da vrate novac dobijen iz budžeta.",
+   "url": "https://n1info.rs/vesti/koje-izborne-liste-ce-morati-da-vrate-novac-za-kampanju-i-koliko-para/",
+   "id": "v67"
   },
   {
    "datum": "2026-10-29",
@@ -261,6 +441,16 @@
   },
   {
    "datum": "2026-10-28",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "VJT Novi Sad: uhapšen bivši načelnik Gradske uprave za privredu zbog 126 projekata udruženja",
+   "red": 80,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije uhapšen je S.B., osumnjičen da od 2020. do 2025. nije kontrolisao realizaciju 126 projekata udruženja koje je finansirao Grad Novi Sad, uz štetu od 83.260.000 dinara. Tužilaštvo navodi i da je od februara 2025. podnelo 33 optužna akta za 386 projekata sa ukupnom štetom od 146,2 miliona dinara.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/28-10-2026-saopstenje-za-javnost/",
+   "id": "v47"
+  },
+  {
+   "datum": "2026-10-28",
    "izvor": "N1",
    "kategorija": "mediji",
    "naslov": "Manja Grčić podnela ostavku u RTS-u",
@@ -268,6 +458,16 @@
    "sazetak": "Ostavka posle otvorenog pisma studenata u kom se traže ostavke rukovodstva javnog servisa.",
    "url": "https://n1info.rs/vesti/manja-grcic-podnela-ostavku-na-mestu-direktorke-rts-a/",
    "id": "v26"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvor": "KRIK",
+   "kategorija": "institucije",
+   "naslov": "Dolovac naložila kontrolu svih tužilaštava, prve provere u Višem tužilaštvu u Beogradu",
+   "red": 70,
+   "sazetak": "Vrhovna javna tužiteljka obaveznim uputstvom naložila je svim tužilaštvima, uključujući TOK, da komisiji VJT omoguće uvid u predmete. Komisija formirana 27. oktobra prvo je ušla u VJT u Beogradu koje vodi Nenad Stefanović.",
+   "url": "https://www.krik.rs/zagorka-dolovac-nalozila-kontrolu-svih-tuzilastava-prve-provere-u-visem-tuzilastvu-u-beogradu/",
+   "id": "v53"
   },
   {
    "datum": "2026-10-28",
@@ -310,6 +510,16 @@
    "id": "v30"
   },
   {
+   "datum": "2026-10-28",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Čuvamo sećanje na stradale: komemorativni skup 1. novembra",
+   "red": 40,
+   "sazetak": "Studenti pozivaju građane na komemorativni skup u nedelju, 1. novembra 2026, posvećen žrtvama pada nadstrešnice na Železničkoj stanici u Novom Sadu.",
+   "url": "https://studenti.org.rs/vesti/cuvamo_secanja/",
+   "id": "v65"
+  },
+  {
    "datum": "2026-10-27",
    "izvor": "Studenti",
    "kategorija": "program",
@@ -328,6 +538,16 @@
    "sazetak": "Zahtev za departizaciju javnog servisa i ostavke generalnog direktora, zamenika i glavnih urednika.",
    "url": "https://studenti.org.rs/vesti/rts_pismo/",
    "id": "v32"
+  },
+  {
+   "datum": "2026-10-27",
+   "izvor": "TOK",
+   "kategorija": "izbori",
+   "naslov": "TOK formirao predmete po prijavama protiv ambasadora Nakića i Šutanovca",
+   "red": 65,
+   "sazetak": "Tužilaštvo za organizovani kriminal formiralo je predmete po dve krivične prijave protiv ambasadora u Slovačkoj Aleksandra Nakića i ambasadora u SAD Dragana Šutanovca zbog zloupotrebe službenog položaja i povrede prava glasanja, i zatražilo obaveštenja od MSP i RIK.",
+   "url": "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261027_cir.pdf",
+   "id": "v54"
   },
   {
    "datum": "2026-10-27",
@@ -486,6 +706,20 @@
    "id": "h19"
   },
   {
+   "datum": "2026-10-30",
+   "iznos": "≈ 7,2 mil. €",
+   "izvori": [
+    "https://n1info.rs/biznis/komisija-za-zastitu-konkurencije-pod-lupom-dri-sedam-miliona-evra-za-poslovni-prostor-u-prokopu/"
+   ],
+   "naslov": "DRI: Komisija za zaštitu konkurencije kupila prostor bez saglasnosti i ponuda",
+   "opis": "Revizija za 2024–2025. utvrdila je da je Komisija 2023. kupila poslovni prostor i 20 parking mesta u Prokopu bez saglasnosti Republičke direkcije za imovinu i bez prikupljanja pismenih ponuda, uz nepravilnosti u javnim nabavkama.",
+   "osobe": "Komisija za zaštitu konkurencije · DRI · Railway City",
+   "red": 55,
+   "status": "zvanicno",
+   "tip": "otkrice",
+   "id": "h25"
+  },
+  {
    "datum": "2026-10-29",
    "izvori": [
     "https://n1info.rs/vesti/studentska-lista-trazi-ostavke-u-policiji-bia-vba-tuzilastvima-proveru-novca-za-sve-projekte-i-ponovno-pokretanje-istraga-u-mnogim-slucajevima/",
@@ -568,6 +802,20 @@
    "id": "h18"
   },
   {
+   "datum": "2026-10-29",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/drustvo/6071744/v-d-glavnog-urednika-informativnog-programa-rts-a-borivoje-uskokovic-smenio-urednike-u-informativnom-programu.html",
+    "https://n1info.rs/vesti/studenti-reagovali-na-prvu-meru-izvinjenja-rts-a/"
+   ],
+   "naslov": "Smenjeni urednici Informativnog programa RTS-a",
+   "opis": "V.d. glavnog urednika Borivoje Uskoković smenio je urednike više redakcija i centralnog Dnevnika; novo uredništvo to je nazvalo „prvom merom izvinjenja“. Studenti su poručili da prihvataju samo ostavke.",
+   "osobe": "Borivoje Uskoković · RTS",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "ostavka",
+   "id": "h24"
+  },
+  {
    "datum": "2026-10-28",
    "izvori": [
     "https://studenti.org.rs/vesti/izbori/",
@@ -579,6 +827,22 @@
    "status": "zvanicno",
    "tip": "izbori",
    "id": "h08"
+  },
+  {
+   "datum": "2026-10-28",
+   "iznos": "83,26 mil. din (≈ 710.000 €)",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/28-10-2026-saopstenje-za-javnost/",
+    "https://novisad.vjt.rs/aktuelnosti/29-10-2026-saopstenje-za-javnost-1-3/",
+    "https://n1info.rs/vesti/nacelniku-novosadske-uprave-za-privredu-odredjen-pritvor-od-30-dana/"
+   ],
+   "naslov": "Uhapšen bivši načelnik Gradske uprave za privredu Novog Sada, određen pritvor",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) uhapsilo je 28. oktobra S.B. zbog sumnje na nesavestan rad u službi pri kontroli 126 projekata udruženja finansiranih od grada 2020–2025. Viši sud u Novom Sadu 29. oktobra odredio je pritvor do 30 dana.",
+   "osobe": "S.B. (prema medijima Saša Bilinović) · VJT Novi Sad · Viši sud u Novom Sadu",
+   "red": 85,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h21"
   },
   {
    "datum": "2026-10-28",
@@ -599,7 +863,9 @@
    "datum": "2026-10-28",
    "iznos": "≈ 1 mlrd RSD",
    "izvori": [
-    "https://n1info.rs/vesti/nemanja-karovic-pokusano-iznosenje-ogromne-kolicine-novca-iz-postanske-stedionice/"
+    "https://n1info.rs/vesti/nemanja-karovic-pokusano-iznosenje-ogromne-kolicine-novca-iz-postanske-stedionice/",
+    "https://n1info.rs/vesti/predsednik-sindikata-banke-postanska-stedionica-vladan-urosevic-novac/",
+    "https://www.rtv.rs/sr_lat/drustvo/postanska-stedionica-netacne-tvrdnje-da-je-iz-banke-pokusano-iznosenje-oko-milijardu-dinara_1755046.html"
    ],
    "naslov": "Pokušaj iznošenja novca iz Poštanske štedionice",
    "opis": "Kandidat Studentske liste tvrdi da je pokušaj sprečen i prijavljen NBS i tužilaštvu. Nije navedeno ko je pokušao.",
@@ -608,6 +874,20 @@
    "status": "navod",
    "tip": "otkrice",
    "id": "h10"
+  },
+  {
+   "datum": "2026-10-28",
+   "izvori": [
+    "https://www.krik.rs/zagorka-dolovac-nalozila-kontrolu-svih-tuzilastava-prve-provere-u-visem-tuzilastvu-u-beogradu/",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1470/"
+   ],
+   "naslov": "Komisija Vrhovnog javnog tužilaštva kontroliše rad svih tužilaštava",
+   "opis": "Zagorka Dolovac formirala je 27. oktobra komisiju i obaveznim uputstvom naložila svim tužilaštvima da joj omoguće uvid u predmete. Prve provere počele su u Višem tužilaštvu u Beogradu, koje je nadzor nazvalo napadom na tužilaštvo.",
+   "osobe": "Zagorka Dolovac · Nenad Stefanović · VJT · VJT u Beogradu",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h22"
   },
   {
    "datum": "2026-10-28",
@@ -636,6 +916,19 @@
    "status": "zvanicno",
    "tip": "otkrice",
    "id": "h12"
+  },
+  {
+   "datum": "2026-10-27",
+   "izvori": [
+    "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261027_cir.pdf"
+   ],
+   "naslov": "TOK formirao predmete po prijavama protiv ambasadora Nakića i Šutanovca",
+   "opis": "Po dve krivične prijave zbog zloupotrebe službenog položaja i povrede prava glasanja, TOK je formirao predmete i 20. oktobra zatražio obaveštenja od Ministarstva spoljnih poslova i RIK-a.",
+   "osobe": "Aleksandar Nakić (ambasador u Slovačkoj) · Dragan Šutanovac (ambasador u SAD) · TOK",
+   "red": 65,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h23"
   },
   {
    "datum": "2026-10-27",
@@ -787,8 +1080,9 @@
    "id": "o07"
   },
   {
+   "azurirano": "2026-10-30",
    "datum": "2026-10-27",
-   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu.",
+   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. REM razmatra konkurs za nove upravne odbore.",
    "naslov": "Departizacija RTS-a i ostavke rukovodstva javnog servisa",
    "opis": "Ostavke generalnog direktora, zamenika i glavnih urednika; nezavisan REM.",
    "status": "delimicno",
