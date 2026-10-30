@@ -18,7 +18,7 @@
 :root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 </style>
-<link rel="stylesheet" href="assets/stil.css?v=3">
+<link rel="stylesheet" href="assets/stil.css?v=4">
 <!-- Google Analytics: bez kolačića dok posetilac ne prihvati (Consent Mode) -->
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -47,9 +47,11 @@ gtag("config", "G-VCDPZRL457");
         <p>Stranica se ažurira svakog jutra. Pretplatite se na RSS i nove vesti stižu same u vašu aplikaciju za vesti ili na mejl.</p>
       </div>
       <div class="acts">
+        <button class="add install" id="install" type="button" hidden>Instaliraj aplikaciju</button>
         <a class="add" href="feed.xml">RSS pretplata</a>
         <button class="ghost" id="copyFeed" type="button">Kopiraj adresu</button>
       </div>
+      <p class="ioshelp" id="iosHelp" hidden><b>Na iPhone-u i iPad-u:</b> u Safariju dodirnite dugme <b>Podeli</b> (kvadrat sa strelicom nagore), pa izaberite <b>Dodaj na početni ekran</b>. Ikonica sa crvenom trojkom pojaviće se među aplikacijama.</p>
       <details>
         <summary>Kako da se pretplatim?</summary>
         <ol>
@@ -202,11 +204,29 @@ document.addEventListener("click", async e=>{
 });
 document.addEventListener("input", e=>{ if(e.target.id==="q"){ state.q=e.target.value; render(); } });
 
-window.addEventListener("appinstalled", () => track("instalirana_aplikacija"));
+// instalacija kao aplikacija: Android/Chrome/Edge nude sistemski prozor, a iPhone samo ručno preko Safarija
+let installPrompt = null;
+const installed = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform==="MacIntel" && navigator.maxTouchPoints>1);
+if(!installed && ios) $("#install").hidden = false;
+window.addEventListener("beforeinstallprompt", e => { e.preventDefault(); installPrompt = e; if(!installed) $("#install").hidden = false; });
+window.addEventListener("appinstalled", () => { $("#install").hidden = true; installPrompt = null; track("instalirana_aplikacija"); });
+$("#install").addEventListener("click", async () => {
+  if(installPrompt){
+    installPrompt.prompt();
+    const { outcome } = await installPrompt.userChoice;
+    track("instalacija_ponuda", { ishod: outcome });
+    installPrompt = null; if(outcome==="accepted") $("#install").hidden = true;
+  } else {
+    $("#iosHelp").hidden = !$("#iosHelp").hidden;
+    track("instalacija_ponuda", { ishod: "ios_uputstvo" });
+  }
+});
+if("serviceWorker" in navigator) addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(()=>{}));
 
 (async function start(){
   if(izbor===null) $("#consent").hidden = false;
-  if(matchMedia("(display-mode: standalone)").matches || navigator.standalone) track("pokrenuta_aplikacija");
+  if(installed) track("pokrenuta_aplikacija");
   $("#feedUrl").textContent = new URL("feed.xml", location.href).href;
   const h = (location.hash||"").slice(1);
   if(VIEWS.includes(h)) state.view = h;
