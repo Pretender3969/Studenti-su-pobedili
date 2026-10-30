@@ -18,7 +18,17 @@
 :root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 </style>
-<link rel="stylesheet" href="assets/stil.css?v=2">
+<link rel="stylesheet" href="assets/stil.css?v=3">
+<!-- Google Analytics: bez kolačića dok posetilac ne prihvati (Consent Mode) -->
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+let izbor = null; try{ izbor = localStorage.getItem("pp-kolacici"); }catch{}
+gtag("consent", "default", { analytics_storage: izbor==="da" ? "granted" : "denied", ad_storage:"denied", ad_user_data:"denied", ad_personalization:"denied" });
+gtag("js", new Date());
+gtag("config", "G-VCDPZRL457");
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VCDPZRL457"></script>
 </head>
 <body>
 <div class="wrap">
@@ -65,8 +75,14 @@ body{margin:0} img{max-width:100%} [hidden]{display:none!important}
   <main id="main"><div class="empty">Učitavam unose…</div></main>
   <footer>
     <p>Izvori: <a href="https://studenti.org.rs/vesti/" target="_blank" rel="noopener">studenti.org.rs</a>, <a href="https://n1info.rs/" target="_blank" rel="noopener">N1</a>, <a href="https://www.rts.rs/lat/vesti/politika.html" target="_blank" rel="noopener">RTS</a>, <a href="https://www.rtv.rs/sr_lat/politika" target="_blank" rel="noopener">RTV</a>, Danas, 021, KRIK, BIRN i drugi mediji navedeni uz svaki unos.</p>
+    <p>Sajt broji posete preko Google Analytics-a. Kolačići se koriste samo ako ih prihvatite. <button class="linkbtn" id="kolaciciOpet" type="button">Podešavanja kolačića</button></p>
     <p><b>Navod</b> znači tvrdnju političara, medija ili istraživača koju sud ili nadležni organ još nije potvrdio. <b>Zvanično</b> znači odluku ili saopštenje tužilaštva, suda, MUP-a ili RIK-a. Krivična prijava nije presuda.</p>
   </footer>
+</div>
+
+<div class="consent" id="consent" role="dialog" aria-labelledby="consent-t" hidden>
+  <p id="consent-t">Brojimo posete da bismo znali koliko ljudi prati stranicu. Da li dozvoljavate kolačiće za statistiku (Google Analytics)?</p>
+  <div class="acts"><button class="add" id="kolaciciDa" type="button">Prihvatam</button><button class="ghost" id="kolaciciNe" type="button">Ne prihvatam</button></div>
 </div>
 
 <script>
@@ -158,15 +174,26 @@ function render(){
   renderTally(); renderStatus();
 }
 
-function setView(v){ state.view=v; state.q=""; render(); try{ history.replaceState(null,"","#"+v); }catch{} }
+const track = (name, params={}) => { try{ gtag("event", name, params); }catch{} };
+
+function setView(v){ state.view=v; state.q=""; render(); try{ history.replaceState(null,"","#"+v); }catch{} track("otvoren_tab", { tab:v }); }
 
 document.addEventListener("click", async e=>{
   const tab = e.target.closest(".tab"); if(tab){ setView(tab.dataset.view); return; }
-  const nb = e.target.closest(".news > button"); if(nb){ const a=nb.parentElement; a.classList.toggle("open"); nb.setAttribute("aria-expanded", String(a.classList.contains("open"))); return; }
+  const nb = e.target.closest(".news > button"); if(nb){ const a=nb.parentElement; a.classList.toggle("open"); nb.setAttribute("aria-expanded", String(a.classList.contains("open"))); if(a.classList.contains("open")) track("otvorena_vest", { id:a.dataset.id }); return; }
   const fc = e.target.closest("[data-cat]"); if(fc){ state.cat=fc.dataset.cat||null; render(); return; }
   const ft = e.target.closest("[data-tip]"); if(ft){ state.tip=ft.dataset.tip||null; render(); return; }
   const fp = e.target.closest("[data-ps]"); if(fp){ state.ps=fp.dataset.ps||null; render(); return; }
+  if(e.target.closest('a[href="feed.xml"]')) track("rss", { nacin:"link" });
+  if(e.target.closest("#kolaciciDa, #kolaciciNe")){
+    const da = !!e.target.closest("#kolaciciDa");
+    try{ localStorage.setItem("pp-kolacici", da ? "da" : "ne"); }catch{}
+    gtag("consent", "update", { analytics_storage: da ? "granted" : "denied" });
+    $("#consent").hidden = true; return;
+  }
+  if(e.target.closest("#kolaciciOpet")){ $("#consent").hidden = false; return; }
   if(e.target.closest("#copyFeed")){
+    track("rss", { nacin:"kopiranje" });
     const btn=$("#copyFeed"), url=$("#feedUrl").textContent;
     try{ await navigator.clipboard.writeText(url); btn.textContent="Kopirano"; }
     catch{ const r=document.createRange(); r.selectNodeContents($("#feedUrl")); const s=getSelection(); s.removeAllRanges(); s.addRange(r); $(".sub details").open=true; btn.textContent="Adresa je označena"; }
@@ -175,7 +202,11 @@ document.addEventListener("click", async e=>{
 });
 document.addEventListener("input", e=>{ if(e.target.id==="q"){ state.q=e.target.value; render(); } });
 
+window.addEventListener("appinstalled", () => track("instalirana_aplikacija"));
+
 (async function start(){
+  if(izbor===null) $("#consent").hidden = false;
+  if(matchMedia("(display-mode: standalone)").matches || navigator.standalone) track("pokrenuta_aplikacija");
   $("#feedUrl").textContent = new URL("feed.xml", location.href).href;
   const h = (location.hash||"").slice(1);
   if(VIEWS.includes(h)) state.view = h;

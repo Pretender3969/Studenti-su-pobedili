@@ -157,3 +157,10 @@ a.add{text-decoration:none;display:inline-block}
 :target{scroll-margin-top:70px}
 .news:target,.event:target{outline:2px solid var(--accent)}
 @media (max-width:640px){.sub{grid-template-columns:1fr}}
+
+/* obaveštenje o kolačićima */
+.consent{position:fixed;left:16px;right:16px;bottom:16px;z-index:20;max-width:640px;margin-inline:auto;display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:0 8px 28px rgba(0,0,0,.18)}
+.consent p{margin:0;flex:1 1 260px;font-size:14.5px;line-height:1.45}
+.consent .acts{display:flex;gap:8px}
+.linkbtn{appearance:none;border:0;background:none;padding:0;color:var(--accent);font:inherit;text-decoration:underline;cursor:pointer}
+@media (max-width:640px){.consent{bottom:calc(84px + env(safe-area-inset-bottom,0px))}}
