@@ -1,5 +1,5 @@
 {
- "generisano": "2026-10-31T07:46+00:00",
+ "generisano": "2026-10-31T15:16+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -11,6 +11,26 @@
  "vesti": [
   {
    "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "TOK: NBS podnela krivičnu prijavu protiv Alta banke, traženi podaci o transferima novca u inostranstvo",
+   "red": 85,
+   "sazetak": "TOK je 27. oktobra od NBS zatražio podatke o svim transakcijama Alta banke ka inostranstvu od 27. septembra; NBS je 30. oktobra dostavila deo podataka, a pun izveštaj obećala posle 4. novembra. TOK je danas primio krivičnu prijavu NBS protiv Alta banke i više odgovornih lica, a od SBPOK-a je zatražio proveru poslovanja banke i uloge službenika NBS.",
+   "url": "https://n1info.rs/vesti/tok-nbs-transfer-novca-alta-banka-inostranstvo/",
+   "id": "v90"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "RTS",
+   "kategorija": "korupcija",
+   "naslov": "Viceguverneri NBS traže od tužilaštva istragu o odgovornosti unutar NBS zbog Alta banke",
+   "red": 75,
+   "sazetak": "Četvoro viceguvernera (Željko Jović, Ana Ivković, Dragana Stanić, Nikola Dragašević) navode da su za stvarno stanje u Alta banci, koje je drastično odstupalo od izveštaja, saznali tek na vanrednoj sednici 30. oktobra. Traže da tužilaštvo utvrdi ko je i kada znao za rizike i da li postoji krivična odgovornost.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6073574/viceguverneri-traze-istragu-ko-je-odgovoran-unutar-nbs-zbog-gasenja-alta-banke-.html",
+   "id": "v91"
+  },
+  {
+   "datum": "2026-10-31",
    "izvor": "RTS",
    "kategorija": "institucije",
    "naslov": "Narodna banka Srbije oduzela dozvolu za rad Alta banci",
@@ -18,6 +38,86 @@
    "sazetak": "NBS navodi da se finansijsko stanje banke znatno pogoršalo i da su ugroženi interesi deponenata; Agencija za osiguranje depozita biće stečajni upravnik i u roku od sedam radnih dana omogućiće isplatu osiguranih iznosa. EPS je zbog toga promenio račun za uplatu struje u Beogradu.",
    "url": "https://www.rts.rs/lat/vesti/ekonomija/6073441/narodna-banka-srbije-oduzela-dozvolu-za-rad-alta-banci.html",
    "id": "v71"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Uhapšena dvojica zbog napada na mladića u Novom Sadu",
+   "red": 65,
+   "sazetak": "OJT u Novom Sadu saopštilo je da su K.S. (31) i V.S. (31) zadržani do 48 sati zbog sumnje na nasilničko ponašanje, zbog napada na mladića 28. oktobra kod Spensa. Odbornik Miran Pogačar tvrdi da je jedan od uhapšenih ranije pomilovan; navod o članstvu u SNS dolazi od opozicije, ne od tužilaštva.",
+   "url": "https://n1info.rs/vesti/uhapsena-dvojica-zbog-napada-na-mladica-u-novom-sadu/",
+   "id": "v94"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "Studenti",
+   "kategorija": "korupcija",
+   "naslov": "Javno upozorenje: uništavanje dokumentacije u RFZO povlači krivičnu odgovornost",
+   "red": 60,
+   "sazetak": "Studentski pokret pozvao je zaposlene u RFZO i institucijama koje upravljaju javnom imovinom da sačuvaju svu dokumentaciju i ne postupaju po nezakonitim nalozima. Zatražio je i objašnjenje za dva oglasa od 28. oktobra za zakup prostora apoteka u Smederevu, sa uslovima (najmanje 300 apoteka, 50 milijardi dinara prihoda) koji, kako navodi, mogu ograničiti konkurenciju.",
+   "url": "https://studenti.org.rs/vesti/upozorenje_fond/",
+   "id": "v93"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Pravni fakultet: u amfiteatru pronađena oprema za koju se pretpostavlja da služi za snimanje",
+   "red": 60,
+   "sazetak": "Pravni fakultet u Beogradu saopštio je da je 30. oktobra u Amfiteatru V, unutar protivpožarne lampe, pronađena tehnička oprema za audio-video snimanje. MUP je izvršio uviđaj i oduzeo opremu radi veštačenja; fakultet traži utvrđivanje odgovornosti.",
+   "url": "https://n1info.rs/vesti/pravni-fakultet-unutar-protivpozarne-lampe-u-amfiteatru-pronadjena-oprema-pretpostavlja-se-za-snimanje/",
+   "id": "v95"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Vučić na Glavnom odboru SNS: „Ja sam kriv, neka gone mene“",
+   "red": 50,
+   "sazetak": "Na sednici Glavnog odbora SNS Vučić je rekao da će štititi svakoga ko bude gonjen samo zato što je politički protivnik, pominjući slučaj Generalštab. Na istoj sednici Miloš Vučević je zakazao vanrednu skupštinu SNS za 13. decembar i predložio Vučića za predsednika stranke.",
+   "url": "https://n1info.rs/vesti/vucic-ja-sam-kriv-neka-gone-mene/",
+   "id": "v96"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Savović: TOK odranije ima formiran predmet u vezi s vlasnikom Alta banke",
+   "red": 45,
+   "sazetak": "Tužiteljka Bojana Savović izjavila je da prema njenim saznanjima TOK već ima predmet u odnosu na direktora i vlasnika Alta banke. Upozorila je da je i pokušaj uništavanja službene dokumentacije krivično delo.",
+   "url": "https://n1info.rs/vesti/savovic-unistavanje-dokumentacije-je-krivicno-delo-promene/",
+   "id": "v92"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Nacrt izveštaja Evropske komisije: nazadovanje u slobodi medija, bez napretka u vladavini prava",
+   "red": 45,
+   "sazetak": "Prema Radiju Slobodna Evropa, koji je video nacrt godišnjeg izveštaja EK o Srbiji, zabeleženo je nazadovanje u slobodi medija i izostanak napretka u vladavini prava, uz ocenu da policija često nije reagovala na napade na studente, aktiviste i novinare. Izveštaj bi trebalo da bude objavljen u sredu.",
+   "url": "https://n1info.rs/vesti/evropska-komisija-u-oprostajnom-izvestaju-o-vlasti-sns-nazadovanje-u-slobodi-medija-bez-napretka-u-vladavini-prava/",
+   "id": "v98"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Novinari RTS-a Jovan Memedović i Olivera Kovačević najavili tužbe protiv Vučića",
+   "red": 40,
+   "sazetak": "Memedović i Kovačević najavili su tužbe nakon što ih je Vučić optužio da predvode „kriminalni lobi“ na javnom servisu. UNS je ranije osudio Vučićeve uvrede upućene novinarkama.",
+   "url": "https://n1info.rs/vesti/memedovic-odgovorio-vucicu-moj-kriminalni-klan-i-ja-smo-uvek-obavljali-svoj-posao-vidimo-se-na-sudu/",
+   "id": "v97"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Čačak: krivična prijava zbog sumnje na uništavanje finansijske dokumentacije u Gradskoj upravi",
+   "red": 40,
+   "sazetak": "Udruženje „Znanjem za Čačak“ podnelo je OJT u Čačku krivičnu prijavu zbog sumnje da postoji opasnost od uklanjanja ili uništavanja finansijske dokumentacije u Gradskoj upravi za finansije. Navode da su stalno zaposlene premeštene iz kancelarije sa originalnom dokumentacijom i da su neki zaposleni dobijali pretnje.",
+   "url": "https://n1info.rs/vesti/udruzenje-gradjana-podnelo-krivicnu-prijavu-zbog-sumnje-na-unistavanje-dokumentacije-u-cacku/",
+   "id": "v99"
   },
   {
    "datum": "2026-10-31",
@@ -941,6 +1041,20 @@
   {
    "datum": "2026-10-31",
    "izvori": [
+    "https://n1info.rs/vesti/tok-nbs-transfer-novca-alta-banka-inostranstvo/",
+    "https://www.rts.rs/lat/vesti/drustvo/6073574/viceguverneri-traze-istragu-ko-je-odgovoran-unutar-nbs-zbog-gasenja-alta-banke-.html"
+   ],
+   "naslov": "NBS podnela krivičnu prijavu protiv Alta banke, TOK proverava transfere u inostranstvo",
+   "opis": "TOK je primio krivičnu prijavu NBS protiv Alta banke i više odgovornih lica, zatražio od NBS podatke o transakcijama ka inostranstvu od 27. septembra i naložio SBPOK-u proveru poslovanja banke i uloge službenika NBS. Četvoro viceguvernera NBS traži da tužilaštvo ispita i odgovornost unutar NBS.",
+   "osobe": "Alta banka · NBS · TOK · SBPOK · Željko Jović · Ana Ivković · Dragana Stanić · Nikola Dragašević",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h32"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvori": [
     "https://www.rts.rs/lat/vesti/ekonomija/6073441/narodna-banka-srbije-oduzela-dozvolu-za-rad-alta-banci.html",
     "https://www.rts.rs/lat/vesti/drustvo/6073469/promenjen-broj-racuna-za-uplatu-struje-u-beogradu-placanje-preko-aplikacije-nedostupno.html"
    ],
@@ -951,6 +1065,19 @@
    "status": "zvanicno",
    "tip": "korak",
    "id": "h29"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvori": [
+    "https://n1info.rs/vesti/uhapsena-dvojica-zbog-napada-na-mladica-u-novom-sadu/"
+   ],
+   "naslov": "Uhapšena dvojica zbog napada na mladića u Novom Sadu",
+   "opis": "OJT u Novom Sadu: K.S. i V.S. zadržani do 48 sati zbog sumnje na nasilničko ponašanje, zbog napada 28. oktobra kod Spensa. Navod da je jedan od njih ranije pomilovan i član SNS iznela je opozicija i nije zvanično potvrđen.",
+   "osobe": "OJT Novi Sad",
+   "red": 50,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h34"
   },
   {
    "datum": "2026-10-30",
@@ -1006,6 +1133,19 @@
    "status": "zvanicno",
    "tip": "otkrice",
    "id": "h25"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvori": [
+    "https://n1info.rs/vesti/pravni-fakultet-unutar-protivpozarne-lampe-u-amfiteatru-pronadjena-oprema-pretpostavlja-se-za-snimanje/"
+   ],
+   "naslov": "Oprema za snimanje pronađena u amfiteatru Pravnog fakulteta u Beogradu",
+   "opis": "Tehnička služba fakulteta pronašla je u protivpožarnoj lampi u Amfiteatru V opremu za koju se pretpostavlja da služi za audio-video snimanje; MUP je izvršio uviđaj i oduzeo je radi veštačenja. Ko ju je postavio, nije utvrđeno.",
+   "osobe": "Pravni fakultet Univerziteta u Beogradu · MUP",
+   "red": 55,
+   "status": "zvanicno",
+   "tip": "incident",
+   "id": "h33"
   },
   {
    "datum": "2026-10-29",
@@ -1397,7 +1537,7 @@
   {
    "azurirano": "2026-10-31",
    "datum": "2026-10-29",
-   "napomena": "Nekoliko stotina prijava; tužilaštva izdala naloge za zaštitu spisa. 30. okt: Šoškić pozvao zaposlene da odbiju nezakonite naredbe i prave službene beleške; MSP negira navode o uništavanju dokumentacije.",
+   "napomena": "Nekoliko stotina prijava; tužilaštva izdala naloge za zaštitu spisa. 30. okt: Šoškić pozvao zaposlene da odbiju nezakonite naredbe i prave službene beleške; MSP negira navode o uništavanju dokumentacije. 31. okt: Studentski pokret javno upozorio zaposlene u RFZO da sačuvaju dokumentaciju.",
    "naslov": "Zaštita uzbunjivača i dokaza u prelaznom periodu",
    "opis": "Prikupljanje prijava o uništavanju dokumentacije i nezakonitim radnjama.",
    "status": "u_toku",
