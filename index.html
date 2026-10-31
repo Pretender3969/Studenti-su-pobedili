@@ -18,7 +18,7 @@
 :root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 </style>
-<link rel="stylesheet" href="assets/stil.css?v=7">
+<link rel="stylesheet" href="assets/stil.css?v=8">
 <!-- Google Analytics: bez kolačića dok posetilac ne prihvati (Consent Mode) -->
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -154,8 +154,8 @@ function renderVesti(){
   const list = sortDesc(state.vesti).filter(n => (!state.cat || n.kategorija===state.cat) && match(n,["naslov","sazetak","izvor"]));
   const body = emptyOr(state.vesti, list, "vesti") ?? groupByDate(list).map(([d,items])=>`<section class="daygroup"><div class="dlabel"><b>${fmtDate(d)}</b>${dayName(d)}</div><div class="items">${
     items.map(n=>{ const u=safeUrl(n.url); return `<article class="news" id="vest-${esc(n.id)}" data-id="${esc(n.id)}"${CATC[n.kategorija]?` style="--tc:var(${CATC[n.kategorija]})"`:""}><button type="button" aria-expanded="false"><span class="ttl">${esc(n.naslov)}</span><span class="chev" aria-hidden="true">▶</span>
-      <span class="meta"><span class="src">${esc(n.izvor)}</span><span class="cat"><span class="dot" style="background:var(--tc,var(--muted))"></span>${esc(CATS[n.kategorija]||"")}</span></span></button>
-      <div class="body">${n.sazetak?`<p>${esc(n.sazetak)}</p>`:""}<div class="row">${u?`<a href="${esc(u)}" target="_blank" rel="noopener">Pročitaj ceo tekst na ${esc(host(u))} ↗</a>`:""}</div></div></article>`;}).join("")}</div></section>`).join("");
+      <span class="meta"><span class="src">${esc(n.izvor)}</span><span class="cat"><span class="dot" style="background:var(--tc,var(--muted))"></span>${esc(CATS[n.kategorija]||"")}</span>${heartCount(n.id)}</span></button>
+      <div class="body">${n.sazetak?`<p>${esc(n.sazetak)}</p>`:""}<div class="row">${u?`<a href="${esc(u)}" target="_blank" rel="noopener">Pročitaj ceo tekst na ${esc(host(u))} ↗</a>`:""}</div>${heartsHtml(n.id)}</div></article>`;}).join("")}</div></section>`).join("");
   return toolsHtml(filters) + body;
 }
 
@@ -166,7 +166,7 @@ function renderHronika(){
     items.map(e=>{ const t=TYPES[e.tip]||TYPES.korak; const st=e.status||"navod";
       const links=(e.izvori||[]).map(safeUrl).filter(Boolean).map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))} ↗</a>`).join("");
       return `<article class="event" id="hronika-${esc(e.id)}" style="--tc:var(${t.c})"><div class="head"><span class="tlabel">${t.l}</span><span class="badge b-${esc(st)}">${st==="zvanicno"?"Zvanično":st==="najavljeno"?"Najavljeno":"Navod"}</span>${e.iznos?`<span class="amount">${esc(e.iznos)}</span>`:""}</div>
-        <h3>${esc(e.naslov)}</h3>${e.opis?`<p>${esc(e.opis)}</p>`:""}${e.osobe?`<div class="people">${esc(e.osobe)}</div>`:""}<div class="links">${links}</div></article>`;}).join("")}</div></section>`).join("");
+        <h3>${esc(e.naslov)}</h3>${e.opis?`<p>${esc(e.opis)}</p>`:""}${e.osobe?`<div class="people">${esc(e.osobe)}</div>`:""}<div class="links">${links}</div>${heartsHtml(e.id)}</article>`;}).join("")}</div></section>`).join("");
   return toolsHtml(filters) + body;
 }
 
@@ -194,12 +194,69 @@ function render(){
   renderTally(); renderStatus();
 }
 
+// Srca: svako može vesti ili događaju da da 1, 2 ili 3 srca. Brojevi se čuvaju u Firebase Firestore-u
+// (kolekcija "srca", dokument po unosu sa poljima h1, h2, h3 = koliko ljudi je dalo 1, 2 ili 3 srca),
+// a sopstveni izbor pamti pregledač. Dok FIREBASE nije podešen, srca se ne prikazuju.
+const FIREBASE = { projectId:"", apiKey:"" };
+const SRCA_ON = !!(FIREBASE.projectId && FIREBASE.apiKey);
+const FS = `https://firestore.googleapis.com/v1/projects/${FIREBASE.projectId}/databases/(default)/documents`;
+let mojaSrca = {}; try{ mojaSrca = JSON.parse(localStorage.getItem("pp-srca")||"{}"); }catch{}
+const srca = {};
+const plural = (n, one, few, many) => { const d=n%10, dd=n%100; return d===1&&dd!==11 ? one : d>=2&&d<=4&&(dd<12||dd>14) ? few : many; };
+const srcaZbir = id => { const c=srca[id]; if(!c) return {sum:0, ljudi:0}; return { sum:c.h1+2*c.h2+3*c.h3, ljudi:c.h1+c.h2+c.h3 }; };
+function heartCount(id){
+  if(!SRCA_ON) return "";
+  const {sum} = srcaZbir(id), moje = mojaSrca[id]||0;
+  return sum ? `<span class="hcount${moje?" mine":""}" aria-label="${sum} ${plural(sum,"srce","srca","srca")}">♥ ${sum}</span>` : "";
+}
+function heartsHtml(id){
+  if(!SRCA_ON) return "";
+  const moje = mojaSrca[id]||0, {sum, ljudi} = srcaZbir(id);
+  const btns = [1,2,3].map(k=>`<button type="button" class="heart" data-heart="${k}" aria-pressed="${k<=moje}" aria-label="${k} ${plural(k,"srce","srca","srca")}" title="${k} ${plural(k,"srce","srca","srca")}">♥</button>`).join("");
+  const info = sum ? `${sum} ${plural(sum,"srce","srca","srca")} · ${ljudi} ${plural(ljudi,"osoba","osobe","osoba")}` : "Budite prvi";
+  return `<div class="hearts" data-hid="${esc(id)}"><span class="hbtns" role="group" aria-label="Koliko srca dajete">${btns}</span><span class="hinfo">${info}</span></div>`;
+}
+async function ucitajSrca(){
+  if(!SRCA_ON) return;
+  let token = "";
+  try{
+    do{
+      const r = await fetch(`${FS}/srca?pageSize=300&key=${FIREBASE.apiKey}${token?`&pageToken=${token}`:""}`);
+      if(!r.ok) return;
+      const d = await r.json();
+      for(const doc of d.documents||[]){
+        const f = doc.fields||{}, n = k => Number(f[k]?.integerValue||0);
+        srca[doc.name.split("/").pop()] = { h1:n("h1"), h2:n("h2"), h3:n("h3") };
+      }
+      token = d.nextPageToken||"";
+    }while(token);
+  }catch{}
+  render();
+}
+async function dajSrca(id, k){
+  const staro = mojaSrca[id]||0, novo = staro===k ? 0 : k;   // ponovni dodir istog srca povlači glas
+  const c = srca[id] || (srca[id] = {h1:0,h2:0,h3:0});
+  const izmene = [];
+  if(staro){ c["h"+staro]--; izmene.push({ fieldPath:"h"+staro, increment:{ integerValue:"-1" } }); }
+  if(novo){ c["h"+novo]++; izmene.push({ fieldPath:"h"+novo, increment:{ integerValue:"1" } }); }
+  if(novo) mojaSrca[id]=novo; else delete mojaSrca[id];
+  try{ localStorage.setItem("pp-srca", JSON.stringify(mojaSrca)); }catch{}
+  render();
+  track("srca", { id, broj:novo });
+  try{
+    const r = await fetch(`${FS}:commit?key=${FIREBASE.apiKey}`, { method:"POST", headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({ writes:[{ transform:{ document:`projects/${FIREBASE.projectId}/databases/(default)/documents/srca/${id}`, fieldTransforms:izmene } }] }) });
+    if(!r.ok) throw new Error(r.status);
+  }catch{ ucitajSrca(); }  // ako upis ne uspe, prikaži stvarno stanje
+}
+
 const track = (name, params={}) => { try{ gtag("event", name, params); }catch{} };
 
 function setView(v){ state.view=v; state.q=""; render(); if(v!=="vesti") scrollTo(0,0); try{ history.replaceState(null,"","#"+v); }catch{} track("otvoren_tab", { tab:v }); }
 
 document.addEventListener("click", async e=>{
   const tab = e.target.closest(".tab"); if(tab){ setView(tab.dataset.view); return; }
+  const hb = e.target.closest("[data-heart]"); if(hb){ dajSrca(hb.closest(".hearts").dataset.hid, Number(hb.dataset.heart)); return; }
   const nb = e.target.closest(".news > button"); if(nb){ const a=nb.parentElement; a.classList.toggle("open"); nb.setAttribute("aria-expanded", String(a.classList.contains("open"))); if(a.classList.contains("open")) track("otvorena_vest", { id:a.dataset.id }); return; }
   const fc = e.target.closest("[data-cat]"); if(fc){ state.cat=fc.dataset.cat||null; render(); return; }
   const ft = e.target.closest("[data-tip]"); if(ft){ state.tip=ft.dataset.tip||null; render(); return; }
@@ -339,6 +396,7 @@ if(ONESIGNAL_APP_ID && "serviceWorker" in navigator && "PushManager" in window){
     if(d.generisano){ const t=new Date(d.generisano); $("#updated").textContent = "Poslednje ažuriranje: " + t.toLocaleString("sr-Latn-RS",{day:"numeric",month:"long",year:"numeric",hour:"2-digit",minute:"2-digit"}); }
   }catch{ state.error=true; }
   render();
+  ucitajSrca();
   if(h.startsWith("vest-") || h.startsWith("hronika-")){
     const el=document.getElementById(h); if(el){ el.classList.add("open"); el.scrollIntoView({block:"center"}); }
   }

@@ -1,0 +1,19 @@
+rules_version = '2';
+// Pravila za srca na sajtu: svi mogu da čitaju brojeve, a upis sme da promeni
+// svaki broj samo za jedan (jedan glas), nikad ispod nule, i samo polja h1, h2, h3.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /srca/{id} {
+      function polja(d) { return d.keys().hasOnly(['h1', 'h2', 'h3']); }
+      function korak(staro, novo, k) {
+        return novo.get(k, 0) is int && novo.get(k, 0) >= 0
+          && novo.get(k, 0) - staro.get(k, 0) <= 1 && novo.get(k, 0) - staro.get(k, 0) >= -1;
+      }
+      allow read: if true;
+      allow create: if id.matches('^[vh][0-9]{1,5}$') && polja(request.resource.data)
+        && korak({}, request.resource.data, 'h1') && korak({}, request.resource.data, 'h2') && korak({}, request.resource.data, 'h3');
+      allow update: if polja(request.resource.data)
+        && korak(resource.data, request.resource.data, 'h1') && korak(resource.data, request.resource.data, 'h2') && korak(resource.data, request.resource.data, 'h3');
+    }
+  }
+}

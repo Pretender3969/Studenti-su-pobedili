@@ -182,3 +182,14 @@ a.add{text-decoration:none;display:inline-block}
 /* na Hronici i Obećanjima zaglavlje se krije, ostaju tabovi i pretraga */
 body:not([data-view="vesti"]) header.top{display:none}
 body:not([data-view="vesti"]) nav.tabs{margin-top:0}
+
+/* srca: 1, 2 ili 3 po vesti i događaju */
+.hearts{display:flex;align-items:center;flex-wrap:wrap;gap:4px 12px;margin-top:12px;padding-top:10px;border-top:1px dashed var(--line)}
+.hbtns{display:inline-flex;gap:2px}
+.heart{appearance:none;border:0;background:none;padding:2px 4px;font-size:24px;line-height:1;cursor:pointer;color:var(--line);transition:transform .12s,color .12s}
+.heart:hover{color:#e8798a;transform:scale(1.12)}
+.heart[aria-pressed="true"]{color:#c8102e}
+.hbtns:hover .heart[aria-pressed="true"]{color:#c8102e}
+.hinfo{font-family:var(--f-display);font-size:13.5px;color:var(--muted)}
+.hcount{font-family:var(--f-display);font-size:12.5px;font-weight:700;color:var(--muted)}
+.hcount.mine{color:#c8102e}
