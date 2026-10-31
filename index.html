@@ -273,7 +273,7 @@ $("#install").addEventListener("click", async () => {
 });
 if("serviceWorker" in navigator) addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(()=>{}));
 
-// obaveštenja preko OneSignal-a: dugme se pojavljuje tek kad je upisan App ID
+// obaveštenja preko OneSignal-a: dugme se pojavljuje kad je upisan App ID i pregledač podržava push
 const ONESIGNAL_APP_ID = "85aa4fe8-f92c-450e-a913-10319c647667";
 if(ONESIGNAL_APP_ID && "serviceWorker" in navigator && "PushManager" in window){
   const base = new URL("./", location.href).pathname; // npr. /Studenti-su-pobedili/
@@ -281,23 +281,40 @@ if(ONESIGNAL_APP_ID && "serviceWorker" in navigator && "PushManager" in window){
   const s = document.createElement("script");
   s.src = "https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js"; s.defer = true;
   document.head.appendChild(s);
+  // dugme se vidi odmah; ako OneSignal ne može da se pokrene (npr. blokator reklama), klik objašnjava zašto
+  const btn = $("#notify"); btn.hidden = false;
+  let OS = null, greska = null;
+  const sub = () => OS.User.PushSubscription;
+  // pretplata je aktivna tek kad postoje i dozvola pregledača i OneSignal prijava; stanje stiže sa zakašnjenjem, zato i događaji i ponovna provera
+  const isOn = () => !!(OS && OS.Notifications.permission && sub().optedIn);
+  const show = (on = isOn()) => {
+    btn.querySelector("span").textContent = on ? "Obaveštenja uključena" : "Uključi obaveštenja";
+    btn.classList.toggle("on", on); btn.title = on ? "Kliknite da isključite obaveštenja" : "";
+  };
+  const nedostupno = razlog => { if(!OS && !greska){ greska = razlog; console.warn("Obaveštenja nisu dostupna:", razlog); } };
+  setTimeout(() => nedostupno("OneSignal se nije učitao"), 10000);
+  s.onerror = () => nedostupno("OneSignal je blokiran");
   OneSignalDeferred.push(async OneSignal => {
-    await OneSignal.init({ appId: ONESIGNAL_APP_ID, serviceWorkerPath: base.slice(1) + "sw.js", serviceWorkerParam: { scope: base } });
-    const btn = $("#notify"), sub = OneSignal.User.PushSubscription;
-    // pretplata je aktivna tek kad postoje i dozvola pregledača i OneSignal prijava; stanje stiže sa zakašnjenjem, zato i događaji i ponovna provera
-    const isOn = () => !!(OneSignal.Notifications.permission && sub.optedIn);
-    const show = (on = isOn()) => {
-      btn.querySelector("span").textContent = on ? "Obaveštenja uključena" : "Uključi obaveštenja";
-      btn.classList.toggle("on", on); btn.title = on ? "Kliknite da isključite obaveštenja" : ""; btn.hidden = false;
-    };
-    sub.addEventListener("change", e => show(!!(e.current && e.current.optedIn) && OneSignal.Notifications.permission));
-    OneSignal.Notifications.addEventListener("permissionChange", () => show());
-    btn.addEventListener("click", async () => {
-      if(isOn()){ await sub.optOut(); track("obavestenja", { ishod: "iskljucena" }); }
-      else { await sub.optIn(); track("obavestenja", { ishod: isOn() ? "ukljucena" : "odbijena" }); }
-      show(); setTimeout(() => show(), 1500);
-    });
+    try{
+      await OneSignal.init({ appId: ONESIGNAL_APP_ID, serviceWorkerPath: base.slice(1) + "sw.js", serviceWorkerParam: { scope: base } });
+    }catch(e){ nedostupno(e && e.message || String(e)); return; }
+    OS = OneSignal; greska = null;
+    sub().addEventListener("change", e => show(!!(e.current && e.current.optedIn) && OS.Notifications.permission));
+    OS.Notifications.addEventListener("permissionChange", () => show());
     show();
+  });
+  btn.addEventListener("click", async () => {
+    if(Notification.permission === "denied"){
+      alert("Obaveštenja su blokirana u ovom pregledaču. Dozvolite ih u podešavanjima sajta (ikonica katanca pored adrese), pa osvežite stranicu.");
+      track("obavestenja", { ishod: "blokirana" }); return;
+    }
+    if(!OS){
+      alert(greska ? "Obaveštenja trenutno ne mogu da se uključe (" + greska + "). Ako koristite blokator reklama, isključite ga za ovaj sajt i osvežite stranicu." : "Obaveštenja se još učitavaju, pokušajte za par sekundi.");
+      track("obavestenja", { ishod: "nedostupna" }); return;
+    }
+    if(isOn()){ await sub().optOut(); track("obavestenja", { ishod: "iskljucena" }); }
+    else { await sub().optIn(); track("obavestenja", { ishod: isOn() ? "ukljucena" : "odbijena" }); }
+    show(); setTimeout(() => show(), 1500);
   });
 } else if(ONESIGNAL_APP_ID && ios && !installed){
   // Safari na iPhone-u daje obaveštenja samo aplikaciji sa početnog ekrana
