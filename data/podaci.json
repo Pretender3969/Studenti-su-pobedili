@@ -1,5 +1,5 @@
 {
- "generisano": "2026-10-30T07:21+00:00",
+ "generisano": "2026-10-31T07:46+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -10,6 +10,86 @@
  },
  "vesti": [
   {
+   "datum": "2026-10-31",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Narodna banka Srbije oduzela dozvolu za rad Alta banci",
+   "red": 72,
+   "sazetak": "NBS navodi da se finansijsko stanje banke znatno pogoršalo i da su ugroženi interesi deponenata; Agencija za osiguranje depozita biće stečajni upravnik i u roku od sedam radnih dana omogućiće isplatu osiguranih iznosa. EPS je zbog toga promenio račun za uplatu struje u Beogradu.",
+   "url": "https://www.rts.rs/lat/vesti/ekonomija/6073441/narodna-banka-srbije-oduzela-dozvolu-za-rad-alta-banci.html",
+   "id": "v71"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Nedeljkov (Crta): mašinerija izbornih manipulacija nije se do kraja raspala",
+   "red": 30,
+   "sazetak": "Raša Nedeljkov kaže da je 25. oktobra bilo znatno manje nepravilnosti zahvaljujući obučenim članovima biračkih odbora Studentske liste, ali upozorava pred ponavljanje glasanja na 53 mesta.",
+   "url": "https://n1info.rs/vesti/nedeljkov-masinerija-koja-je-vrsila-izborne-manipulacije-nije-se-do-kraja-raspala-nema-prostora-za-opustanje/",
+   "id": "v88"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "TOK zatražio hitno dostavljanje svih dokumenata o Vučićevim pomilovanjima",
+   "red": 92,
+   "sazetak": "Tužilaštvo za organizovani kriminal zatražilo je od Ministarstva pravde podatke o tome da li su pokrenuti postupci pomilovanja ili abolicije 49 lica, na koga se odnose i da li se tiču okrivljenih u aktivnim postupcima pred TOK-om, kao i prepisku sa kabinetom tadašnjeg predsednika.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-za-organizovani-kriminal-zatrazilo-hitno-dostavljanje-svih-dokumenata-o-vucicevim-pomilovanjima/",
+   "id": "v68"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Nova.rs: UKP ušla u Ministarstvo građevinarstva, saobraćaja i infrastrukture",
+   "red": 82,
+   "sazetak": "Pripadnici Uprave kriminalističke policije ušli su u prostorije ministarstva, a ministarku Aleksandru Sofronijević pozvali su da izađe sa sednice Vlade, piše Nova.rs. Razlog dolaska policije nije zvanično saopšten; državni sekretar Ranko Šekularac rekao je da je situacija kompleksna.",
+   "url": "https://n1info.rs/vesti/novars-ukp-usla-u-ministarstvo-gradjevinarstva/",
+   "id": "v69"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Brnabić: predsednički izbori biće raspisani najkasnije do 27. novembra",
+   "red": 78,
+   "sazetak": "V.d. predsednika Ana Brnabić rekla je da će izbore raspisati u ustavnom roku ili će to učiniti novi v.d. predsednika ako se ranije formiraju organi vlasti, i pozvala novu većinu da što pre formira institucije. Na pitanja o spisku pomilovanih odgovorila je da to nije u njenoj nadležnosti.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6072498/brnabic-predsednicki-izbori-bice-raspisani-do-27-novembra-.html",
+   "id": "v72"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "VJT Beograd",
+   "kategorija": "hapsenje",
+   "naslov": "VJT: uhapšen Nikola R. zbog odavanja tajnog dokumenta MUP-a o rušenju u Savamali",
+   "red": 76,
+   "sazetak": "Po nalogu VJT u Beogradu 23. oktobra uhapšen je Nikola R. (47), osumnjičen da je iz koristoljublja predao fotokopiju internog dokumenta MUP-a o rušenju u Savamali. Nova.rs navodi da je reč o bivšem načelniku Komunalne policije Nikoli Ristiću, uhapšenom na dan kada je objavljen njegov intervju u kom tvrdi da je rušenje organizovao Siniša Mali.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1472/",
+   "id": "v70"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Goran Karadžić podneo ostavku na mesto generalnog direktora RTV-a",
+   "red": 74,
+   "sazetak": "Karadžić je rekao da je četiri dana radio na tranziciji uredničkih poslova i da je posle toga red da i on ode. Na funkciji je bio od oktobra 2023; nije poznato kada će biti imenovan v.d. direktora.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6072396/goran-karadzic-ostavke-rtv.html",
+   "id": "v73"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "program",
+   "naslov": "Kuzmanović: suspendovaćemo leks specijalise i raskinuti koruptivne i preplaćene ugovore, Expo se nastavlja",
+   "red": 62,
+   "sazetak": "Kandidat Studentske liste Vladan Kuzmanović rekao je da će među prvim merama u građevinarstvu biti suspenzija ili usklađivanje posebnih zakona i preispitivanje velikih javnih investicija. Ugovori za koje se utvrdi da su preplaćeni ili koruptivni biće raskinuti, a ostali projekti, uključujući Expo, nastavljeni.",
+   "url": "https://n1info.rs/vesti/kuzmanovic-raskinucemo-koruptivne-i-preplacene-ugovore-expo-se-nastavlja-ali-cemo-preispitati-sta-sve-ulazi-u-taj-projekat/",
+   "id": "v75"
+  },
+  {
    "datum": "2026-10-30",
    "izvor": "N1",
    "kategorija": "korupcija",
@@ -18,6 +98,146 @@
    "sazetak": "Državna revizorska institucija utvrdila je da je Komisija 2023. kupila poslovni prostor i 20 parking mesta u Prokopu za 7.224.196 evra bez PDV-a, bez saglasnosti Republičke direkcije za imovinu i bez prikupljanja ponuda, uz nepravilnosti u javnim nabavkama.",
    "url": "https://n1info.rs/biznis/komisija-za-zastitu-konkurencije-pod-lupom-dri-sedam-miliona-evra-za-poslovni-prostor-u-prokopu/",
    "id": "v59"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "RTV",
+   "kategorija": "mediji",
+   "naslov": "Upravni odbor RTS-a prihvatio ostavku Manje Grčić, o novom v.d. direktora 3. novembra",
+   "red": 56,
+   "sazetak": "UO RTS-a pozvao je zaposlene da se prijave do 2. novembra u 17 časova. Prema UNS-u, do sada su stigla četiri predloga: Predrag Šarčević, Vasko Vasović, Miloš Janković i Nikola Đinđić.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/upravni-odbor-rts-a-u-utorak-o-novom-vrsiocu-duznosti-generalnog-direktora_1755339.html",
+   "id": "v74"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Nova.rs: Komisija Vrhovnog tužilaštva ispituje zašto Milanu Radoičiću nije određen pritvor zbog Banjske",
+   "red": 55,
+   "sazetak": "Prema Nova.rs, komisija koju je uputila Zagorka Dolovac razmatra predmet Radoičića, osumnjičenog za organizovanje oružanog sukoba u Banjskoj, i predlog za pritvor u kom je tužilac naveo samo opasnost od bekstva.",
+   "url": "https://n1info.rs/vesti/nova-komisija-vrhovno-tuzilastvo-milan-radoicic-pritvor-banjska/",
+   "id": "v76"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "TOK: svi kapaciteti angažovani na hitnim proverama, izdati nalozi državnim organima",
+   "red": 52,
+   "sazetak": "Tužilaštvo za organizovani kriminal saopštilo je da su svi kadrovski i tehnički kapaciteti angažovani na proveri informacija o mogućim krivičnim delima iz njegove nadležnosti, bez navođenja konkretnih slučajeva.",
+   "url": "https://n1info.rs/vesti/tok-svi-kapaciteti-angazovani-na-hitnim-proverama-izdati-nalozi-nadleznim-drzavnim-organima/",
+   "id": "v85"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "KRIK",
+   "kategorija": "izbori",
+   "naslov": "Austrijska policija: tužilaštvu u Beču dostavljeni izveštaji o izbornim manipulacijama",
+   "red": 50,
+   "sazetak": "Policija je bečkom tužilaštvu predala izveštaj o muškarcu zaustavljenom kod konzulata sa spiskom za koji se sumnja da je dupli birački spisak, kao i o Udruženju Srba u Austriji koje je mimo zakona prijavljivalo birače. Identitet osumnjičenog je utvrđen.",
+   "url": "https://www.krik.rs/austrijska-policija-za-krik-tuzilastvu-dostavljen-izvestaj-o-srpskom-udruzenju-koje-je-upisivalo-birace-za-glasanje/",
+   "id": "v83"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "VJT Beograd",
+   "kategorija": "bezbednost",
+   "naslov": "VJT nalaže MUP-u da utvrdi okolnosti pod kojima je Aleksandar Radić dao izjavu za Dnevnik 2",
+   "red": 48,
+   "sazetak": "VJT u Beogradu saopštilo je da će policiji naložiti da utvrdi kada i kako je osumnjičeni Aleksandar R., za kojim je raspisana poternica, stupio u kontakt radi izjave emitovane na RTS-u. Vojni analitičar Radić je u izjavi upozorio na paralelne naoružane strukture; Srbiju je napustio pre četiri meseca.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1475/",
+   "id": "v77"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Bez pritvora za direktora Jovine gimnazije, zabranjen mu ulaz u školu i prilaz profesorima",
+   "red": 46,
+   "sazetak": "Osnovni sud u Novom Sadu odbio je predlog za pritvor Radivoju P. Stojkoviću i umesto toga odredio zabranu ulaska u gimnaziju i prilaska svedocima, najduže do 30. januara 2027, prenosi 021.rs.",
+   "url": "https://n1info.rs/vesti/021rs-saznaje-bez-pritvora-za-direktora-jovine-zabranjen-mu-ulaz-u-gimnaziju-i-prilaz-profesorima/",
+   "id": "v81"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Privođenje u „Niš TV” i pretres stana vlasnika televizije",
+   "red": 45,
+   "sazetak": "Prema N1, policija je ušla u Niš TV, ispitala sina vlasnika Bojana Avramovića i pretresla njegov stan, u vezi sa napadima na bajkere i kontrolore biračkih odbora na dan izbora. Zvanična potvrda policije u Nišu nije stigla do objave.",
+   "url": "https://n1info.rs/vesti/policija-nis-tv-pretres/",
+   "id": "v84"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Razrešena v.d. direktora Centra za promociju nauke Iris Lekić",
+   "red": 44,
+   "sazetak": "Upravni odbor ju je razrešio na sednici zakazanoj na inicijativu kolektiva, koji je tražio ostavku navodeći sumnju na krivotvorenje diplome, sumnjive finansijske transakcije i osvetnička otpuštanja; kolektiv najavljuje dostavljanje dokumentacije nadležnim organima.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/smenjena-v.d.-direktora-centra-za-promociju-nauke-iris-lekic_1755370.html",
+   "id": "v78"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Nova: rešenje o nostrifikaciji diplome Manje Grčić potpisano mimo procedure",
+   "red": 42,
+   "sazetak": "Prema listu Nova, rešenje Agencije za kvalifikacije potpisao je direktor Časlav Mitrović direktno iz svoje kancelarije, a u agenciji nema sačuvane kopije. Ranije je ukazivano da njena diploma ima 180 umesto zakonom propisanih 240 bodova.",
+   "url": "https://n1info.rs/vesti/nova-resenje-o-nostrifikaciji-diplome-manje-grcic-potpisao-direktor-agencije-mimo-procedure/",
+   "id": "v80"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "MSP: navodi o uništavanju dokumentacije netačni i zlonamerni",
+   "red": 40,
+   "sazetak": "Ministarstvo spoljnih poslova kategorički je demantovalo navode sa društvenih mreža o namernom uništavanju službene dokumentacije i navelo da je fokusirano na urednu primopredaju dužnosti.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/msp-navodi-o-unistavanju-dokumentacije-netacni-i-zlonamerni_1755361.html",
+   "id": "v79"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu odgovara na pritiske i pozive na ostavke: postupamo u skladu sa zakonom",
+   "red": 36,
+   "sazetak": "Tužilaštvo je kritike i nadzor Komisije Vrhovnog javnog tužilaštva opisalo kao pritisak i odbacilo optužbe za „lojalističko postupanje” glavnog tužioca Nenada Stefanovića.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1471/",
+   "id": "v89"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Studenti u Aranđelovcu predali zahteve za ostavke predsednika opštine i funkcionera SNS-a",
+   "red": 34,
+   "sazetak": "Grupa građana „Studenti za Aranđelovac – Mladost pobeđuje”, koja ima 20 odbornika, zatražila je ostavke predsednika opštine Gorana Orlića i funkcionera koje je postavila većina oko SNS-a.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6072929/studenti-za-arandjelovac--mladost-pobedjuje-podneli-zahteve-za-ostavke-lokalnog-rukovodstva.html",
+   "id": "v82"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Šoškić poziva zaposlene u institucijama da odbiju nezakonite naredbe i prave službene beleške",
+   "red": 32,
+   "sazetak": "Kandidat Studentske liste Dejan Šoškić rekao je da navodno uništavanje dokumentacije ukazuje da „ima šta da se uništava” i pozvao zaposlene da štite državnu imovinu bez preuzimanja fizičkih rizika.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6073368/dejan-soskic-unistavanje-dokumentacije-korupcija.html",
+   "id": "v87"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "SAD čestitale Studentskoj listi i građanima Srbije na izbornim rezultatima",
+   "red": 30,
+   "sazetak": "SAD su poželele urednu tranziciju vlasti i unapređenje strateškog partnerstva.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6073360/studentska-lista-sad.html",
+   "id": "v86"
   },
   {
    "datum": "2026-10-29",
@@ -682,6 +902,19 @@
  ],
  "hronika": [
   {
+   "datum": "2026-11-27",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6072498/brnabic-predsednicki-izbori-bice-raspisani-do-27-novembra-.html"
+   ],
+   "naslov": "Rok za raspisivanje predsedničkih izbora",
+   "opis": "V.d. predsednika Ana Brnabić najavila je da će izbori biti raspisani najkasnije do 27. novembra, ili će to učiniti novi v.d. predsednika ako se ranije formiraju organi vlasti.",
+   "osobe": "Ana Brnabić",
+   "red": 60,
+   "status": "najavljeno",
+   "tip": "izbori",
+   "id": "h31"
+  },
+  {
    "datum": "2026-11-04",
    "izvori": [
     "https://studenti.org.rs/vesti/studentiorgrs-generalstab_tramp/"
@@ -704,6 +937,61 @@
    "status": "najavljeno",
    "tip": "izbori",
    "id": "h19"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/ekonomija/6073441/narodna-banka-srbije-oduzela-dozvolu-za-rad-alta-banci.html",
+    "https://www.rts.rs/lat/vesti/drustvo/6073469/promenjen-broj-racuna-za-uplatu-struje-u-beogradu-placanje-preko-aplikacije-nedostupno.html"
+   ],
+   "naslov": "NBS oduzela dozvolu za rad Alta banci",
+   "opis": "NBS navodi znatno pogoršanje finansijskog stanja i ugroženost deponenata; stečajni upravnik biće Agencija za osiguranje depozita. Preko ove banke su se do sada plaćali računi za struju u Beogradu.",
+   "osobe": "Alta banka · NBS · Agencija za osiguranje depozita · EPS",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h29"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvori": [
+    "https://n1info.rs/vesti/tuzilastvo-za-organizovani-kriminal-zatrazilo-hitno-dostavljanje-svih-dokumenata-o-vucicevim-pomilovanjima/",
+    "https://www.rtv.rs/sr_lat/drustvo/tuzilastvo-za-organizovani-kriminal-krenulo-u-proveru-postupaka-pomilovanja-49-lica-od-strane-bivseg-predsednika_1755374.html"
+   ],
+   "naslov": "TOK traži dokumentaciju o pomilovanjima 49 lica",
+   "opis": "Tužilaštvo za organizovani kriminal zatražilo je od Ministarstva pravde da hitno dostavi podatke o postupcima pomilovanja i abolicije koje je objavio bivši predsednik, imena lica, povezanost sa aktivnim postupcima pred TOK-om i prepisku sa kabinetom predsednika.",
+   "osobe": "Aleksandar Vučić · TOK · Ministarstvo pravde",
+   "red": 90,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h26"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvori": [
+    "https://n1info.rs/vesti/novars-ukp-usla-u-ministarstvo-gradjevinarstva/"
+   ],
+   "naslov": "Kriminalistička policija ušla u Ministarstvo građevinarstva",
+   "opis": "Prema Nova.rs, pripadnici UKP-a ušli su u ministarstvo, a ministarku su pozvali da izađe sa sednice Vlade. Razlog nije zvanično saopšten.",
+   "osobe": "Aleksandra Sofronijević · Ranko Šekularac · UKP",
+   "red": 80,
+   "status": "navod",
+   "tip": "korak",
+   "id": "h27"
+  },
+  {
+   "datum": "2026-10-30",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/drustvo/6072396/goran-karadzic-ostavke-rtv.html",
+    "https://www.rtv.rs/sr_lat/drustvo/upravni-odbor-rts-a-u-utorak-o-novom-vrsiocu-duznosti-generalnog-direktora_1755339.html"
+   ],
+   "naslov": "Goran Karadžić podneo ostavku na mesto direktora RTV-a",
+   "opis": "Ostavku je saopštila JMU RTV. Istog dana UO RTS-a prihvatio je ostavku Manje Grčić; o novom v.d. direktora RTS-a odlučuje 3. novembra.",
+   "osobe": "Goran Karadžić · RTV · UO RTS",
+   "red": 72,
+   "status": "zvanicno",
+   "tip": "ostavka",
+   "id": "h28"
   },
   {
    "datum": "2026-10-30",
@@ -849,10 +1137,11 @@
    "izvori": [
     "https://n1info.rs/vesti/ojt-u-backoj-palanci-uhapsen-direktor-jovine-gimnazije/",
     "https://www.danas.rs/vesti/drustvo/mup-hapsenje-direktor-jovine-gimnazije/",
-    "https://www.021.rs/novi-sad/vesti/459589/uhapsen-direktor-jovine-gimnazije-radivoje-p-stojkovic"
+    "https://www.021.rs/novi-sad/vesti/459589/uhapsen-direktor-jovine-gimnazije-radivoje-p-stojkovic",
+    "https://n1info.rs/vesti/021rs-saznaje-bez-pritvora-za-direktora-jovine-zabranjen-mu-ulaz-u-gimnaziju-i-prilaz-profesorima/"
    ],
    "naslov": "Uhapšen direktor Jovine gimnazije u Novom Sadu",
-   "opis": "Osumnjičen za četiri krivična dela neizvršenja sudskih odluka: nije vratio na posao četiri profesora kojima su sudovi poništili suspenzije. Zadržan do 48 sati. Mediji ga opisuju kao otvorenog pristalicu bivšeg predsednika.",
+   "opis": "Osumnjičen za četiri krivična dela neizvršenja sudskih odluka: nije vratio na posao četiri profesora kojima su sudovi poništili suspenzije. Zadržan do 48 sati. Mediji ga opisuju kao otvorenog pristalicu bivšeg predsednika. 30. okt: sud odbio pritvor, odredio zabranu ulaska u gimnaziju i prilaska svedocima do 30. januara 2027.",
    "osobe": "R. S., direktor gimnazije · OJT Bačka Palanka · MUP",
    "red": 80,
    "status": "zvanicno",
@@ -968,6 +1257,20 @@
    "id": "h06"
   },
   {
+   "datum": "2026-10-23",
+   "izvori": [
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1472/",
+    "https://n1info.rs/vesti/bivsi-nacelnik-komunalne-policije-u-pritvoru-posle-svedocenja-o-rusenju-u-savamali/"
+   ],
+   "naslov": "Uhapšen Nikola R. zbog odavanja dokumenta MUP-a o rušenju u Savamali",
+   "opis": "VJT u Beogradu tereti ga da je iz koristoljublja predao fotokopiju internog dokumenta MUP-a o rušenju u Savamali; on negira krivicu. Nova.rs navodi da je reč o bivšem načelniku Komunalne policije Nikoli Ristiću, uhapšenom na dan objave intervjua u kom tvrdi da je rušenje organizovao Siniša Mali.",
+   "osobe": "Nikola R. (Ristić, prema Nova.rs) · VJT Beograd",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h30"
+  },
+  {
    "datum": "2026-10-20",
    "izvori": [
     "https://studenti.org.rs/vesti/lm/"
@@ -1040,7 +1343,9 @@
    "id": "o02"
   },
   {
+   "azurirano": "2026-10-31",
    "datum": "2026-10-29",
+   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje sadržaja projekta.",
    "naslov": "Preispitivanje svih ugovora i javnih nabavki",
    "opis": "U skladu sa zakonom, posle formiranja vlasti.",
    "status": "najavljeno",
@@ -1080,9 +1385,9 @@
    "id": "o07"
   },
   {
-   "azurirano": "2026-10-30",
+   "azurirano": "2026-10-31",
    "datum": "2026-10-27",
-   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. REM razmatra konkurs za nove upravne odbore.",
+   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić i bira novog v.d. direktora 3. novembra; ostavku podneo i direktor RTV-a Goran Karadžić.",
    "naslov": "Departizacija RTS-a i ostavke rukovodstva javnog servisa",
    "opis": "Ostavke generalnog direktora, zamenika i glavnih urednika; nezavisan REM.",
    "status": "delimicno",
@@ -1090,8 +1395,9 @@
    "id": "o08"
   },
   {
+   "azurirano": "2026-10-31",
    "datum": "2026-10-29",
-   "napomena": "Nekoliko stotina prijava; tužilaštva izdala naloge za zaštitu spisa.",
+   "napomena": "Nekoliko stotina prijava; tužilaštva izdala naloge za zaštitu spisa. 30. okt: Šoškić pozvao zaposlene da odbiju nezakonite naredbe i prave službene beleške; MSP negira navode o uništavanju dokumentacije.",
    "naslov": "Zaštita uzbunjivača i dokaza u prelaznom periodu",
    "opis": "Prikupljanje prijava o uništavanju dokumentacije i nezakonitim radnjama.",
    "status": "u_toku",
@@ -1099,7 +1405,9 @@
    "id": "o09"
   },
   {
+   "azurirano": "2026-10-31",
    "datum": "2026-10-11",
+   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica; Brnabić kaže da to nije u njenoj nadležnosti.",
    "naslov": "Objavljivanje celog spiska pomilovanih",
    "opis": "Imena 26 od 49 osoba koje je Vučić pomilovao ili abolirao i provera zakonitosti postupka.",
    "status": "najavljeno",
@@ -1121,6 +1429,16 @@
    "status": "u_toku",
    "url": "https://studenti.org.rs/vesti/pamtimo/",
    "id": "o12"
+  },
+  {
+   "azurirano": "2026-10-31",
+   "datum": "2026-10-30",
+   "napomena": "Najavio kandidat Vladan Kuzmanović.",
+   "naslov": "Suspenzija leks specijalisa u građevinarstvu",
+   "opis": "Suspendovati posebne zakone (leks specijalise) ili ih uskladiti sa važećim propisima; kratkoročne mere u roku od 6–12 meseci.",
+   "status": "najavljeno",
+   "url": "https://n1info.rs/vesti/kuzmanovic-raskinucemo-koruptivne-i-preplacene-ugovore-expo-se-nastavlja-ali-cemo-preispitati-sta-sve-ulazi-u-taj-projekat/",
+   "id": "o13"
   }
  ]
 }
