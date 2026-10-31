@@ -18,7 +18,7 @@
 :root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 </style>
-<link rel="stylesheet" href="assets/stil.css?v=9">
+<link rel="stylesheet" href="assets/stil.css?v=10">
 <!-- Google Analytics: bez kolačića dok posetilac ne prihvati (Consent Mode) -->
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -112,6 +112,22 @@ const TYPES = {
 const CATS = { korupcija:"Korupcija i novac", hapsenje:"Hapšenja i prijave", institucije:"Institucije", program:"Studentska lista", izbori:"Izbori", mediji:"Mediji", bezbednost:"Bezbednost" };
 const CATC = { korupcija:"--t-otkrice", hapsenje:"--t-hapsenje", institucije:"--t-ostavka", program:"--t-korak", izbori:"--t-izbori", mediji:"--t-prijava", bezbednost:"--t-incident" };
 const PSTAT = { najavljeno:{l:"Najavljeno",c:"--s-idle"}, u_toku:{l:"U toku",c:"--accent"}, delimicno:{l:"Delimično",c:"--s-warn"}, ispunjeno:{l:"Ispunjeno",c:"--s-ok"}, odstupljeno:{l:"Odstupljeno",c:"--s-bad"} };
+// Sličice po vrsti unosa: mali crteži u boji kategorije, bez dodatnih fajlova za učitavanje
+const ICONS = {
+  hapsenje:'<circle cx="7" cy="15.5" r="3.5"/><circle cx="17" cy="15.5" r="3.5"/><path d="M7 12V7.5A2.5 2.5 0 0 1 9.5 5h5A2.5 2.5 0 0 1 17 7.5V12"/>',
+  prijava:'<path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/>',
+  korupcija:'<rect x="2.5" y="6" width="19" height="12" rx="2"/><circle cx="12" cy="12" r="2.6"/><path d="M6 9.5v5M18 9.5v5"/>',
+  otkrice:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5M10.5 7.5v6M8 10.5h5"/>',
+  institucije:'<path d="M3 21h18M4.5 10h15M12 3l8.5 4.5h-17zM6.5 10v8M10 10v8M14 10v8M17.5 10v8"/>',
+  ostavka:'<path d="M14 4h4a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-4M10 16l-4-4 4-4M6 12h10"/>',
+  program:'<path d="M2 9.5 12 5l10 4.5L12 14z"/><path d="M6 11.5V16c0 1.4 2.7 3 6 3s6-1.6 6-3v-4.5M22 9.5V15"/>',
+  korak:'<path d="M3 20h5v-5h5v-5h5V5h3"/><path d="m15 5 3-2 1 3.5"/>',
+  izbori:'<path d="M4 12h16v8H4z"/><path d="M8 12V4h8v8M10.5 8h3"/>',
+  mediji:'<rect x="3" y="7" width="18" height="13" rx="2"/><path d="m8 3 4 4 4-4"/>',
+  bezbednost:'<path d="M12 3 20 6v6c0 4.5-3.4 8.2-8 9-4.6-.8-8-4.5-8-9V6z"/><path d="m9 12 2 2 4-4"/>',
+  incident:'<path d="M12 3.5 2.5 20h19z"/><path d="M12 10v4.5M12 17.2v.3"/>'
+};
+const ico = k => ICONS[k] ? `<span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${ICONS[k]}</svg></span>` : "";
 const MONTHS=["jan","feb","mar","apr","maj","jun","jul","avg","sep","okt","nov","dec"];
 const DAYS=["nedelja","ponedeljak","utorak","sreda","četvrtak","petak","subota"];
 const VIEWS=["vesti","hronika","obecanja"];
@@ -153,7 +169,7 @@ function renderVesti(){
   const filters = `<button class="fbtn" data-cat="" aria-pressed="${!state.cat}">Sve</button>` + Object.entries(CATS).map(([k,l])=>`<button class="fbtn" data-cat="${k}" aria-pressed="${state.cat===k}"><span class="dot" style="background:var(${CATC[k]})"></span>${l}</button>`).join("");
   const list = sortDesc(state.vesti).filter(n => (!state.cat || n.kategorija===state.cat) && match(n,["naslov","sazetak","izvor"]));
   const body = emptyOr(state.vesti, list, "vesti") ?? groupByDate(list).map(([d,items])=>`<section class="daygroup"><div class="dlabel"><b>${fmtDate(d)}</b>${dayName(d)}</div><div class="items">${
-    items.map(n=>{ const u=safeUrl(n.url); return `<article class="news" id="vest-${esc(n.id)}" data-id="${esc(n.id)}"${CATC[n.kategorija]?` style="--tc:var(${CATC[n.kategorija]})"`:""}><button type="button" aria-expanded="false"><span class="ttl">${esc(n.naslov)}</span><span class="chev" aria-hidden="true">▶</span>
+    items.map(n=>{ const u=safeUrl(n.url); return `<article class="news" id="vest-${esc(n.id)}" data-id="${esc(n.id)}"${CATC[n.kategorija]?` style="--tc:var(${CATC[n.kategorija]})"`:""}><button type="button" aria-expanded="false">${ico(n.kategorija)}<span class="ttl">${esc(n.naslov)}</span><span class="chev" aria-hidden="true">▶</span>
       <span class="meta"><span class="src">${esc(n.izvor)}</span><span class="cat"><span class="dot" style="background:var(--tc,var(--muted))"></span>${esc(CATS[n.kategorija]||"")}</span>${heartCount(n.id)}</span></button>
       <div class="body">${n.sazetak?`<p>${esc(n.sazetak)}</p>`:""}<div class="row">${u?`<a href="${esc(u)}" target="_blank" rel="noopener">Pročitaj ceo tekst na ${esc(host(u))} ↗</a>`:""}</div>${heartsHtml(n.id)}</div></article>`;}).join("")}</div></section>`).join("");
   return toolsHtml(filters) + body;
@@ -165,8 +181,8 @@ function renderHronika(){
   const body = emptyOr(state.hronika, list, "hroniku") ?? groupByDate(list).map(([d,items])=>`<section class="daygroup"><div class="dlabel"><b>${fmtDate(d)}</b>${dayName(d)}</div><div class="items">${
     items.map(e=>{ const t=TYPES[e.tip]||TYPES.korak; const st=e.status||"navod";
       const links=(e.izvori||[]).map(safeUrl).filter(Boolean).map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))} ↗</a>`).join("");
-      return `<article class="event" id="hronika-${esc(e.id)}" style="--tc:var(${t.c})"><div class="head"><span class="tlabel">${t.l}</span><span class="badge b-${esc(st)}">${st==="zvanicno"?"Zvanično":st==="najavljeno"?"Najavljeno":"Navod"}</span>${e.iznos?`<span class="amount">${esc(e.iznos)}</span>`:""}</div>
-        <h3>${esc(e.naslov)}</h3>${e.opis?`<p>${esc(e.opis)}</p>`:""}${e.osobe?`<div class="people">${esc(e.osobe)}</div>`:""}<div class="links">${links}</div>${heartsHtml(e.id)}</article>`;}).join("")}</div></section>`).join("");
+      return `<article class="event" id="hronika-${esc(e.id)}" style="--tc:var(${t.c})">${ico(e.tip)}<div class="ebody"><div class="head"><span class="tlabel">${t.l}</span><span class="badge b-${esc(st)}">${st==="zvanicno"?"Zvanično":st==="najavljeno"?"Najavljeno":"Navod"}</span>${e.iznos?`<span class="amount">${esc(e.iznos)}</span>`:""}</div>
+        <h3>${esc(e.naslov)}</h3>${e.opis?`<p>${esc(e.opis)}</p>`:""}${e.osobe?`<div class="people">${esc(e.osobe)}</div>`:""}<div class="links">${links}</div>${heartsHtml(e.id)}</div></article>`;}).join("")}</div></section>`).join("");
   return toolsHtml(filters) + body;
 }
 

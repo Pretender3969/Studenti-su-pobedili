@@ -196,3 +196,20 @@ body:not([data-view="vesti"]) nav.tabs{margin-top:0}
 
 /* naslov i podnaslov */
 .podnaslov{margin:4px 0 0;font-family:var(--f-display);font-weight:700;font-size:clamp(15px,2.2vw,19px);letter-spacing:.08em;text-transform:uppercase;color:#c8102e}
+
+/* sličice po vrsti unosa */
+.ico{display:grid;place-items:center;width:42px;height:42px;border-radius:10px;color:var(--tc,var(--muted));background:color-mix(in srgb,var(--tc,var(--muted)) 13%,transparent);flex:none}
+.ico svg{width:24px;height:24px}
+.news > button{grid-template-columns:auto 1fr auto}
+.news > button .ico{grid-row:span 2;align-self:start}
+.news .meta{grid-column:2/-1}
+.news .body{padding-left:68px}
+.event{display:grid;grid-template-columns:auto 1fr;gap:0 14px;align-items:start}
+.event .ebody{min-width:0}
+.event .ico{width:46px;height:46px;margin-top:2px}
+.event .ico svg{width:26px;height:26px}
+@media (max-width:640px){
+  .ico{width:36px;height:36px;border-radius:9px}.ico svg{width:21px;height:21px}
+  .event .ico{width:38px;height:38px}.event .ico svg{width:22px;height:22px}
+  .news .body{padding-left:14px}
+}
