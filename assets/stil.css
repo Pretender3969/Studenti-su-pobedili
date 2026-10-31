@@ -171,7 +171,9 @@ a.add{text-decoration:none;display:inline-block}
 
 /* deljenje, gore desno */
 .brand{justify-content:space-between;align-items:center}
-.share{position:relative;margin-left:auto}
+.topacts{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-left:auto}
+.share{position:relative}
+#notify.on{color:#c8102e;border-color:#c8102e}
 .sharebtn{display:inline-flex;align-items:center;gap:7px}
 .sharemenu{position:absolute;right:0;top:calc(100% + 6px);z-index:30;min-width:190px;display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:6px;box-shadow:0 8px 28px rgba(0,0,0,.18)}
 .sharemenu > *{appearance:none;border:0;background:none;text-align:left;padding:9px 12px;border-radius:6px;font-family:var(--f-display);font-size:14.5px;font-weight:600;color:var(--ink);text-decoration:none;cursor:pointer}

@@ -3,8 +3,8 @@
 // Isti worker prima i push obaveštenja (OneSignal); ako se njihov kod ne učita, sajt i dalje radi.
 try { importScripts("https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js"); } catch {}
 
-const CACHE = "pratimo-v1";
-const SHELL = ["./", "assets/stil.css?v=5", "assets/ikona-64.png?v=2", "assets/ikona-192.png?v=2", "manifest.webmanifest", "data/podaci.json"];
+const CACHE = "pratimo-v2";
+const SHELL = ["./", "assets/stil.css?v=6", "assets/ikona-64.png?v=2", "assets/ikona-192.png?v=2", "manifest.webmanifest", "data/podaci.json"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

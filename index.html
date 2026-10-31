@@ -18,7 +18,7 @@
 :root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 </style>
-<link rel="stylesheet" href="assets/stil.css?v=5">
+<link rel="stylesheet" href="assets/stil.css?v=6">
 <!-- Google Analytics: bez kolačića dok posetilac ne prihvati (Consent Mode) -->
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -34,6 +34,8 @@ gtag("config", "G-VCDPZRL457");
 <div class="wrap">
   <header class="top">
     <div class="brand"><h1>Pratimo promenu</h1>
+      <div class="topacts">
+      <button class="ghost sharebtn" id="notify" type="button" hidden><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg><span>Uključi obaveštenja</span></button>
       <div class="share">
         <button class="ghost sharebtn" id="share" type="button" aria-haspopup="true" aria-expanded="false"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>Podeli</button>
         <div class="sharemenu" id="shareMenu" role="menu" hidden>
@@ -45,6 +47,7 @@ gtag("config", "G-VCDPZRL457");
           <a role="menuitem" data-share="telegram" target="_blank" rel="noopener">Telegram</a>
           <a role="menuitem" data-share="mejl">Mejl</a>
         </div>
+      </div>
       </div>
     </div>
     <p class="lede">Dnevna evidencija koraka Studentske liste od izborne pobede, hapšenja i krivičnih prijava protiv bivše vlasti i otkrivenih zloupotreba. Svaki unos ima izvor, a navodi su odvojeni od zvaničnih odluka.</p>
@@ -60,7 +63,6 @@ gtag("config", "G-VCDPZRL457");
         <p>Stranica se ažurira dva puta dnevno, ujutru i popodne. Pretplatite se na RSS i nove vesti stižu same u vašu aplikaciju za vesti ili na mejl.</p>
       </div>
       <div class="acts">
-        <button class="add" id="notify" type="button" hidden>Uključi obaveštenja</button>
         <button class="add install" id="install" type="button" hidden>Instaliraj aplikaciju</button>
         <a class="add" href="feed.xml">RSS pretplata</a>
         <button class="ghost" id="copyFeed" type="button">Kopiraj adresu</button>
@@ -282,9 +284,19 @@ if(ONESIGNAL_APP_ID && "serviceWorker" in navigator && "PushManager" in window){
   OneSignalDeferred.push(async OneSignal => {
     await OneSignal.init({ appId: ONESIGNAL_APP_ID, serviceWorkerPath: base.slice(1) + "sw.js", serviceWorkerParam: { scope: base } });
     const btn = $("#notify"), sub = OneSignal.User.PushSubscription;
-    const show = () => { btn.textContent = sub.optedIn ? "Obaveštenja su uključena" : "Uključi obaveštenja"; btn.disabled = !!sub.optedIn; btn.hidden = false; };
-    sub.addEventListener("change", show);
-    btn.addEventListener("click", async () => { await sub.optIn(); track("obavestenja", { ishod: sub.optedIn ? "ukljucena" : "odbijena" }); });
+    // pretplata je aktivna tek kad postoje i dozvola pregledača i OneSignal prijava; stanje stiže sa zakašnjenjem, zato i događaji i ponovna provera
+    const isOn = () => !!(OneSignal.Notifications.permission && sub.optedIn);
+    const show = (on = isOn()) => {
+      btn.querySelector("span").textContent = on ? "Obaveštenja uključena" : "Uključi obaveštenja";
+      btn.classList.toggle("on", on); btn.title = on ? "Kliknite da isključite obaveštenja" : ""; btn.hidden = false;
+    };
+    sub.addEventListener("change", e => show(!!(e.current && e.current.optedIn) && OneSignal.Notifications.permission));
+    OneSignal.Notifications.addEventListener("permissionChange", () => show());
+    btn.addEventListener("click", async () => {
+      if(isOn()){ await sub.optOut(); track("obavestenja", { ishod: "iskljucena" }); }
+      else { await sub.optIn(); track("obavestenja", { ishod: isOn() ? "ukljucena" : "odbijena" }); }
+      show(); setTimeout(() => show(), 1500);
+    });
     show();
   });
 } else if(ONESIGNAL_APP_ID && ios && !installed){
