@@ -18,7 +18,7 @@
 :root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 </style>
-<link rel="stylesheet" href="assets/stil.css?v=6">
+<link rel="stylesheet" href="assets/stil.css?v=7">
 <!-- Google Analytics: bez kolačića dok posetilac ne prihvati (Consent Mode) -->
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -183,6 +183,7 @@ function renderObecanja(){
 }
 
 function render(){
+  document.body.dataset.view = state.view; // zaglavlje se vidi samo na Vestima
   document.querySelectorAll(".tab").forEach(t=>t.setAttribute("aria-selected", String(t.dataset.view===state.view)));
   const open = new Set([...document.querySelectorAll(".news.open")].map(n=>n.dataset.id));
   const qFocus = document.activeElement && document.activeElement.id==="q";
@@ -195,7 +196,7 @@ function render(){
 
 const track = (name, params={}) => { try{ gtag("event", name, params); }catch{} };
 
-function setView(v){ state.view=v; state.q=""; render(); try{ history.replaceState(null,"","#"+v); }catch{} track("otvoren_tab", { tab:v }); }
+function setView(v){ state.view=v; state.q=""; render(); if(v!=="vesti") scrollTo(0,0); try{ history.replaceState(null,"","#"+v); }catch{} track("otvoren_tab", { tab:v }); }
 
 document.addEventListener("click", async e=>{
   const tab = e.target.closest(".tab"); if(tab){ setView(tab.dataset.view); return; }
