@@ -1,7 +1,7 @@
 // Service worker: sajt radi i bez interneta, sa poslednjim učitanim vestima.
 // Uvek prvo pita mrežu (da vesti budu sveže), a keš koristi samo kad mreže nema.
 const CACHE = "pratimo-v1";
-const SHELL = ["./", "assets/stil.css?v=4", "assets/ikona-64.png?v=2", "assets/ikona-192.png?v=2", "manifest.webmanifest", "data/podaci.json"];
+const SHELL = ["./", "assets/stil.css?v=5", "assets/ikona-64.png?v=2", "assets/ikona-192.png?v=2", "manifest.webmanifest", "data/podaci.json"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
