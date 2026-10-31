@@ -60,14 +60,16 @@ gtag("config", "G-VCDPZRL457");
         <p>Stranica se ažurira dva puta dnevno, ujutru i popodne. Pretplatite se na RSS i nove vesti stižu same u vašu aplikaciju za vesti ili na mejl.</p>
       </div>
       <div class="acts">
+        <button class="add" id="notify" type="button" hidden>Uključi obaveštenja</button>
         <button class="add install" id="install" type="button" hidden>Instaliraj aplikaciju</button>
         <a class="add" href="feed.xml">RSS pretplata</a>
         <button class="ghost" id="copyFeed" type="button">Kopiraj adresu</button>
       </div>
-      <p class="ioshelp" id="iosHelp" hidden><b>Na iPhone-u i iPad-u:</b> u Safariju dodirnite dugme <b>Podeli</b> (kvadrat sa strelicom nagore), pa izaberite <b>Dodaj na početni ekran</b>. Ikonica sa crvenom trojkom pojaviće se među aplikacijama.</p>
+      <p class="ioshelp" id="iosHelp" hidden><b>Na iPhone-u i iPad-u:</b> u Safariju dodirnite dugme <b>Podeli</b> (kvadrat sa strelicom nagore), pa izaberite <b>Dodaj na početni ekran</b>. Ikonica sa crvenom trojkom pojaviće se među aplikacijama.<span id="iosNotify" hidden> Obaveštenja na iPhone-u rade kada aplikaciju otvorite sa početnog ekrana: tamo dodirnite <b>Uključi obaveštenja</b>.</span></p>
       <details>
         <summary>Kako da se pretplatim?</summary>
         <ol>
+          <li><b>Obaveštenja na telefonu ili računaru:</b> dodirnite <b>Uključi obaveštenja</b> i dozvolite ih u pregledaču. Kratko obaveštenje stiže kad se objave nove vesti. Na iPhone-u prvo dodajte stranicu na početni ekran.</li>
           <li><b>Aplikacija za vesti:</b> u Feedly, Inoreader ili sličnu aplikaciju dodajte adresu <code id="feedUrl">feed.xml</code>.</li>
           <li><b>Na mejl:</b> tu adresu unesite u besplatan servis koji RSS šalje mejlom (npr. Blogtrottr ili Follow.it).</li>
           <li><b>Kao aplikacija na telefonu:</b> otvorite ovu stranicu u Chrome-u (meni ⋮ → Dodaj na početni ekran) ili u Safariju (Podeli → Dodaj na početni ekran).</li>
@@ -268,6 +270,28 @@ $("#install").addEventListener("click", async () => {
   }
 });
 if("serviceWorker" in navigator) addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(()=>{}));
+
+// obaveštenja preko OneSignal-a: dugme se pojavljuje tek kad je upisan App ID
+const ONESIGNAL_APP_ID = "85aa4fe8-f92c-450e-a913-10319c647667";
+if(ONESIGNAL_APP_ID && "serviceWorker" in navigator && "PushManager" in window){
+  const base = new URL("./", location.href).pathname; // npr. /Studenti-su-pobedili/
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  const s = document.createElement("script");
+  s.src = "https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js"; s.defer = true;
+  document.head.appendChild(s);
+  OneSignalDeferred.push(async OneSignal => {
+    await OneSignal.init({ appId: ONESIGNAL_APP_ID, serviceWorkerPath: base.slice(1) + "sw.js", serviceWorkerParam: { scope: base } });
+    const btn = $("#notify"), sub = OneSignal.User.PushSubscription;
+    const show = () => { btn.textContent = sub.optedIn ? "Obaveštenja su uključena" : "Uključi obaveštenja"; btn.disabled = !!sub.optedIn; btn.hidden = false; };
+    sub.addEventListener("change", show);
+    btn.addEventListener("click", async () => { await sub.optIn(); track("obavestenja", { ishod: sub.optedIn ? "ukljucena" : "odbijena" }); });
+    show();
+  });
+} else if(ONESIGNAL_APP_ID && ios && !installed){
+  // Safari na iPhone-u daje obaveštenja samo aplikaciji sa početnog ekrana
+  $("#notify").hidden = false; $("#iosNotify").hidden = false;
+  $("#notify").addEventListener("click", () => { $("#iosHelp").hidden = false; track("obavestenja", { ishod: "ios_uputstvo" }); });
+}
 
 (async function start(){
   if(izbor===null) $("#consent").hidden = false;

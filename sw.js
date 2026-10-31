@@ -1,5 +1,8 @@
 // Service worker: sajt radi i bez interneta, sa poslednjim učitanim vestima.
 // Uvek prvo pita mrežu (da vesti budu sveže), a keš koristi samo kad mreže nema.
+// Isti worker prima i push obaveštenja (OneSignal); ako se njihov kod ne učita, sajt i dalje radi.
+try { importScripts("https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js"); } catch {}
+
 const CACHE = "pratimo-v1";
 const SHELL = ["./", "assets/stil.css?v=5", "assets/ikona-64.png?v=2", "assets/ikona-192.png?v=2", "manifest.webmanifest", "data/podaci.json"];
 
