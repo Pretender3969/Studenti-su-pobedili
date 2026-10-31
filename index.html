@@ -197,7 +197,7 @@ function render(){
 // Srca: svako može vesti ili događaju da da 1, 2 ili 3 srca. Brojevi se čuvaju u Firebase Firestore-u
 // (kolekcija "srca", dokument po unosu sa poljima h1, h2, h3 = koliko ljudi je dalo 1, 2 ili 3 srca),
 // a sopstveni izbor pamti pregledač. Dok FIREBASE nije podešen, srca se ne prikazuju.
-const FIREBASE = { projectId:"", apiKey:"" };
+const FIREBASE = { projectId:"gen-lang-client-0349195206", apiKey:"AIzaSyAIVi9QUd00k3tbaLkzOtfigPipqPwbg7o" };
 const SRCA_ON = !!(FIREBASE.projectId && FIREBASE.apiKey);
 const FS = `https://firestore.googleapis.com/v1/projects/${FIREBASE.projectId}/databases/(default)/documents`;
 let mojaSrca = {}; try{ mojaSrca = JSON.parse(localStorage.getItem("pp-srca")||"{}"); }catch{}
