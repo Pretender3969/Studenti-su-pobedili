@@ -1,4 +1,6 @@
-# Pratimo promenu
+# Studenti su pobedili
+
+_Pratimo promenu_
 
 Javna evidencija vesti, hapšenja, krivičnih prijava, otkrivenih zloupotreba i obećanja Studentske liste od izbora 25. oktobra 2026.
 

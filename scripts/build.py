@@ -1,4 +1,4 @@
-"""Gradi podatke za javni sajt iz izvoza baze platforme "Pratimo promenu".
+"""Gradi podatke za javni sajt iz izvoza baze platforme "Studenti su pobedili".
 
 Upotreba:  python scripts/build.py <export_dir>
 <export_dir> sadrži podfoldere vesti/, hronika/, obecanja/, stanje/ sa po jednim JSON fajlom po unosu.
@@ -70,7 +70,7 @@ def build_feed(vesti: list[dict], hronika: list[dict]) -> str:
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
-        "<title>Pratimo promenu</title>"
+        "<title>Studenti su pobedili</title>"
         f"<link>{SITE_URL}</link>"
         f'<atom:link href="{SITE_URL}feed.xml" rel="self" type="application/rss+xml"/>'
         "<description>Vesti, hapšenja, krivične prijave i obećanja Studentske liste od izbora 25. oktobra 2026.</description>"

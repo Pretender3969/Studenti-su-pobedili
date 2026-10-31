@@ -46,7 +46,7 @@ def novi_unosi(staro: dict, novo: dict) -> list[dict]:
 def poruka(rows: list[dict]) -> dict:
     glavni = rows[0]
     n = len(rows)
-    naslov = "Pratimo promenu: nova vest" if n == 1 else f"Pratimo promenu: {n} novih unosa"
+    naslov = "Studenti su pobedili: nova vest" if n == 1 else f"Studenti su pobedili: {n} novih unosa"
     tekst = glavni["naslov"] + ("" if n == 1 else f" i još {n - 1}")
     return {"naslov": naslov, "tekst": tekst[:240], "url": f"{SITE_URL}#{glavni['_sidro']}"}
 
