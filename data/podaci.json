@@ -1,5 +1,5 @@
 {
- "generisano": "2026-10-31T15:16+00:00",
+ "generisano": "2026-11-01T08:17+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -9,6 +9,36 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-01",
+   "izvor": "RTV",
+   "kategorija": "hapsenje",
+   "naslov": "Tanjug: uhapšeni načelnik UKP Marko Kričak i načelnik Službe za suzbijanje kriminala Boško Sekulović",
+   "red": 90,
+   "sazetak": "Prema saznanjima Tanjuga, policija je po nalogu Višeg javnog tužilaštva u Beogradu uhapsila Marka Krička i Boška Sekulovića zbog navodnog nezakonitog postupanja u slučaju „Senjak” i prebijanja osumnjičenih tokom saslušanja. Zvanično saopštenje tužilaštva se očekuje.",
+   "url": "https://www.rtv.rs/sr_lat/hronika/uhapseni-nacelnici-policije-marko-kricak-i-bosko-sekulovic-zbog-slucaja-senjak_1755568.html",
+   "id": "v100"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Ponovljeno glasanje na 53 biračka mesta, Crta: sva mesta otvorena",
+   "red": 70,
+   "sazetak": "Glasanje se ponavlja na 53 biračka mesta u 24 grada i opštine, za 24.438 birača: na 31 mestu gde rezultati nisu mogli da se utvrde i na 22 gde je glasanje poništeno. Posmatrači Crte prisustvovali su otvaranju svih mesta.",
+   "url": "https://n1info.rs/vesti/crta-otvorena-sva-biracka-mesta-na-ponavljenom-glasanju/",
+   "id": "v101"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Dve godine od pada nadstrešnice: komemorativni skup u Novom Sadu, tri sudska postupka i dalje u zastoju",
+   "red": 65,
+   "sazetak": "Studenti organizuju komemorativni skup u Novom Sadu u 11.52, dve godine posle pogibije 16 ljudi. Tri postupka pokrenuta povodom pada nadstrešnice i dalje nisu okončana.",
+   "url": "https://n1info.rs/vesti/dve-godine-nakon-pada-nadstresnice/",
+   "id": "v102"
+  },
   {
    "datum": "2026-10-31",
    "izvor": "N1",
@@ -51,6 +81,36 @@
   },
   {
    "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Ninić najavio krivičnu prijavu TOK-u na 238 strana protiv ministra i direktora jedne republičke institucije",
+   "red": 62,
+   "sazetak": "Advokat Ivan Ninić najavio je da će u ponedeljak predati TOK-u prijavu sa dokazima o „sistemu kapilarnih glasova” (tabele, koordinatori, prepiske, korišćenje službenih vozila). Instituciju nije imenovao; radi se o najavi.",
+   "url": "https://n1info.rs/vesti/ivan-ninic-krivicna-prijava-tok-ministarstvo/",
+   "id": "v104"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Treće OJT: u džakovima ispred opštine Zemun bile škartirane kopije, originali sačuvani",
+   "red": 60,
+   "sazetak": "Tužilaštvo je posle prijave građana izvršilo uviđaj, pregledalo deset džakova i snimke kamera i razgovaralo sa 21 osobom, uključujući predsednika GO Zemun. Utvrđeno je da su bačene kopije spisa, a da su originali u prostorijama opštine.",
+   "url": "https://n1info.rs/vesti/u-dzakovima-kod-opstine-zemun-bile-kopije-dokumenata-originali-sacuvani/",
+   "id": "v103"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista uputila javni apel bankama da pojačaju nadzor prekograničnih transakcija",
+   "red": 60,
+   "sazetak": "U apelu domaćim i međunarodnim bankama traži se pojačana kontrola odliva kapitala, posebno plaćanja koja uključuju javna sredstva i državna preduzeća, uz dokumentaciju i dokaz o osnovu plaćanja tokom prelaznog perioda.",
+   "url": "https://studenti.org.rs/vesti/apel_bankama/",
+   "id": "v105"
+  },
+  {
+   "datum": "2026-10-31",
    "izvor": "Studenti",
    "kategorija": "korupcija",
    "naslov": "Javno upozorenje: uništavanje dokumentacije u RFZO povlači krivičnu odgovornost",
@@ -72,12 +132,62 @@
   {
    "datum": "2026-10-31",
    "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Nova ekonomija: zaposleni u Alta banci kažu da je masovno povlačenje novca počelo 27. oktobra",
+   "red": 55,
+   "sazetak": "Anonimni izvori iz banke navode da su od utorka isplaćivane višemilionske sume i vršene velike konverzije, kao i da je EPS prebacio više od 300 miliona dinara u Poštansku štedionicu. Navodi nisu zvanično potvrđeni.",
+   "url": "https://n1info.rs/vesti/zaposleni-u-alta-banci-potvrdili-da-je-povlacenje-novca-pocelo-vec-u-utorak/",
+   "id": "v106"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "Studenti",
+   "kategorija": "korupcija",
+   "naslov": "Studenti o Alta banci: potrebna temeljna istraga, pitanje odgovornosti rukovodstva NBS",
+   "red": 50,
+   "sazetak": "Studentski pokret ukazuje da je Alta banka u junu prijavljivala adekvatnost kapitala od 17,92% i pita da li su izveštaji bili tačni i šta je NBS znala. Smatra da su angažovanjem stručnih ljudi iz NBS sprečene teže posledice po građane.",
+   "url": "https://studenti.org.rs/vesti/prop_alta/",
+   "id": "v107"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
    "kategorija": "institucije",
    "naslov": "Vučić na Glavnom odboru SNS: „Ja sam kriv, neka gone mene“",
    "red": 50,
    "sazetak": "Na sednici Glavnog odbora SNS Vučić je rekao da će štititi svakoga ko bude gonjen samo zato što je politički protivnik, pominjući slučaj Generalštab. Na istoj sednici Miloš Vučević je zakazao vanrednu skupštinu SNS za 13. decembar i predložio Vučića za predsednika stranke.",
    "url": "https://n1info.rs/vesti/vucic-ja-sam-kriv-neka-gone-mene/",
    "id": "v96"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Vučević zakazao vanrednu skupštinu SNS za 13. decembar, predložio Vučića za predsednika stranke",
+   "red": 48,
+   "sazetak": "Na sednici Glavnog odbora SNS Miloš Vučević je predložio da se na vanrednom zasedanju skupštine 13. decembra bira novo rukovodstvo i da se Aleksandar Vučić vrati na čelo stranke.",
+   "url": "https://n1info.rs/vesti/milos-vucevic-skupstina-sns-13-decembra-predlazem-aleksandra-vucica-za-novog-predsednika-stranke/",
+   "id": "v109"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "AOD: isplata osiguranih depozita Alta banke najkasnije sedam radnih dana od pokretanja stečaja",
+   "red": 45,
+   "sazetak": "Agencija za osiguranje depozita najavila je da isplata osiguranih sredstava počinje najkasnije sedam radnih dana od odluke Privrednog suda o stečaju banke.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6073543/aod-isplata-depozita-krece-najkasnije-za-7-dana-od-pokretanja-stecaja.html",
+   "id": "v108"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Uskoković: vraćamo kredibilitet Informativnom programu RTS-a, deo zaposlenih ometa promene",
+   "red": 45,
+   "sazetak": "V.d. glavnog urednika Informativnog programa RTS-a Borivoje Uskoković rekao je da građani imaju pravo na istinito informisanje i da zaposleni bliski bivšem rukovodstvu namerno ometaju promene.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6073786/rts-borivoje-uskokovic.html",
+   "id": "v110"
   },
   {
    "datum": "2026-10-31",
@@ -118,6 +228,16 @@
    "sazetak": "Udruženje „Znanjem za Čačak“ podnelo je OJT u Čačku krivičnu prijavu zbog sumnje da postoji opasnost od uklanjanja ili uništavanja finansijske dokumentacije u Gradskoj upravi za finansije. Navode da su stalno zaposlene premeštene iz kancelarije sa originalnom dokumentacijom i da su neki zaposleni dobijali pretnje.",
    "url": "https://n1info.rs/vesti/udruzenje-gradjana-podnelo-krivicnu-prijavu-zbog-sumnje-na-unistavanje-dokumentacije-u-cacku/",
    "id": "v99"
+  },
+  {
+   "datum": "2026-10-31",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Science: Srbija je izabrala „najpametniji parlament na svetu”",
+   "red": 35,
+   "sazetak": "Časopis Science objavio je 29. oktobra tekst o pobedi Studentske liste; više od polovine kandidata sa liste ima doktorat nauka ili medicine. Među ključnim obećanjima navode se borba protiv korupcije, autonomija univerziteta i stabilnije finansiranje nauke.",
+   "url": "https://studenti.org.rs/vesti/science_pametni/",
+   "id": "v111"
   },
   {
    "datum": "2026-10-31",
@@ -1029,12 +1149,26 @@
   {
    "datum": "2026-11-01",
    "izvori": [
-    "https://n1info.rs/vesti/rik-izbori-se-ponavljaju-na-53-biracka-mesta-u-nedelju-1-novembra/"
+    "https://www.rtv.rs/sr_lat/hronika/uhapseni-nacelnici-policije-marko-kricak-i-bosko-sekulovic-zbog-slucaja-senjak_1755568.html"
+   ],
+   "naslov": "Uhapšeni načelnik UKP Marko Kričak i Boško Sekulović zbog slučaja „Senjak”",
+   "opis": "Prema saznanjima Tanjuga (preneo RTV), policija je po nalogu Višeg javnog tužilaštva u Beogradu, u akciji Službe za borbu protiv korupcije, uhapsila načelnika Uprave kriminalističke policije i načelnika Službe za suzbijanje kriminala zbog sumnje na nezakonito postupanje u slučaju „Senjak” i prebijanje osumnjičenih tokom saslušanja. Saopštenje VJT se očekuje.",
+   "osobe": "Marko Kričak (načelnik UKP) · Boško Sekulović (načelnik Službe za suzbijanje kriminala) · VJT u Beogradu",
+   "red": 90,
+   "status": "navod",
+   "tip": "hapsenje",
+   "id": "h35"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvori": [
+    "https://n1info.rs/vesti/rik-izbori-se-ponavljaju-na-53-biracka-mesta-u-nedelju-1-novembra/",
+    "https://n1info.rs/vesti/crta-otvorena-sva-biracka-mesta-na-ponavljenom-glasanju/"
    ],
    "naslov": "Ponavljanje glasanja na 53 biračka mesta",
-   "opis": "Posle toga RIK bi trebalo da proglasi konačne rezultate, što otvara put konstituisanju Skupštine.",
+   "opis": "Glasanje je 1. novembra ponovljeno na 53 biračka mesta u 24 grada i opštine (31 mesto bez utvrđenih rezultata i 22 sa poništenim glasanjem), za 24.438 birača. Crta je potvrdila da su sva mesta otvorena. Rezultati se čekaju.",
    "red": 50,
-   "status": "najavljeno",
+   "status": "zvanicno",
    "tip": "izbori",
    "id": "h19"
   },
@@ -1466,8 +1600,9 @@
  ],
  "obecanja": [
   {
+   "azurirano": "2026-11-01",
    "datum": "2026-10-29",
-   "napomena": "Glasanje se ponavlja 1. novembra na 53 mesta.",
+   "napomena": "1. nov: glasanje ponovljeno na 53 mesta; čekaju se konačni rezultati RIK-a i konstituisanje Skupštine.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
    "status": "u_toku",
@@ -1493,7 +1628,9 @@
    "id": "o03"
   },
   {
+   "azurirano": "2026-10-31",
    "datum": "2026-10-29",
+   "napomena": "31. okt: Studentska lista uputila apel bankama da pojačaju nadzor prekograničnih plaćanja koja uključuju javna sredstva i državna preduzeća.",
    "naslov": "Provera tokova novca za velike projekte",
    "opis": "Ekspo, Beograd na vodi, stadioni u Leskovcu i Loznici, auto-put Miloš Veliki, Koridor 10, Rio Tinto i nabavke tokom kovida.",
    "status": "najavljeno",
@@ -1509,7 +1646,9 @@
    "id": "o05"
   },
   {
+   "azurirano": "2026-11-01",
    "datum": "2026-10-29",
+   "napomena": "1. nov: prema Tanjugu, uhapšen načelnik UKP Marko Kričak zbog slučaja „Senjak” (nezvanično, čeka se saopštenje VJT). Smene čelnika službi još nisu sprovedene.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
