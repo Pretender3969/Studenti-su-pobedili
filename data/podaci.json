@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-01T08:17+00:00",
+ "generisano": "2026-11-01T15:15+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -11,6 +11,16 @@
  "vesti": [
   {
    "datum": "2026-11-01",
+   "izvor": "VJT Beograd",
+   "kategorija": "hapsenje",
+   "naslov": "VJT potvrdio hapšenje Krička i Sekulovića: zloupotreba službenog položaja i zlostavljanje i mučenje",
+   "red": 92,
+   "sazetak": "Više javno tužilaštvo u Beogradu saopštilo je da su načelnik UKP i načelnik Službe za suzbijanje kriminala uhapšeni po nalogu Posebnog odeljenja za suzbijanje korupcije, zbog sumnje da su u slučaju ubistva u restoranu „27” teže povredili prava bivšeg načelnika beogradske policije V.M. Kričku se stavlja na teret i zlostavljanje i mučenje; tužilac Stefanović kaže da akcija nema veze sa izborima.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1476/",
+   "id": "v112"
+  },
+  {
+   "datum": "2026-11-01",
    "izvor": "RTV",
    "kategorija": "hapsenje",
    "naslov": "Tanjug: uhapšeni načelnik UKP Marko Kričak i načelnik Službe za suzbijanje kriminala Boško Sekulović",
@@ -18,6 +28,16 @@
    "sazetak": "Prema saznanjima Tanjuga, policija je po nalogu Višeg javnog tužilaštva u Beogradu uhapsila Marka Krička i Boška Sekulovića zbog navodnog nezakonitog postupanja u slučaju „Senjak” i prebijanja osumnjičenih tokom saslušanja. Zvanično saopštenje tužilaštva se očekuje.",
    "url": "https://www.rtv.rs/sr_lat/hronika/uhapseni-nacelnici-policije-marko-kricak-i-bosko-sekulovic-zbog-slucaja-senjak_1755568.html",
    "id": "v100"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvor": "Radar / N1",
+   "kategorija": "bezbednost",
+   "naslov": "Radar: BIA prisluškivala tužioce TOK-a zbog postupka „Nadstrešnica”",
+   "red": 75,
+   "sazetak": "Prema nezvaničnim saznanjima nedeljnika Radar, BIA je prisluškivala pojedine tužioce Tužilaštva za organizovani kriminal i pratila njihovu elektronsku poštu, a kao glavni motiv navodi se to što je TOK nastavio postupak „Nadstrešnica”. Anonimni izvor tvrdi da je prisluškivan i glavni tužilac TOK-a Mladen Nenadić; zvanične potvrde nema.",
+   "url": "https://n1info.rs/vesti/radar-bia-prisluskivanje-tuzioci-za-organizovani-kriminal-nadstresnica/",
+   "id": "v113"
   },
   {
    "datum": "2026-11-01",
@@ -38,6 +58,16 @@
    "sazetak": "Studenti organizuju komemorativni skup u Novom Sadu u 11.52, dve godine posle pogibije 16 ljudi. Tri postupka pokrenuta povodom pada nadstrešnice i dalje nisu okončana.",
    "url": "https://n1info.rs/vesti/dve-godine-nakon-pada-nadstresnice/",
    "id": "v102"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "ANEM osuđuje pritisak VJT u Beogradu na redakciju Informativnog programa RTS-a",
+   "red": 55,
+   "sazetak": "Asocijacija nezavisnih elektronskih medija osudila je, kako navodi, otvoreni pritisak Višeg javnog tužilaštva u Beogradu na redakciju Informativnog programa RTS-a i zatražila prestanak progona novinara i aktivista.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6073945/anem-osudjuje-pritisak-vjt-na-redakciju-rts-a-i-trazi-prestanak-progona-novinara-i-aktivista.html",
+   "id": "v114"
   },
   {
    "datum": "2026-10-31",
@@ -1149,15 +1179,30 @@
   {
    "datum": "2026-11-01",
    "izvori": [
-    "https://www.rtv.rs/sr_lat/hronika/uhapseni-nacelnici-policije-marko-kricak-i-bosko-sekulovic-zbog-slucaja-senjak_1755568.html"
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1476/",
+    "https://www.rtv.rs/sr_lat/hronika/uhapseni-nacelnici-policije-marko-kricak-i-bosko-sekulovic-zbog-slucaja-senjak_1755568.html",
+    "https://n1info.rs/vesti/kricak-sekulovic-vjt-krivicna-prijava/"
    ],
-   "naslov": "Uhapšeni načelnik UKP Marko Kričak i Boško Sekulović zbog slučaja „Senjak”",
-   "opis": "Prema saznanjima Tanjuga (preneo RTV), policija je po nalogu Višeg javnog tužilaštva u Beogradu, u akciji Službe za borbu protiv korupcije, uhapsila načelnika Uprave kriminalističke policije i načelnika Službe za suzbijanje kriminala zbog sumnje na nezakonito postupanje u slučaju „Senjak” i prebijanje osumnjičenih tokom saslušanja. Saopštenje VJT se očekuje.",
-   "osobe": "Marko Kričak (načelnik UKP) · Boško Sekulović (načelnik Službe za suzbijanje kriminala) · VJT u Beogradu",
+   "naslov": "VJT: uhapšeni načelnik UKP Marko Kričak i Boško Sekulović zbog slučaja „Senjak”",
+   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima.",
+   "osobe": "Marko Kričak (načelnik UKP) · Boško Sekulović (načelnik Službe za suzbijanje kriminala) · Nenad Stefanović · VJT u Beogradu",
    "red": 90,
-   "status": "navod",
+   "status": "zvanicno",
    "tip": "hapsenje",
    "id": "h35"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvori": [
+    "https://n1info.rs/vesti/radar-bia-prisluskivanje-tuzioci-za-organizovani-kriminal-nadstresnica/"
+   ],
+   "naslov": "Radar: BIA prisluškivala tužioce TOK-a zbog slučaja „Nadstrešnica”",
+   "opis": "Nedeljnik Radar, pozivajući se na nezvanične izvore, tvrdi da je BIA prisluškivala pojedine tužioce Tužilaštva za organizovani kriminal, uključujući glavnog tužioca Mladena Nenadića, i pratila njihovu e-poštu jer je TOK nastavio postupak o korupciji u rekonstrukciji pruge i železničke stanice u Novom Sadu. BIA i TOK to nisu zvanično potvrdili.",
+   "osobe": "BIA · TOK · Mladen Nenadić",
+   "red": 70,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h36"
   },
   {
    "datum": "2026-11-01",
