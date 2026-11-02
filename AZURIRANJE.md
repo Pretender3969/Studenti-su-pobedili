@@ -18,7 +18,9 @@ Run `git pull --ff-only`. Read `data/podaci.json` (use Python to print what you 
 
 ## STEP 2 — Gather news since the last update
 
-Cover everything published since `generisano` (at least the last ~18 hours). Use WebFetch / curl on these pages and WebSearch as a fallback for any page that is blocked (403) or empty:
+Cover everything published since `generisano` (at least the last ~18 hours). Use WebFetch / curl on these pages and WebSearch as a fallback for any page that is blocked (403) or empty.
+
+Be thorough even when sites are blocked: if WebFetch fails for a site (403, "not allowed", ENOTFOUND), do NOT stop — WebSearch always works, so for every source below that you could not open, run at least one WebSearch restricted to it (e.g. `site:n1info.rs uhapšen`, `site:rts.rs Studentska lista`, `site:tok.jt.rs`), plus the topic searches at the end. A run that only does one or two searches is not acceptable. In the report, list which sites could not be opened directly.
 
 - Studentska lista: https://studenti.org.rs/vesti/ — often blocks automated fetching; if so, use WebSearch `site:studenti.org.rs` and media reports that quote the students.
 - N1: https://n1info.rs/vesti/
