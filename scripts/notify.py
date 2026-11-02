@@ -4,12 +4,13 @@ Upotreba:  python scripts/notify.py [--od HEAD~1] [--proba]
 Poredi data/podaci.json sa verzijom iz git-a (--od, podrazumevano prethodni commit) i za nove
 vesti i događaje iz hronike šalje jedno obaveštenje svim pretplatnicima. --proba samo ispisuje poruku.
 
-Ključevi se čuvaju VAN repozitorijuma, u ../onesignal.json:
+Ključevi se čuvaju VAN repozitorijuma: na računaru u ../onesignal.json
   {"app_id": "...", "rest_api_key": "..."}
-Ako tog fajla nema, skripta ne radi ništa.
+a u oblaku u promenljivoj okruženja ONESIGNAL_REST_API_KEY. Ako nema ni jednog, skripta ne šalje ništa.
 """
 import argparse
 import json
+import os
 import subprocess
 import sys
 import urllib.error
@@ -20,6 +21,7 @@ SITE_URL = "https://pretender3969.github.io/Studenti-su-pobedili/"
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT.parent / "onesignal.json"
 API = "https://api.onesignal.com/notifications?c=push"
+APP_ID = "85aa4fe8-f92c-450e-a913-10319c647667"  # javni, isti je i u index.html
 
 
 def stari_podaci(ref: str) -> dict:
@@ -67,10 +69,13 @@ def main() -> int:
     if args.proba:
         return 0
 
-    if not CONFIG.is_file():
-        print(f"Nije podešeno ({CONFIG} ne postoji), obaveštenje nije poslato.")
+    if CONFIG.is_file():
+        cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
+    elif os.environ.get("ONESIGNAL_REST_API_KEY"):
+        cfg = {"app_id": APP_ID, "rest_api_key": os.environ["ONESIGNAL_REST_API_KEY"]}
+    else:
+        print("Nije podešeno (nema ../onesignal.json ni ONESIGNAL_REST_API_KEY), obaveštenje nije poslato.")
         return 0
-    cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
     body = {
         "app_id": cfg["app_id"],
         "target_channel": "push",

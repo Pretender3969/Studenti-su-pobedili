@@ -1,7 +1,9 @@
 """Gradi podatke za javni sajt iz izvoza baze platforme "Studenti su pobedili".
 
 Upotreba:  python scripts/build.py <export_dir>
+           python scripts/build.py --podaci
 <export_dir> sadrži podfoldere vesti/, hronika/, obecanja/, stanje/ sa po jednim JSON fajlom po unosu.
+--podaci ponovo gradi sve iz postojećeg data/podaci.json (posle izmena koje pravi scripts/unos.py).
 Izlaz:  data/podaci.json  i  feed.xml  u korenu repozitorijuma.
 """
 import json
@@ -81,17 +83,10 @@ def build_feed(vesti: list[dict], hronika: list[dict]) -> str:
     )
 
 
-def main() -> None:
-    if len(sys.argv) != 2:
-        sys.exit("Upotreba: python scripts/build.py <export_dir>")
-    export = Path(sys.argv[1])
-    vesti = sorted(load(export, "vesti"), key=sort_key, reverse=True)
-    hronika = sorted(load(export, "hronika"), key=sort_key, reverse=True)
-    obecanja = load(export, "obecanja")
-    stanje_rows = load(export, "stanje")
-    stanje = next((s for s in stanje_rows if s["id"] == "trenutno"), {})
-    stanje.pop("id", None)
-
+def write(stanje: dict, vesti: list[dict], hronika: list[dict], obecanja: list[dict]) -> None:
+    vesti = sorted(vesti, key=sort_key, reverse=True)
+    hronika = sorted(hronika, key=sort_key, reverse=True)
+    obecanja = sorted(obecanja, key=lambda r: int(r["id"][1:]) if r["id"][1:].isdigit() else 0)
     data = {
         "generisano": datetime.now(timezone.utc).isoformat(timespec="minutes"),
         "stanje": stanje, "vesti": vesti, "hronika": hronika, "obecanja": obecanja,
@@ -100,6 +95,19 @@ def main() -> None:
     (ROOT / "data" / "podaci.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
     (ROOT / "feed.xml").write_text(build_feed(vesti, hronika), encoding="utf-8")
     print(f"vesti={len(vesti)} hronika={len(hronika)} obecanja={len(obecanja)}")
+
+
+def main() -> None:
+    if len(sys.argv) != 2:
+        sys.exit("Upotreba: python scripts/build.py <export_dir> | --podaci")
+    if sys.argv[1] == "--podaci":
+        d = json.loads((ROOT / "data" / "podaci.json").read_text(encoding="utf-8"))
+        write(d.get("stanje", {}), d.get("vesti", []), d.get("hronika", []), d.get("obecanja", []))
+        return
+    export = Path(sys.argv[1])
+    stanje = next((s for s in load(export, "stanje") if s["id"] == "trenutno"), {})
+    stanje.pop("id", None)
+    write(stanje, load(export, "vesti"), load(export, "hronika"), load(export, "obecanja"))
 
 
 if __name__ == "__main__":
