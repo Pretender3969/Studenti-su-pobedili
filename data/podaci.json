@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-02T06:37+00:00",
+ "generisano": "2026-11-02T20:57+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -9,6 +9,156 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-02",
+   "izvor": "TOK",
+   "kategorija": "hapsenje",
+   "naslov": "TOK: uhapšeni vlasnik Alta banke D.M. i dvoje zaposlenih, sumnja na iznošenje oko 45 milijardi dinara iz trezora",
+   "red": 95,
+   "sazetak": "Po nalogu TOK-a lišeni su slobode odgovorno lice Alta banke D.M. (prema medijima Davor Macura), direktor Odeljenja trezora G.M. i saradnik za trezorsko poslovanje I.P. Sumnja se da je D.M. zloupotrebom položaja iz trezora izneo oko 45,6 milijardi dinara (više od 380 miliona evra), uz pomoć dvoje zaposlenih.",
+   "url": "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261102_1_cir.pdf",
+   "id": "v120"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Viši sud u Beogradu objavio imena petoro pomilovanih, među njima Dijana Hrkalović",
+   "red": 85,
+   "sazetak": "Prema dopisu Ministarstva pravde, Vučić je odlukama od 27. septembra pomilovao Dijanu Hrkalović, Nebojšu Đokića, Marka Pavlovića, Draganu Živadinović i Miloša Dugalića. Četvoro je oslobođeno krivičnog gonjenja, jedan daljeg izdržavanja kazne.",
+   "url": "https://n1info.rs/vesti/vucic-pomilovao-dijanu-hrkalovic-i-jos-cetiri-osobe-visi-sud-u-beogradu-objavio-spisak-pomilovanih/",
+   "id": "v125"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "RIK objavio rezultate sa svih 8.392 biračka mesta: Studentskoj listi 53,01%",
+   "red": 80,
+   "sazetak": "Posle ponovljenog glasanja na 53 mesta RIK je objavio rezultate sa svih biračkih mesta; Studentska lista ima 53,01%, lista „Aleksandar Vučić – Ujedinjena Srbija” 38,98%. RIK ima 96 sati za ukupan izveštaj, posle čega slede dodela mandata i konstituisanje Skupštine.",
+   "url": "https://www.rts.rs/lat/vesti/izbori-2026/6074281/rik-konacan-rezultat-izbora-rok-dodeljivanje-mandata-i-konstituisanje-parlamenta.html",
+   "id": "v122"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Viši sud u Novom Sadu objavio spisak pomilovanih, među njima osumnjičeni za napade na građane",
+   "red": 80,
+   "sazetak": "Među pomilovanima čija imena je objavio novosadski Viši sud su Gorski Matović, Igor Elez, Stevica Kiš i Aleksandar Kocić, kao i grupa okrivljenih za pripremanje dela protiv ustavnog uređenja; većina ostalih se tereti za nasilničko ponašanje.",
+   "url": "https://n1info.rs/vesti/visi-sud-u-novom-sadu-spisak-pomilovanih/",
+   "id": "v126"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "TOK",
+   "kategorija": "bezbednost",
+   "naslov": "TOK traži da nadležni utvrde da li su njegovi tužioci prisluškivani i praćeni",
+   "red": 70,
+   "sazetak": "Povodom pisanja Radara da je BIA više od godinu dana pratila tužioce TOK-a zbog postupka „Nadstrešnica”, TOK je zatražio od nadležnih da to utvrde i naveo da bi to bio direktan napad na samostalnost tužilaštva.",
+   "url": "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261102_2_cir.pdf",
+   "id": "v127"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Ninić podneo prijavu TOK-u protiv direktora BIA Orlića i sedmorice službenika zbog prikupljanja glasova za SNS",
+   "red": 65,
+   "sazetak": "Advokat Ivan Ninić tvrdi da su zaposleni u BIA u Beogradu, Kragujevcu, Smederevu i Paraćinu imali obavezu da prikupljaju „kapilarne glasove” za SNS. Reč je o navodima podnosioca prijave.",
+   "url": "https://n1info.rs/vesti/ninic-podneo-krivicnu-prijavu-tok-u-protiv-orlica-zaposleni-u-bia-imali-radnu-obavezu-da-skupljaju-glasove-za-sns/",
+   "id": "v128"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Brnabić: sazvaću sednicu Skupštine u najkraćem roku posle konačnih rezultata",
+   "red": 60,
+   "sazetak": "Predsednica Skupštine i v.d. predsednika Republike Ana Brnabić rekla je da će sednicu radi potvrđivanja mandata sazvati čim RIK objavi konačne rezultate. Kritikovala je promene na RTS-u.",
+   "url": "https://n1info.rs/vesti/brnabic-sazvacu-sednicu-skupstine-sto-pre-iz-rts-su-sramotno-preleteli-kod-studenata/",
+   "id": "v124"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Ninić: upravnici zatvora preko Viber grupe „Štab” obezbeđivali glasove osuđenika za listu broj 1",
+   "red": 60,
+   "sazetak": "U prijavi TOK-u na 238 strana Ninić navodi da je grupu predvodio ministar pravde Nenad Vujić i da je 29 upravnika zatvora vršilo pritisak na osuđenike. N1 navodi da poruke nije mogao da proveri, a ministarstvo nije odgovorilo.",
+   "url": "https://n1info.rs/vesti/glasanje-zatvori-izbori-prijava-ivan-ninic/",
+   "id": "v129"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Srdanović: prvi koraci nove vlade biće vladavina prava i preuzimanje ključnih mehanizama izvršne vlasti",
+   "red": 55,
+   "sazetak": "Nosilac Studentske liste Ilija Srdanović rekao je za Nova.rs da je još rano za imena premijera i ministara i da rok za formiranje vlade počinje kada RIK proglasi konačne rezultate. Upozorio je da će funkcioneri koji uništavaju dokumentaciju biti tretirani kao saučesnici.",
+   "url": "https://n1info.rs/vesti/srdanovic-u-intervjuu-za-novars-objasnjava-koji-ce-biti-prvi-koraci-nove-vlade/",
+   "id": "v123"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "Studenti",
+   "kategorija": "korupcija",
+   "naslov": "Studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej",
+   "red": 50,
+   "sazetak": "Studentska lista navodi da je projekat vredan oko 300 miliona evra sumnjiv i traži hitnu obustavu radova dok se ne ispitaju svi ugovori, dozvole i odluke.",
+   "url": "https://studenti.org.rs/vesti/nis_pant_pruga/",
+   "id": "v132"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "VJT u Nišu formiralo predmet zbog sumnje na kupovinu glasova u Vranju",
+   "red": 45,
+   "sazetak": "Posebno odeljenje za suzbijanje korupcije VJT u Nišu formiralo je predmet po izveštaju PS Vranje o davanju i primanju mita u vezi s glasanjem i zatražilo podatke od policije.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-formiralo-predmet-zbog-sumnje-na-kupovinu-glasova-na-izborima-u-vranju/",
+   "id": "v130"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "021 / N1",
+   "kategorija": "mediji",
+   "naslov": "021: desetine miliona dinara iz budžeta ove godine za novosadske medije bliske bivšoj vlasti",
+   "red": 45,
+   "sazetak": "Prema podacima ANEM-a za period januar–oktobar 2026, Dnevnik je na konkursima dobio oko 46 miliona dinara, Novosadska TV oko 35 miliona, a portali NS uživo, Gradske info i Vesti sa severa ukupno više od 32 miliona.",
+   "url": "https://n1info.rs/vesti/desetine-miliona-iz-budzeta-za-novosadske-medije-bliske-bivsoj-vlasti/",
+   "id": "v131"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista poziva izvršitelje da odustanu od najavljenih iseljenja i najavljuje izmenu Zakona o izvršenju",
+   "red": 45,
+   "sazetak": "Lista traži od javnih izvršitelja da ne sprovode iseljenja porodica u Zemunu i na Vračaru najavljena za 2. i 4. novembar i najavljuje izmene zakona radi zaštite jedinog doma.",
+   "url": "https://studenti.org.rs/vesti/bez_iseljenja/",
+   "id": "v133"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "NBS oduzela dozvolu i platnoj instituciji Alta group DOO",
+   "red": 40,
+   "sazetak": "Izvršni odbor NBS oduzeo je dozvolu za izdavanje elektronskog novca društvu Alta group DOO Beograd, kao posledicu oduzimanja dozvole Alta banci. NBS navodi da sredstva korisnika platnih usluga ostaju zaštićena.",
+   "url": "https://n1info.rs/biznis/nbs-oduzela-dozvolu-i-platnoj-instituciji-alta-group-doo-sredstva-korisnika-platnih-usluga-su-zasticena/",
+   "id": "v121"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Makron razgovarao sa Srdanovićem i čestitao Studentskoj listi",
+   "red": 30,
+   "sazetak": "Predsednik Francuske Emanuel Makron čestitao je Studentskoj listi na pobedi i poručio da će Francuska nastaviti da podržava Srbiju na evropskom putu.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6074843/makron-razgovarao-sa-srdanovicem-cestitam-studentskoj-listi-nastavljamo-da-pratimo-srbiju-na-evropskom-putu.html",
+   "id": "v134"
+  },
   {
    "datum": "2026-11-01",
    "izvor": "VJT Beograd",
@@ -1227,6 +1377,49 @@
    "id": "h20"
   },
   {
+   "datum": "2026-11-02",
+   "iznos": "≈ 45,6 mlrd. din (> 380 mil. €)",
+   "izvori": [
+    "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261102_1_cir.pdf",
+    "https://n1info.rs/vesti/uhapsene-tri-osobe-sumnja-se-da-je-davor-macura-izneo-iz-banke-45-milijardi-dinara/"
+   ],
+   "naslov": "TOK: uhapšen vlasnik Alta banke i dvoje zaposlenih zbog iznošenja novca iz trezora",
+   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra; saslušanje u TOK-u najavljeno je za 3. novembar.",
+   "osobe": "Davor Macura (D.M.) · G.M. · I.P. · Alta banka · TOK",
+   "red": 95,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h39"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvori": [
+    "https://n1info.rs/vesti/vucic-pomilovao-dijanu-hrkalovic-i-jos-cetiri-osobe-visi-sud-u-beogradu-objavio-spisak-pomilovanih/",
+    "https://n1info.rs/vesti/visi-sud-u-novom-sadu-spisak-pomilovanih/"
+   ],
+   "naslov": "Viši sudovi u Beogradu i Novom Sadu objavili imena pomilovanih",
+   "opis": "Na osnovu dopisa Ministarstva pravde, Viši sud u Beogradu objavio je imena petoro pomilovanih (među njima Dijana Hrkalović), a Viši sud u Novom Sadu imena još oko 18 osoba (među njima Gorski Matović i Igor Elez). Ukupno je javno poznato oko 23 od 49 imena iz odluka od 27. septembra.",
+   "osobe": "Dijana Hrkalović · Igor Elez · Gorski Matović · Viši sud u Beogradu · Viši sud u Novom Sadu",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "otkrice",
+   "id": "h41"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvori": [
+    "https://n1info.rs/vesti/ninic-podneo-krivicnu-prijavu-tok-u-protiv-orlica-zaposleni-u-bia-imali-radnu-obavezu-da-skupljaju-glasove-za-sns/",
+    "https://n1info.rs/vesti/glasanje-zatvori-izbori-prijava-ivan-ninic/"
+   ],
+   "naslov": "Ninić podneo prijave TOK-u protiv direktora BIA i ministra pravde zbog prikupljanja glasova za SNS",
+   "opis": "Advokat Ivan Ninić podneo je TOK-u krivičnu prijavu protiv direktora BIA Vladimira Orlića i sedmorice službenika, tvrdeći da su zaposleni u BIA prikupljali „kapilarne glasove” za SNS, i prijavu na 238 strana u kojoj navodi da je ministar pravde Nenad Vujić predvodio grupu od 29 upravnika zatvora koji su pritiskali osuđenike da glasaju za listu broj 1. Tužilaštvo se o prijavama još nije izjasnilo.",
+   "osobe": "Vladimir Orlić · Nenad Vujić · BIA · Ministarstvo pravde · Ivan Ninić",
+   "red": 60,
+   "status": "navod",
+   "tip": "prijava",
+   "id": "h40"
+  },
+  {
    "datum": "2026-11-01",
    "izvori": [
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1476/",
@@ -1244,10 +1437,11 @@
   {
    "datum": "2026-11-01",
    "izvori": [
-    "https://n1info.rs/vesti/radar-bia-prisluskivanje-tuzioci-za-organizovani-kriminal-nadstresnica/"
+    "https://n1info.rs/vesti/radar-bia-prisluskivanje-tuzioci-za-organizovani-kriminal-nadstresnica/",
+    "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261102_2_cir.pdf"
    ],
    "naslov": "Radar: BIA prisluškivala tužioce TOK-a zbog slučaja „Nadstrešnica”",
-   "opis": "Nedeljnik Radar, pozivajući se na nezvanične izvore, tvrdi da je BIA prisluškivala pojedine tužioce Tužilaštva za organizovani kriminal, uključujući glavnog tužioca Mladena Nenadića, i pratila njihovu e-poštu jer je TOK nastavio postupak o korupciji u rekonstrukciji pruge i železničke stanice u Novom Sadu. BIA i TOK to nisu zvanično potvrdili.",
+   "opis": "Nedeljnik Radar, pozivajući se na nezvanične izvore, tvrdi da je BIA prisluškivala pojedine tužioce Tužilaštva za organizovani kriminal, uključujući glavnog tužioca Mladena Nenadića, i pratila njihovu e-poštu jer je TOK nastavio postupak o korupciji u rekonstrukciji pruge i železničke stanice u Novom Sadu. BIA to nije potvrdila. 2. nov: TOK je zvanično zatražio od nadležnih da utvrde da li su njegovi tužioci prisluškivani, praćeni i snimani.",
    "osobe": "BIA · TOK · Mladen Nenadić",
    "red": 70,
    "status": "navod",
@@ -1723,7 +1917,7 @@
   {
    "azurirano": "2026-11-02",
    "datum": "2026-10-29",
-   "napomena": "1. nov: ponovljeno glasanje na 53 mesta; prema projekciji Crte Studentska lista ima 140 mandata (apsolutna većina), SPP ulazi u Skupštinu. Vučić najavio da Ujedinjena Srbija neće opstruirati konstituisanje. Čekaju se konačni rezultati RIK-a.",
+   "napomena": "1. nov: ponovljeno glasanje na 53 mesta; prema projekciji Crte Studentska lista ima 140 mandata, SPP ulazi u Skupštinu. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); ima 96 sati za konačan izveštaj. Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
    "status": "u_toku",
@@ -1739,9 +1933,9 @@
    "id": "o02"
   },
   {
-   "azurirano": "2026-10-31",
+   "azurirano": "2026-11-02",
    "datum": "2026-10-29",
-   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje sadržaja projekta.",
+   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje. 2. nov: studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej (≈ 300 mil. €) dok se ne ispitaju ugovori i dozvole.",
    "naslov": "Preispitivanje svih ugovora i javnih nabavki",
    "opis": "U skladu sa zakonom, posle formiranja vlasti.",
    "status": "najavljeno",
@@ -1807,10 +2001,10 @@
   {
    "azurirano": "2026-11-02",
    "datum": "2026-10-11",
-   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 1. nov: Vučić kaže da „nema šta da krije” i da politički protivnici ne mogu da promene pomilovanja; spisak još nije objavljen.",
+   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 1. nov: Vučić kaže da „nema šta da krije”. 2. nov: Viši sudovi u Beogradu i Novom Sadu objavili imena oko 23 pomilovana (među njima Dijana Hrkalović i Igor Elez); ceo spisak od 49 imena još nije objavljen.",
    "naslov": "Objavljivanje celog spiska pomilovanih",
    "opis": "Imena 26 od 49 osoba koje je Vučić pomilovao ili abolirao i provera zakonitosti postupka.",
-   "status": "najavljeno",
+   "status": "delimicno",
    "url": "https://studenti.org.rs/vesti/ko_je_pomilovan/",
    "id": "o10"
   },
@@ -1839,6 +2033,16 @@
    "status": "najavljeno",
    "url": "https://n1info.rs/vesti/kuzmanovic-raskinucemo-koruptivne-i-preplacene-ugovore-expo-se-nastavlja-ali-cemo-preispitati-sta-sve-ulazi-u-taj-projekat/",
    "id": "o13"
+  },
+  {
+   "azurirano": "2026-11-02",
+   "datum": "2026-11-02",
+   "napomena": "2. nov: lista pozvala izvršitelje da odustanu od iseljenja u Zemunu i na Vračaru.",
+   "naslov": "Zaštita jedinog doma: izmena Zakona o izvršenju i obezbeđenju",
+   "opis": "Studentska lista najavljuje izmenu Zakona o izvršenju i obezbeđenju radi zaštite jedinog doma domaćinstva, sudske kontrole i sprečavanja zloupotreba u postupcima izvršenja.",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/bez_iseljenja/",
+   "id": "o14"
   }
  ]
 }
