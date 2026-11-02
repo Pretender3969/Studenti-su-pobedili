@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-01T15:15+00:00",
+ "generisano": "2026-11-02T06:37+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -28,6 +28,16 @@
    "sazetak": "Prema saznanjima Tanjuga, policija je po nalogu Višeg javnog tužilaštva u Beogradu uhapsila Marka Krička i Boška Sekulovića zbog navodnog nezakonitog postupanja u slučaju „Senjak” i prebijanja osumnjičenih tokom saslušanja. Zvanično saopštenje tužilaštva se očekuje.",
    "url": "https://www.rtv.rs/sr_lat/hronika/uhapseni-nacelnici-policije-marko-kricak-i-bosko-sekulovic-zbog-slucaja-senjak_1755568.html",
    "id": "v100"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Ponovljeno glasanje na 53 mesta: prema projekciji Crte Studentskoj listi 140 mandata, SPP ulazi u Skupštinu",
+   "red": 80,
+   "sazetak": "Po preliminarnim podacima sa ponovljenog glasanja, Crta projektuje 140 mandata za Studentsku listu (jedan manje) i 103 za listu Ujedinjena Srbija, dok lista SPP – Pokret za ujedinjenje dobija jedan mandat, o kome je odlučilo 12 glasova. Izlaznost na 53 mesta bila je 44,9%; konačne rezultate tek treba da objavi RIK.",
+   "url": "https://n1info.rs/vesti/zatvorena-biracka-mesta-ponovljeno-glasanje-izbori-2026/",
+   "id": "v115"
   },
   {
    "datum": "2026-11-01",
@@ -61,6 +71,16 @@
   },
   {
    "datum": "2026-11-01",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Načelnik SBPOK Marko Zafirović i zamenik načelnika UKP Nevenko Marić pozvani na informativni razgovor",
+   "red": 60,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Beogradu, Zafirović i Marić pozvani su u svojstvu građana na informativni razgovor u vezi sa slučajem „Senjak”, posle hapšenja Marka Kričaka i Boška Sekulovića.",
+   "url": "https://n1info.rs/vesti/nova-nacelnik-sbpok-marko-zafirovic-na-informativnom-razgovoru-u-policiji/",
+   "id": "v116"
+  },
+  {
+   "datum": "2026-11-01",
    "izvor": "RTS",
    "kategorija": "mediji",
    "naslov": "ANEM osuđuje pritisak VJT u Beogradu na redakciju Informativnog programa RTS-a",
@@ -68,6 +88,36 @@
    "sazetak": "Asocijacija nezavisnih elektronskih medija osudila je, kako navodi, otvoreni pritisak Višeg javnog tužilaštva u Beogradu na redakciju Informativnog programa RTS-a i zatražila prestanak progona novinara i aktivista.",
    "url": "https://www.rts.rs/lat/vesti/drustvo/6073945/anem-osudjuje-pritisak-vjt-na-redakciju-rts-a-i-trazi-prestanak-progona-novinara-i-aktivista.html",
    "id": "v114"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Učenici Pete gimnazije zatekli direktora kako baca kesu sa dokumentacijom; priveden pa pušten",
+   "red": 55,
+   "sazetak": "Prema navodima roditelja, direktor Pete beogradske gimnazije Ognjen Mrvaljević bacio je u kontejner kesu sa računima, spiskovima učenika sa JMBG i biografijama kandidata za posao. Policija ga je privela u SUP Palilula i pustila posle izjave; roditelj navodi da je tužilac naložio proveru dokumentacije.",
+   "url": "https://n1info.rs/vesti/direktor-pete-gimnazije-baca-kesu-sa-dokumentacijom/",
+   "id": "v117"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Vučić: nećemo opstruirati konstituisanje Skupštine; pomilovanja politički protivnici ne mogu da promene",
+   "red": 50,
+   "sazetak": "Vučić je na TV Pink rekao da poslanici Ujedinjene Srbije neće opstruirati konstituisanje Narodne skupštine. O pomilovanju 47 ili 49 osoba rekao je da je to bilo njegovo zakonsko ovlašćenje i da „nema šta da krije”, a da priče o njegovom hapšenju nemaju osnova.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6074129/aleksandar-vucic-izbori.html",
+   "id": "v118"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Centralna banka Crne Gore oduzela odobrenje za platne usluge „Alta Pay Group” Podgorica",
+   "red": 45,
+   "sazetak": "Posle oduzimanja dozvole za rad Alta banci u Srbiji, Savet Centralne banke Crne Gore oduzeo je odobrenje za pružanje platnih usluga povezanom društvu „Alta Pay Group” iz Podgorice.",
+   "url": "https://n1info.rs/region/savet-centralne-banke-crne-gore-oduzeo-odobrenje-alta-pay-group-podgorica/",
+   "id": "v119"
   },
   {
    "datum": "2026-10-31",
@@ -1207,6 +1257,19 @@
   {
    "datum": "2026-11-01",
    "izvori": [
+    "https://n1info.rs/vesti/zatvorena-biracka-mesta-ponovljeno-glasanje-izbori-2026/"
+   ],
+   "naslov": "Posle ponovljenog glasanja Crta projektuje 140 mandata za Studentsku listu",
+   "opis": "Na osnovu preliminarnih rezultata sa 53 biračka mesta, Crta projektuje 140 mandata za Studentsku listu, 103 za Ujedinjenu Srbiju i jedan mandat za SPP – Pokret za ujedinjenje. Studentska lista zadržava apsolutnu većinu; konačne rezultate objavljuje RIK.",
+   "osobe": "Crta · RIK · Usame Zukorlić (SPP)",
+   "red": 70,
+   "status": "navod",
+   "tip": "izbori",
+   "id": "h37"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvori": [
     "https://n1info.rs/vesti/rik-izbori-se-ponavljaju-na-53-biracka-mesta-u-nedelju-1-novembra/",
     "https://n1info.rs/vesti/crta-otvorena-sva-biracka-mesta-na-ponavljenom-glasanju/"
    ],
@@ -1216,6 +1279,19 @@
    "status": "zvanicno",
    "tip": "izbori",
    "id": "h19"
+  },
+  {
+   "datum": "2026-11-01",
+   "izvori": [
+    "https://n1info.rs/vesti/direktor-pete-gimnazije-baca-kesu-sa-dokumentacijom/"
+   ],
+   "naslov": "Direktor Pete beogradske gimnazije zatečen kako baca dokumentaciju",
+   "opis": "Učenici i roditelji zatekli su direktora kako baca kesu sa dokumentacijom u kontejner; policija ga je privela i pustila posle izjave. Sadržaj kese (računi, spiskovi učenika, biografije kandidata) poznat je iz izjave roditelja.",
+   "osobe": "Ognjen Mrvaljević · Peta beogradska gimnazija · SUP Palilula",
+   "red": 40,
+   "status": "navod",
+   "tip": "incident",
+   "id": "h38"
   },
   {
    "datum": "2026-10-31",
@@ -1645,9 +1721,9 @@
  ],
  "obecanja": [
   {
-   "azurirano": "2026-11-01",
+   "azurirano": "2026-11-02",
    "datum": "2026-10-29",
-   "napomena": "1. nov: glasanje ponovljeno na 53 mesta; čekaju se konačni rezultati RIK-a i konstituisanje Skupštine.",
+   "napomena": "1. nov: ponovljeno glasanje na 53 mesta; prema projekciji Crte Studentska lista ima 140 mandata (apsolutna većina), SPP ulazi u Skupštinu. Vučić najavio da Ujedinjena Srbija neće opstruirati konstituisanje. Čekaju se konačni rezultati RIK-a.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
    "status": "u_toku",
@@ -1729,9 +1805,9 @@
    "id": "o09"
   },
   {
-   "azurirano": "2026-10-31",
+   "azurirano": "2026-11-02",
    "datum": "2026-10-11",
-   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica; Brnabić kaže da to nije u njenoj nadležnosti.",
+   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 1. nov: Vučić kaže da „nema šta da krije” i da politički protivnici ne mogu da promene pomilovanja; spisak još nije objavljen.",
    "naslov": "Objavljivanje celog spiska pomilovanih",
    "opis": "Imena 26 od 49 osoba koje je Vučić pomilovao ili abolirao i provera zakonitosti postupka.",
    "status": "najavljeno",
