@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-03T06:46+00:00",
+ "generisano": "2026-11-03T15:14+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -21,6 +21,36 @@
   },
   {
    "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Ministarstvo pravde objavilo spisak svih 49 pomilovanih",
+   "red": 80,
+   "sazetak": "Ministarstvo pravde objavilo je imena svih 49 osoba koje je bivši predsednik Aleksandar Vučić pomilovao poslednjeg dana pre ostavke. Do tada su viši sudovi objavili samo deo imena.",
+   "url": "https://n1info.rs/vesti/ministarstvo-pravde-objavilo-spisak-pomilovanih/",
+   "id": "v144"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Bivši pripadnici BIA podneli krivičnu prijavu protiv direktora Orlića zbog nadzora studenata",
+   "red": 75,
+   "sazetak": "Milan Zvezdanović i Mila Stojanović, bivši pripadnici BIA, podneli su prijavu protiv direktora BIA Vladimira Orlića i rukovodilaca Desetog regionalnog centra. Prema prijavi, od novembra 2024. do jula 2026. sačinjavani su neutemeljeni predlozi za tajni nadzor nekoliko desetina studenata, profesora i aktivista, upućivani VJT u Leskovcu i Vranju; predlaže se da TOK ispita postojanje organizovane grupe.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6075412/bia-prijava-vladimir-orlic.html",
+   "id": "v145"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "RTV",
+   "kategorija": "korupcija",
+   "naslov": "Privredni sud u Beogradu otvorio stečaj nad Alta bankom",
+   "red": 75,
+   "sazetak": "Agencija za osiguranje depozita imenovana je za stečajnog upravnika, a Banka Poštanska štedionica za banku isplatioca osiguranih depozita do 50.000 evra. Datum početka isplate biće objavljen do 6. novembra.",
+   "url": "https://www.rtv.rs/sr_lat/ekonomija/privredni-sud-u-beogradu-otvorio-stecajni-postupak-nad-alta-bankom_1756069.html",
+   "id": "v146"
+  },
+  {
+   "datum": "2026-11-03",
    "izvor": "Studenti",
    "kategorija": "institucije",
    "naslov": "Studenti: pomilovanje vozača koji je udario studentkinju Sonju Ponjavić je neprihvatljivo",
@@ -28,6 +58,116 @@
    "sazetak": "Studentska lista ocenila je da Vučićevo pomilovanje vozača optuženog za pokušaj teškog ubistva studentkinje u januaru 2025. obesmišljava institut pomilovanja. Najavila je da će buduća vlast uvesti jasne kriterijume i mehanizme odgovornosti za pomilovanja.",
    "url": "https://studenti.org.rs/vesti/pomilovanje_oruzje/",
    "id": "v139"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Viši sud u Nišu: Vučić pomilovao Bobana Džunića i Nikolu Božića",
+   "red": 65,
+   "sazetak": "Odlukama od 27. septembra 2026. bivši funkcioneri niške opštine Palilula oslobođeni su krivičnog gonjenja za zloupotrebu službenog položaja. Džunić je uhapšen 2017. zbog sumnje na malverzacije s projektima EU.",
+   "url": "https://n1info.rs/vesti/vucic-pomilovao-i-bobana-dzunica-osumnjicenog-za-malverzacije-sa-projektima-eu-u-nisu/",
+   "id": "v149"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "VJT Beograd",
+   "kategorija": "hapsenje",
+   "naslov": "VJT u Beogradu uložiće žalbu na rešenje o pritvoru Kričku i Sekuloviću",
+   "red": 60,
+   "sazetak": "Tužilaštvo traži da im se pritvor odredi ne samo zbog opasnosti od uticaja na svedoke, nego i zbog opasnosti od ponavljanja krivičnog dela, kako je prvobitno predložilo. Kričku se stavljaju na teret zloupotreba službenog položaja i zlostavljanje i mučenje, a Sekuloviću zloupotreba službenog položaja.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1478/",
+   "id": "v147"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Tužilac Danilović: pomilovanje vozača koji je udario Sonju Ponjavić ne proizvodi pravno dejstvo",
+   "red": 60,
+   "sazetak": "Tužilac VJT u Beogradu Dragan Danilović rekao je za Nova.rs da pomilovanje Marka Pavlovića nije doneto po propisanoj proceduri. Predložio je veću Višeg suda da spise dostavi TOK-u zbog moguće zloupotrebe službenog položaja od strane bivšeg predsednika.",
+   "url": "https://n1info.rs/vesti/tuzilac-danilovic-za-novu-stalni-pritisci-da-ublazim-delo-protiv-vozaca-koji-je-pregazio-sonju-potvrdili-su-mi-sumnju-da-je-stvarni-pocinilac-dela-aleksandar-vucic/",
+   "id": "v150"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu se zbog „političkog pritiska” obratilo VST-u, Delegaciji EU i OEBS-u",
+   "red": 55,
+   "sazetak": "Više javno tužilaštvo u Beogradu zatražilo je od Visokog saveta tužilaštva hitnu reakciju na, kako navodi, atmosferu progona i linča i pozive na smenu rukovodilaca. Navodi i da je Vrhovni javni tužilac naložio kontrolu rada VJT u Beogradu.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1479/",
+   "id": "v148"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Prvo OJT dobilo obavezno uputstvo Vrhovnog JT za slučaj Nikoline Sinđelić i studenata koji su optužili Krička",
+   "red": 55,
+   "sazetak": "Prvo osnovno javno tužilaštvo u Beogradu dobilo je 2. novembra obavezno uputstvo Vrhovnog javnog tužilaštva za postupanje po prijavama studenata koji tvrde da ih je Marko Kričak zlostavljao u garaži Vlade Srbije u avgustu 2025. Sinđelićeva je za RTS rekla da više od godinu dana nije saslušana.",
+   "url": "https://n1info.rs/vesti/prvo-osnovno-tuzilastvo-slucaj-nikoline-sindjelic-marko-kricak/",
+   "id": "v151"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "UO RTS odložio izbor v.d. generalnog direktora i zatražio razgovor sa Savetom REM",
+   "red": 50,
+   "sazetak": "Prema UNS-u, Upravni odbor RTS-a odložio je za narednu sednicu raspravu o izboru v.d. generalnog direktora. Predsednik Saveta REM Stevica Smederevac ranije je izjavio da većini članova UO mandat ističe od 13. jula i da nemaju zakonski osnov za to imenovanje.",
+   "url": "https://n1info.rs/vesti/uns-uo-rts-odlozio-odluku-o-izboru-vd-generalnog-direktora/",
+   "id": "v152"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "program",
+   "naslov": "Kandidati Studentske liste potpisali izjavu o odgovornosti",
+   "red": 50,
+   "sazetak": "Svi kandidati su potpisali izjavu da nisu bili povezani sa vladajućim strankama, da neće zloupotrebljavati funkciju i da će raditi na ispunjenju studentskih zahteva. Ako prekrše neku od garancija, smatraće se da su podneli ostavku.",
+   "url": "https://n1info.rs/vesti/kandidati-studentske-liste-potpisali-izjavu-o-odgovornosti/",
+   "id": "v153"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "ZLF: Grad Beograd je krajem 2025. držao dve milijarde dinara u Alta banci",
+   "red": 45,
+   "sazetak": "Pozivajući se na izveštaj DRI, ZLF navodi da je Grad Beograd 31. decembra 2025. imao dve milijarde dinara budžetskog novca kao kratkoročni plasman u Alta banci, i traži od gradonačelnika Šapića da saopšti da li je novac vraćen.",
+   "url": "https://n1info.rs/vesti/zlf-sapic-da-saopsti-koliko-je-novca-beogradjana-plasirano-u-alta-banci-i-da-li-je-vracen/",
+   "id": "v156"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista najavila konferenciju o finansijskoj i energetskoj stabilnosti 4. novembra",
+   "red": 40,
+   "sazetak": "Na konferenciji za medije u sredu u 14 časova lista će govoriti o stanju u ključnim sektorima, odgovornosti institucija i predstaviti konkretne korake za zaštitu javnog interesa.",
+   "url": "https://studenti.org.rs/vesti/konferencija_4_11/",
+   "id": "v155"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "UNS traži da se Vučić izvini novinaru RTS-a Milanu Srdiću",
+   "red": 35,
+   "sazetak": "Udruženje novinara Srbije protestovalo je zbog Vučićevih izjava na TV Pink, u kojima je šefa dopisništva RTS-a u Novom Sadu nazvao „nepismenim” i „separatistički orijentisanim”.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6075316/uns-trazi-da-se-vucic-izvini-novinaru-rts-a-milanu-srdicu-zbog-uvreda.html",
+   "id": "v154"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "VJT u Smederevu: u Domu zdravlja nije uništavana dokumentacija",
+   "red": 30,
+   "sazetak": "Po nalogu tužilaštva policija je proverila navode s društvenih mreža i nije pronašla dokaze o uništavanju spisa. Tužilaštvo kaže da će nastaviti da proverava takve prijave.",
+   "url": "https://n1info.rs/vesti/vjt-u-domu-zdravlja-u-smederevu-nije-unistavana-dokumentacija/",
+   "id": "v158"
   },
   {
    "datum": "2026-11-02",
@@ -238,6 +378,16 @@
    "sazetak": "Izvršni odbor NBS oduzeo je dozvolu za izdavanje elektronskog novca društvu Alta group DOO Beograd, kao posledicu oduzimanja dozvole Alta banci. NBS navodi da sredstva korisnika platnih usluga ostaju zaštićena.",
    "url": "https://n1info.rs/biznis/nbs-oduzela-dozvolu-i-platnoj-instituciji-alta-group-doo-sredstva-korisnika-platnih-usluga-su-zasticena/",
    "id": "v121"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "RTV",
+   "kategorija": "korupcija",
+   "naslov": "DRI: samo 40 od 123 turistička projekta završeno u ugovorenom roku",
+   "red": 40,
+   "sazetak": "Revizija Ministarstva turizma i omladine za 2023–2025. utvrdila je da je odobreno više od 2,8 milijardi dinara bez procene spremnosti projekata, uz produžavanje rokova i slabu kontrolu.",
+   "url": "https://www.rtv.rs/sr_lat/ekonomija/dri-samo-40-od-123-turisticka-projekta-zavrseno-u-prvobitnim-rokovima_1755804.html",
+   "id": "v157"
   },
   {
    "datum": "2026-11-02",
@@ -1467,6 +1617,46 @@
    "id": "h20"
   },
   {
+   "datum": "2026-11-03",
+   "izvori": [
+    "https://n1info.rs/vesti/ministarstvo-pravde-objavilo-spisak-pomilovanih/",
+    "https://n1info.rs/vesti/vucic-pomilovao-i-bobana-dzunica-osumnjicenog-za-malverzacije-sa-projektima-eu-u-nisu/"
+   ],
+   "naslov": "Ministarstvo pravde objavilo imena svih 49 pomilovanih",
+   "opis": "Posle delimičnih spiskova viših sudova u Beogradu, Novom Sadu i Nišu, Ministarstvo pravde objavilo je svih 49 imena iz Vučićevih odluka o pomilovanju od 27. septembra 2026. Među pomilovanima su Dijana Hrkalović, Boban Džunić i vozač optužen za pokušaj teškog ubistva studentkinje Sonje Ponjavić.",
+   "osobe": "Ministarstvo pravde · Aleksandar Vučić · Dijana Hrkalović · Boban Džunić",
+   "red": 85,
+   "status": "zvanicno",
+   "tip": "otkrice",
+   "id": "h44"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6075412/bia-prijava-vladimir-orlic.html"
+   ],
+   "naslov": "Bivši pripadnici BIA prijavili direktora Orlića zbog tajnog nadzora studenata",
+   "opis": "Milan Zvezdanović i Mila Stojanović podneli su krivičnu prijavu protiv direktora BIA Vladimira Orlića i rukovodilaca Desetog regionalnog centra zbog sumnje na zloupotrebu službenog položaja i lažno prijavljivanje. Navode da su od novembra 2024. do jula 2026. upućivani neutemeljeni predlozi za posebne dokazne radnje prema nekoliko desetina studenata, profesora i aktivista.",
+   "osobe": "Vladimir Orlić · BIA · Milan Zvezdanović · Mila Stojanović",
+   "red": 75,
+   "status": "navod",
+   "tip": "prijava",
+   "id": "h45"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvori": [
+    "https://www.rtv.rs/sr_lat/ekonomija/privredni-sud-u-beogradu-otvorio-stecajni-postupak-nad-alta-bankom_1756069.html"
+   ],
+   "naslov": "Otvoren stečaj nad Alta bankom",
+   "opis": "Privredni sud u Beogradu otvorio je stečajni postupak nad Alta bankom; stečajni upravnik je Agencija za osiguranje depozita. Osigurani depoziti do 50.000 evra isplaćivaće se preko Banke Poštanske štedionice, a datum početka isplate biće objavljen do 6. novembra.",
+   "osobe": "Alta banka · Privredni sud u Beogradu · Agencija za osiguranje depozita",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h46"
+  },
+  {
    "datum": "2026-11-02",
    "iznos": "≈ 45,6 mlrd. din (> 380 mil. €)",
    "izvori": [
@@ -1542,10 +1732,12 @@
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1476/",
     "https://www.rtv.rs/sr_lat/hronika/uhapseni-nacelnici-policije-marko-kricak-i-bosko-sekulovic-zbog-slucaja-senjak_1755568.html",
     "https://n1info.rs/vesti/kricak-sekulovic-vjt-krivicna-prijava/",
-    "https://n1info.rs/vesti/odredjen-pritvor-do-30-dana-marku-kricku-i-bojanu-sekulovicu/"
+    "https://n1info.rs/vesti/odredjen-pritvor-do-30-dana-marku-kricku-i-bojanu-sekulovicu/",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1477/",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1478/"
    ],
    "naslov": "VJT: uhapšeni načelnik UKP Marko Kričak i Boško Sekulović zbog slučaja „Senjak”",
-   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima. U noći 2/3. novembra Viši sud u Beogradu odredio je obojici pritvor do 30 dana zbog opasnosti od uticaja na svedoke.",
+   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima. U noći 2/3. novembra Viši sud u Beogradu odredio je obojici pritvor do 30 dana zbog opasnosti od uticaja na svedoke. 3. nov: VJT najavilo žalbu, tražeći pritvor i zbog opasnosti od ponavljanja dela.",
    "osobe": "Marko Kričak (načelnik UKP) · Boško Sekulović (načelnik Službe za suzbijanje kriminala) · Nenad Stefanović · VJT u Beogradu",
    "red": 90,
    "status": "zvanicno",
@@ -2119,10 +2311,10 @@
   {
    "azurirano": "2026-11-03",
    "datum": "2026-10-11",
-   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 1. nov: Vučić kaže da „nema šta da krije”. 2. nov: Viši sudovi u Beogradu i Novom Sadu objavili imena oko 23 pomilovana (među njima Dijana Hrkalović i Igor Elez); ceo spisak od 49 imena još nije objavljen. 3. nov: studenti osudili pomilovanje vozača optuženog za pokušaj teškog ubistva studentkinje Sonje Ponjavić i najavili jasne kriterijume za pomilovanja.",
+   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 2. nov: Viši sudovi u Beogradu i Novom Sadu objavili imena oko 23 pomilovana (među njima Dijana Hrkalović i Igor Elez). 3. nov: Viši sud u Nišu objavio da su pomilovani Boban Džunić i Nikola Božić; Ministarstvo pravde objavilo ceo spisak od 49 imena. Provera zakonitosti postupka je u toku (tužilac Danilović predložio da TOK ispita pomilovanje u slučaju Sonje Ponjavić).",
    "naslov": "Objavljivanje celog spiska pomilovanih",
    "opis": "Imena 26 od 49 osoba koje je Vučić pomilovao ili abolirao i provera zakonitosti postupka.",
-   "status": "delimicno",
+   "status": "ispunjeno",
    "url": "https://studenti.org.rs/vesti/ko_je_pomilovan/",
    "id": "o10"
   },
