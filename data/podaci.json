@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-02T21:48+00:00",
+ "generisano": "2026-11-03T06:46+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -9,6 +9,26 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Viši sud u Beogradu odredio pritvor do 30 dana Marku Kričku i Bošku Sekuloviću",
+   "red": 90,
+   "sazetak": "Pritvor je određen zbog opasnosti od uticaja na svedoke. Obojici se na teret stavlja zloupotreba službenog položaja, a Kričku i zlostavljanje i mučenje; na rešenje je dozvoljena žalba u roku od tri dana.",
+   "url": "https://n1info.rs/vesti/odredjen-pritvor-do-30-dana-marku-kricku-i-bojanu-sekulovicu/",
+   "id": "v135"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Studenti: pomilovanje vozača koji je udario studentkinju Sonju Ponjavić je neprihvatljivo",
+   "red": 65,
+   "sazetak": "Studentska lista ocenila je da Vučićevo pomilovanje vozača optuženog za pokušaj teškog ubistva studentkinje u januaru 2025. obesmišljava institut pomilovanja. Najavila je da će buduća vlast uvesti jasne kriterijume i mehanizme odgovornosti za pomilovanja.",
+   "url": "https://studenti.org.rs/vesti/pomilovanje_oruzje/",
+   "id": "v139"
+  },
   {
    "datum": "2026-11-02",
    "izvor": "TOK",
@@ -28,6 +48,16 @@
    "sazetak": "Prema dopisu Ministarstva pravde, Vučić je odlukama od 27. septembra pomilovao Dijanu Hrkalović, Nebojšu Đokića, Marka Pavlovića, Draganu Živadinović i Miloša Dugalića. Četvoro je oslobođeno krivičnog gonjenja, jedan daljeg izdržavanja kazne.",
    "url": "https://n1info.rs/vesti/vucic-pomilovao-dijanu-hrkalovic-i-jos-cetiri-osobe-visi-sud-u-beogradu-objavio-spisak-pomilovanih/",
    "id": "v125"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "VJT u Novom Sadu: šestoro uhapšenih u Malom Zvorniku zbog lažnih prijava prebivališta birača iz BiH",
+   "red": 85,
+   "sazetak": "Zaposleni u Opštinskoj upravi i Policijskoj stanici Mali Zvornik osumnjičeni su da su od aprila do jula 2025. uz naknadu omogućili da se licima iz BiH prijavi prebivalište u zamenu za glas, upisivanjem neistinitih podataka u službene beleške. Jedan osumnjičeni se tereti i da je službenim vozilima opštine išao u „Ćacilend” u Beogradu.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/2-11-2026-saopstenje-za-javnost-2/",
+   "id": "v136"
   },
   {
    "datum": "2026-11-02",
@@ -51,6 +81,16 @@
   },
   {
    "datum": "2026-11-02",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "izbori",
+   "naslov": "VJT u Novom Sadu: uhapšena četvorica zbog kupovine glasova za listu broj 1",
+   "red": 80,
+   "sazetak": "Osumnjičeni su da je jedan od njih primio 30.000 dinara i isplatio po 6.000 dinara dvojici birača za glas za listu broj 1 na izborima 25. oktobra. Trojica su priznala delo, četvrtom je određeno zadržavanje do 48 sati.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/2-11-2026-saopstenje-za-javnost-1/",
+   "id": "v137"
+  },
+  {
+   "datum": "2026-11-02",
    "izvor": "TOK",
    "kategorija": "bezbednost",
    "naslov": "TOK traži da nadležni utvrde da li su njegovi tužioci prisluškivani i praćeni",
@@ -58,6 +98,16 @@
    "sazetak": "Povodom pisanja Radara da je BIA više od godinu dana pratila tužioce TOK-a zbog postupka „Nadstrešnica”, TOK je zatražio od nadležnih da to utvrde i naveo da bi to bio direktan napad na samostalnost tužilaštva.",
    "url": "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261102_2_cir.pdf",
    "id": "v127"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Stamenković: Komisija Vrhovnog javnog tužilaštva preuzela predmete o postupanju Krička prema studentima",
+   "red": 70,
+   "sazetak": "Komisija za kontrolu rada 87 tužilaštava preuzela je od Prvog OJT u Beogradu nekoliko predmeta od izuzetnog javnog interesa, među njima prijave studenata za maltretiranje u garaži Vlade Srbije i incident kod Pravnog fakulteta. Studentkinja Nikolina Sinđelić navela je za RTS da po njenoj prijavi nije saslušana više od godinu dana.",
+   "url": "https://n1info.rs/vesti/stamenkovic-komisija-vrhovnog-tuzilastva-preuzela-predmete-o-postupanju-kricka-prema-studentima/",
+   "id": "v138"
   },
   {
    "datum": "2026-11-02",
@@ -101,6 +151,16 @@
   },
   {
    "datum": "2026-11-02",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Vlada u tehničkom mandatu prebacila Beogradu skoro šest milijardi dinara za dug javnom prevozu",
+   "red": 55,
+   "sazetak": "Iz tekuće budžetske rezerve Gradu Beogradu odobreno je 5,98 milijardi dinara za pokrivanje dela dugova prema GSP-u i privatnim prevoznicima.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6074808/grad-beograd-prevoznici-novac.html",
+   "id": "v140"
+  },
+  {
+   "datum": "2026-11-02",
    "izvor": "Studenti",
    "kategorija": "korupcija",
    "naslov": "Studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej",
@@ -108,6 +168,26 @@
    "sazetak": "Studentska lista navodi da je projekat vredan oko 300 miliona evra sumnjiv i traži hitnu obustavu radova dok se ne ispitaju svi ugovori, dozvole i odluke.",
    "url": "https://studenti.org.rs/vesti/nis_pant_pruga/",
    "id": "v132"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Udruženje iz Vrbasa podnelo krivičnu prijavu zbog kupovine glasova za SNS",
+   "red": 50,
+   "sazetak": "„Lokalna alternativa” prijavila je dve osobe koje su, prema navodima, preko Vibera nudile novac biračima uz fotografisanje listića i lične karte. Policija je po nalogu Višeg javnog tužilaštva počela službene radnje.",
+   "url": "https://n1info.rs/vesti/udruzenje-iz-vrbasa-podnelo-krivicnu-prijavu-protiv-dve-osobe-tvrdi-da-su-kupovale-glasove-za-sns/",
+   "id": "v141"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "RTV",
+   "kategorija": "program",
+   "naslov": "Kuzmanović: biće provereni svi aktuelni infrastrukturni projekti",
+   "red": 50,
+   "sazetak": "Kandidat Studentske liste Vladan Kuzmanović rekao je da su radovi na novosadskoj stanici tri godine izvođeni bez prijave radova i bez izlaska građevinske inspekcije, a da tehnički pregled nije dao pozitivan izveštaj.",
+   "url": "https://www.rtv.rs/sr_lat/politika/kuzmanovic-bice-provereni-svi-aktuelni-infrastrukturni-projekti_1755896.html",
+   "id": "v142"
   },
   {
    "datum": "2026-11-02",
@@ -138,6 +218,16 @@
    "sazetak": "Lista traži od javnih izvršitelja da ne sprovode iseljenja porodica u Zemunu i na Vračaru najavljena za 2. i 4. novembar i najavljuje izmene zakona radi zaštite jedinog doma.",
    "url": "https://studenti.org.rs/vesti/bez_iseljenja/",
    "id": "v133"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Smederevac (UNS): Upravni odbor RTS-a nema zakonsko pravo da bira v.d. generalnog direktora",
+   "red": 45,
+   "sazetak": "Sednica UO RTS na kojoj bi trebalo da se imenuje v.d. generalnog direktora posle ostavke Manje Grčić zakazana je za 3. novembar u 17 časova.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6074872/smederevac-za-uns-upravni-odbor-rts-a-nema-zakonsko-pravo-da-bira-vd-generalnog-direktora.html",
+   "id": "v143"
   },
   {
    "datum": "2026-11-02",
@@ -1408,6 +1498,33 @@
   {
    "datum": "2026-11-02",
    "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/2-11-2026-saopstenje-za-javnost-2/"
+   ],
+   "naslov": "Mali Zvornik: šestoro uhapšenih zbog lažnih prijava prebivališta birača iz BiH",
+   "opis": "VJT u Novom Sadu saopštilo je da je uhapšeno šest osumnjičenih – zaposlenih u Opštinskoj upravi i Policijskoj stanici Mali Zvornik – zbog trgovine uticajem i zloupotrebe službenog položaja. Sumnja se da su od aprila do jula 2025. uz naknadu omogućili da se licima iz BiH prijavi prebivalište u zamenu za glas, upisujući neistinite podatke u službene beleške. M.O. se tereti i da je službenim vozilima opštine išao u „Ćacilend”. Određeno im je zadržavanje do 48 sati.",
+   "osobe": "G.R. · M.O. · F.Dž. · T.J. · N.T. · B.I. · Opštinska uprava i PS Mali Zvornik · VJT u Novom Sadu",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h43"
+  },
+  {
+   "datum": "2026-11-02",
+   "iznos": "30.000 din (po 6.000 din za glas)",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/2-11-2026-saopstenje-za-javnost-1/"
+   ],
+   "naslov": "Novi Sad: uhapšena četvorica zbog kupovine glasova za listu broj 1",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu uhapšeni su K.A., K.B., T.J. i M.Đ. zbog davanja i primanja mita u vezi sa glasanjem. Sumnja se da je K.A. od M.Đ. primio 30.000 dinara i 1. novembra isplatio po 6.000 dinara dvojici birača za glas za listu broj 1 na izborima 25. oktobra. Trojica su priznala delo.",
+   "osobe": "K.A. · K.B. · T.J. · M.Đ. · VJT u Novom Sadu",
+   "red": 75,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h42"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvori": [
     "https://n1info.rs/vesti/ninic-podneo-krivicnu-prijavu-tok-u-protiv-orlica-zaposleni-u-bia-imali-radnu-obavezu-da-skupljaju-glasove-za-sns/",
     "https://n1info.rs/vesti/glasanje-zatvori-izbori-prijava-ivan-ninic/"
    ],
@@ -1424,10 +1541,11 @@
    "izvori": [
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1476/",
     "https://www.rtv.rs/sr_lat/hronika/uhapseni-nacelnici-policije-marko-kricak-i-bosko-sekulovic-zbog-slucaja-senjak_1755568.html",
-    "https://n1info.rs/vesti/kricak-sekulovic-vjt-krivicna-prijava/"
+    "https://n1info.rs/vesti/kricak-sekulovic-vjt-krivicna-prijava/",
+    "https://n1info.rs/vesti/odredjen-pritvor-do-30-dana-marku-kricku-i-bojanu-sekulovicu/"
    ],
    "naslov": "VJT: uhapšeni načelnik UKP Marko Kričak i Boško Sekulović zbog slučaja „Senjak”",
-   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima.",
+   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima. U noći 2/3. novembra Viši sud u Beogradu odredio je obojici pritvor do 30 dana zbog opasnosti od uticaja na svedoke.",
    "osobe": "Marko Kričak (načelnik UKP) · Boško Sekulović (načelnik Službe za suzbijanje kriminala) · Nenad Stefanović · VJT u Beogradu",
    "red": 90,
    "status": "zvanicno",
@@ -1933,9 +2051,9 @@
    "id": "o02"
   },
   {
-   "azurirano": "2026-11-02",
+   "azurirano": "2026-11-03",
    "datum": "2026-10-29",
-   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje. 2. nov: studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej (≈ 300 mil. €) dok se ne ispitaju ugovori i dozvole.",
+   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje. 2. nov: studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej (≈ 300 mil. €) dok se ne ispitaju ugovori i dozvole; Kuzmanović (RTV) najavio proveru svih aktuelnih infrastrukturnih projekata.",
    "naslov": "Preispitivanje svih ugovora i javnih nabavki",
    "opis": "U skladu sa zakonom, posle formiranja vlasti.",
    "status": "najavljeno",
@@ -1961,9 +2079,9 @@
    "id": "o05"
   },
   {
-   "azurirano": "2026-11-01",
+   "azurirano": "2026-11-03",
    "datum": "2026-10-29",
-   "napomena": "1. nov: prema Tanjugu, uhapšen načelnik UKP Marko Kričak zbog slučaja „Senjak” (nezvanično, čeka se saopštenje VJT). Smene čelnika službi još nisu sprovedene.",
+   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
@@ -1999,9 +2117,9 @@
    "id": "o09"
   },
   {
-   "azurirano": "2026-11-02",
+   "azurirano": "2026-11-03",
    "datum": "2026-10-11",
-   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 1. nov: Vučić kaže da „nema šta da krije”. 2. nov: Viši sudovi u Beogradu i Novom Sadu objavili imena oko 23 pomilovana (među njima Dijana Hrkalović i Igor Elez); ceo spisak od 49 imena još nije objavljen.",
+   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 1. nov: Vučić kaže da „nema šta da krije”. 2. nov: Viši sudovi u Beogradu i Novom Sadu objavili imena oko 23 pomilovana (među njima Dijana Hrkalović i Igor Elez); ceo spisak od 49 imena još nije objavljen. 3. nov: studenti osudili pomilovanje vozača optuženog za pokušaj teškog ubistva studentkinje Sonje Ponjavić i najavili jasne kriterijume za pomilovanja.",
    "naslov": "Objavljivanje celog spiska pomilovanih",
    "opis": "Imena 26 od 49 osoba koje je Vučić pomilovao ili abolirao i provera zakonitosti postupka.",
    "status": "delimicno",
