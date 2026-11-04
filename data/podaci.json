@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-04T08:14+00:00",
+ "generisano": "2026-11-04T15:20+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -21,6 +21,116 @@
   },
   {
    "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Odloženo ročište u slučaju Generalštab, sledeće zakazano za 23. novembar",
+   "red": 88,
+   "sazetak": "Posebno odeljenje suda odložilo je ročište jer se nije pojavio okrivljeni Goran Vasić, v.d. direktora Republičkog zavoda za zaštitu spomenika kulture; njegov advokat je dostavio lekarsku potvrdu da je od 30. oktobra hospitalizovan. Sud je odbio predlog tužioca da se ročište održi bez njega.",
+   "url": "https://n1info.rs/vesti/odlozeno-rociste-u-slucaju-generalstab-nije-se-pojavio-goran-vasic/",
+   "id": "v177"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "Treće OJT",
+   "kategorija": "bezbednost",
+   "naslov": "Treće OJT formira predmet o letu za Moskvu: putnik prošao u pratnji službenika BIA bez propisanog pregleda",
+   "red": 87,
+   "sazetak": "Tužilaštvo je saopštilo da je dežurni tužilac 3. novembra u 20.26 obavešten da snimci pokazuju kako je putnik prošao kontrolu uz službenike BIA, bez propisanog pregleda. Prema policijskoj belešci dostavljenoj 4. novembra, oglasio se alarm, a putnik nije dodatno pregledan. Tužilaštvo ne imenuje putnika; Nova.rs navodi da je to Aleksandar Vulin.",
+   "url": "https://trece.ojt.rs/aktuelnosti/26902/",
+   "id": "v183"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "RTV",
+   "kategorija": "mediji",
+   "naslov": "Savet REM-a izrekao zabrane emitovanja TV Informer i TV Prva, pokrenuti novi postupci protiv pet televizija",
+   "red": 86,
+   "sazetak": "TV Informeru je na sedam dana zabranjeno emitovanje jutarnje informativne emisije i sličnih formata, a TV Prva emitovanje „Vesti” na jedan dan i Jutarnjeg programa na pet dana, zbog kršenja pravila izveštavanja u izbornoj kampanji. Pokrenuti su ispitni postupci protiv televizija Kurir, Prva, Informer, K1 i V5 iz Valjeva. Urednik Informera Dragan J. Vučićević tvrdi da REM postupa po nalogu Studentske liste i najavio je tužbe.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/savet-rem-a-izrekao-meru-za-tv-prva-i-tv-informer-pokrenuti-postupci-protiv-televizija-kurir-prva-informer-k1_1756280.html",
+   "id": "v179"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "Radar / N1",
+   "kategorija": "bezbednost",
+   "naslov": "Radar: BIA prisluškivala glavnu urednicu i novinare nedeljnika",
+   "red": 86,
+   "sazetak": "Radar navodi da je direktor BIA Vladimir Orlić tražio tajni nadzor nad Vesnom Mališić, Sandrom Petrušić i Milanom Radonjićem i da je Viši sud u Beogradu mere prvi put odobrio 12. juna 2026, uključujući snimanje komunikacije na adresi redakcije. Odgovor BIA ili suda nije objavljen.",
+   "url": "https://n1info.rs/vesti/radar-bia-prisluskivala-nasu-glavnu-urednicu-i-novinare/",
+   "id": "v192"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "BIRN",
+   "kategorija": "korupcija",
+   "naslov": "BIRN: Alta banka prijavila blizu 60 milijardi dinara gotovine, stručnjaci sumnjaju da je novca uopšte bilo",
+   "red": 85,
+   "sazetak": "Prema rešenju NBS u koje je BIRN imao uvid, banka je 30. septembra imala blizu 60 milijardi dinara gotovine (preko 500 miliona evra), a 28. i 29. oktobra povučeno je oko 140 miliona evra depozita. Rešenje ne pominje iznošenje novca iz trezora, što je navod tužilaštva. Nikola Fabris i neimenovani stručnjaci sumnjaju u postojanje tolike gotovine; NBS i TOK nisu odgovorili BIRN-u.",
+   "url": "https://birn.rs/alta-banka-pola-milijarde-evra-nbs/",
+   "id": "v189"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "TOK: skidanju zaštite s Generalštaba prethodili sastanci, saslušano nekoliko svedoka",
+   "red": 84,
+   "sazetak": "Povodom pisanja Gardijana, TOK je za N1 potvrdio da su postupku skidanja statusa kulturnog dobra prethodili sastanci i da je saslušano nekoliko svedoka koji su na nekima od njih bili. U odgovoru TOK-a Vučić se ne pominje po imenu; navod da je on sazivao sastanke potiče od Gardijana. Ostavka bivše direktorke Zavoda Dubravke Đukanović predložena je kao dokaz.",
+   "url": "https://n1info.rs/vesti/tok-za-n1-saslusanje-svedoka-pisanje-gardijana-aleksandar-vucic-sazivao-sastanke/",
+   "id": "v178"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "RTS",
+   "kategorija": "korupcija",
+   "naslov": "Studentska lista: direktna kontrola NBS zakazala u slučaju Alta banke, odgovornih je sigurno više od troje",
+   "red": 82,
+   "sazetak": "Ekonomista Emir Zildžović rekao je na konferenciji da problemi nisu nastali preko noći i pitao kako banka sa više od deset puta više gotovine od drugih banaka nije bila pod intenzivnom kontrolom. Lista traži ispitivanje kredita povezanim licima, nezavisnu analizu portfolija, hronologiju nadzornih mera NBS i objašnjenje zašto je naplata računa EPS-a od jula 2025. prebačena na Alta banku.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6076375/studentska-lista-alta-banka-nbs-direktna-kontrola-energetski-sistem-eps-struja.html",
+   "id": "v187"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "VJT Beograd",
+   "kategorija": "bezbednost",
+   "naslov": "VJT u Beogradu naložilo prikupljanje podataka o vraćanju aviona sa leta za Moskvu",
+   "red": 80,
+   "sazetak": "Posebno odeljenje za suzbijanje korupcije naložilo je policiji da utvrdi ko je i na osnovu kojih procena odlučio o vraćanju aviona, da li je bezbednost leta bila ugrožena i da li su poštovane procedure. Dežurni tužilac VJT nije bio obavešten o događaju, a Treće OJT je, prema N1, upitano po kom osnovu postupa.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1481/",
+   "id": "v184"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Izveštaj EK: Srbija bez napretka u vladavini prava, dalje nazadovanje slobode medija",
+   "red": 78,
+   "sazetak": "Godišnji izveštaj za period septembar 2025 – septembar 2026. ocenjuje ograničene rezultate u borbi protiv korupcije i upozorava na političke pritiske na institucije, novinare i civilno društvo. Izveštaj obuhvata period pre izborne pobede Studentske liste.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6076092/izvestaj-ek-o-srbiji.html",
+   "id": "v194"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Pristalice Informera opkolile člana Saveta REM-a Rodoljuba Šabića ispred REM-a",
+   "red": 74,
+   "sazetak": "Posle sednice REM-a okupljeni na skupu podrške Informeru opkolili su Šabića i vređali ga. Šabić, koga je pratila policija, kaže da nije povređen i da je policija reagovala korektno. Na skupu su, prema N1, bili v.d. predsednika Ana Brnabić i Miloš Vučević.",
+   "url": "https://n1info.rs/vesti/video-pristalice-informera-nasrnule-na-rodoljuba-sabica-ispred-rem-a/",
+   "id": "v182"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "VJT Beograd",
+   "kategorija": "hapsenje",
+   "naslov": "VJT: policija u Okružnom zatvoru proverava anonimnu prijavu da pritvoreni M.K. ima mobilni telefon",
+   "red": 72,
+   "sazetak": "Policija je po nalogu Posebnog odeljenja za suzbijanje korupcije ušla u Okružni zatvor u Beogradu; naloženo je da se pretraže prostorija pritvorenog i kancelarija v.d. upravnika Odeljenja za posebne pritvore i oduzmu eventualni telefoni. Mediji M.K. identifikuju kao Marka Krička. Rezultat provere nije objavljen.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1482/",
+   "id": "v186"
+  },
+  {
+   "datum": "2026-11-04",
    "izvor": "RTS",
    "kategorija": "bezbednost",
    "naslov": "Avion Er Srbije s Vulinom vraćen sa leta za Moskvu radi bezbednosne provere, jutros stigao u Moskvu",
@@ -31,6 +141,66 @@
   },
   {
    "datum": "2026-11-04",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista traži preispitivanje poslovanja EPS-a i upozorava na rokove za akcize, gas i NIS",
+   "red": 70,
+   "sazetak": "Stevan Cvetićanin pozvao je ministarku Dubravku Đedović Handanović i rukovodstvo EPS-a da saopšte stvarno stanje preduzeća. Dejan Radivojević upozorio je da mera smanjenja akciza ističe 8. novembra, gasni aranžman 31. decembra, a OFAC licence za NIS 11. decembra, i predložio višegodišnji ugovor o gasu i alternativne pravce snabdevanja.",
+   "url": "https://studenti.org.rs/vesti/konferencija_4_11/",
+   "id": "v188"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "EU: pobeda Studentske liste otvara mogućnost za deblokadu sredstava, ali Srbija bi mogla da izgubi oko 265 miliona evra",
+   "red": 66,
+   "sazetak": "Visoki zvaničnik EU rekao je na neformalnom brifingu da je Srbija zbog neispunjenih reformi već trajno izgubila 40,8 miliona evra iz Plana rasta i da će verovatno do kraja godine izgubiti još oko 224 miliona. Za Srbiju je u Planu rasta predviđeno oko 1,6 milijardi evra.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6076127/plan-rasta-eu-srbija.html",
+   "id": "v196"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Smederevac: RTS trenutno nema upravni odbor, novi bi mogao da bude formiran za oko četiri meseca",
+   "red": 60,
+   "sazetak": "Predsednik Saveta REM-a rekao je FoNetu da su članovima UO RTS-a po zakonu istekli mandati i da dopis ministarstva o produženju nema pravnu snagu. Savet je usvojio nacrt pravilnika o izboru članova, a nove upravne odbore RTS-a i RTV-a očekuje oko februara.",
+   "url": "https://n1info.rs/vesti/smederevac-rts-trenutno-nema-upravni-odbor-novi-bi-mogao-da-bude-formiran-za-oko-cetiri-meseca/",
+   "id": "v180"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Kos: Srbija nazadovala, ali sada ima priliku za novi početak",
+   "red": 58,
+   "sazetak": "Komesarka za proširenje Marta Kos rekla je da je Srbija nazadovala u osnovnim pravima, posebno u slobodi izražavanja, kao i u javnoj upravi i akademskoj slobodi, i da posle promene vlasti ima priliku za novi početak.",
+   "url": "https://n1info.rs/vesti/kos-o-godisnje-izvestaju-ek-srbija-nazadovala-ali-sada-ima-priliku-za-novi-pocetak/",
+   "id": "v195"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Saičić: spremni smo za posao kad god bude sazvana sednica Skupštine",
+   "red": 56,
+   "sazetak": "Kandidat Studentske liste Radomir Saičić rekao je za Danas da konstitutivna sednica može biti sazvana vrlo brzo, ali da to zavisi od Ane Brnabić. Razgovori o sastavu vlade nisu završeni, a odluku će zajedno doneti studentski pokret i kandidati.",
+   "url": "https://n1info.rs/vesti/saicic-spremni-smo-za-posao-kad-god-bude-sazvana-sednica-skupstine/",
+   "id": "v197"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "BIRN",
+   "kategorija": "korupcija",
+   "naslov": "BIRN: firme povezane s finansijskom direktorkom SKC-a fakturisale ustanovi više od 23 miliona dinara",
+   "red": 55,
+   "sazetak": "Prema fakturama koje je BIRN video, Nova Fin-Art i omladinska zadruga TIN kultura naplatile su SKC-u više od 23 miliona dinara 2024. i u prvih osam meseci 2025. Veselinović nije odgovorio na pitanja, a Marica Živković se nije javila. Ovo su nalazi BIRN-a; nijedan organ se nije izjasnio.",
+   "url": "https://birn.rs/skc-milioni-firme-preko-finansijske-direktorke/",
+   "id": "v191"
+  },
+  {
+   "datum": "2026-11-04",
    "izvor": "RTV",
    "kategorija": "institucije",
    "naslov": "Nacrt izveštaja EK: Klaster 3 ostaje tehnički spreman za otvaranje, tempo zavisi od vladavine prava i dijaloga",
@@ -38,6 +208,36 @@
    "sazetak": "Prema nacrtu Paketa o proširenju za 2026. u koji je Tanjug imao uvid, ostaje ocena da je Srbija ispunila merila za otvaranje Klastera 3. Ukupan tempo pregovora i dalje zavisi od napretka u vladavini prava i normalizacije odnosa s Prištinom. Dokument danas predstavlja komesarka Marta Kos.",
    "url": "https://www.rtv.rs/sr_lat/politika/evropska-komisija-u-izvestaju-o-srbiji-ocena-da-je-klaster-3-spreman-za-otvaranje-ostaje-na-snazi_1756222.html",
    "id": "v169"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Vulin video-porukom iz Moskve: „Ja nisam nigde pobegao”",
+   "red": 50,
+   "sazetak": "Aleksandar Vulin, predsednik Nadzornog odbora Srbijagasa, naveo je da nije pobegao i da će u Moskvi imati sastanke o produženju gasnog aranžmana. Kritikovao je pisanje da je let vraćen zbog nepoštovanja bezbednosne procedure.",
+   "url": "https://n1info.rs/vesti/ja-nisam-nigde-pobegao-vulin-se-javio-iz-moskve-video-porukom-video/",
+   "id": "v185"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1 / Beta",
+   "kategorija": "mediji",
+   "naslov": "Milivojević podneo krivične prijave protiv Tanjuga i Informera zbog objave rezultata u izbornoj noći",
+   "red": 50,
+   "sazetak": "Predsednik DS tvrdi da su mediji, u dogovoru s odlazećom vlašću, delimične rezultate sa 203 biračka mesta predstavili kao pobedu liste Ujedinjena Srbija. To su navodi podnosioca; Tanjug je najavio tužbu i navodi da su njegovi rezultati odgovarali tadašnjim podacima RIK-a.",
+   "url": "https://n1info.rs/vesti/srdjan-milivojevic-podneo-prijave-protiv-informera-i-tanjuga/",
+   "id": "v198"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "Insajder / FoNet",
+   "kategorija": "mediji",
+   "naslov": "UNS traži hitnu istragu zbog nadzora BIA nad novinarima Radara",
+   "red": 48,
+   "sazetak": "UNS je zatražio da nadležni ispitaju odgovornost svih učesnika i objave rezultate. Prema objavljenim informacijama, mere su trajale od 12. juna do 3. novembra zbog sumnje na špijunažu, a BIA je u predlogu za obustavu zaključila da podaci ne ukazuju na umešanost novinara.",
+   "url": "https://insajder.net/vesti/uns-trazi-hitnu-istragu-zbog-tajnog-nadzora-bia-nad-novinarima-i-urednicom-radara",
+   "id": "v193"
   },
   {
    "datum": "2026-11-04",
@@ -53,11 +253,51 @@
    "datum": "2026-11-04",
    "izvor": "N1",
    "kategorija": "korupcija",
+   "naslov": "Severna Makedonija: Srbija nije tražila proveru transfera Alta banke",
+   "red": 45,
+   "sazetak": "Ministarstvo finansija Severne Makedonije saopštilo je N1 da nije dobilo zahtev iz Srbije. Guverner Trajko Slaveski rekao je da je iz Alta banke Bitolj u Srbiju posle 26. oktobra otišlo oko 180.000 evra, a stiglo oko 16.000 evra. Banka je pod upravom centralne banke i nastavlja rad.",
+   "url": "https://n1info.rs/biznis/alta-banka-bitolj-ministarstvo-finansija-severne-makedonije-zahtev-srbije/",
+   "id": "v190"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "RTV",
+   "kategorija": "mediji",
+   "naslov": "UNS: Dejan Jovanović ovlašćeno lice za zastupanje RTS-a do izbora novog generalnog direktora",
+   "red": 42,
+   "sazetak": "Finansijska direktorka RTS-a Dragana Janković potvrdila je za UNS da zamenik generalnog direktora može da zastupa javni servis dok je generalni direktor sprečen, što je slučaj posle ostavke Manje Grčić. Navela je da će biti problema sa usvajanjem finansijskog plana.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/uns-dejan-jovanovic-ovlasceno-lice-za-zastupanje-rts-a-do-izbora-novog-generalnog-direktora_1756318.html",
+   "id": "v181"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "korupcija",
    "naslov": "Beograd u pokretu traži od tužilaštva i DRI ispitivanje poslovanja INSITE NPL s Gradom Beogradom",
    "red": 40,
    "sazetak": "Organizacija navodi da je firma od 2021. do kraja 2025. imala 243,4 miliona dinara prihoda i da je u njoj, prema objavljenim informacijama, posle ostavke radio bivši sekretar za saobraćaj Nikola Tatović. To su navodi organizacije; odgovor firme, Grada ili tužilaštva nije objavljen.",
    "url": "https://n1info.rs/vesti/beograd-u-pokretu-trazi-ispitivanje-poslovanja-insite-npl-sa-gradom-beogradom-i-gradskim-preduzecima/",
    "id": "v168"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1 / Beta",
+   "kategorija": "institucije",
+   "naslov": "Mađar u parlamentu čestitao Studentskoj listi i najavio posetu Srbiji",
+   "red": 40,
+   "sazetak": "Premijer Mađarske Peter Mađar čestitao je Studentskoj listi na pobedi i najavio skoru posetu Srbiji i kontakt s novom vladom.",
+   "url": "https://n1info.rs/vesti/madjar-u-parlamentu-govorio-o-studentskoj-listi/",
+   "id": "v200"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "OJT u Smederevu proverava prijavu da je biračici bez njenog znanja promenjeno biračko mesto",
+   "red": 38,
+   "sazetak": "Oštećena A.V., koja živi u Briselu, tvrdi da joj je biračko mesto iz Smedereva prebačeno u Generalni konzulat u Banjaluci i osporava potpis na zahtevu od 21. septembra. Tužilaštvo postupa protiv NN lica zbog sumnje na falsifikovanje isprave i povredu prava glasanja.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-u-smederevu-istrazuje-navode-zena-tvrdi-da-je-neko-prijavio-da-glasa-u-banjaluci/",
+   "id": "v199"
   },
   {
    "datum": "2026-11-04",
@@ -1785,16 +2025,90 @@
    "id": "h31"
   },
   {
-   "datum": "2026-11-04",
+   "datum": "2026-11-23",
    "izvori": [
-    "https://studenti.org.rs/vesti/studentiorgrs-generalstab_tramp/"
+    "https://studenti.org.rs/vesti/studentiorgrs-generalstab_tramp/",
+    "https://n1info.rs/vesti/odlozeno-rociste-u-slucaju-generalstab-nije-se-pojavio-goran-vasic/",
+    "https://n1info.rs/vesti/tok-za-n1-saslusanje-svedoka-pisanje-gardijana-aleksandar-vucic-sazivao-sastanke/"
    ],
-   "naslov": "Ročište u slučaju Generalštab",
-   "opis": "Na ovom ročištu očekuje se predstavljanje dokaza o kojima je pisao Gardijan.",
+   "naslov": "Nastavak ročišta u slučaju Generalštab",
+   "opis": "Ročište zakazano za 4. novembar odloženo je jer se nije pojavio okrivljeni Goran Vasić, čiji je advokat dostavio potvrdu o hospitalizaciji; sledeće je zakazano za 23. novembar. TOK je 4. novembra za N1 potvrdio da su skidanju zaštite prethodili sastanci i da je saslušano nekoliko svedoka, ne imenujući Vučića.",
+   "osobe": "Nikola Selaković · Goran Vasić · Aleksandra Ivanović · Slavica Jelača · TOK",
    "red": 50,
    "status": "najavljeno",
    "tip": "prijava",
    "id": "h20"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvori": [
+    "https://www.rtv.rs/sr_lat/drustvo/savet-rem-a-izrekao-meru-za-tv-prva-i-tv-informer-pokrenuti-postupci-protiv-televizija-kurir-prva-informer-k1_1756280.html",
+    "https://n1info.rs/vesti/savet-rem-zabranio-informeru-emitovanje-emisije-prve-info-na-sedam-dana/",
+    "https://n1info.rs/vesti/rem-zabranio-tv-prva-emitovanje-vesti-na-jedan-dan-a-emitovanje-jutarnjeg-programa-na-pet/"
+   ],
+   "naslov": "Savet REM-a izrekao zabrane emitovanja TV Informer i TV Prva",
+   "opis": "Zbog kršenja pravila izveštavanja u izbornoj kampanji Savet REM-a zabranio je TV Informeru na sedam dana emitovanje jutarnje informativne emisije i sličnih formata, a TV Prva emitovanje „Vesti” na jedan dan i Jutarnjeg programa na pet dana. Pokrenuti su novi ispitni postupci protiv televizija Kurir, Prva, Informer, K1 i V5. Pisana odluka za Informer očekuje se za pet do sedam dana.",
+   "osobe": "Savet REM-a · Stevica Smederevac · TV Informer · TV Prva",
+   "red": 82,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h53"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvori": [
+    "https://n1info.rs/vesti/radar-bia-prisluskivala-nasu-glavnu-urednicu-i-novinare/",
+    "https://insajder.net/vesti/uns-trazi-hitnu-istragu-zbog-tajnog-nadzora-bia-nad-novinarima-i-urednicom-radara"
+   ],
+   "naslov": "Radar: BIA tajno nadzirala glavnu urednicu i novinare nedeljnika",
+   "opis": "Radar tvrdi da je direktor BIA Vladimir Orlić tražio tajni nadzor nad Vesnom Mališić, Sandrom Petrušić i Milanom Radonjićem i da je Viši sud u Beogradu mere prvi put odobrio 12. juna 2026. Prema objavljenim informacijama, mere su trajale do 3. novembra zbog sumnje na špijunažu. BIA i sud nisu se oglasili; UNS traži hitnu istragu.",
+   "osobe": "Vladimir Orlić · BIA · Vesna Mališić · Sandra Petrušić · Milan Radonjić · Viši sud u Beogradu",
+   "red": 80,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h54"
+  },
+  {
+   "datum": "2026-11-04",
+   "iznos": "≈ 60 mlrd. din (> 500 mil. €)",
+   "izvori": [
+    "https://birn.rs/alta-banka-pola-milijarde-evra-nbs/",
+    "https://n1info.rs/biznis/sta-stoji-u-resenju-nbs-o-alta-banci-birn-imao-uvid/"
+   ],
+   "naslov": "BIRN: rešenje NBS pokazuje blizu 60 milijardi dinara gotovine u Alta banci",
+   "opis": "BIRN navodi da je u rešenju o oduzimanju dozvole zabeleženo da je banka 30. septembra 2026. imala blizu 60 milijardi dinara gotovine i da je 28. i 29. oktobra povučeno oko 140 miliona evra depozita. Rešenje ne pominje iznošenje novca iz trezora, što je sumnja tužilaštva. Stručnjaci koje BIRN navodi sumnjaju da je toliko gotovine postojalo. NBS i TOK nisu odgovorili na pitanja BIRN-a.",
+   "osobe": "Alta banka · NBS · TOK · Nikola Fabris",
+   "red": 78,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h52"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6076092/izvestaj-ek-o-srbiji.html",
+    "https://n1info.rs/vesti/kos-o-godisnje-izvestaju-ek-srbija-nazadovala-ali-sada-ima-priliku-za-novi-pocetak/"
+   ],
+   "naslov": "Evropska komisija: Srbija bez napretka u vladavini prava, nazadovanje slobode medija",
+   "opis": "Godišnji izveštaj za period septembar 2025 – septembar 2026. ocenjuje ograničene rezultate u borbi protiv korupcije i upozorava na političke pritiske na institucije, novinare i civilno društvo. Komesarka Marta Kos rekla je da Srbija posle promene vlasti ima priliku za novi početak.",
+   "osobe": "Evropska komisija · Marta Kos",
+   "red": 72,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h55"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvori": [
+    "https://n1info.rs/vesti/video-pristalice-informera-nasrnule-na-rodoljuba-sabica-ispred-rem-a/"
+   ],
+   "naslov": "Pristalice Informera opkolile člana Saveta REM-a Rodoljuba Šabića",
+   "opis": "Posle sednice REM-a okupljeni na skupu podrške Informeru opkolili su Šabića i vređali ga, što je prikazano na snimku sa društvenih mreža. Šabić, koga je pratila policija, kaže da nije povređen i da je policija reagovala korektno. Kritikovao je prisustvo v.d. predsednika Ane Brnabić skupu.",
+   "osobe": "Rodoljub Šabić · Ana Brnabić · Savet REM-a",
+   "red": 62,
+   "status": "navod",
+   "tip": "incident",
+   "id": "h56"
   },
   {
    "datum": "2026-11-03",
@@ -1898,13 +2212,16 @@
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6075991/avion-koji-je-vracen-sa-leta-za-moskvu-jutros-sleteo-u-rusku-prestonicu.html",
     "https://n1info.rs/vesti/er-srbija-o-vracanju-aviona-za-moskvu-neophodne-dodatne-bezbednosne-provere-jednog-putnika/",
-    "https://n1info.rs/vesti/sleteo-avion-s-vulinom-bajatovicem-i-popovicem-koji-je-bio-vracen-sa-leta-za-moskvu/"
+    "https://n1info.rs/vesti/sleteo-avion-s-vulinom-bajatovicem-i-popovicem-koji-je-bio-vracen-sa-leta-za-moskvu/",
+    "https://trece.ojt.rs/aktuelnosti/26902/",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1481/",
+    "https://n1info.rs/vesti/ja-nisam-nigde-pobegao-vulin-se-javio-iz-moskve-video-porukom-video/"
    ],
-   "naslov": "Let za Moskvu vraćen u Beograd radi provere putnika, mediji navode Vulina",
-   "opis": "Er Srbija je potvrdila da je let JU134 vraćen jer su bezbednosne službe aerodroma tražile dodatnu proveru jednog putnika, čije ime nije objavila. U avionu su bili Aleksandar Vulin, Nenad Popović i Dušan Bajatović. Da se provera odnosila na Vulina tvrdi Nova.rs na osnovu nezvaničnih izvora; policija i aerodrom to nisu potvrdili. Vulin kaže da je putovao poslovno. Avion je stigao u Moskvu ujutru 4. novembra.",
+   "naslov": "Let za Moskvu vraćen u Beograd radi provere putnika, tužilaštva proveravaju okolnosti",
+   "opis": "Er Srbija je potvrdila da je let JU134 vraćen jer su bezbednosne službe aerodroma tražile dodatnu proveru jednog putnika. U avionu su bili Aleksandar Vulin, Nenad Popović i Dušan Bajatović; avion je stigao u Moskvu ujutru 4. novembra. 4. nov: Treće OJT saopštilo je da formira predmet jer je putnik prošao kontrolu uz službenike BIA bez propisanog pregleda, a VJT u Beogradu naložilo je policiji da utvrdi ko je odlučio o vraćanju aviona i da li su poštovane procedure. Tužilaštva ne imenuju putnika; da je to Vulin tvrdi Nova.rs, a Vulin kaže da je putovao poslovno i da nije pobegao.",
    "osobe": "Aleksandar Vulin · Nenad Popović · Dušan Bajatović · Er Srbija",
    "red": 60,
-   "status": "navod",
+   "status": "zvanicno",
    "tip": "incident",
    "id": "h51"
   },
@@ -2480,9 +2797,9 @@
  ],
  "obecanja": [
   {
-   "azurirano": "2026-11-02",
+   "azurirano": "2026-11-04",
    "datum": "2026-10-29",
-   "napomena": "1. nov: ponovljeno glasanje na 53 mesta; prema projekciji Crte Studentska lista ima 140 mandata, SPP ulazi u Skupštinu. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); ima 96 sati za konačan izveštaj. Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata.",
+   "napomena": "1. nov: ponovljeno glasanje na 53 mesta; prema projekciji Crte Studentska lista ima 140 mandata, SPP ulazi u Skupštinu. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); ima 96 sati za konačan izveštaj. Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
    "status": "u_toku",
@@ -2490,7 +2807,9 @@
    "id": "o01"
   },
   {
+   "azurirano": "2026-11-04",
    "datum": "2026-10-29",
+   "napomena": "4. nov: na konferenciji Studentske liste zatraženo je hitno preispitivanje poslovanja EPS-a i da ministarka energetike i rukovodstvo EPS-a saopšte stvarno stanje preduzeća. Popis još nije počeo jer nova vlast nije preuzela dužnost.",
    "naslov": "Hitan popis zatečenog stanja u institucijama",
    "opis": "Ministarstva, javna preduzeća, EPS i državni fondovi: finansije, ugovori, javne nabavke i preuzete obaveze.",
    "status": "najavljeno",
@@ -2546,7 +2865,7 @@
   {
    "azurirano": "2026-11-04",
    "datum": "2026-10-27",
-   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić; ostavku podneo i direktor RTV-a Goran Karadžić. 3. nov: UO RTS odložio izbor v.d. generalnog direktora i zatražio od Saveta REM-a da se izjasni o njegovom statusu; Savet REM-a 4. novembra razmatra novi pravilnik o izboru upravnih odbora RTS-a i RTV-a.",
+   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić; ostavku podneo i direktor RTV-a Goran Karadžić. 3. nov: UO RTS odložio izbor v.d. generalnog direktora. 4. nov: Savet REM-a usvojio nacrt pravilnika o imenovanju članova upravnih odbora javnih servisa; Smederevac kaže da RTS trenutno nema upravni odbor i da se novi odbori RTS-a i RTV-a očekuju oko februara. Dejan Jovanović, kao zamenik, zastupa RTS do izbora novog direktora.",
    "naslov": "Departizacija RTS-a i ostavke rukovodstva javnog servisa",
    "opis": "Ostavke generalnog direktora, zamenika i glavnih urednika; nezavisan REM.",
    "status": "delimicno",
