@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-03T15:14+00:00",
+ "generisano": "2026-11-04T08:14+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -9,6 +9,66 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Viši sud u Beogradu odredio pritvor do 30 dana Davoru Macuri i još dvoje iz Alta banke",
+   "red": 95,
+   "sazetak": "Sudija za prethodni postupak Posebnog odeljenja za organizovani kriminal odredio je pritvor do 30 dana vlasniku Alta banke Davoru Macuri, G.M. i I.P., zbog opasnosti od uticaja na svedoke i ponavljanja dela, a Macuri i zbog opasnosti od bekstva. Prema njegovom advokatu, Macura je pred TOK-om negirao krivicu. Na rešenje je moguća žalba u roku od tri dana.",
+   "url": "https://n1info.rs/vesti/davoru-macuri-odredjen-pritvor-do-30-dana/",
+   "id": "v159"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Avion Er Srbije s Vulinom vraćen sa leta za Moskvu radi bezbednosne provere, jutros stigao u Moskvu",
+   "red": 70,
+   "sazetak": "Er Srbija je saopštila da je avion na letu JU134 vraćen u Beograd jer su bezbednosne službe aerodroma tražile dodatnu proveru jednog putnika, ne navodeći ime. Među putnicima su bili Aleksandar Vulin, Nenad Popović i Dušan Bajatović. Nova.rs navodi, bez zvanične potvrde, da Vulin nije prošao bezbednosnu proveru; Vulin kaže da je u Moskvu putovao poslovno.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6075991/avion-koji-je-vracen-sa-leta-za-moskvu-jutros-sleteo-u-rusku-prestonicu.html",
+   "id": "v162"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Nacrt izveštaja EK: Klaster 3 ostaje tehnički spreman za otvaranje, tempo zavisi od vladavine prava i dijaloga",
+   "red": 50,
+   "sazetak": "Prema nacrtu Paketa o proširenju za 2026. u koji je Tanjug imao uvid, ostaje ocena da je Srbija ispunila merila za otvaranje Klastera 3. Ukupan tempo pregovora i dalje zavisi od napretka u vladavini prava i normalizacije odnosa s Prištinom. Dokument danas predstavlja komesarka Marta Kos.",
+   "url": "https://www.rtv.rs/sr_lat/politika/evropska-komisija-u-izvestaju-o-srbiji-ocena-da-je-klaster-3-spreman-za-otvaranje-ostaje-na-snazi_1756222.html",
+   "id": "v169"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "ANN: N1 i Nova S biće dostupni preko Telekoma i Yettela",
+   "red": 45,
+   "sazetak": "Upravni odbor ANN Srbija saopštio je da će kanali biti dostupni kod ta dva operatora i da su pregovori s drugima u toku. Kompanija očekuje da ulaganja u Novu S 2027. pređu 11,3 miliona evra, a planovi za N1 slede posle konsultacija sa sindikatima. N1 izveštava o sopstvenoj vlasničkoj grupi.",
+   "url": "https://n1info.rs/vesti/ann-n1-i-nova-s-bice-dostupni-preko-telekoma-i-yettela-a-u-novu-s-bice-ulozeno-vise-od-113-miliona-evra-u-2027-godini/",
+   "id": "v171"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Beograd u pokretu traži od tužilaštva i DRI ispitivanje poslovanja INSITE NPL s Gradom Beogradom",
+   "red": 40,
+   "sazetak": "Organizacija navodi da je firma od 2021. do kraja 2025. imala 243,4 miliona dinara prihoda i da je u njoj, prema objavljenim informacijama, posle ostavke radio bivši sekretar za saobraćaj Nikola Tatović. To su navodi organizacije; odgovor firme, Grada ili tužilaštva nije objavljen.",
+   "url": "https://n1info.rs/vesti/beograd-u-pokretu-trazi-ispitivanje-poslovanja-insite-npl-sa-gradom-beogradom-i-gradskim-preduzecima/",
+   "id": "v168"
+  },
+  {
+   "datum": "2026-11-04",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "IT blokada i Akademski plenum pozvali građane da prijave represiju na platformi Stop brutalnosti",
+   "red": 35,
+   "sazetak": "Dve grupe prikupljaju svedočenja o nasilju, pretnjama i odmazdi na poslu i pokrenule su bazu „Za dan posle”, kako bi građa bila dostupna tužilaštvima. Građani sami biraju da li će svedočenje biti javno.",
+   "url": "https://n1info.rs/vesti/it-blokada-i-akademski-plenum-pozvali-gradjane-da-prijave-represiju-na-platformi-stop-brutalnosti/",
+   "id": "v175"
+  },
   {
    "datum": "2026-11-03",
    "izvor": "N1",
@@ -21,6 +81,16 @@
   },
   {
    "datum": "2026-11-03",
+   "izvor": "VJT Beograd",
+   "kategorija": "hapsenje",
+   "naslov": "VJT u Beogradu: uhapšen direktor RHMZ-a i još dve osobe zbog sumnje na pranje najmanje 650.000 evra",
+   "red": 90,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije uhapšeni su direktor Republičkog hidrometeorološkog zavoda J.N. (prema medijima Jugoslav Nikolić), O.N. i Đ.N. Sumnjiče se za pranje novca od novembra 2019. do novembra 2024. kupovinom nekretnina u Srbiji i Crnoj Gori. Direktor se tereti i da Agenciji za sprečavanje korupcije nije prijavio promene imovine.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1480/",
+   "id": "v160"
+  },
+  {
+   "datum": "2026-11-03",
    "izvor": "N1",
    "kategorija": "institucije",
    "naslov": "Ministarstvo pravde objavilo spisak svih 49 pomilovanih",
@@ -28,6 +98,16 @@
    "sazetak": "Ministarstvo pravde objavilo je imena svih 49 osoba koje je bivši predsednik Aleksandar Vučić pomilovao poslednjeg dana pre ostavke. Do tada su viši sudovi objavili samo deo imena.",
    "url": "https://n1info.rs/vesti/ministarstvo-pravde-objavilo-spisak-pomilovanih/",
    "id": "v144"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "VJT u Novom Sadu: uhapšen direktor JKP „Drina” Mali Zvornik zbog nameštene nabavke",
+   "red": 80,
+   "sazetak": "Direktor D.K. sumnjiči se da je 2025. omogućio javnu nabavku s unapred dogovorenim ponuđačem, kome je prilagođena konkursna dokumentacija, i da je tom ponuđaču isplaćeno preko 13 miliona dinara iako su uz ponudu dostavljene neistinite isprave. Određeno mu je zadržavanje do 48 sati.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/3-11-2026-saopstenje-za-javnost/",
+   "id": "v161"
   },
   {
    "datum": "2026-11-03",
@@ -51,6 +131,26 @@
   },
   {
    "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "DRI: JKP Beogradski park dobio 128,5 miliona dinara bez dokaza da su usluge izvršene",
+   "red": 75,
+   "sazetak": "U reviziji Sekretarijata za komunalne i stambene poslove za 2025. DRI je utvrdila da je novac isplaćen za „specijalizovane usluge” bez validnih računovodstvenih isprava i da po suštini odgovara subvencijama. N1 navodi i da je cenovnik preduzeća višestruko iznad tržišnih cena, što je poređenje redakcije, a ne nalaz DRI.",
+   "url": "https://n1info.rs/biznis/beogradski-park-izvukao-milione-iz-budzeta-nema-potvrde-da-su-usluge-izvrsene/",
+   "id": "v163"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "Insajder",
+   "kategorija": "korupcija",
+   "naslov": "Insajder: koja državna i javna preduzeća imaju račune u Alta banci i koliko je novca zarobljeno",
+   "red": 70,
+   "sazetak": "Račune u banci imali su, između ostalih, EPS, Pošta Srbije, Srbijavode, NIS, Expo 2027, Beograd na vodi i gradske uprave Beograda i Novog Sada. Srbijavode navode oko 879.000 evra, a za EPS Insajder sam procenjuje oko 1,6 miliona evra, što EPS nije potvrdio. Gradonačelnik Novog Sada kaže da je oročeni depozit od 5,2 milijarde dinara povučen pre stečaja.",
+   "url": "https://insajder.net/vesti/analiza-insajdera-koja-drzavna-i-javna-preduzeca-imaju-racune-u-alta-banci-i-da-li-im-je-deo-novca-zarobljen",
+   "id": "v164"
+  },
+  {
+   "datum": "2026-11-03",
    "izvor": "Studenti",
    "kategorija": "institucije",
    "naslov": "Studenti: pomilovanje vozača koji je udario studentkinju Sonju Ponjavić je neprihvatljivo",
@@ -68,6 +168,16 @@
    "sazetak": "Odlukama od 27. septembra 2026. bivši funkcioneri niške opštine Palilula oslobođeni su krivičnog gonjenja za zloupotrebu službenog položaja. Džunić je uhapšen 2017. zbog sumnje na malverzacije s projektima EU.",
    "url": "https://n1info.rs/vesti/vucic-pomilovao-i-bobana-dzunica-osumnjicenog-za-malverzacije-sa-projektima-eu-u-nisu/",
    "id": "v149"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "MUP privremeno udaljio s rada Krička i Sekulovića",
+   "red": 65,
+   "sazetak": "Ministarstvo unutrašnjih poslova donelo je rešenja o privremenom udaljenju s rada načelnika UKP Marka Krička i načelnika Službe za suzbijanje kriminala Boška Sekulovića, kojima je određen pritvor.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6075610/mup-doneta-resenja-o-privremenom-udaljenju-sa-rada-kricka-i-sekulovica-.html",
+   "id": "v165"
   },
   {
    "datum": "2026-11-03",
@@ -111,6 +221,16 @@
   },
   {
    "datum": "2026-11-03",
+   "izvor": "RTV",
+   "kategorija": "korupcija",
+   "naslov": "Vučić: nisam imao ništa s Alta bankom, cela priča mi je mnogo čudna",
+   "red": 55,
+   "sazetak": "Vučić je za TV Informer rekao da nema račun u Alta banci, da je vlasnika video tri-četiri puta i da su netačne izjave da je to bila banka SNS-a. Dodao je da veruje da je guvernerka Tabaković postupila po propisima.",
+   "url": "https://www.rtv.rs/sr_lat/politika/vucic-nista-nisam-imao-sa-alta-bankom-cela-prica-mi-je-mnogo-cudna_1756175.html",
+   "id": "v166"
+  },
+  {
+   "datum": "2026-11-03",
    "izvor": "N1",
    "kategorija": "mediji",
    "naslov": "UO RTS odložio izbor v.d. generalnog direktora i zatražio razgovor sa Savetom REM",
@@ -131,6 +251,26 @@
   },
   {
    "datum": "2026-11-03",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Upravni sud odložio radove na Savskom nasipu, Srbijavode obustavljaju i drugu deonicu",
+   "red": 50,
+   "sazetak": "Rešenjem Upravnog suda odloženo je izvršenje odobrenja radova do sudske odluke. Srbijavode saopštavaju da obustavljaju i radove na levoj obali Save od Bloka 45 do planirane saobraćajnice „Nova 7”; preduzeće ističe da sud još nije konačno odlučio o zakonitosti rešenja Ministarstva.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/srbijavode-obustavljaju-se-radovi-i-na-drugoj-deonici-savskog-nasipa_1756078.html",
+   "id": "v167"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Savet REM-a 4. novembra o izboru upravnih odbora RTS-a i RTV-a i merama protiv Informera",
+   "red": 50,
+   "sazetak": "Savet REM-a razmatraće novi pravilnik o načinu izbora članova upravnih odbora RTS-a i RTV-a, kao i moguće mere protiv televizije Informer.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6075586/savet-rem-a-sutra-o-izboru-upravnih-odbora-rts-a-i-rtv-a-i-mogucim-merama-protiv-informera.html",
+   "id": "v170"
+  },
+  {
+   "datum": "2026-11-03",
    "izvor": "N1",
    "kategorija": "korupcija",
    "naslov": "ZLF: Grad Beograd je krajem 2025. držao dve milijarde dinara u Alta banci",
@@ -142,12 +282,32 @@
   {
    "datum": "2026-11-03",
    "izvor": "Studenti",
+   "kategorija": "izbori",
+   "naslov": "Studenti: Romi posebno izloženi pritiscima i kupovini glasova tokom izbora",
+   "red": 45,
+   "sazetak": "Studentski pokret navodi da su tokom izbornog procesa zabeleženi pritisci, ucene i pokušaji kupovine glasova, a da su Romi bili posebno izloženi, i traži hitnu reakciju nadležnih organa.",
+   "url": "https://studenti.org.rs/vesti/uz_rome/",
+   "id": "v172"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "Studenti",
    "kategorija": "program",
    "naslov": "Studentska lista najavila konferenciju o finansijskoj i energetskoj stabilnosti 4. novembra",
    "red": 40,
    "sazetak": "Na konferenciji za medije u sredu u 14 časova lista će govoriti o stanju u ključnim sektorima, odgovornosti institucija i predstaviti konkretne korake za zaštitu javnog interesa.",
    "url": "https://studenti.org.rs/vesti/konferencija_4_11/",
    "id": "v155"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Policija vratila deo stvari oduzetih na splavu u Zemunu, gde je bio studentski štab",
+   "red": 40,
+   "sazetak": "Prema studentu Luki Arsiću, vraćeni su čaršavi, sprejevi i automobil, ali ne i biber-sprejevi, njegov telefon i voki-tokiji. Građanin Dejan Jelovac tvrdi da su vozila MUP-a oko dva i po meseca nadzirala splav; policija nije komentarisala.",
+   "url": "https://n1info.rs/vesti/pratili-su-nas-24-sata-spijunirali-policija-vratila-deo-oduzetih-stvari-sa-splava-u-zemunu-u-kojem-se-nalazio-studentski-stab/",
+   "id": "v174"
   },
   {
    "datum": "2026-11-03",
@@ -168,6 +328,16 @@
    "sazetak": "Po nalogu tužilaštva policija je proverila navode s društvenih mreža i nije pronašla dokaze o uništavanju spisa. Tužilaštvo kaže da će nastaviti da proverava takve prijave.",
    "url": "https://n1info.rs/vesti/vjt-u-domu-zdravlja-u-smederevu-nije-unistavana-dokumentacija/",
    "id": "v158"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Zdravko Ponoš podneo ostavku na mesto predsednika stranke SRCE",
+   "red": 30,
+   "sazetak": "Predsedništvo stranke Srbija centar konstatovalo je ostavku Zdravka Ponoša.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6075749/zdravko-ponos-podneo-stavku.html",
+   "id": "v176"
   },
   {
    "datum": "2026-11-02",
@@ -398,6 +568,16 @@
    "sazetak": "Predsednik Francuske Emanuel Makron čestitao je Studentskoj listi na pobedi i poručio da će Francuska nastaviti da podržava Srbiju na evropskom putu.",
    "url": "https://www.rts.rs/lat/vesti/politika/6074843/makron-razgovarao-sa-srdanovicem-cestitam-studentskoj-listi-nastavljamo-da-pratimo-srbiju-na-evropskom-putu.html",
    "id": "v134"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "Studenti",
+   "kategorija": "mediji",
+   "naslov": "Studenti o narativu o „revolucionarnom teroru”: zahtevi za odgovornost predstavljaju se kao progon",
+   "red": 30,
+   "sazetak": "U tekstu se navodi da za tvrdnju da Studentska lista planira organizovano nasilje nisu predstavljeni dokazi. Među primerima se pominje da Informer kao „teror” predstavlja i inicijativu 32 organizacije i potpisnika REM-u za oduzimanje dozvole toj televiziji.",
+   "url": "https://studenti.org.rs/vesti/fil_teror/",
+   "id": "v173"
   },
   {
    "datum": "2026-11-01",
@@ -1632,6 +1812,21 @@
   },
   {
    "datum": "2026-11-03",
+   "iznos": "≥ 650.000 €",
+   "izvori": [
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1480/",
+    "https://n1info.rs/vesti/uhapsen-direktor-rhmz-a/"
+   ],
+   "naslov": "VJT u Beogradu: uhapšen direktor RHMZ-a zbog sumnje na pranje novca",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije uhapšeni su direktor Republičkog hidrometeorološkog zavoda J.N. (71), O.N. (71) i Đ.N. (45). Sumnjiče se da su od novembra 2019. do novembra 2024. u Beogradu, Čačku, Užicu, Bajinoj Bašti i Crnoj Gori prikrivali poreklo imovine kupovinom nekretnina. Direktor se tereti i zbog neprijavljivanja promena imovine Agenciji za sprečavanje korupcije. Iznosi su sumnja tužilaštva, a ne sudski nalaz; određeno je zadržavanje do 48 sati.",
+   "osobe": "Jugoslav Nikolić (J.N., direktor RHMZ) · O.N. · Đ.N. · VJT u Beogradu",
+   "red": 85,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h47"
+  },
+  {
+   "datum": "2026-11-03",
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6075412/bia-prijava-vladimir-orlic.html"
    ],
@@ -1642,6 +1837,20 @@
    "status": "navod",
    "tip": "prijava",
    "id": "h45"
+  },
+  {
+   "datum": "2026-11-03",
+   "iznos": "> 13 mil. din",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/3-11-2026-saopstenje-za-javnost/"
+   ],
+   "naslov": "VJT u Novom Sadu: uhapšen direktor JKP „Drina” Mali Zvornik",
+   "opis": "Direktor D.K. sumnjiči se za zloupotrebu službenog položaja: 2025. je, prema tužilaštvu, omogućio javnu nabavku s unapred dogovorenim ponuđačem, a izabranom ponuđaču je isplaćeno preko 13 miliona dinara iako su uz ponudu dostavljene neistinite isprave. Određeno mu je zadržavanje do 48 sati.",
+   "osobe": "D.K. · JKP „Drina” Mali Zvornik · VJT u Novom Sadu",
+   "red": 75,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h48"
   },
   {
    "datum": "2026-11-03",
@@ -1657,14 +1866,59 @@
    "id": "h46"
   },
   {
+   "datum": "2026-11-03",
+   "iznos": "≈ 128,5 mil. din",
+   "izvori": [
+    "https://n1info.rs/biznis/beogradski-park-izvukao-milione-iz-budzeta-nema-potvrde-da-su-usluge-izvrsene/"
+   ],
+   "naslov": "DRI: Beogradski park dobio 128,5 miliona dinara bez dokaza o izvršenim uslugama",
+   "opis": "U reviziji Sekretarijata za komunalne i stambene poslove Grada Beograda za 2025. Državna revizorska institucija navodi da je novac JKP Beogradski park isplaćen kao „specijalizovane usluge” bez validnih računovodstvenih isprava i da po ekonomskoj suštini odgovara subvencijama, a ne naknadama za izvršene usluge. Izveštaj je objavio N1; reakcija Grada i preduzeća nije objavljena.",
+   "osobe": "JKP Beogradski park · Sekretarijat za komunalne i stambene poslove · DRI",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "otkrice",
+   "id": "h49"
+  },
+  {
+   "datum": "2026-11-03",
+   "iznos": "≈ 879.000 € (Srbijavode)",
+   "izvori": [
+    "https://insajder.net/vesti/analiza-insajdera-koja-drzavna-i-javna-preduzeca-imaju-racune-u-alta-banci-i-da-li-im-je-deo-novca-zarobljen"
+   ],
+   "naslov": "Insajder: novac državnih i javnih preduzeća zarobljen u Alta banci",
+   "opis": "Prema analizi Insajdera i odgovorima preduzeća, račune u Alta banci imali su EPS, Pošta Srbije, Srbijavode, NIS, Expo 2027, Beograd na vodi i gradske uprave Beograda i Novog Sada. Srbijavode navode oko 879.000 evra, Beogradske elektrane oko 5 miliona dinara; iznos od oko 1,6 miliona evra za EPS procena je Insajdera, koju EPS nije potvrdio. Gradonačelnik Novog Sada kaže da je oročeni depozit od 5,2 milijarde dinara povučen pre stečaja. NBS nije odgovorila.",
+   "osobe": "Alta banka · EPS · Srbijavode · Beogradske elektrane · Grad Novi Sad",
+   "red": 65,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h50"
+  },
+  {
+   "datum": "2026-11-03",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6075991/avion-koji-je-vracen-sa-leta-za-moskvu-jutros-sleteo-u-rusku-prestonicu.html",
+    "https://n1info.rs/vesti/er-srbija-o-vracanju-aviona-za-moskvu-neophodne-dodatne-bezbednosne-provere-jednog-putnika/",
+    "https://n1info.rs/vesti/sleteo-avion-s-vulinom-bajatovicem-i-popovicem-koji-je-bio-vracen-sa-leta-za-moskvu/"
+   ],
+   "naslov": "Let za Moskvu vraćen u Beograd radi provere putnika, mediji navode Vulina",
+   "opis": "Er Srbija je potvrdila da je let JU134 vraćen jer su bezbednosne službe aerodroma tražile dodatnu proveru jednog putnika, čije ime nije objavila. U avionu su bili Aleksandar Vulin, Nenad Popović i Dušan Bajatović. Da se provera odnosila na Vulina tvrdi Nova.rs na osnovu nezvaničnih izvora; policija i aerodrom to nisu potvrdili. Vulin kaže da je putovao poslovno. Avion je stigao u Moskvu ujutru 4. novembra.",
+   "osobe": "Aleksandar Vulin · Nenad Popović · Dušan Bajatović · Er Srbija",
+   "red": 60,
+   "status": "navod",
+   "tip": "incident",
+   "id": "h51"
+  },
+  {
    "datum": "2026-11-02",
    "iznos": "≈ 45,6 mlrd. din (> 380 mil. €)",
    "izvori": [
     "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261102_1_cir.pdf",
-    "https://n1info.rs/vesti/uhapsene-tri-osobe-sumnja-se-da-je-davor-macura-izneo-iz-banke-45-milijardi-dinara/"
+    "https://n1info.rs/vesti/uhapsene-tri-osobe-sumnja-se-da-je-davor-macura-izneo-iz-banke-45-milijardi-dinara/",
+    "https://n1info.rs/vesti/davoru-macuri-odredjen-pritvor-do-30-dana/",
+    "https://www.rts.rs/lat/vesti/hronika/6075932/odredjen-pritvor-davoru-macuri-i-za-jos-dvoje-zaposlenih-u-alta-banci.html"
    ],
    "naslov": "TOK: uhapšen vlasnik Alta banke i dvoje zaposlenih zbog iznošenja novca iz trezora",
-   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra; saslušanje u TOK-u najavljeno je za 3. novembar.",
+   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra. Macura je pred TOK-om negirao krivicu, naveo je njegov advokat. 4. nov: Viši sud u Beogradu objavio je da je svoj trojici određen pritvor do 30 dana zbog opasnosti od uticaja na svedoke i ponavljanja dela, a Macuri i zbog opasnosti od bekstva.",
    "osobe": "Davor Macura (D.M.) · G.M. · I.P. · Alta banka · TOK",
    "red": 95,
    "status": "zvanicno",
@@ -1734,10 +1988,11 @@
     "https://n1info.rs/vesti/kricak-sekulovic-vjt-krivicna-prijava/",
     "https://n1info.rs/vesti/odredjen-pritvor-do-30-dana-marku-kricku-i-bojanu-sekulovicu/",
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1477/",
-    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1478/"
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1478/",
+    "https://www.rts.rs/lat/vesti/politika/6075610/mup-doneta-resenja-o-privremenom-udaljenju-sa-rada-kricka-i-sekulovica-.html"
    ],
    "naslov": "VJT: uhapšeni načelnik UKP Marko Kričak i Boško Sekulović zbog slučaja „Senjak”",
-   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima. U noći 2/3. novembra Viši sud u Beogradu odredio je obojici pritvor do 30 dana zbog opasnosti od uticaja na svedoke. 3. nov: VJT najavilo žalbu, tražeći pritvor i zbog opasnosti od ponavljanja dela.",
+   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima. U noći 2/3. novembra Viši sud u Beogradu odredio je obojici pritvor do 30 dana zbog opasnosti od uticaja na svedoke. 3. nov: VJT najavilo žalbu, tražeći pritvor i zbog opasnosti od ponavljanja dela; MUP doneo rešenja o njihovom privremenom udaljenju s rada.",
    "osobe": "Marko Kričak (načelnik UKP) · Boško Sekulović (načelnik Službe za suzbijanje kriminala) · Nenad Stefanović · VJT u Beogradu",
    "red": 90,
    "status": "zvanicno",
@@ -2271,9 +2526,9 @@
    "id": "o05"
   },
   {
-   "azurirano": "2026-11-03",
+   "azurirano": "2026-11-04",
    "datum": "2026-10-29",
-   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
+   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
@@ -2289,9 +2544,9 @@
    "id": "o07"
   },
   {
-   "azurirano": "2026-10-31",
+   "azurirano": "2026-11-04",
    "datum": "2026-10-27",
-   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić i bira novog v.d. direktora 3. novembra; ostavku podneo i direktor RTV-a Goran Karadžić.",
+   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić; ostavku podneo i direktor RTV-a Goran Karadžić. 3. nov: UO RTS odložio izbor v.d. generalnog direktora i zatražio od Saveta REM-a da se izjasni o njegovom statusu; Savet REM-a 4. novembra razmatra novi pravilnik o izboru upravnih odbora RTS-a i RTV-a.",
    "naslov": "Departizacija RTS-a i ostavke rukovodstva javnog servisa",
    "opis": "Ostavke generalnog direktora, zamenika i glavnih urednika; nezavisan REM.",
    "status": "delimicno",
