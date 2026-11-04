@@ -18,7 +18,7 @@
 :root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 </style>
-<link rel="stylesheet" href="assets/stil.css?v=10">
+<link rel="stylesheet" href="assets/stil.css?v=11">
 <!-- Google Analytics: bez kolačića dok posetilac ne prihvati (Consent Mode) -->
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -132,7 +132,7 @@ const MONTHS=["jan","feb","mar","apr","maj","jun","jul","avg","sep","okt","nov",
 const DAYS=["nedelja","ponedeljak","utorak","sreda","četvrtak","petak","subota"];
 const VIEWS=["vesti","hronika","obecanja"];
 
-const state = { view:"vesti", vesti:[], hronika:[], obecanja:[], stanje:null, loaded:false, error:false, q:"", cat:null, tip:null, ps:null };
+const state = { view:"vesti", vesti:[], hronika:[], obecanja:[], stanje:null, loaded:false, error:false, q:"", cat:null, tip:null, ps:null, sort:"novo" };
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -143,6 +143,25 @@ const safeUrl = u => /^https?:\/\//i.test(u||"") ? u : null;
 const sortDesc = arr => arr.slice().sort((a,b)=> (b.datum||"").localeCompare(a.datum||"") || (b.red||0)-(a.red||0));
 function groupByDate(arr){ const m=new Map(); for(const x of arr){ if(!m.has(x.datum)) m.set(x.datum,[]); m.get(x.datum).push(x);} return [...m.entries()]; }
 const match = (obj, fields) => !state.q || fields.some(f => String(obj[f]||"").toLowerCase().includes(state.q.toLowerCase()));
+const danas = () => { const t=new Date(); return `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,"0")}-${String(t.getDate()).padStart(2,"0")}`; };
+// Redosled vesti i hronike: po datumu idu grupe po danima, a po srcima i važnosti jedan spisak sa datumom uz svaki unos
+const SORTS = { novo:"Najnovije prvo", staro:"Najstarije prvo", srca:"Najviše srca", vaznost:"Najvažnije prvo" };
+const ravanSpisak = () => state.sort==="srca" || state.sort==="vaznost";
+function poredak(arr){
+  const desc = sortDesc(arr);
+  if(state.sort==="staro") return desc.sort((a,b)=>(a.datum||"").localeCompare(b.datum||""));
+  if(state.sort==="srca") return desc.sort((a,b)=>srcaZbir(b.id).sum-srcaZbir(a.id).sum);
+  if(state.sort==="vaznost") return desc.sort((a,b)=>(b.red||0)-(a.red||0));
+  return desc;
+}
+function spisak(list, item){
+  if(ravanSpisak()) return `<div class="items flat">${list.map(x=>item(x,true)).join("")}</div>`;
+  const grupe = l => groupByDate(l).map(([d,items])=>`<section class="daygroup"><div class="dlabel"><b>${fmtDate(d)}</b>${dayName(d)}</div><div class="items">${items.map(x=>item(x,false)).join("")}</div></section>`).join("");
+  if(state.sort==="staro") return grupe(list);
+  // budući (najavljeni) događaji ne smeju da budu na vrhu: idu posle svega što se već desilo, najbliži prvi
+  const d = danas(), buduci = list.filter(x=>x.datum>d).sort((a,b)=>a.datum.localeCompare(b.datum));
+  return grupe(list.filter(x=>!(x.datum>d))) + (buduci.length ? `<h2 class="predstoji">Predstoji</h2>${grupe(buduci)}` : "");
+}
 
 function renderStatus(){
   const s = state.stanje; if(!s) return;
@@ -162,28 +181,27 @@ function renderTally(){
   $("#n-vesti").textContent = state.vesti.length||""; $("#n-hronika").textContent = state.hronika.length||""; $("#n-obecanja").textContent = state.obecanja.length||"";
 }
 
-const toolsHtml = filters => `<div class="tools"><input class="search" id="q" type="search" placeholder="Pretraži naslove, imena, institucije…" value="${esc(state.q)}" aria-label="Pretraga"></div><div class="tools"><div class="filters">${filters}</div></div>`;
+const sortHtml = () => `<label class="sortbox">Redosled <select id="sort">${Object.entries(SORTS).filter(([k])=>k!=="srca"||SRCA_ON).map(([k,l])=>`<option value="${k}"${state.sort===k?" selected":""}>${l}</option>`).join("")}</select></label>`;
+const toolsHtml = (filters, sort="") => `<div class="tools"><input class="search" id="q" type="search" placeholder="Pretraži naslove, imena, institucije…" value="${esc(state.q)}" aria-label="Pretraga">${sort}</div><div class="tools"><div class="filters">${filters}</div></div>`;
 const emptyOr = (all, list, what) => !state.loaded ? `<div class="empty">Učitavam ${what}…</div>` : !all.length ? `<div class="empty">Još nema unosa.</div>` : !list.length ? `<div class="empty">Ništa ne odgovara pretrazi ili filteru.</div>` : null;
 
 function renderVesti(){
   const filters = `<button class="fbtn" data-cat="" aria-pressed="${!state.cat}">Sve</button>` + Object.entries(CATS).map(([k,l])=>`<button class="fbtn" data-cat="${k}" aria-pressed="${state.cat===k}"><span class="dot" style="background:var(${CATC[k]})"></span>${l}</button>`).join("");
-  const list = sortDesc(state.vesti).filter(n => (!state.cat || n.kategorija===state.cat) && match(n,["naslov","sazetak","izvor"]));
-  const body = emptyOr(state.vesti, list, "vesti") ?? groupByDate(list).map(([d,items])=>`<section class="daygroup"><div class="dlabel"><b>${fmtDate(d)}</b>${dayName(d)}</div><div class="items">${
-    items.map(n=>{ const u=safeUrl(n.url); return `<article class="news" id="vest-${esc(n.id)}" data-id="${esc(n.id)}"${CATC[n.kategorija]?` style="--tc:var(${CATC[n.kategorija]})"`:""}><button type="button" aria-expanded="false">${ico(n.kategorija)}<span class="ttl">${esc(n.naslov)}</span><span class="chev" aria-hidden="true">▶</span>
-      <span class="meta"><span class="src">${esc(n.izvor)}</span><span class="cat"><span class="dot" style="background:var(--tc,var(--muted))"></span>${esc(CATS[n.kategorija]||"")}</span>${heartCount(n.id)}</span></button>
-      <div class="body">${n.sazetak?`<p>${esc(n.sazetak)}</p>`:""}<div class="row">${u?`<a href="${esc(u)}" target="_blank" rel="noopener">Pročitaj ceo tekst na ${esc(host(u))} ↗</a>`:""}</div>${heartsHtml(n.id)}</div></article>`;}).join("")}</div></section>`).join("");
-  return toolsHtml(filters) + body;
+  const list = poredak(state.vesti).filter(n => (!state.cat || n.kategorija===state.cat) && match(n,["naslov","sazetak","izvor"]));
+  const item = (n, saDatumom) => { const u=safeUrl(n.url); return `<article class="news" id="vest-${esc(n.id)}" data-id="${esc(n.id)}"${CATC[n.kategorija]?` style="--tc:var(${CATC[n.kategorija]})"`:""}><button type="button" aria-expanded="false">${ico(n.kategorija)}<span class="ttl">${esc(n.naslov)}</span><span class="chev" aria-hidden="true">▶</span>
+      <span class="meta">${saDatumom?`<span class="idate">${fmtDate(n.datum)}</span>`:""}<span class="src">${esc(n.izvor)}</span><span class="cat"><span class="dot" style="background:var(--tc,var(--muted))"></span>${esc(CATS[n.kategorija]||"")}</span>${heartCount(n.id)}</span></button>
+      <div class="body">${n.sazetak?`<p>${esc(n.sazetak)}</p>`:""}<div class="row">${u?`<a href="${esc(u)}" target="_blank" rel="noopener">Pročitaj ceo tekst na ${esc(host(u))} ↗</a>`:""}</div>${heartsHtml(n.id)}</div></article>`; };
+  return toolsHtml(filters, sortHtml()) + (emptyOr(state.vesti, list, "vesti") ?? spisak(list, item));
 }
 
 function renderHronika(){
   const filters = `<button class="fbtn" data-tip="" aria-pressed="${!state.tip}">Sve</button>` + Object.entries(TYPES).map(([k,t])=>`<button class="fbtn" data-tip="${k}" aria-pressed="${state.tip===k}"><span class="dot" style="background:var(${t.c})"></span>${t.l}</button>`).join("");
-  const list = sortDesc(state.hronika).filter(e => (!state.tip || e.tip===state.tip) && match(e,["naslov","opis","osobe","iznos"]));
-  const body = emptyOr(state.hronika, list, "hroniku") ?? groupByDate(list).map(([d,items])=>`<section class="daygroup"><div class="dlabel"><b>${fmtDate(d)}</b>${dayName(d)}</div><div class="items">${
-    items.map(e=>{ const t=TYPES[e.tip]||TYPES.korak; const st=e.status||"navod";
+  const list = poredak(state.hronika).filter(e => (!state.tip || e.tip===state.tip) && match(e,["naslov","opis","osobe","iznos"]));
+  const item = (e, saDatumom) => { const t=TYPES[e.tip]||TYPES.korak; const st=e.status||"navod";
       const links=(e.izvori||[]).map(safeUrl).filter(Boolean).map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))} ↗</a>`).join("");
-      return `<article class="event" id="hronika-${esc(e.id)}" style="--tc:var(${t.c})">${ico(e.tip)}<div class="ebody"><div class="head"><span class="tlabel">${t.l}</span><span class="badge b-${esc(st)}">${st==="zvanicno"?"Zvanično":st==="najavljeno"?"Najavljeno":"Navod"}</span>${e.iznos?`<span class="amount">${esc(e.iznos)}</span>`:""}</div>
-        <h3>${esc(e.naslov)}</h3>${e.opis?`<p>${esc(e.opis)}</p>`:""}${e.osobe?`<div class="people">${esc(e.osobe)}</div>`:""}<div class="links">${links}</div>${heartsHtml(e.id)}</div></article>`;}).join("")}</div></section>`).join("");
-  return toolsHtml(filters) + body;
+      return `<article class="event" id="hronika-${esc(e.id)}" style="--tc:var(${t.c})">${ico(e.tip)}<div class="ebody"><div class="head">${saDatumom?`<span class="idate">${fmtDate(e.datum)}</span>`:""}<span class="tlabel">${t.l}</span><span class="badge b-${esc(st)}">${st==="zvanicno"?"Zvanično":st==="najavljeno"?"Najavljeno":"Navod"}</span>${e.iznos?`<span class="amount">${esc(e.iznos)}</span>`:""}</div>
+        <h3>${esc(e.naslov)}</h3>${e.opis?`<p>${esc(e.opis)}</p>`:""}${e.osobe?`<div class="people">${esc(e.osobe)}</div>`:""}<div class="links">${links}</div>${heartsHtml(e.id)}</div></article>`; };
+  return toolsHtml(filters, sortHtml()) + (emptyOr(state.hronika, list, "hroniku") ?? spisak(list, item));
 }
 
 function renderObecanja(){
@@ -203,10 +221,12 @@ function render(){
   document.querySelectorAll(".tab").forEach(t=>t.setAttribute("aria-selected", String(t.dataset.view===state.view)));
   const open = new Set([...document.querySelectorAll(".news.open")].map(n=>n.dataset.id));
   const qFocus = document.activeElement && document.activeElement.id==="q";
+  const sortFocus = document.activeElement && document.activeElement.id==="sort";
   $("#main").innerHTML = state.error ? `<div class="empty">Podaci trenutno nisu dostupni. Osvežite stranicu za minut.</div>`
     : state.view==="vesti" ? renderVesti() : state.view==="hronika" ? renderHronika() : renderObecanja();
   open.forEach(id=>{ const el=document.querySelector(`.news[data-id="${CSS.escape(id)}"]`); if(el){ el.classList.add("open"); el.querySelector("button").setAttribute("aria-expanded","true"); }});
   if(qFocus){ const q=$("#q"); q.focus(); q.setSelectionRange(q.value.length,q.value.length); }
+  if(sortFocus) $("#sort")?.focus();
   renderTally(); renderStatus();
 }
 
@@ -294,6 +314,7 @@ document.addEventListener("click", async e=>{
   }
 });
 document.addEventListener("input", e=>{ if(e.target.id==="q"){ state.q=e.target.value; render(); } });
+document.addEventListener("change", e=>{ if(e.target.id==="sort"){ state.sort=e.target.value; render(); track("redosled", { nacin:state.sort }); } });
 
 // instalacija kao aplikacija: Android/Chrome/Edge nude sistemski prozor, a iPhone samo ručno preko Safarija
 let installPrompt = null;
