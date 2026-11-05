@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-05T08:55+00:00",
+ "generisano": "2026-11-05T15:57+00:00",
  "stanje": {
   "azurirano": "2026-10-29",
   "izbori": "2026-10-25",
@@ -11,6 +11,26 @@
  "vesti": [
   {
    "datum": "2026-11-05",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "VJT u Novom Sadu: uhapšen pokrajinski sekretar za socijalnu politiku i predsednica komisije, sumnja na štetu od 130,9 miliona dinara",
+   "red": 96,
+   "sazetak": "P.V. (prema N1 Predrag Vuletić) i D.M. sumnjiče se da su 2021–2024. dodelili bespovratna sredstva za stambeno pitanje licima koja nisu ispunjavala osnovni uslov, rođenje trećeg ili četvrtog deteta. Određeno im je zadržavanje do 48 sati. Predsednica Pokrajinske vlade Maja Gojković pozvala je na poštovanje pretpostavke nevinosti, a opozicija u Skupštini Vojvodine osporava legitimitet vlade.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/5-11-2026-saopstenje-za-javnost-2/",
+   "id": "v222"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "TOK / N1",
+   "kategorija": "korupcija",
+   "naslov": "TOK formirao dva predmeta po Ninićevim prijavama: SBPOK da obavi razgovor s direktorom BIA Orlićem i proveri navode o ministru pravde",
+   "red": 93,
+   "sazetak": "Jedna prijava je protiv Vladimira Orlića i službenika BIA, a druga protiv ministra pravde Nenada Vujića, direktora Uprave za izvršenje krivičnih sankcija Mileta Jandrića, savetnice Milice Radonjić i još 60 osoba. TOK je 4. novembra od SBPOK-a zatražio provere i prikupljanje obaveštenja od prijavljenih. Reč je o predistražnom postupku, ne o optužbi.",
+   "url": "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261105_cir.pdf",
+   "id": "v223"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "021 / FoNet",
    "kategorija": "izbori",
    "naslov": "VJT u Kraljevu: predmet zbog sumnje na mito za glasanje u zatvoru Zabela, policija pretresa prostorije",
@@ -18,6 +38,16 @@
    "sazetak": "Tužilaštvo je formiralo spise po prijavi da su službena lica KPZ Zabela davala i primala mito u vezi sa glasanjem, a Viši sud u Kraljevu izdao je naredbe za pretres službenih prostorija. Navodi Danasa, koji se pozivaju na neimenovane izvore, da su zatvorenici podmićivani cigaretama i da je u zatvoru radio kol-centar SNS-a, nisu zvanično potvrđeni.",
    "url": "https://www.021.rs/info/srbija/460370/u-zabeli-navodno-bio-kol-centar-sns-zatvorenici-podmicivani-cigaretama-da-glasaju-policija-pretresa-zatvor",
    "id": "v205"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "Danas / MUP",
+   "kategorija": "hapsenje",
+   "naslov": "MUP potvrdio: u Nišu uhapšeno osmoro zbog napada na motocikliste na dan izbora",
+   "red": 86,
+   "sazetak": "Policija je u saradnji sa OJT u Nišu uhapsila A.Đ., M.M., P.M., V.T., B.K., V.P., B.M. i A.A. zbog sumnje na nasilničko ponašanje 25. oktobra. Određeno im je zadržavanje. Danas ih opisuje kao aktiviste SNS, a motocikliste kao mobilni tim Studentske liste.",
+   "url": "https://www.danas.rs/vesti/drustvo/mup-potvrdio-hapsenje-aktivista-sns-koji-su-se-na-dan-izbora-fizicki-sukobili-sa-bajkerima-u-nisu/",
+   "id": "v224"
   },
   {
    "datum": "2026-11-05",
@@ -41,6 +71,16 @@
   },
   {
    "datum": "2026-11-05",
+   "izvor": "N1 / FoNet",
+   "kategorija": "institucije",
+   "naslov": "Tužilac Danilović uložio žalbu na ukidanje pritvora vozaču koji je udario Sonju Ponjavić",
+   "red": 72,
+   "sazetak": "Tužilac VJT u Beogradu Dragan Danilović žalio se Apelacionom sudu na odluku Višeg suda da ukine pritvor pomilovanom Marku Pavloviću. Traži da se razjasni pravno dejstvo pomilovanja, uključujući pitanje da li je doneto u propisanom postupku.",
+   "url": "https://n1info.rs/vesti/tuzilac-vjt-u-beogradu-ulozio-zalbu-na-odluku-o-ukidanju-pritvora-vozacu-koji-je-autom-udario-sonju-ponjavic/",
+   "id": "v225"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "Danas / RTS",
    "kategorija": "hapsenje",
    "naslov": "Mediji: među uhapšenima u slučaju garaže Vlade i v.d. direktora Posebne pritvorske jedinice Milan Vuković",
@@ -51,23 +91,83 @@
   },
   {
    "datum": "2026-11-05",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Univerzitet u Beogradu: BIA tajno nadzirala šefa kabineta rektora, traži se reakcija nadležnih",
+   "red": 70,
+   "sazetak": "Univerzitet je izrazio zabrinutost zbog saznanja da je prema šefu kabineta rektora gotovo godinu dana primenjivan tajni nadzor po nalogu BIA. Rektor Vladan Đokić traži da tužilaštvo i organi za kontrolu službi utvrde sve okolnosti i da li su obuhvaćeni i drugi članovi akademske zajednice.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6077030/univerzitet-u-beogradu-vladan-djokic-prisluskivanje.html",
+   "id": "v228"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "DRI: računi Železnica Srbije pet godina u blokadi, gubitak iznad visine kapitala 55 milijardi dinara",
+   "red": 66,
+   "sazetak": "Revizija za 2025. navodi blokadu od oko milijardu dinara i kratkoročne obaveze od 65 milijardi dinara, uz obrtnu imovinu od 261 milion. Društvo nije obezbedilo dokaze za obaveze iz poslovanja veće od dve milijarde dinara. DRI upozorava na značajnu sumnju u nastavak poslovanja bez pomoći osnivača.",
+   "url": "https://n1info.rs/vesti/dri-racuni-zeleznica-srbije-pet-godina-u-blokadi-gubitak-iznad-visine-kapitala-55-milijardi-dinara/",
+   "id": "v230"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "VJT Novi Sad",
    "kategorija": "hapsenje",
-   "naslov": "VJT u Novom Sadu: uhapšena dvojica zbog štete od 31,17 miliona dinara u firmi Naftachem Petrol",
+   "naslov": "VJT u Novom Sadu: uhapšeni zbog štete od 31,17 miliona dinara u firmi Naftachem Petrol; MUP navodi i treću osobu",
    "red": 64,
-   "sazetak": "Pomoćnik direktora Z.V. sumnjiči se da je 2025. sačinio lažne ugovore o kupoprodaji goriva na ime četiri firme i naložio izradu kartica za gorivo, a N.Č. da mu je pomagao. Za još jednom osobom se traga. Tužilaštvo navodi korist od preko 1,5 miliona dinara.",
+   "sazetak": "Pomoćnik direktora Z.V. sumnjiči se da je 2025. sačinio lažne ugovore o kupoprodaji goriva na ime četiri firme i naložio izradu kartica za gorivo, a N.Č. da mu je pomagao. Tužilaštvo navodi korist od preko 1,5 miliona dinara. MUP je kasnije saopštio da je uhapšen i D.T., koji se tereti za pomaganje.",
    "url": "https://novisad.vjt.rs/aktuelnosti/4-11-2026-saopstenje-za-javnost-2/",
    "id": "v210"
   },
   {
    "datum": "2026-11-05",
-   "izvor": "Danas",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Slučaj „porše”: advokati oštećenog traže od Ustavnog suda da poništi pomilovanja, pretres odložen",
+   "red": 64,
+   "sazetak": "Punomoćnici Lazara Srdića podneli su 4. novembra ustavnu žalbu i traže hitno odlaganje izvršenja pomilovanja četvorice optuženih za napad kod Futoške pijace 13. decembra 2024. Viši sud u Novom Sadu odložio je ročište i obratiće se Ustavnom sudu.",
+   "url": "https://n1info.rs/vesti/slucaj-porse-advokati-lazara-srdica-zatrazili-od-ustavnog-suda-da-ponisti-odluke-o-pomilovanju/",
+   "id": "v227"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Ministarstvo pravde: pomilovanja su izričito ustavno ovlašćenje predsednika",
+   "red": 62,
+   "sazetak": "Povodom osporavanja Vučićevih odluka Ministarstvo navodi da Ustav i Krivični zakonik predviđaju pomilovanje, uključujući oslobađanje od gonjenja. Prema ministarstvu, Tadić je doneo 197 odluka, Nikolić 105, a Vučić ukupno 78 tokom dva mandata.",
+   "url": "https://n1info.rs/vesti/ministarstvo-pravde-pomilovanja-izricito-ustavno-ovlascenje-bivseg-predsednika-vucica/",
+   "id": "v226"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "RTS / Tanjug",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu dovodi u pitanje rad Komisije Vrhovnog javnog tužilaštva",
+   "red": 58,
+   "sazetak": "U reagovanju upućenom i VST-u, Delegaciji EU i Misiji OEBS-a tužilaštvo navodi da većina članova Komisije nema ili nije pokazala sertifikat za uvid u tajne podatke i da je Komisija dolazila u izmenjenom sastavu. To su navodi VJT u Beogradu.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6077244/vjt-u-beogradu-brine-nas-ponasanje-clanova-komisije-formirane-resenjem-vrhovnog-tuzilastva.html",
+   "id": "v229"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "KRIK / Danas",
    "kategorija": "bezbednost",
-   "naslov": "Novosadska policija traga za pomilovanim Gorskim Matovićem",
+   "naslov": "Raspisana poternica za pomilovanim Gorskim Matovićem zbog pretnji na dan izbora",
    "red": 56,
-   "sazetak": "Potraga je raspisana zbog sumnje na ugrožavanje sigurnosti, jer policija nije mogla da ga pronađe na adresi stanovanja, navodi Danas. Matović je jedan od 49 pomilovanih.",
-   "url": "https://www.danas.rs/vesti/drustvo/gorski-matovic-potraga-policija/",
+   "sazetak": "Osnovno tužilaštvo u Novom Sadu saopštilo je da je Matović osumnjičen da je na dan izbora građanima pretio smrću i da je za njim raspisana poternica, prenosi KRIK. Za isto delo uhapšena je još jedna osoba. Matović je jedan od 49 pomilovanih.",
+   "url": "https://www.krik.rs/raspisana-poternica-za-gorskim-matovicem-zbog-pretnji-gradjanima-na-izborni-dan/",
    "id": "v217"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Opština Medijana podnela krivičnu prijavu protiv gradonačelnika Niša zbog skupa SNS-a",
+   "red": 55,
+   "sazetak": "Prijava VJT protiv Dragoslava Palovića i odgovornih u gradskim službama odnosi se na zloupotrebu položaja i javnih resursa pri mitingu 21. oktobra. Opština navodi da je Trg kralja Milana od 20. do 22. oktobra bio zauzet bez odobrenja. To su navodi podnosioca.",
+   "url": "https://n1info.rs/vesti/krivicna-prijava-protiv-gradonacelnika-nisa-zbog-visednevnog-skupa-sns-u-centru-grada/",
+   "id": "v231"
   },
   {
    "datum": "2026-11-05",
@@ -81,6 +181,76 @@
   },
   {
    "datum": "2026-11-05",
+   "izvor": "RTV / Euronews",
+   "kategorija": "institucije",
+   "naslov": "Četvoro predstavnika Studentske liste sastalo se u Briselu sa Martom Kos",
+   "red": 54,
+   "sazetak": "Prema Juronjuzu, sastanak je održan u ponedeljak na poziv komesarke i bio je usmeren na unutrašnja pitanja. Kos je potvrdila susret; Komisija nije želela da potvrdi ko je učestvovao. Navodi se da lista još nije jasno definisala rukovodstvo ni planove za formiranje vlade.",
+   "url": "https://www.rtv.rs/sr_lat/politika/predstavnici-studentske-liste-sastali-se-sa-martom-kos_1756627.html",
+   "id": "v235"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Dosadašnji UO RTS-a: REM odgovoran za krizu, javni servis ostaje bez tri organa upravljanja",
+   "red": 52,
+   "sazetak": "Povodom dopisa REM-a od 4. novembra da je šestoro članova završilo mandat 13. jula, odbor navodi da je REM konkurs morao da raspiše još u januaru. Dodaje da posle ostavke generalne direktorke i bez konstituisanog Programskog saveta RTS praktično ostaje bez sva tri organa.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6077268/dosadasnji-upravni-odbor-rts-a-reagovao-na-dopis-rem-a.html",
+   "id": "v232"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1 / Nova",
+   "kategorija": "korupcija",
+   "naslov": "Šoškić: masovno povlačenje novca izazvalo udar na likvidnost Poštanske štedionice, stanje nije uporedivo sa Alta bankom",
+   "red": 52,
+   "sazetak": "Kandidat Studentske liste i bivši guverner rekao je da su velike iznose podizali ljudi iz, kako kaže, potencijalno kriminogene sfere posle izbornog poraza vlasti. Prema njemu, mere za očuvanje likvidnosti su na snazi i situacija nije alarmantna. Reč je o njegovoj izjavi.",
+   "url": "https://n1info.rs/biznis/soskic-o-postanskoj-stedionici-mere-za-ocuvanje-likvidnosti-vec-na-snazi-situacija-nije-uporediva-sa-krahom-alta-banke/",
+   "id": "v237"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Dolovac i generalna tužiteljka Holandije: otklonjena politička opstrukcija rada tužilaštava",
+   "red": 50,
+   "sazetak": "Vrhovna javna tužiteljka Zagorka Dolovac i Sju Prenen potpisale su u Beogradu memorandum o saradnji u predmetima organizovanog kriminala, elektronskih dokaza i kripto-imovine.",
+   "url": "https://n1info.rs/vesti/dolovac-i-generalni-tuzilac-holandije-otklonjena-politicka-opstrukcija-za-rad-tuzilastava-u-srbiji/",
+   "id": "v233"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Ministar Stanković predložio vanredni inspekcijski nadzor u Jovinoj gimnaziji",
+   "red": 50,
+   "sazetak": "Ministar prosvete u tehničkom mandatu Dejan Vuk Stanković naložio je Školskom odboru da razmotri mere posle sudske odluke od 30. oktobra prema direktoru Radivoju Stojkoviću. Ministarstvo će odluke doneti posle nadzora gradskih inspekcija.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6077290/jovina-gimnazija-direktor-radivoje-stojkovic-dejan-vuk-stankovic-vanredni-inspekcijski-nadzor.html",
+   "id": "v238"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "MOL dobio dozvolu OFAC-a za pripremne korake u preuzimanju NIS-a",
+   "red": 50,
+   "sazetak": "Dozvola važi do 28. februara 2027. i odnosi se na prenos hartija od vrednosti i pribavljanje ruskih odobrenja. Za okončanje transakcije potrebno je posebno odobrenje OFAC-a. Mađarska očekuje dogovor do 11. decembra.",
+   "url": "https://n1info.rs/biznis/mol-dobio-dozvolu-ofac-a-za-pocetak-preuzimanja-nis-a/",
+   "id": "v240"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "Insajder",
+   "kategorija": "korupcija",
+   "naslov": "Grad Pirot potražuje novac od Alta banke u stečaju",
+   "red": 48,
+   "sazetak": "Grad je u septembru sa bankom zaključio ugovor o deponovanju do 400 miliona dinara, ali ne precizira koliko je uložio. Navodi da nije imao upozorenja NBS. Lokalne samouprave nisu obuhvaćene osiguranjem depozita.",
+   "url": "https://insajder.net/vesti/nismo-imali-upozorenja-od-nbs-da-je-banka-ugrozena-grad-pirot-potrazuje-novac-od-alta-banke-u-stecaju",
+   "id": "v239"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "N1",
    "kategorija": "bezbednost",
    "naslov": "Golubović: TOK da hitno pokrene predistražne radnje zbog prisluškivanja novinara; NUNS traži smenu Orlića",
@@ -88,6 +258,46 @@
    "sazetak": "Pravnica YUCOM-a Katarina Golubović rekla je da TOK treba da utvrdi da li je zakon prekršen u slučaju Radara. N1 navodi i da je NUNS 4. novembra zatražio hitnu smenu direktora BIA Vladimira Orlića.",
    "url": "https://n1info.rs/vesti/golubovic-o-prisluskivanju-tok-hitno-da-pokrene-predistrazne-radnje-i-utvrdi-da-li-je-prekrsen-zakon/",
    "id": "v208"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Predsedavajući OEBS-u Kasis razgovarao sa Studentskom listom i Anom Brnabić o tranziciji",
+   "red": 46,
+   "sazetak": "Injacio Kasis odvojeno se sastao sa predstavnicima liste i v.d. predsednika o značaju uredne političke tranzicije i rekao da je OEBS spreman da pruži podršku.",
+   "url": "https://n1info.rs/vesti/predsedavajuci-oebs-u-razgovarao-sa-predstavnicima-studentske-liste-i-anom-brnabic/",
+   "id": "v234"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Kopman: EU i Studentska lista imaju isti stav o temeljnim vrednostima",
+   "red": 44,
+   "sazetak": "Gert Jan Kopman iz Evropske komisije rekao je da će Brisel lakše razgovarati s novim vlastima, ali i da pokret po pitanju Kosova i sankcija Rusiji ima isti stav kao dosadašnja vlast.",
+   "url": "https://n1info.rs/vesti/zvanicnik-ek-kopman-eu-i-studentska-lista-imaju-isti-stav-prema-temeljnim-vrednostima-eu/",
+   "id": "v236"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "RTV",
+   "kategorija": "mediji",
+   "naslov": "Ministarstvo odbrane raskinulo ugovor sa RTS-om o emisiji „Dozvolite...”",
+   "red": 38,
+   "sazetak": "Ministarstvo navodi da RTS nije ispunjavao obaveze iz protokola o saradnji i da ne daje saglasnost za nove emisije ni korišćenje svojih obeležja. Saradnja je okončana 5. novembra.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/ministarstvo-raskinulo-ugovor-sa-rts-om-na-realizaciji-projekta-dozvolite..._1756606.html",
+   "id": "v243"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "Danas",
+   "kategorija": "institucije",
+   "naslov": "Kreni-Promeni traži od Komisije VJT kontrolu postupanja po desetinama prijava protiv funkcionera",
+   "red": 34,
+   "sazetak": "Pokret traži da se utvrdi zašto u većini predmeta nema vidljivog napretka, uključujući slučajeve zvučnog topa, pada nadstrešnice i napada na studente. Dostavljena je i dokumentacija o događaju od 15. marta 2025.",
+   "url": "https://www.danas.rs/vesti/drustvo/kreni-promeni-pita-vjt-sta-je-sa-desetinama-prijava-protiv-drzavnih-funkcionera/",
+   "id": "v242"
   },
   {
    "datum": "2026-11-04",
@@ -918,6 +1128,16 @@
    "sazetak": "Iz tekuće budžetske rezerve Gradu Beogradu odobreno je 5,98 milijardi dinara za pokrivanje dela dugova prema GSP-u i privatnim prevoznicima.",
    "url": "https://www.rts.rs/lat/vesti/drustvo/6074808/grad-beograd-prevoznici-novac.html",
    "id": "v140"
+  },
+  {
+   "datum": "2026-11-02",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Član RIK-a Krstić: konstitutivna sednica Skupštine najkasnije do 10. decembra",
+   "red": 54,
+   "sazetak": "David Krstić očekuje konačne rezultate najkasnije početkom naredne nedelje. Prema rezultatima na sajtu RIK-a, N1 navodi 140 mandata za Studentsku listu i 103 za SNS; SVM i koalicija albanskih partija imaju po dva, a SPP, SDP i SDA Sandžaka po jedan. Konačan izveštaj RIK-a još nije objavljen.",
+   "url": "https://n1info.rs/vesti/clan-rik-a-konstitutivna-sednica-skupstine-najkasnije-do-10-decembra/",
+   "id": "v241"
   },
   {
    "datum": "2026-11-02",
@@ -2251,6 +2471,22 @@
   },
   {
    "datum": "2026-11-05",
+   "iznos": "130,9 mil. din",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/5-11-2026-saopstenje-za-javnost-2/",
+    "https://n1info.rs/vesti/uhapsen-pokrajinski-sekretar-za-socijalnu-politiku-sumnja-se-da-je-ostetio-budzet-vojvodine-za-vise-od-130-miliona-dinara/",
+    "https://n1info.rs/vesti/maja-gojkovic-o-hapsenju-pokrajinskog-sekretara-postujte-pretpostavku-nevinosti/"
+   ],
+   "naslov": "Uhapšen pokrajinski sekretar za socijalnu politiku zbog sumnje na štetu od 130,9 miliona dinara",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu uhapšeni su pokrajinski sekretar P.V. (prema N1 Predrag Vuletić) i predsednica komisije sekretarijata D.M. zbog produžene zloupotrebe službenog položaja. Sumnjiče se da su sredstva za stambeno pitanje porodica s trećim ili četvrtim detetom za 2021–2024. dodeljena licima koja nisu ispunjavala osnovni uslov konkursa. Određeno im je zadržavanje do 48 sati. Iznos je sumnja tužilaštva, a ne sudski nalaz.",
+   "osobe": "Predrag Vuletić (P.V.) · D.M. · VJT u Novom Sadu · Maja Gojković",
+   "red": 95,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h61"
+  },
+  {
+   "datum": "2026-11-05",
    "izvori": [
     "https://www.021.rs/info/srbija/460370/u-zabeli-navodno-bio-kol-centar-sns-zatvorenici-podmicivani-cigaretama-da-glasaju-policija-pretresa-zatvor"
    ],
@@ -2261,6 +2497,20 @@
    "status": "zvanicno",
    "tip": "prijava",
    "id": "h58"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvori": [
+    "https://www.krik.rs/raspisana-poternica-za-gorskim-matovicem-zbog-pretnji-gradjanima-na-izborni-dan/",
+    "https://www.danas.rs/vesti/drustvo/gorski-matovic-potraga-policija/"
+   ],
+   "naslov": "Raspisana poternica za pomilovanim Gorskim Matovićem",
+   "opis": "Osnovno tužilaštvo u Novom Sadu saopštilo je da se Matović sumnjiči za ugrožavanje sigurnosti, jer je na dan izbora građanima pretio smrću, i da je za njim raspisana poternica. Za isto delo uhapšena je još jedna osoba. Saopštenje tužilaštva preneo je KRIK, a potragu je objavio i Danas.",
+   "osobe": "Gorski Matović · OJT u Novom Sadu",
+   "red": 66,
+   "status": "zvanicno",
+   "tip": "incident",
+   "id": "h62"
   },
   {
    "datum": "2026-11-04",
@@ -2313,10 +2563,11 @@
     "https://n1info.rs/vesti/radar-bia-prisluskivala-nasu-glavnu-urednicu-i-novinare/",
     "https://insajder.net/vesti/uns-trazi-hitnu-istragu-zbog-tajnog-nadzora-bia-nad-novinarima-i-urednicom-radara",
     "https://radar.nova.rs/drustvo/bia-vladimir-orlic-prisluskivanje/",
-    "https://www.rtv.rs/sr_lat/drustvo/bia-tvrdnje-o-navodno-protivpravnom-postupanju-lazne-tendenciozne-i-zlonamerne_1756408.html"
+    "https://www.rtv.rs/sr_lat/drustvo/bia-tvrdnje-o-navodno-protivpravnom-postupanju-lazne-tendenciozne-i-zlonamerne_1756408.html",
+    "https://www.rts.rs/lat/vesti/drustvo/6077030/univerzitet-u-beogradu-vladan-djokic-prisluskivanje.html"
    ],
    "naslov": "Radar: BIA tajno nadzirala novinare, tužioca i kritičare vlasti",
-   "opis": "Radar tvrdi da je direktor BIA Vladimir Orlić tražio tajni nadzor nad Vesnom Mališić, Sandrom Petrušić i Milanom Radonjićem i da je Viši sud u Beogradu mere prvi put odobrio 12. juna 2026. Prema objavljenim informacijama, mere su trajale do 3. novembra zbog sumnje na špijunažu. 5. nov: Radar navodi i da je sud odbio predloge za nastavak mera nad Danilom Potparićem, Srđanom Milivojevićem, Aleksom Mijucom i Radomirom Popovićem, i da je tužilac Aleksandar Barac bio pod merama od 9. aprila 2026. BIA je 4. novembra odbacila tvrdnje o protivpravnom postupanju; UNS traži hitnu istragu, a NUNS smenu Orlića.",
+   "opis": "Radar tvrdi da je direktor BIA Vladimir Orlić tražio tajni nadzor nad Vesnom Mališić, Sandrom Petrušić i Milanom Radonjićem i da je Viši sud u Beogradu mere prvi put odobrio 12. juna 2026. Prema objavljenim informacijama, mere su trajale do 3. novembra zbog sumnje na špijunažu. 5. nov: Radar navodi i da je sud odbio predloge za nastavak mera nad Danilom Potparićem, Srđanom Milivojevićem, Aleksom Mijucom i Radomirom Popovićem, i da je tužilac Aleksandar Barac bio pod merama od 9. aprila 2026. BIA je 4. novembra odbacila tvrdnje o protivpravnom postupanju; UNS traži hitnu istragu, a NUNS smenu Orlića. 5. nov: Univerzitet u Beogradu saopštio je da je prema šefu kabineta rektora gotovo godinu dana primenjivan tajni nadzor po nalogu BIA i zatražio reakciju nadležnih.",
    "osobe": "Vladimir Orlić · BIA · Vesna Mališić · Sandra Petrušić · Milan Radonjić · Aleksandar Barac · Srđan Milivojević · Viši sud u Beogradu",
    "red": 80,
    "status": "navod",
@@ -2357,13 +2608,14 @@
    "izvori": [
     "https://n1info.rs/vesti/studenti-u-blokadi-napadaci-na-bajkere-grad-nis/",
     "https://n1info.rs/vesti/niski-studenti-bivsi-vecnik-funkcioner-sns-a-i-kik-bokser-medju-uhapsenima-zbog-napada-na-bajkere/",
-    "https://www.danas.rs/vesti/drustvo/policija-i-tuzilastvo-jos-ne-saopstavaju-detalje-o-hapsenju-bivseg-niskog-vecnika-i-pet-aktivista-sns-koji-se-dovode-u-vezu-sa-napadom-na-bajkere/"
+    "https://www.danas.rs/vesti/drustvo/policija-i-tuzilastvo-jos-ne-saopstavaju-detalje-o-hapsenju-bivseg-niskog-vecnika-i-pet-aktivista-sns-koji-se-dovode-u-vezu-sa-napadom-na-bajkere/",
+    "https://www.danas.rs/vesti/drustvo/mup-potvrdio-hapsenje-aktivista-sns-koji-su-se-na-dan-izbora-fizicki-sukobili-sa-bajkerima-u-nisu/"
    ],
-   "naslov": "Niš: prijavljeno hapšenje šestoro zbog napada na bajkere na dan izbora",
-   "opis": "Nova.rs i niški studenti u blokadi navode da je uhapšeno šest osoba zbog napada na bajkere iz mobilnih timova Studentskog pokreta 25. oktobra, među njima bivši većnik B.K. Prema Beti i Danasu, policija i tužilaštvo do jutra 5. novembra nisu saopštili detalje. Studenti traže da se utvrde i nalogodavci.",
-   "osobe": "A.A. · V.P. · M.M. · P.M. · B.M. · B.K.",
+   "naslov": "Niš: uhapšeno osmoro zbog napada na motocikliste na dan izbora",
+   "opis": "MUP je 5. novembra saopštio da je u saradnji sa OJT u Nišu zbog nasilničkog ponašanja uhapšeno osam osoba, a ne šest kako su navodili mediji. Prema policiji, A.Đ. je 25. oktobra oborio motocikl, M.M. i P.M. su automobilima preprečili put drugom vozaču, udarili ga i lakše povredili, a ostali se sumnjiče za ugrožavanje motociklista i napad na automobil. Određeno im je zadržavanje. Danas ih opisuje kao aktiviste SNS, a medijski navodi pominju i bivšeg većnika B.K. Studenti traže da se utvrde i nalogodavci.",
+   "osobe": "A.Đ. · M.M. · P.M. · V.T. · B.K. · V.P. · B.M. · A.A. · OJT u Nišu",
    "red": 72,
-   "status": "navod",
+   "status": "zvanicno",
    "tip": "hapsenje",
    "id": "h60"
   },
@@ -2559,13 +2811,15 @@
    "datum": "2026-11-02",
    "izvori": [
     "https://n1info.rs/vesti/ninic-podneo-krivicnu-prijavu-tok-u-protiv-orlica-zaposleni-u-bia-imali-radnu-obavezu-da-skupljaju-glasove-za-sns/",
-    "https://n1info.rs/vesti/glasanje-zatvori-izbori-prijava-ivan-ninic/"
+    "https://n1info.rs/vesti/glasanje-zatvori-izbori-prijava-ivan-ninic/",
+    "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261105_cir.pdf",
+    "https://n1info.rs/vesti/tuzilastvo-za-organizovani-kriminal-nalozilo-da-sbpok-ispita-vladimira-orlica/"
    ],
-   "naslov": "Ninić podneo prijave TOK-u protiv direktora BIA i ministra pravde zbog prikupljanja glasova za SNS",
-   "opis": "Advokat Ivan Ninić podneo je TOK-u krivičnu prijavu protiv direktora BIA Vladimira Orlića i sedmorice službenika, tvrdeći da su zaposleni u BIA prikupljali „kapilarne glasove” za SNS, i prijavu na 238 strana u kojoj navodi da je ministar pravde Nenad Vujić predvodio grupu od 29 upravnika zatvora koji su pritiskali osuđenike da glasaju za listu broj 1. Tužilaštvo se o prijavama još nije izjasnilo.",
-   "osobe": "Vladimir Orlić · Nenad Vujić · BIA · Ministarstvo pravde · Ivan Ninić",
+   "naslov": "TOK formirao predmete po Ninićevim prijavama protiv direktora BIA i ministra pravde",
+   "opis": "Advokat Ivan Ninić podneo je TOK-u prijavu protiv direktora BIA Vladimira Orlića i službenika BIA, tvrdeći da su zaposleni prikupljali „kapilarne glasove” za SNS, i prijavu na 238 strana protiv ministra pravde Nenada Vujića i upravnika zatvora zbog navodnog pritiska na osuđenike da glasaju za listu broj 1. 5. nov: TOK je saopštio da je formirao dva predmeta i da je 4. novembra od SBPOK-a zatražio provere, uključujući razgovore s prijavljenima. Druga prijava obuhvata i Mileta Jandrića, Milicu Radonjić i još 60 osoba. Zvanično je potvrđeno formiranje predmeta; sadržaj prijava su navodi podnosioca.",
+   "osobe": "Vladimir Orlić · Nenad Vujić · Mile Jandrić · Milica Radonjić · BIA · Ministarstvo pravde · Ivan Ninić · TOK · SBPOK",
    "red": 60,
-   "status": "navod",
+   "status": "zvanicno",
    "tip": "prijava",
    "id": "h40"
   },
@@ -2882,10 +3136,11 @@
     "https://www.danas.rs/vesti/drustvo/mup-hapsenje-direktor-jovine-gimnazije/",
     "https://www.021.rs/novi-sad/vesti/459589/uhapsen-direktor-jovine-gimnazije-radivoje-p-stojkovic",
     "https://n1info.rs/vesti/021rs-saznaje-bez-pritvora-za-direktora-jovine-zabranjen-mu-ulaz-u-gimnaziju-i-prilaz-profesorima/",
-    "https://n1info.rs/vesti/grujic-direktor-jovine-gimnazije-ponovo-suspendovao-profesore/"
+    "https://n1info.rs/vesti/grujic-direktor-jovine-gimnazije-ponovo-suspendovao-profesore/",
+    "https://www.rts.rs/lat/vesti/drustvo/6077290/jovina-gimnazija-direktor-radivoje-stojkovic-dejan-vuk-stankovic-vanredni-inspekcijski-nadzor.html"
    ],
    "naslov": "Uhapšen direktor Jovine gimnazije u Novom Sadu",
-   "opis": "Osumnjičen za četiri krivična dela neizvršenja sudskih odluka: nije vratio na posao četiri profesora kojima su sudovi poništili suspenzije. Zadržan do 48 sati. Mediji ga opisuju kao otvorenog pristalicu bivšeg predsednika. 30. okt: sud odbio pritvor, odredio zabranu ulaska u gimnaziju i prilaska svedocima do 30. januara 2027. 4. nov: profesorka Rima Grujić navodi da su njoj i Jovanu Travici uručena nova rešenja o suspenziji; ročište je zakazano za 17. novembar.",
+   "opis": "Osumnjičen za četiri krivična dela neizvršenja sudskih odluka: nije vratio na posao četiri profesora kojima su sudovi poništili suspenzije. Zadržan do 48 sati. Mediji ga opisuju kao otvorenog pristalicu bivšeg predsednika. 30. okt: sud odbio pritvor, odredio zabranu ulaska u gimnaziju i prilaska svedocima do 30. januara 2027. 4. nov: profesorka Rima Grujić navodi da su njoj i Jovanu Travici uručena nova rešenja o suspenziji; ročište je zakazano za 17. novembar. 5. nov: ministar prosvete u tehničkom mandatu predložio je vanredni inspekcijski nadzor i naložio Školskom odboru da razmotri mere.",
    "osobe": "R. S., direktor gimnazije · OJT Bačka Palanka · MUP",
    "red": 80,
    "status": "zvanicno",
@@ -3072,7 +3327,7 @@
   {
    "azurirano": "2026-11-05",
    "datum": "2026-10-29",
-   "napomena": "1. nov: ponovljeno glasanje na 53 mesta; prema projekciji Crte Studentska lista ima 140 mandata, SPP ulazi u Skupštinu. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); ima 96 sati za konačan izveštaj. Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. Šoškić očekuje izveštaj RIK-a u četvrtak, 5. novembra, i Skupštinu i vladu u narednih mesec dana. Do jutra 5. novembra objava konačnog izveštaja nije zabeležena.",
+   "napomena": "1. nov: ponovljeno glasanje na 53 mesta; prema projekciji Crte Studentska lista ima 140 mandata, SPP ulazi u Skupštinu. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); ima 96 sati za konačan izveštaj. Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata; član RIK-a Krstić rekao je da bi konstitutivna sednica mogla da bude održana najkasnije do 10. decembra. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. Šoškić očekuje izveštaj RIK-a u četvrtak, 5. novembra, i Skupštinu i vladu u narednih mesec dana. Do popodneva 5. novembra objava konačnog izveštaja nije zabeležena; poslednja objavljena sednica na sajtu RIK-a je 74. od 2. novembra.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
    "status": "u_toku",
@@ -3120,7 +3375,7 @@
   {
    "azurirano": "2026-11-05",
    "datum": "2026-10-29",
-   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
+   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
@@ -3136,9 +3391,9 @@
    "id": "o07"
   },
   {
-   "azurirano": "2026-11-04",
+   "azurirano": "2026-11-05",
    "datum": "2026-10-27",
-   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić; ostavku podneo i direktor RTV-a Goran Karadžić. 3. nov: UO RTS odložio izbor v.d. generalnog direktora. 4. nov: Savet REM-a usvojio nacrt pravilnika o imenovanju članova upravnih odbora javnih servisa; Smederevac kaže da RTS trenutno nema upravni odbor i da se novi odbori RTS-a i RTV-a očekuju oko februara. Dejan Jovanović, kao zamenik, zastupa RTS do izbora novog direktora.",
+   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić; ostavku podneo i direktor RTV-a Goran Karadžić. 3. nov: UO RTS odložio izbor v.d. generalnog direktora. 4. nov: Savet REM-a usvojio nacrt pravilnika o imenovanju članova upravnih odbora javnih servisa; Smederevac kaže da RTS trenutno nema upravni odbor i da se novi odbori RTS-a i RTV-a očekuju oko februara. Dejan Jovanović, kao zamenik, zastupa RTS do izbora novog direktora. 5. nov: dosadašnji UO RTS-a saopštio je da je za krizu upravljanja odgovoran REM, jer konkurs nije raspisao na vreme.",
    "naslov": "Departizacija RTS-a i ostavke rukovodstva javnog servisa",
    "opis": "Ostavke generalnog direktora, zamenika i glavnih urednika; nezavisan REM.",
    "status": "delimicno",
@@ -3156,9 +3411,9 @@
    "id": "o09"
   },
   {
-   "azurirano": "2026-11-03",
+   "azurirano": "2026-11-05",
    "datum": "2026-10-11",
-   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 2. nov: Viši sudovi u Beogradu i Novom Sadu objavili imena oko 23 pomilovana (među njima Dijana Hrkalović i Igor Elez). 3. nov: Viši sud u Nišu objavio da su pomilovani Boban Džunić i Nikola Božić; Ministarstvo pravde objavilo ceo spisak od 49 imena. Provera zakonitosti postupka je u toku (tužilac Danilović predložio da TOK ispita pomilovanje u slučaju Sonje Ponjavić).",
+   "napomena": "30. okt: TOK zatražio od Ministarstva pravde svu dokumentaciju o pomilovanjima 49 lica. 2. nov: Viši sudovi u Beogradu i Novom Sadu objavili imena oko 23 pomilovana (među njima Dijana Hrkalović i Igor Elez). 3. nov: Viši sud u Nišu objavio da su pomilovani Boban Džunić i Nikola Božić; Ministarstvo pravde objavilo ceo spisak od 49 imena. Provera zakonitosti postupka je u toku (tužilac Danilović predložio da TOK ispita pomilovanje u slučaju Sonje Ponjavić). 5. nov: Ministarstvo pravde tvrdi da je reč o ustavnom ovlašćenju; Danilović se žalio na ukidanje pritvora Marku Pavloviću, a punomoćnici oštećenog u slučaju „porše” traže od Ustavnog suda poništenje pomilovanja.",
    "naslov": "Objavljivanje celog spiska pomilovanih",
    "opis": "Imena 26 od 49 osoba koje je Vučić pomilovao ili abolirao i provera zakonitosti postupka.",
    "status": "ispunjeno",
