@@ -1,14 +1,44 @@
 {
- "generisano": "2026-11-05T15:57+00:00",
+ "generisano": "2026-11-06T06:40+00:00",
  "stanje": {
-  "azurirano": "2026-10-29",
+  "azurirano": "2026-11-06",
   "izbori": "2026-10-25",
-  "mandati": 141,
+  "mandati": 140,
   "procenat": "53,01%",
-  "skupstina": "Nije konstituisana",
+  "skupstina": "Nije konstituisana (rok 30 dana od 5. nov 2026)",
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-06",
+   "izvor": "Insajder / Telegraf",
+   "kategorija": "hapsenje",
+   "naslov": "Prvo OJT saslušalo Žmirića i još osmoro zbog garaže Vlade, predložen pritvor za sve",
+   "red": 95,
+   "sazetak": "Prvo osnovno javno tužilaštvo u Beogradu saopštilo je da je saslušalo devetoro osumnjičenih za zlostavljanje i mučenje deset osoba u noći 14/15. avgusta 2025. i predložilo pritvor zbog opasnosti od ometanja postupka i ponavljanja dela. Odluka suda do objave ovog teksta nije zabeležena.",
+   "url": "https://insajder.net/vesti/saslusano-devetoro-osumnjicenih-za-zlostavljanje-u-garazi-vlade-tuzilastvo-trazi-pritvor",
+   "id": "v247"
+  },
+  {
+   "datum": "2026-11-06",
+   "izvor": "Radar",
+   "kategorija": "korupcija",
+   "naslov": "Radar: Ekspo ugovorio obezbeđenje i čišćenje za oko 63 miliona evra sa grupom firmi T&M grup solušn",
+   "red": 74,
+   "sazetak": "Prema Radaru, za obezbeđenje je predviđeno 6,6 milijardi, a za čišćenje 771,6 miliona dinara, a sat obezbeđenja koštaće do 69 odsto više nego kod drugih državnih preduzeća. Nabavke se sprovode po posebnoj uredbi. Reč je o nalazima nedeljnika.",
+   "url": "https://radar.nova.rs/ekonomija/kome-je-ekspo-poverio-poslove-obezbedenja/",
+   "id": "v249"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "RTS / N1",
+   "kategorija": "izbori",
+   "naslov": "RIK proglasio konačne rezultate: Studentskoj listi 140 mandata, Ujedinjenoj Srbiji 103",
+   "red": 97,
+   "sazetak": "RIK je jednoglasno usvojio ukupne rezultate: Studentska lista 2.354.417 glasova i 140 mandata, „Aleksandar Vučić – Ujedinjena Srbija” 1.731.323 glasa i 103 mandata, a sedam mandata pripalo je manjinskim listama. Izašlo je 4.444.310 od 6.451.292 upisana birača. RIK u roku od 10 dana dodeljuje mandate kandidatima.",
+   "url": "https://www.rts.rs/lat/vesti/izbori-2026/6077524/rik-proglasio-konacne-rezultate-izbora.html",
+   "id": "v244"
+  },
   {
    "datum": "2026-11-05",
    "izvor": "VJT Novi Sad",
@@ -58,6 +88,16 @@
    "sazetak": "Radar navodi da je imao uvid u rešenja Višeg suda u Beogradu kojima su odbijeni predlozi BIA za nastavak mera nad Danilom Potparićem, Srđanom Milivojevićem, Aleksom Mijucom i Radomirom Popovićem, i da je pod merama od aprila 2026. bio tužilac Aleksandar Barac iz postupka „Nadstrešnica”. Reč je o navodima nedeljnika.",
    "url": "https://radar.nova.rs/drustvo/bia-vladimir-orlic-prisluskivanje/",
    "id": "v206"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1 / 021",
+   "kategorija": "korupcija",
+   "naslov": "Policija ušla u Pokrajinski PIO fond u Novom Sadu i u PIO fond u Bačkoj Palanci",
+   "red": 83,
+   "sazetak": "Prema novinaru Žarku Bogosavljeviću, u fondu u Novom Sadu bilo je desetak inspektora i forenzičari, a pregledani su računari i IT oprema. Razlog nije zvanično saopšten; nezvanične verzije pominju spiskove „kapilarnih glasova” ili poslovanje fonda. Policija i tužilaštvo se do objave nisu oglasili.",
+   "url": "https://n1info.rs/vesti/policija-usla-u-pokrajinski-pio-fond-u-novom-sadu/",
+   "id": "v248"
   },
   {
    "datum": "2026-11-05",
@@ -111,6 +151,16 @@
   },
   {
    "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Počeo rok od 30 dana za konstituisanje Skupštine, zatim 90 dana za formiranje vlade",
+   "red": 66,
+   "sazetak": "Konstitutivnu sednicu saziva predsednik parlamenta iz prethodnog saziva. Posle konstituisanja Skupštine počinje da teče rok od 90 dana za formiranje vlade.",
+   "url": "https://n1info.rs/vesti/izbori-skupstina-srbije-vlada-rokovi/",
+   "id": "v245"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "VJT Novi Sad",
    "kategorija": "hapsenje",
    "naslov": "VJT u Novom Sadu: uhapšeni zbog štete od 31,17 miliona dinara u firmi Naftachem Petrol; MUP navodi i treću osobu",
@@ -141,6 +191,26 @@
   },
   {
    "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Član RIK-a Šebek traži da tužilaštva ispitaju moguću kupovinu glasova na ponovljenom glasanju",
+   "red": 62,
+   "sazetak": "Ivan Šebek navodi da je SPP na ponovljenom glasanju dobila 277 glasova više nego 25. oktobra i da je zbog toga Studentska lista izgubila jedan mandat; primeri su Novi Pazar, Loznica, Aleksinac, Pirot i Babušnica. Predstavnik SPP-a odgovorio je da Šebek može da iskoristi zakonske mehanizme. Reč je o navodima člana RIK-a.",
+   "url": "https://n1info.rs/vesti/clan-rik-a-nadlezna-tuzilastva-i-policija-da-ispitaju-sumnje-u-mogucu-kupovinu-glasova/",
+   "id": "v246"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "Studenti",
+   "kategorija": "korupcija",
+   "naslov": "Studenti o Poštanskoj štedionici: građani ne smeju da plate cenu izbornog poraza",
+   "red": 60,
+   "sazetak": "Studentska lista tvrdi da su ljudi bliski odlazećem režimu naglim povlačenjem velikih iznosa stvorili pritisak na likvidnost banke. Poziva građane na smirenost, a NBS da preduzme mere i redovno obaveštava javnost.",
+   "url": "https://studenti.org.rs/vesti/interesi_banka/",
+   "id": "v250"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "RTS / Tanjug",
    "kategorija": "institucije",
    "naslov": "VJT u Beogradu dovodi u pitanje rad Komisije Vrhovnog javnog tužilaštva",
@@ -158,6 +228,16 @@
    "sazetak": "Osnovno tužilaštvo u Novom Sadu saopštilo je da je Matović osumnjičen da je na dan izbora građanima pretio smrću i da je za njim raspisana poternica, prenosi KRIK. Za isto delo uhapšena je još jedna osoba. Matović je jedan od 49 pomilovanih.",
    "url": "https://www.krik.rs/raspisana-poternica-za-gorskim-matovicem-zbog-pretnji-gradjanima-na-izborni-dan/",
    "id": "v217"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1 / Danas",
+   "kategorija": "institucije",
+   "naslov": "Danas: posle hapšenja Krička UKP vodi zamenik Nevenko Marić, stručnjaci to osporavaju",
+   "red": 56,
+   "sazetak": "Danas navodi da je Marić ranije pravosnažno osuđen za mobing i da je protiv njega vođena istraga. Advokat Goran Stupar smatra da on ne bi smeo da rukovodi UKP-om ni privremeno.",
+   "url": "https://n1info.rs/vesti/kricak-nevenko-maric-ukp-strucnjaci-nedopustivo/",
+   "id": "v254"
   },
   {
    "datum": "2026-11-05",
@@ -191,6 +271,16 @@
   },
   {
    "datum": "2026-11-05",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Novica Antić optužuje direktora VBA Jovanića za prisluškivanja i bot-centar",
+   "red": 54,
+   "sazetak": "Bivši predsednik Vojnog sindikata tvrdi da je Đuro Jovanić organizovao prisluškivanje novinara i aktivista i rad bot-centra u vojnom objektu, kao i da za to ima dokaze. Reč je o njegovim navodima.",
+   "url": "https://n1info.rs/vesti/novica-antic-djuro-jovanic-vba-prisluskivanje-bot-centar/",
+   "id": "v255"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "RTS",
    "kategorija": "mediji",
    "naslov": "Dosadašnji UO RTS-a: REM odgovoran za krizu, javni servis ostaje bez tri organa upravljanja",
@@ -208,6 +298,16 @@
    "sazetak": "Kandidat Studentske liste i bivši guverner rekao je da su velike iznose podizali ljudi iz, kako kaže, potencijalno kriminogene sfere posle izbornog poraza vlasti. Prema njemu, mere za očuvanje likvidnosti su na snazi i situacija nije alarmantna. Reč je o njegovoj izjavi.",
    "url": "https://n1info.rs/biznis/soskic-o-postanskoj-stedionici-mere-za-ocuvanje-likvidnosti-vec-na-snazi-situacija-nije-uporediva-sa-krahom-alta-banke/",
    "id": "v237"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Zaharova: o gasnom ugovoru sa Srbijom posle formiranja državnih organa",
+   "red": 52,
+   "sazetak": "Portparolka ruskog MSP-a rekla je da će se o produženju razgovarati kada nova vlast uputi zvaničan zahtev. Ugovor o isporuci gasa ističe 31. decembra.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6077518/marija-zaharova-rusija-srbija-gas-produzenje-gasnog-ugovora-studentska-lista.html",
+   "id": "v253"
   },
   {
    "datum": "2026-11-05",
@@ -271,6 +371,16 @@
   },
   {
    "datum": "2026-11-05",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studenti u Novom Sadu ograđuju se od pojedinih zborova: „Ne dozvolimo da prisvoje pobedu”",
+   "red": 46,
+   "sazetak": "Studenti navode da sarađuju s Mrežom zborova, a ne sa Zborovima Novog Sada, grupom Budni do kraja i drugim imenovanim grupama, koje optužuju za stvaranje paralelnih tela i zloupotrebu imena studenata.",
+   "url": "https://studenti.org.rs/vesti/ns_zbory/",
+   "id": "v251"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "N1",
    "kategorija": "institucije",
    "naslov": "Kopman: EU i Studentska lista imaju isti stav o temeljnim vrednostima",
@@ -281,6 +391,26 @@
   },
   {
    "datum": "2026-11-05",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studenti u Nišu: nema političke trgovine ni nametanja kadrova posle pobede",
+   "red": 44,
+   "sazetak": "Studentski pokret u Nišu demantuje tvrdnje pojedinih političkih subjekata o dugotrajnoj saradnji i poručuje da podrška tokom izbora ne daje pravo na protivuslugu.",
+   "url": "https://studenti.org.rs/vesti/nis_bez_kompromisa/",
+   "id": "v252"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "Insajder",
+   "kategorija": "institucije",
+   "naslov": "Član Saveta roditelja Jovine gimnazije: smena direktora očekuje se vrlo brzo",
+   "red": 42,
+   "sazetak": "Posle sastanka s ministrom prosvete u tehničkom mandatu Goran Radojev rekao je da bi uskoro trebalo da bude imenovan novi v.d. direktora. To je njegovo očekivanje; odluka još nije objavljena.",
+   "url": "https://insajder.net/vesti/clan-saveta-roditelja-jovine-gimnazije-nakon-sastanka-u-ministarstvu-nalazimo-se-pred-razresenjem-krize-smena-direktora-se-ocekuje-vrlo-brzo",
+   "id": "v256"
+  },
+  {
+   "datum": "2026-11-05",
    "izvor": "RTV",
    "kategorija": "mediji",
    "naslov": "Ministarstvo odbrane raskinulo ugovor sa RTS-om o emisiji „Dozvolite...”",
@@ -288,6 +418,16 @@
    "sazetak": "Ministarstvo navodi da RTS nije ispunjavao obaveze iz protokola o saradnji i da ne daje saglasnost za nove emisije ni korišćenje svojih obeležja. Saradnja je okončana 5. novembra.",
    "url": "https://www.rtv.rs/sr_lat/drustvo/ministarstvo-raskinulo-ugovor-sa-rts-om-na-realizaciji-projekta-dozvolite..._1756606.html",
    "id": "v243"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvor": "N1 / Beta",
+   "kategorija": "institucije",
+   "naslov": "Atanacković odbacuje Vučićevu tvrdnju da se firme reketiraju po nalogu Studentske liste",
+   "red": 36,
+   "sazetak": "Vučić je na društvenim mrežama tvrdio da su mnoge privatne firme reketirane po nalogu liste. Počasni predsednik Unije poslodavaca Nebojša Atanacković rekao je za Betu da se nijedan privrednik nije žalio na to.",
+   "url": "https://n1info.rs/biznis/atanackovic-vucic-prica-gluposti-nijedan-privrednik-se-nije-zalio-da-ga-neko-reketira-po-nalogu-studentske-liste/",
+   "id": "v257"
   },
   {
    "datum": "2026-11-05",
@@ -2442,6 +2582,19 @@
  ],
  "hronika": [
   {
+   "datum": "2026-12-05",
+   "izvori": [
+    "https://n1info.rs/vesti/izbori-skupstina-srbije-vlada-rokovi/"
+   ],
+   "naslov": "Krajnji rok za konstituisanje Narodne skupštine",
+   "opis": "Rok od 30 dana počeo je da teče 5. novembra, proglašenjem konačnih rezultata. Sednicu saziva predsednica Skupštine iz prethodnog saziva Ana Brnabić; datum još nije objavljen. Posle konstituisanja teče rok od 90 dana za formiranje vlade.",
+   "osobe": "Ana Brnabić · Narodna skupština",
+   "red": 70,
+   "status": "najavljeno",
+   "tip": "izbori",
+   "id": "h66"
+  },
+  {
    "datum": "2026-11-27",
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6072498/brnabic-predsednicki-izbori-bice-raspisani-do-27-novembra-.html"
@@ -2470,16 +2623,47 @@
    "id": "h20"
   },
   {
+   "datum": "2026-11-06",
+   "iznos": "≈ 63 mil. € (sa PDV-om)",
+   "izvori": [
+    "https://radar.nova.rs/ekonomija/kome-je-ekspo-poverio-poslove-obezbedenja/"
+   ],
+   "naslov": "Radar: oko 63 miliona evra za obezbeđenje i čišćenje Ekspa grupi firmi T&M grup solušn",
+   "opis": "Radar navodi da je Ekspo 2027 u martu i julu ugovorio obezbeđenje (6,6 milijardi dinara) i čišćenje (771,6 miliona dinara) izložbenog kompleksa u Surčinu. Za obezbeđenje nije bilo druge prihvatljive ponude, a jeftinija ponuda za čišćenje odbijena je zbog referenci. Prema nedeljniku, sat obezbeđenja košta do 69 odsto više nego kod drugih državnih preduzeća. Nabavke se sprovode po posebnoj vladinoj uredbi.",
+   "osobe": "Ekspo 2027 · T&M grup solušn · Mihajlo Popović · Dane Šijan",
+   "red": 68,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h65"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/izbori-2026/6077524/rik-proglasio-konacne-rezultate-izbora.html",
+    "https://n1info.rs/vesti/rik-proglasio-konacne-rezultate-parlamentarnih-izbora/",
+    "https://n1info.rs/vesti/clan-rik-a-nadlezna-tuzilastva-i-policija-da-ispitaju-sumnje-u-mogucu-kupovinu-glasova/"
+   ],
+   "naslov": "RIK proglasio konačne rezultate: Studentskoj listi 140 od 250 mandata",
+   "opis": "Studentska lista osvojila je 2.354.417 glasova i 140 mandata, lista „Aleksandar Vučić – Ujedinjena Srbija” 1.731.323 glasa i 103 mandata. Po dva mandata imaju Savez vojvođanskih Mađara i Albanska koalicija, a po jedan lista Rasima Ljajića, SPP – Pokret za ujedinjenje i SDA Sandžaka. RIK mandate kandidatima dodeljuje u roku od 10 dana. Član RIK-a Ivan Šebek tvrdi da je lista izgubila jedan mandat zbog sumnjivih rezultata SPP-a na ponovljenom glasanju; to je njegov navod.",
+   "osobe": "RIK · Ivan Šebek",
+   "red": 97,
+   "status": "zvanicno",
+   "tip": "izbori",
+   "id": "h63"
+  },
+  {
    "datum": "2026-11-05",
    "iznos": "130,9 mil. din",
    "izvori": [
     "https://novisad.vjt.rs/aktuelnosti/5-11-2026-saopstenje-za-javnost-2/",
     "https://n1info.rs/vesti/uhapsen-pokrajinski-sekretar-za-socijalnu-politiku-sumnja-se-da-je-ostetio-budzet-vojvodine-za-vise-od-130-miliona-dinara/",
-    "https://n1info.rs/vesti/maja-gojkovic-o-hapsenju-pokrajinskog-sekretara-postujte-pretpostavku-nevinosti/"
+    "https://n1info.rs/vesti/maja-gojkovic-o-hapsenju-pokrajinskog-sekretara-postujte-pretpostavku-nevinosti/",
+    "https://n1info.rs/vesti/skupstina-vojvodine-dodela-sredstava-130-miliona/",
+    "https://www.danas.rs/vesti/drustvo/uhapsen-predrag-vuletic-pokrajinski-sekretar-i-blizak-saradnik-aleksandra-vulina/"
    ],
    "naslov": "Uhapšen pokrajinski sekretar za socijalnu politiku zbog sumnje na štetu od 130,9 miliona dinara",
    "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu uhapšeni su pokrajinski sekretar P.V. (prema N1 Predrag Vuletić) i predsednica komisije sekretarijata D.M. zbog produžene zloupotrebe službenog položaja. Sumnjiče se da su sredstva za stambeno pitanje porodica s trećim ili četvrtim detetom za 2021–2024. dodeljena licima koja nisu ispunjavala osnovni uslov konkursa. Određeno im je zadržavanje do 48 sati. Iznos je sumnja tužilaštva, a ne sudski nalaz.",
-   "osobe": "Predrag Vuletić (P.V.) · D.M. · VJT u Novom Sadu · Maja Gojković",
+   "osobe": "Predrag Vuletić (P.V.) · Diana Milović (D.M., prema N1) · VJT u Novom Sadu · Maja Gojković",
    "red": 95,
    "status": "zvanicno",
    "tip": "hapsenje",
@@ -2501,6 +2685,21 @@
   {
    "datum": "2026-11-05",
    "izvori": [
+    "https://n1info.rs/vesti/policija-usla-u-pokrajinski-pio-fond-u-novom-sadu/",
+    "https://n1info.rs/vesti/novars-policija-usla-pio-fond-backa-palanka/",
+    "https://www.danas.rs/vesti/drustvo/policija-usla-u-pio-fond-u-backoj-palanci/"
+   ],
+   "naslov": "Policija ušla u PIO fond u Novom Sadu i Bačkoj Palanci",
+   "opis": "Mediji javljaju da su inspektori i forenzičari u Pokrajinskom PIO fondu pregledali računare i IT opremu i da su, prema nezvaničnim informacijama, zaplenili računare i dokumentaciju. Policija je istog dana ušla i u prostorije fonda u Bačkoj Palanci. Razlog nije zvanično saopšten; navodi o „kapilarnim glasovima” SNS-a ili o poslovanju fonda nisu potvrđeni.",
+   "osobe": "Milan Šućak · Pokrajinski PIO fond · MUP",
+   "red": 78,
+   "status": "navod",
+   "tip": "korak",
+   "id": "h64"
+  },
+  {
+   "datum": "2026-11-05",
+   "izvori": [
     "https://www.krik.rs/raspisana-poternica-za-gorskim-matovicem-zbog-pretnji-gradjanima-na-izborni-dan/",
     "https://www.danas.rs/vesti/drustvo/gorski-matovic-potraga-policija/"
    ],
@@ -2517,11 +2716,13 @@
    "izvori": [
     "https://n1info.rs/vesti/mup-potvrdio-hapsenje-zmirica-privedeno-ukupno-osmoro-bivsih-i-sadasnjih-policajaca/",
     "https://www.krik.rs/uhapsen-komandant-saj-a-igor-zmiric/",
-    "https://www.danas.rs/vesti/drustvo/uhapsen-direktor-posebne-pritvorske-jedinice-okruznog-zatvora-u-beogradu-milan-vukovic-zvani-baka/"
+    "https://www.danas.rs/vesti/drustvo/uhapsen-direktor-posebne-pritvorske-jedinice-okruznog-zatvora-u-beogradu-milan-vukovic-zvani-baka/",
+    "https://insajder.net/vesti/saslusano-devetoro-osumnjicenih-za-zlostavljanje-u-garazi-vlade-tuzilastvo-trazi-pritvor",
+    "https://www.telegraf.rs/vesti/hronika/4427799-saslusani-zmiric-i-vukovic-zbog-torture-u-garazi-vlade-predlozen-pritvor-za-komandanta-saj-a-i-policajce"
    ],
    "naslov": "Uhapšeni komandant SAJ-a Igor Žmirić i još osmoro zbog zlostavljanja studenata u garaži Vlade",
-   "opis": "MUP je saopštio da je po nalogu Prvog OJT u Beogradu određeno zadržavanje do 48 sati za osam policijskih službenika i jednog bivšeg službenika, zbog sumnje na zlostavljanje i mučenje u garaži zgrade Vlade u Nemanjinoj, u noći 14/15. avgusta 2025. Prema MUP-u, primenom sile i pretnji naneli su veliki bol i teške patnje većem broju lica. Mediji navode da je među njima i v.d. direktora Posebne pritvorske jedinice Milan Vuković. Ishod saslušanja još nije objavljen.",
-   "osobe": "Igor Žmirić (I.Ž., komandant SAJ-a) · MUP · Sektor unutrašnje kontrole · Prvo OJT u Beogradu",
+   "opis": "MUP je saopštio da je po nalogu Prvog OJT u Beogradu određeno zadržavanje do 48 sati za osam policijskih službenika i jednog bivšeg službenika, zbog sumnje na zlostavljanje i mučenje u garaži zgrade Vlade u Nemanjinoj, u noći 14/15. avgusta 2025. Prema MUP-u, primenom sile i pretnji naneli su veliki bol i teške patnje većem broju lica. Prvo OJT je saopštilo da je saslušalo svih devetoro i predložilo im pritvor zbog opasnosti od ometanja postupka i ponavljanja dela; oštećeno je deset osoba. Prema Telegrafu, među osumnjičenima je Milan Vuković, sada zaposlen u Upravi za izvršenje krivičnih sankcija, a prvookrivljeni je Marko Kričak, koji je već u pritvoru. Odluka suda o pritvoru još nije zabeležena.",
+   "osobe": "Igor Žmirić (I.Ž., komandant SAJ-a) · Milan Vuković · Marko Kričak · MUP · Sektor unutrašnje kontrole · Prvo OJT u Beogradu",
    "red": 94,
    "status": "zvanicno",
    "tip": "hapsenje",
@@ -2707,10 +2908,11 @@
    "datum": "2026-11-03",
    "iznos": "≈ 128,5 mil. din",
    "izvori": [
-    "https://n1info.rs/biznis/beogradski-park-izvukao-milione-iz-budzeta-nema-potvrde-da-su-usluge-izvrsene/"
+    "https://n1info.rs/biznis/beogradski-park-izvukao-milione-iz-budzeta-nema-potvrde-da-su-usluge-izvrsene/",
+    "https://www.rts.rs/lat/vesti/drustvo/6077440/jkp-beogradski-park-dri-nepravilnosti-cene-usluga-farbanje-klupe.html"
    ],
    "naslov": "DRI: Beogradski park dobio 128,5 miliona dinara bez dokaza o izvršenim uslugama",
-   "opis": "U reviziji Sekretarijata za komunalne i stambene poslove Grada Beograda za 2025. Državna revizorska institucija navodi da je novac JKP Beogradski park isplaćen kao „specijalizovane usluge” bez validnih računovodstvenih isprava i da po ekonomskoj suštini odgovara subvencijama, a ne naknadama za izvršene usluge. Izveštaj je objavio N1; reakcija Grada i preduzeća nije objavljena.",
+   "opis": "U reviziji Sekretarijata za komunalne i stambene poslove Grada Beograda za 2025. Državna revizorska institucija navodi da je novac JKP Beogradski park isplaćen kao „specijalizovane usluge” bez validnih računovodstvenih isprava i da po ekonomskoj suštini odgovara subvencijama, a ne naknadama za izvršene usluge. Izveštaj je objavio N1; reakcija Grada i preduzeća nije objavljena. 6. nov: DRI je za RTS ponovila da Sekretarijat nema odgovarajuću dokumentaciju, pa se ne može pouzdano utvrditi šta je urađeno, kada i kako.",
    "osobe": "JKP Beogradski park · Sekretarijat za komunalne i stambene poslove · DRI",
    "red": 70,
    "status": "zvanicno",
@@ -3325,9 +3527,9 @@
  ],
  "obecanja": [
   {
-   "azurirano": "2026-11-05",
+   "azurirano": "2026-11-06",
    "datum": "2026-10-29",
-   "napomena": "1. nov: ponovljeno glasanje na 53 mesta; prema projekciji Crte Studentska lista ima 140 mandata, SPP ulazi u Skupštinu. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); ima 96 sati za konačan izveštaj. Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata; član RIK-a Krstić rekao je da bi konstitutivna sednica mogla da bude održana najkasnije do 10. decembra. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. Šoškić očekuje izveštaj RIK-a u četvrtak, 5. novembra, i Skupštinu i vladu u narednih mesec dana. Do popodneva 5. novembra objava konačnog izveštaja nije zabeležena; poslednja objavljena sednica na sajtu RIK-a je 74. od 2. novembra.",
+   "napomena": "1. nov: ponovljeno glasanje na 53 mesta. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. 5. nov: RIK proglasio konačne rezultate, Studentskoj listi 140 mandata, čime je ispunjen prvi deo zahteva. Počeo je rok od 30 dana za konstituisanje Skupštine; datum sednice još nije objavljen, a RIK mandate dodeljuje u roku od 10 dana.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
    "status": "u_toku",
@@ -3373,9 +3575,9 @@
    "id": "o05"
   },
   {
-   "azurirano": "2026-11-05",
+   "azurirano": "2026-11-06",
    "datum": "2026-10-29",
-   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
+   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
