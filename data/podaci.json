@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-07T08:02+00:00",
+ "generisano": "2026-11-07T15:13+00:00",
  "stanje": {
   "azurirano": "2026-11-07",
   "izbori": "2026-10-25",
@@ -51,6 +51,16 @@
   },
   {
    "datum": "2026-11-07",
+   "izvor": "RTV",
+   "kategorija": "bezbednost",
+   "naslov": "Načelnik PU Valjevo Vlada Jerinić premešten na drugo radno mesto, nezvanično na lični zahtev",
+   "red": 55,
+   "sazetak": "Prema nezvaničnim saznanjima RTS-a, ministar unutrašnjih poslova u tehničkom mandatu Ivica Dačić premestio je načelnika PU Valjevo Vladu Jerinića na lični zahtev. Građani su njegovu smenu tražili posle prekomerne upotrebe sile na protestu 14. avgusta 2025; do izbora novog načelnika upravu vodi zamenik Milan Simić, čiju su smenu studenti takođe tražili.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/smenjen-nacelnik-pu-valjevo-vlada-jerinic-premesten-na-drugo-radno-mesto_1757150.html",
+   "id": "v305"
+  },
+  {
+   "datum": "2026-11-07",
    "izvor": "RTS",
    "kategorija": "program",
    "naslov": "Gašić: nema saradnje sa Srpskom listom, nova vlast će preispitati dogovoreno sa Prištinom",
@@ -58,6 +68,56 @@
    "sazetak": "Kandidat Studentske liste Jugoslav Gašić rekao je da će nova vlast preispitati šta je dogovoreno Briselskim i drugim sporazumima. Finansijska pomoć Srbima na Kosovu, prema njegovim rečima, biće nastavljena i proširena, bez političkih uslova.",
    "url": "https://rts.rs/vesti/politika/6078644/jugoslav-gasic-nema-saradnje-sa-srpskom-listom-oni-su-odgovorni-za-ovakav-polozaj-srba-na-kim.html",
    "id": "v295"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Pokret Snaga Srbije predlaže Bogoljuba Karića za kandidata na predsedničkim izborima",
+   "red": 40,
+   "sazetak": "Izvršni odbor Pokreta Snaga Srbije – BK jednoglasno je odlučio da Glavnom odboru predloži Bogoljuba Karića za kandidata na predstojećim predsedničkim izborima. Pokret je čestitao Studentskoj listi na pobedi na parlamentarnim izborima.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6078823/pokret-snaga-srbije-odlucio-da-bogoljub-karic-bude-kandidat-na-predsednickim-izborima-.html",
+   "id": "v306"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Transparentnost Srbija pokrenula sajt sa odlukama vlade u tehničkom mandatu",
+   "red": 35,
+   "sazetak": "Transparentnost Srbija pokrenula je sajt na kome se objavljuju sve odluke Vlade i ministarstava u tehničkom mandatu od 9. septembra 2026, uz ocene rizika, i pozvala građane da ga prate.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6078776/transparentnost-srbija-pokrenut-sajt-sa-odlukama-tehnicke-vlade-gradjanima-poziv-da-ga-prate.html",
+   "id": "v307"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "NUNS osudio targetiranje novinarke RTS-a Tamare Tankosić",
+   "red": 30,
+   "sazetak": "Nezavisno udruženje novinara Srbije osudilo je javno targetiranje i pokušaje diskreditacije novinarke RTS-a Tamare Tankosić zbog njenog profesionalnog rada.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6078725/nuns-osudio-targetiranje-novinarke-rts-a-tamare-tankosic.html",
+   "id": "v308"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu žaliće se na presudu zaposlenima u KPZ Padinska Skela zbog smrti zatvorenika",
+   "red": 25,
+   "sazetak": "Viši sud u Beogradu 6. novembra osudio je lekarku na dve i po i vođu smene obezbeđenja na godinu i po zatvora zbog nesavesnog rada u službi u vezi sa smrću zatvorenika S. B. u februaru 2024, a trojicu komandira oslobodio. Posebno odeljenje za suzbijanje korupcije VJT najavilo je žalbu radi strožih kazni i preinačenja oslobađajućeg dela.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1486/",
+   "id": "v309"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "Danas",
+   "kategorija": "korupcija",
+   "naslov": "Novo lice Srbije: GSP Beograd na ivici kolapsa, dugovi dobavljačima preko 12 miliona evra",
+   "red": 20,
+   "sazetak": "Stranka Novo lice Srbije tvrdi da dugovanja GSP-a Beograd prema dobavljačima prelaze 12 miliona evra i da dobavljači razmatraju tužbu, te traži od nadležnih da ispitaju poslovanje, sporne ugovore i javne nabavke preduzeća. Reč je o navodima stranke.",
+   "url": "https://www.danas.rs/vesti/ekonomija/novo-lice-srbije-gsp-na-ivici-kolapsa-trazi-se-ispitivanje-poslovanja-i-spornih-ugovora/",
+   "id": "v311"
   },
   {
    "datum": "2026-11-06",
@@ -418,6 +478,16 @@
    "sazetak": "RTS piše da je Tomo Stojić, osuđen zbog eksplozije iz 2017. u kojoj su poginula dva radnika, pomilovan pre izdržavanja kazne. Roditelji stradalog Milomira Milivojevića govore o devet godina borbe za pravdu.",
    "url": "https://rts.rs/vesti/drustvo/6078431/eksplozija-lucani-milan-blagojevic-namenska.html",
    "id": "v297"
+  },
+  {
+   "datum": "2026-11-06",
+   "izvor": "Radar",
+   "kategorija": "bezbednost",
+   "naslov": "Radar: u BIA navodno prerađuju dokumenta o nadzoru novinara Radara",
+   "red": 45,
+   "sazetak": "Radar, pozivajući se na više neimenovanih izvora, navodi da se u BIA po nalogu direktora Vladimira Orlića menjaju obrazloženja prekida mera nadzora nad urednicima i novinarima Radara, kako bi objavljena dokumenta bila predstavljena kao falsifikat. List ističe da se ista dokumenta nalaze i u Višem sudu u Beogradu. Navodi nisu zvanično potvrđeni.",
+   "url": "https://radar.nova.rs/drustvo/vladimir-orlic-naredio-preradu-dokaza/",
+   "id": "v310"
   },
   {
    "datum": "2026-11-06",
@@ -3132,6 +3202,21 @@
    "status": "navod",
    "tip": "incident",
    "id": "h79"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvori": [
+    "https://www.rtv.rs/sr_lat/drustvo/smenjen-nacelnik-pu-valjevo-vlada-jerinic-premesten-na-drugo-radno-mesto_1757150.html",
+    "https://www.rts.rs/lat/vesti/drustvo/6078803/na-licni-zahtev-nacelnik-pu-valjevo-vlada-jerinic-premesten-na-drugo-radno-mesto.html",
+    "https://n1info.rs/vesti/danas-smenjen-nacelnik-pu-valjevo/"
+   ],
+   "naslov": "Načelnik PU Valjevo Vlada Jerinić premešten na drugo radno mesto",
+   "opis": "RTS nezvanično saznaje da je ministar unutrašnjih poslova u tehničkom mandatu premestio načelnika PU Valjevo na njegov lični zahtev. Građani i studenti tražili su njegovu smenu posle policijske akcije na protestu u Valjevu 14. avgusta 2025, kada je prekomerna sila upotrebljena nad više od 25 učesnika; slučajeve je preuzeo TOK. MUP odluku nije zvanično saopštio.",
+   "osobe": "Vlada Jerinić · Milan Simić · MUP · PU Valjevo",
+   "red": 50,
+   "status": "navod",
+   "tip": "ostavka",
+   "id": "h81"
   },
   {
    "datum": "2026-11-06",
