@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-08T10:43+00:00",
+ "generisano": "2026-11-08T15:13+00:00",
  "stanje": {
   "azurirano": "2026-11-08",
   "izbori": "2026-10-25",
@@ -9,6 +9,16 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-08",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšen predsednik opštine Inđija Marko Gašić i još petoro zbog „Inđija puta”",
+   "red": 95,
+   "sazetak": "VJT u Novom Sadu saopštilo je da je uhapšeno šest osumnjičenih, a za jednim se traga. Predsednika opštine (SNS) M.G. i direktora JP „Inđija put” U.T. terete da su 2023–2025. kroz nameštene nabavke za saobraćajnu signalizaciju isplatili 26.961.059 dinara za radove koji nisu izvedeni; svima je određeno zadržavanje do 48 sati.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/8-11-2026-saopstenje-za-javnost/",
+   "id": "v324"
+  },
   {
    "datum": "2026-11-08",
    "izvor": "RTS",
@@ -51,6 +61,16 @@
   },
   {
    "datum": "2026-11-08",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Baucal: Studentska lista spremna za konstitutivnu sednicu, razgovori o predsedniku Skupštine pri kraju",
+   "red": 45,
+   "sazetak": "Kandidat Studentske liste Aleksandar Baucal rekao je da su budući poslanici upoznati sa dnevnim redom i procedurama sednice 17. novembra i da je dogovor o predsedniku Skupštine u završnoj fazi. Naveo je da se formiraju timovi za različite sektore.",
+   "url": "https://www.rtv.rs/sr_lat/politika/baucal-studentska-lista-spremna-za-konstitutivnu-sednicu-razgovori-o-predsedniku-skupstine-pri-kraju_1757296.html",
+   "id": "v325"
+  },
+  {
+   "datum": "2026-11-08",
    "izvor": "Danas",
    "kategorija": "institucije",
    "naslov": "Bakić: pripremao sam se za MUP, ali odluka o ministrima još nije doneta",
@@ -61,6 +81,26 @@
   },
   {
    "datum": "2026-11-08",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Mirjana Nikolić: o kadrovskim predlozima odlučuju studentska tela, lista ih neće osporavati",
+   "red": 40,
+   "sazetak": "Buduća poslanica Studentske liste Mirjana Nikolić izjavila je da se čekaju odluke studentskih tela usaglašene na nivou svih univerzitetskih centara, uključujući predlog za predsednika Skupštine. Predloženi kandidati moraće da daju saglasnost.",
+   "url": "https://n1info.rs/vesti/mirjana-nikolic-cekaju-se-odluke-studentskih-tela-o-kadrovskim-resenjima-predstavnici-liste-ih-nece-osporavati/",
+   "id": "v326"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "Danas",
+   "kategorija": "bezbednost",
+   "naslov": "Radovanović: policajci na obezbeđenju „Ćacilenda” dobijali i 100.000–200.000 dinara mesečno više",
+   "red": 35,
+   "sazetak": "Bivša poslanica i penzionisana pukovnica policije Slavica Radovanović tvrdi, pozivajući se na pripadnike Interventne jedinice, da su im za obezbeđivanje Pionirskog parka isplaćivani uvećanja do 20 odsto, prekovremeni sati i dnevnice. Navodi nisu zvanično potvrđeni.",
+   "url": "https://www.danas.rs/vesti/politika/radovanovic-policajci-za-obezbedjivanje-cacilenda-dobijali-i-po-200-000-dinara-dodatno-mesecno/",
+   "id": "v327"
+  },
+  {
+   "datum": "2026-11-08",
    "izvor": "RTS / Studenti",
    "kategorija": "izbori",
    "naslov": "Izbori za nacionalne savete manjina; studenti: Vlasi imaju samo jednu listu",
@@ -68,6 +108,16 @@
    "sazetak": "Održavaju se izbori za članove nacionalnih saveta 23 manjine, pravo glasa ima 481.785 birača. Studenti navode da je za Vlaški savet ponuđena samo jedna lista, sastavljena od kadrova bivše vlasti.",
    "url": "https://www.rts.rs/lat/vesti/politika/6078956/izbori-nacionalni-savet-nacionalnih-manjina.html",
    "id": "v321"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Birodi najavio krivičnu prijavu zbog pretnji direktoru Zoranu Gavriloviću",
+   "red": 30,
+   "sazetak": "Biro za društvena istraživanja najavio je prijavu VJT u Beogradu protiv nepoznatog korisnika mreže X koji je objavio adresu i poruke koje se mogu razumeti kao pretnje Gavriloviću. Birodi ukazuje na širi kontekst medijske diskreditacije civilnog društva.",
+   "url": "https://n1info.rs/vesti/birodi-najavio-krivicnu-prijavu-zbog-pretnji-zoranu-gavrilovicu/",
+   "id": "v328"
   },
   {
    "datum": "2026-11-07",
@@ -3310,6 +3360,23 @@
    "status": "najavljeno",
    "tip": "korak",
    "id": "h72"
+  },
+  {
+   "datum": "2026-11-08",
+   "iznos": "≈ 27 mil. din (≈ 230.000 €)",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/8-11-2026-saopstenje-za-javnost/",
+    "https://n1info.rs/vesti/in-medija-ukp-priveo-predsednika-opstine-indjija-i-jos-dve-osobe/",
+    "https://n1info.rs/vesti/marko-gasic-funkcioner-sns-a-bivsi-direktor-indjija-puta-i-predsednik-opstine/",
+    "https://insajder.net/vesti/vjt-u-novom-sadu-uhapseno-sest-osoba-osumnjicenih-za-zloupotrebu-sluzbenog-polozaja-medu-njima-direktori-jp-indija-put"
+   ],
+   "naslov": "Uhapšen predsednik opštine Inđija zbog sumnje na zloupotrebe u JP „Inđija put”",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) i UKP uhapsili su šest osumnjičenih, za jednim se traga. M.G. i U.T. kao direktori JP „Inđija put” se terete za zloupotrebu službenog položaja: 2023–2025. nameštene nabavke za saobraćajnu signalizaciju i isplata za radove koji nisu izvedeni; troje za pomaganje, jedna osoba za pranje novca. Određeno zadržavanje do 48 sati.",
+   "osobe": "Marko Gašić (predsednik opštine Inđija, SNS) · Uroš Trifunović (direktor JP „Inđija put”) · VJT Novi Sad",
+   "red": 90,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h83"
   },
   {
    "datum": "2026-11-07",
