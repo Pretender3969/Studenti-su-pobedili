@@ -1,14 +1,74 @@
 {
- "generisano": "2026-11-07T15:13+00:00",
+ "generisano": "2026-11-08T10:43+00:00",
  "stanje": {
-  "azurirano": "2026-11-07",
+  "azurirano": "2026-11-08",
   "izbori": "2026-10-25",
   "mandati": 140,
   "procenat": "53,01%",
-  "skupstina": "Nije konstituisana (rok 30 dana od 5. nov 2026)",
+  "skupstina": "Nije konstituisana; konstitutivna sednica zakazana za 17. nov 2026.",
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-08",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Brnabić zakazala konstitutivnu sednicu nove Skupštine za 17. novembar u 10 časova",
+   "red": 92,
+   "sazetak": "Predsednica Skupštine iz prethodnog saziva Ana Brnabić zakazala je prvu sednicu novog saziva za utorak 17. novembra. Dnevni red ima šest tačaka, među njima potvrđivanje mandata i izbor predsednika i potpredsednika Skupštine; do izbora predsednika predsedava najstariji poslanik, prof. Stojan Radenović.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6079105/brnabic-konstitutivna-sednica-17-novembra-u-10-casova.html",
+   "id": "v312"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "RTS",
+   "kategorija": "hapsenje",
+   "naslov": "Slučaj Dragijević: saslušano osam policajaca, VJT u Nišu predložilo pritvor",
+   "red": 70,
+   "sazetak": "Više javno tužilaštvo u Nišu saslušalo je 7. novembra osmoricu policijskih službenika UKP osumnjičenih za tešku telesnu povredu sa smrtnim ishodom u sticaju sa zlostavljanjem i mučenjem Dalibora Dragijevića u PU Bor 2024. Tužilac je predložio sudiji za prethodni postupak da im odredi pritvor.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6079100/saslusani-uhapseni-policajci-zbog-smrti-dalibora-dragijevica.html",
+   "id": "v313"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "VJT Beograd",
+   "kategorija": "mediji",
+   "naslov": "VJT naložilo policiji da identifikuje osobe koje su na utakmici pretile Brankici Stanković",
+   "red": 55,
+   "sazetak": "Više javno tužilaštvo u Beogradu uputilo je policiji zahtev da utvrdi okolnosti skandiranja pretnji novinarki Brankici Stanković na utakmici Partizan – Makabi 6. novembra i identifikuje osumnjičene za ugrožavanje sigurnosti.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1487/",
+   "id": "v315"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "Studenti",
+   "kategorija": "bezbednost",
+   "naslov": "Viši sud u Pančevu ukinuo presudu studentu Andreju Tanku",
+   "red": 50,
+   "sazetak": "Viši sud u Pančevu ukinuo je presudu kojom je Andrej Tanko bio proglašen krivim za ometanje službenog lica i vratio predmet osnovnom sudu, novom sudiji. Studenti navode da odluka nije oslobađajuća, ali da je važan korak.",
+   "url": "https://studenti.org.rs/vesti/tanko_presuda/",
+   "id": "v316"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "Danas",
+   "kategorija": "institucije",
+   "naslov": "Bakić: pripremao sam se za MUP, ali odluka o ministrima još nije doneta",
+   "red": 40,
+   "sazetak": "Kandidat Studentske liste Jovo Bakić rekao je za N1 da bi želeo da vodi Ministarstvo unutrašnjih poslova i da je bilo neformalnih razgovora, ali da o tome nije odlučeno.",
+   "url": "https://www.danas.rs/vesti/drustvo/bakic-ozbiljno-sam-se-pripremao-za-mup-ali-to-je-samo-moja-zelja-odluke-jos-nema/",
+   "id": "v318"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "RTS / Studenti",
+   "kategorija": "izbori",
+   "naslov": "Izbori za nacionalne savete manjina; studenti: Vlasi imaju samo jednu listu",
+   "red": 30,
+   "sazetak": "Održavaju se izbori za članove nacionalnih saveta 23 manjine, pravo glasa ima 481.785 birača. Studenti navode da je za Vlaški savet ponuđena samo jedna lista, sastavljena od kadrova bivše vlasti.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6078956/izbori-nacionalni-savet-nacionalnih-manjina.html",
+   "id": "v321"
+  },
   {
    "datum": "2026-11-07",
    "izvor": "RTS / N1",
@@ -51,6 +111,16 @@
   },
   {
    "datum": "2026-11-07",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Viši sud usvojio žalbu VJT: Kričku i Sekuloviću pritvor i zbog opasnosti od ponavljanja dela",
+   "red": 60,
+   "sazetak": "Vanpretresno veće Posebnog odeljenja za suzbijanje korupcije Višeg suda u Beogradu 6. novembra preinačilo je rešenje o pritvoru bivšem načelniku UKP Marku Kričku i Bošku Sekuloviću, pa je pritvor određen i zbog opasnosti od ponavljanja krivičnog dela.",
+   "url": "https://n1info.rs/vesti/visi-sud-u-beogradu-usvojio-zalbu-vjt-a-u-slucaju-marka-kricka-i-sekulovica/",
+   "id": "v314"
+  },
+  {
+   "datum": "2026-11-07",
    "izvor": "RTV",
    "kategorija": "bezbednost",
    "naslov": "Načelnik PU Valjevo Vlada Jerinić premešten na drugo radno mesto, nezvanično na lični zahtev",
@@ -68,6 +138,26 @@
    "sazetak": "Kandidat Studentske liste Jugoslav Gašić rekao je da će nova vlast preispitati šta je dogovoreno Briselskim i drugim sporazumima. Finansijska pomoć Srbima na Kosovu, prema njegovim rečima, biće nastavljena i proširena, bez političkih uslova.",
    "url": "https://rts.rs/vesti/politika/6078644/jugoslav-gasic-nema-saradnje-sa-srpskom-listom-oni-su-odgovorni-za-ovakav-polozaj-srba-na-kim.html",
    "id": "v295"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Ponorac predstavio plan Studentske liste za odbranu: cilj vojni budžet od pet odsto BDP-a",
+   "red": 45,
+   "sazetak": "Predstavnik Studentske liste Luka Ponorac rekao je za RTS da će lista težiti povećanju vojnog budžeta ka pet odsto BDP-a i nastavku modernizacije, uz napomenu da sprovođenje zavisi od stanja finansija i kadrova koje nova vlast zatekne.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6078902/luka-ponorac-vojska-srbije-studentska-lista.html",
+   "id": "v317"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Požarevački studenti: izborni materijal sa ličnim podacima bačen u kontejner kod PU",
+   "red": 42,
+   "sazetak": "Studenti iz Požarevca tvrde da su u kontejneru kod Policijske uprave pronašli zapisnike, zatvornice i spiskove posmatrača sa JMBG-ovima, i objavili fotografije. Reč je o njihovim navodima.",
+   "url": "https://n1info.rs/vesti/pozarevacki-studenti-tvrde-da-su-uocili-nepropisno-bacanje-izbornog-materijala/",
+   "id": "v319"
   },
   {
    "datum": "2026-11-07",
@@ -101,6 +191,26 @@
   },
   {
    "datum": "2026-11-07",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Niš: peticija za ostavku gradonačelnika, pominju se vanredni lokalni izbori",
+   "red": 30,
+   "sazetak": "Studentska lista je u Nišu osvojila više od 93.000 glasova, a SNS oko 54.000. Pokrenuta je internet peticija za ostavku gradonačelnika Dragoslava Pavlovića.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6078910/parlamentarni-izbori-nis-gradonacelnik-peticija.html",
+   "id": "v320"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "DRI: auto-perionica vaterpolo kluba plaća Sportskom centru Novi Beograd zakup od 19.000 dinara na 20 godina",
+   "red": 28,
+   "sazetak": "Prema izveštaju Državne revizorske institucije o Sportskom centru Novi Beograd za 2024, perionica u vlasništvu VK Novi Beograd 11. april plaća fiksni zakup od 19.000 dinara mesečno 20 godina, dok komunalne troškove snosi sportski centar.",
+   "url": "https://n1info.rs/biznis/kako-se-preko-auto-perionice-preliva-novac-sportskog-centra-vaterpolo-klubu-novi-beograd-sta-je-utvrdio-dri/",
+   "id": "v322"
+  },
+  {
+   "datum": "2026-11-07",
    "izvor": "VJT Beograd",
    "kategorija": "institucije",
    "naslov": "VJT u Beogradu žaliće se na presudu zaposlenima u KPZ Padinska Skela zbog smrti zatvorenika",
@@ -108,6 +218,16 @@
    "sazetak": "Viši sud u Beogradu 6. novembra osudio je lekarku na dve i po i vođu smene obezbeđenja na godinu i po zatvora zbog nesavesnog rada u službi u vezi sa smrću zatvorenika S. B. u februaru 2024, a trojicu komandira oslobodio. Posebno odeljenje za suzbijanje korupcije VJT najavilo je žalbu radi strožih kazni i preinačenja oslobađajućeg dela.",
    "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1486/",
    "id": "v309"
+  },
+  {
+   "datum": "2026-11-07",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Bivši zaposleni Euronews Srbija traže odgovornost rukovodstva za pritiske na novinare",
+   "red": 25,
+   "sazetak": "U otvorenom pismu UNS-u bivši zaposleni traže da se utvrdi odgovornost direktorke Minje Miletić i urednice Dragane Pejović za, kako navode, sistematske pritiske na novinare.",
+   "url": "https://n1info.rs/vesti/bivsi-zaposleni-euronews-srbija-minja-miletic-i-dragana-pejovic-odgovorne-za-sistematske-pritiske-na-novinare-urusavanje-profesionalnih-standarda-i-diskreditaciju-brenda-en/",
+   "id": "v323"
   },
   {
    "datum": "2026-11-07",
@@ -3127,7 +3247,7 @@
     "https://n1info.rs/vesti/izbori-skupstina-srbije-vlada-rokovi/"
    ],
    "naslov": "Krajnji rok za konstituisanje Narodne skupštine",
-   "opis": "Rok od 30 dana počeo je da teče 5. novembra, proglašenjem konačnih rezultata. Sednicu saziva predsednica Skupštine iz prethodnog saziva Ana Brnabić; datum još nije objavljen. Posle konstituisanja teče rok od 90 dana za formiranje vlade.",
+   "opis": "Rok od 30 dana počeo je da teče 5. novembra, proglašenjem konačnih rezultata. 8. nov: Ana Brnabić zakazala konstitutivnu sednicu za 17. novembar. Posle konstituisanja teče rok od 90 dana za formiranje vlade.",
    "osobe": "Ana Brnabić · Narodna skupština",
    "red": 70,
    "status": "najavljeno",
@@ -3161,6 +3281,21 @@
    "status": "najavljeno",
    "tip": "prijava",
    "id": "h20"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6079105/brnabic-konstitutivna-sednica-17-novembra-u-10-casova.html",
+    "https://www.rtv.rs/sr_lat/politika/brnabic-konstitutivna-sednica-17.-novembra-od-10-sati-sest-tacaka-dnevnog-reda_1757273.html",
+    "https://n1info.rs/vesti/ana-brnabic-sednica-skupstine-17-novembra/"
+   ],
+   "naslov": "Konstitutivna sednica Narodne skupštine novog saziva",
+   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović.",
+   "osobe": "Ana Brnabić · Stojan Radenović · Narodna skupština",
+   "red": 95,
+   "status": "najavljeno",
+   "tip": "korak",
+   "id": "h82"
   },
   {
    "datum": "2026-11-13",
@@ -3223,10 +3358,11 @@
    "izvori": [
     "https://n1info.rs/vesti/osmorica-pripadnika-ukp-uhapsena-zbog-slucaja-smrti-dalibora-dragijevica-u-policijskoj-stanici/",
     "https://n1info.rs/vesti/vjt-u-nisu-mup-ranije-odbijao-da-privede-osumnjicene-za-smrt-dragijevica/",
-    "https://n1info.rs/vesti/cetiri-uhapsena-policajca-u-slucaju-ubistva-dalibora-dragijevica-jzo/"
+    "https://n1info.rs/vesti/cetiri-uhapsena-policajca-u-slucaju-ubistva-dalibora-dragijevica-jzo/",
+    "https://www.rts.rs/lat/vesti/hronika/6079100/saslusani-uhapseni-policajci-zbog-smrti-dalibora-dragijevica.html"
    ],
    "naslov": "Uhapšeno osam policajaca zbog smrti Dalibora Dragijevića",
-   "opis": "Po nalogu VJT u Nišu pripadnici Sektora unutrašnje kontrole MUP-a uhapsili su osam policijskih službenika zbog sumnje na zlostavljanje i mučenje i tešku telesnu povredu usled koje je nastupila smrt, u noći između 6. i 7. aprila 2024. u Boru. Određeno im je zadržavanje do 48 sati. VJT u Nišu navodi da Sektor unutrašnje kontrole ranije nije postupao po njegovim nalozima za hapšenje.",
+   "opis": "Po nalogu VJT u Nišu pripadnici Sektora unutrašnje kontrole MUP-a uhapsili su osam policijskih službenika zbog sumnje na zlostavljanje i mučenje i tešku telesnu povredu usled koje je nastupila smrt, u noći između 6. i 7. aprila 2024. u Boru. Određeno im je zadržavanje do 48 sati. VJT u Nišu navodi da Sektor unutrašnje kontrole ranije nije postupao po njegovim nalozima za hapšenje. 7. nov: osumnjičeni saslušani u VJT u Nišu, tužilac predložio Višem sudu u Nišu da im odredi pritvor.",
    "osobe": "N.P. · M.Lj. · B.M. · I.T. · M.S. · M.B. · Z.Đ. · J.K. · VJT u Nišu · MUP",
    "red": 95,
    "status": "zvanicno",
@@ -3791,10 +3927,11 @@
     "https://n1info.rs/vesti/odredjen-pritvor-do-30-dana-marku-kricku-i-bojanu-sekulovicu/",
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1477/",
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1478/",
-    "https://www.rts.rs/lat/vesti/politika/6075610/mup-doneta-resenja-o-privremenom-udaljenju-sa-rada-kricka-i-sekulovica-.html"
+    "https://www.rts.rs/lat/vesti/politika/6075610/mup-doneta-resenja-o-privremenom-udaljenju-sa-rada-kricka-i-sekulovica-.html",
+    "https://n1info.rs/vesti/visi-sud-u-beogradu-usvojio-zalbu-vjt-a-u-slucaju-marka-kricka-i-sekulovica/"
    ],
    "naslov": "VJT: uhapšeni načelnik UKP Marko Kričak i Boško Sekulović zbog slučaja „Senjak”",
-   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima. U noći 2/3. novembra Viši sud u Beogradu odredio je obojici pritvor do 30 dana zbog opasnosti od uticaja na svedoke. 3. nov: VJT najavilo žalbu, tražeći pritvor i zbog opasnosti od ponavljanja dela; MUP doneo rešenja o njihovom privremenom udaljenju s rada.",
+   "opis": "Više javno tužilaštvo u Beogradu potvrdilo je da su po nalogu njegovog Posebnog odeljenja za suzbijanje korupcije pripadnici Službe za borbu protiv korupcije MUP-a uhapsili načelnika UKP M.K. i načelnika Službe za suzbijanje kriminala B.S. i odredili im zadržavanje do 48 sati. Sumnjiče se da su od 12. maja do 3. juna 2026. zloupotrebom službenog položaja teže povredili prava bivšeg načelnika PU za Beograd V.M. u slučaju ubistva u restoranu „27”, a Kričak i za zlostavljanje i mučenje oštećenog N.L. 16. maja u prostorijama UKP. Glavni javni tužilac Nenad Stefanović naveo je da hapšenje nema veze sa izborima. U noći 2/3. novembra Viši sud u Beogradu odredio je obojici pritvor do 30 dana zbog opasnosti od uticaja na svedoke. 3. nov: VJT najavilo žalbu, tražeći pritvor i zbog opasnosti od ponavljanja dela; MUP doneo rešenja o njihovom privremenom udaljenju s rada. 6. nov: vanpretresno veće Višeg suda usvojilo žalbu VJT, pa je pritvor određen i zbog opasnosti od ponavljanja dela.",
    "osobe": "Marko Kričak (načelnik UKP) · Boško Sekulović (načelnik Službe za suzbijanje kriminala) · Nenad Stefanović · VJT u Beogradu",
    "red": 90,
    "status": "zvanicno",
@@ -4286,9 +4423,9 @@
  ],
  "obecanja": [
   {
-   "azurirano": "2026-11-07",
+   "azurirano": "2026-11-08",
    "datum": "2026-10-29",
-   "napomena": "1. nov: ponovljeno glasanje na 53 mesta. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. 5. nov: RIK proglasio konačne rezultate, Studentskoj listi 140 mandata, čime je ispunjen prvi deo zahteva. Počeo je rok od 30 dana za konstituisanje Skupštine. 6. nov: RIK dodelio mandate poslanicima; Đenadić rekao da lista očekuje što skorije zakazivanje konstitutivne sednice; Vlada u tehničkom mandatu saopštila je da očekuje konstituisanje u najkraćem roku. Datum sednice još nije objavljen.",
+   "napomena": "1. nov: ponovljeno glasanje na 53 mesta. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. 5. nov: RIK proglasio konačne rezultate, Studentskoj listi 140 mandata, čime je ispunjen prvi deo zahteva. Počeo je rok od 30 dana za konstituisanje Skupštine. 6. nov: RIK dodelio mandate poslanicima; Đenadić rekao da lista očekuje što skorije zakazivanje konstitutivne sednice; Vlada u tehničkom mandatu saopštila je da očekuje konstituisanje u najkraćem roku. 8. nov: Brnabić zakazala konstitutivnu sednicu za 17. novembar u 10 časova.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
    "status": "u_toku",
