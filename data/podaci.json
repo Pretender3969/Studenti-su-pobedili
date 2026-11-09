@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-09T07:01+00:00",
+ "generisano": "2026-11-09T16:00+00:00",
  "stanje": {
   "azurirano": "2026-11-08",
   "izbori": "2026-10-25",
@@ -11,6 +11,36 @@
  "vesti": [
   {
    "datum": "2026-11-09",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu odustalo od optužbe protiv devetoro studenata za „pripremu nasilne promene ustavnog uređenja”",
+   "red": 88,
+   "sazetak": "Tužilaštvo je obavestilo Viši sud u Beogradu da odustaje od optužnog predloga iz 19. septembra 2025. protiv devetoro okrivljenih. Odluka je doneta pošto je Apelacioni sud potvrdio izdvajanje nezakonito pribavljenih dokaza, pa po oceni VJT nema osnova za dalje zastupanje optužbe.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1488/",
+   "id": "v336"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "Slučaj „Inđija put”: naložena istraga, predložen pritvor za M.G. i U.T.",
+   "red": 86,
+   "sazetak": "VJT u Novom Sadu donelo je naredbu o sprovođenju istrage protiv sedam lica i posle saslušanja predložilo pritvor za M.G. i U.T. zbog opasnosti od uticaja na svedoke i ponavljanja dela; za T.J. (pranje novca) predložena je mera zabrane komuniciranja sa svedocima. Jedan osumnjičeni je u bekstvu.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost-2/",
+   "id": "v337"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1 / Beta",
+   "kategorija": "hapsenje",
+   "naslov": "Upravniku zatvora Zabela određen pritvor do 30 dana",
+   "red": 85,
+   "sazetak": "Viši sud u Kraljevu odredio je, na predlog VJT u Kraljevu, pritvor do 30 dana upravniku KPZ Zabela R.R. zbog sumnje na zloupotrebu službenog položaja i davanje i primanje mita u vezi sa glasanjem osuđenika na izborima 25. oktobra. Kao razlog navedena je opasnost od uticaja na svedoke; osumnjičeni se nije izjašnjavao o odbrani.",
+   "url": "https://n1info.rs/vesti/upravniku-zabele-odredjen-pritvor-od-30-dana/",
+   "id": "v335"
+  },
+  {
+   "datum": "2026-11-09",
    "izvor": "VJT Novi Sad",
    "kategorija": "hapsenje",
    "naslov": "VJT u Novom Sadu: uhapšena dvojica iz uprave „Holding Centroslavija” zbog sumnje na protivpravnu korist od 98 miliona dinara",
@@ -18,6 +48,86 @@
    "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije uhapšeni su D.Lj. (predsednik odbora direktora) i P.B. (član odbora). Sumnjiče se da su u decembru 2022. omogućili da Holding pozajmi 98 miliona dinara firmi „Tehnogradnja”, čiji je vlasnik D.Lj.; zadržani su do 48 sati.",
    "url": "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost/",
    "id": "v329"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1 / Beta",
+   "kategorija": "izbori",
+   "naslov": "OJT u Pančevu formiralo predmet zbog sumnje na netačne biračke spiskove u GIK Pančevo",
+   "red": 70,
+   "sazetak": "Predmet je formiran po krivičnoj prijavi protiv predsednika i zamenika predsednika Gradske izborne komisije (T.K. i M.P.) i nepoznatih lica. Podnosilac prijave tvrdi da je od 22. do 25. oktobra oko 1.100 birača nezakonito upisano za glasanje van biračkog mesta; navodi nisu utvrđeni.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-u-pancevu-formiralo-predmet-zbog-sumnje-na-netacne-biracke-spiskove-u-gik/",
+   "id": "v338"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Bivši inspektor BIA podneo TOK-u novu prijavu protiv Orlića zbog odavanja službene tajne",
+   "red": 65,
+   "sazetak": "Milan Zvezdanović traži da TOK ispita da li su od novembra 2024. do oktobra 2026. analitički izveštaji BIA, uključujući i „strogo poverljive”, dostavljani TV Informer i Centru za društvenu stabilnost, kao i ulogu Vladimira Orlića i Relje Željskog. Reč je o navodima podnosioca; TOK i BIA se nisu oglasili.",
+   "url": "https://n1info.rs/vesti/bivsi-inspektor-bia-podneo-krivicnu-prijavu-protiv-orlica-tuzilastvo-da-ispita-da-li-je-strogo-poverljiv-materijal-bia-dostavljan-informeru-i-centru-za-drustvenu-stabilnost/",
+   "id": "v339"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "ZLF tvrdi da je BIA tajno nadzirala Radomira Lazovića i ulazila u njegov stan",
+   "red": 62,
+   "sazetak": "Zeleno-levi front navodi da ima saznanja da je kopredsednik stranke Radomir Lazović bio pod tajnim nadzorom BIA, čiji su agenti ulazili u njegov stan da postave opremu. Navodi nisu zvanično potvrđeni.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6079730/zlf-bia-ulazila-u-stan-radomira-lazovica.html",
+   "id": "v341"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1 / Beta",
+   "kategorija": "institucije",
+   "naslov": "Počelo suđenje bivšem načelniku beogradske policije Veselinu Miliću, on poriče krivicu",
+   "red": 60,
+   "sazetak": "Pred Prvim osnovnim sudom u Beogradu Milić je rekao da nije kriv za neprijavljivanje ubistva u restoranu na Senjaku i sačinjavanje neistinite službene beleške. Odbrana tvrdi da je postupak posledica nezakonitog postupanja Marka Kričaka i Boška Sekulovića; nastavak je 17. decembra.",
+   "url": "https://n1info.rs/vesti/veselin-milic-sudjenje-izjavio-nije-kriv-restoran-senjak/",
+   "id": "v340"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "SĆF: u oktobru 159 verbalnih napada funkcionera na novinare, najviše Vučić",
+   "red": 55,
+   "sazetak": "Fondacija Slavko Ćuruvija zabeležila je najmanje 159 verbalnih napada državnih funkcionera i funkcionera SNS-a na novinare i medije, 47% više nego u septembru; Vučić je prednjačio sa 63. Najčešća meta bila je redakcija N1 (92 pominjanja).",
+   "url": "https://n1info.rs/vesti/u-oktobru-159-verbalnih-napada-na-novinare-prednjacio-vucic-redakcija-n1-bila-meta-zvanicnika-i-funkcionera-sns-92-puta/",
+   "id": "v343"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "RTS / N1",
+   "kategorija": "mediji",
+   "naslov": "Medijska udruženja traže obustavu konkursa za komisije za sufinansiranje medija do izbora novog ministra",
+   "red": 50,
+   "sazetak": "ANEM, NUNS, UNS, Asocijacija medija, Fondacija Slavko Ćuruvija i Lokal pres zatražili su od ministra informisanja u tehničkom mandatu Borisa Bratine da obustavi konkurs za 2027. Navode da su Alo i Informer ranije dobili više od 185,3 miliona dinara.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6079969/medijska-udruzenja-traze-obustavljanje-konkursa-za-sufinansiranje-medija-do-izbora-novog-ministra.html",
+   "id": "v342"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Stanarević (Studentska lista): otvaranje dosijea mora biti prioritet",
+   "red": 48,
+   "sazetak": "Svetlana Stanarević za RTS kaže da su neophodni potpuna depolitizacija i profesionalizacija bezbednosnih struktura i stroga civilna i sudska kontrola nad njima, a otvaranje dosijea navodi kao prioritet.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6079547/svetlana-stanarevic-studentska-lista-otvaranje-dosijea.html",
+   "id": "v345"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Transparentnost Srbija pokrenula praćenje odluka vlade u tehničkom mandatu",
+   "red": 45,
+   "sazetak": "Zlatko Minić kaže da je sajt tehnickavlada.rs pokrenut da prati odluke tehničke vlade i da su uočena kršenja zakona, među njima imenovanja načelnika upravnih okruga. Za tender za put Kraljevo–Novi Pazar naveo je da postoje uslovi za poništenje.",
+   "url": "https://n1info.rs/vesti/transparentnost-srbija-zlatko-minic-tehnicka-vlada/",
+   "id": "v344"
   },
   {
    "datum": "2026-11-08",
@@ -3422,16 +3532,58 @@
    "id": "h72"
   },
   {
+   "datum": "2026-11-09",
+   "izvori": [
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1488/",
+    "https://n1info.rs/vesti/vjt-obustavilo-postupak-protiv-devetoro-studenata-optuzenih-za-pripremu-nasilne-promene-ustavnog-uredjenja/"
+   ],
+   "naslov": "VJT odustalo od optužbe protiv devetoro studenata za „pripremanje nasilne promene ustavnog uređenja”",
+   "opis": "Više javno tužilaštvo u Beogradu odustalo je od optužnog predloga iz 19. septembra 2025. protiv devetoro okrivljenih, pošto je Apelacioni sud potvrdio rešenje Višeg suda o izdvajanju nezakonito pribavljenih dokaza (posebne dokazne radnje). Prema N1, optužba se odnosila na sastanke na Građevinskom i Filološkom fakultetu u junu 2025.",
+   "osobe": "Luka S. · Bojo B. · Lazar S. · Ivana M. · Dušan S. · Dimitrije S. · Dimitrije D. · Nikola P. · Luka D. · VJT u Beogradu · Apelacioni sud u Beogradu",
+   "red": 82,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h85"
+  },
+  {
+   "datum": "2026-11-09",
+   "iznos": "98 mil. din (≈ 835.000 €)",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost/"
+   ],
+   "naslov": "Novi Sad: uhapšena dvojica iz uprave „Holding Centroslavija” zbog sumnje na protivpravnu korist od 98 miliona dinara",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu uhapšeni su D.Lj. (predsednik odbora direktora) i P.B. (član odbora) zbog zloupotrebe položaja odgovornog lica. Sumnja se da su u decembru 2022. odobrili pozajmicu od 98 miliona dinara povezanoj firmi „Tehnogradnja”, kojom je ona otkupila 35% akcija holdinga i postala većinski vlasnik. Određeno zadržavanje do 48 sati. Iznos je sumnja tužilaštva.",
+   "osobe": "D.Lj. · P.B. · „Holding Centroslavija” · „Tehnogradnja” · VJT u Novom Sadu",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h84"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvori": [
+    "https://n1info.rs/vesti/tuzilastvo-u-pancevu-formiralo-predmet-zbog-sumnje-na-netacne-biracke-spiskove-u-gik/"
+   ],
+   "naslov": "Pančevo: predmet protiv rukovodstva Gradske izborne komisije zbog sumnje na netačne biračke spiskove",
+   "opis": "OJT u Pančevu formiralo je predmet po krivičnoj prijavi protiv predsednika i zamenika predsednika GIK Pančevo (T.K. i M.P.) i nepoznatih lica zbog sastavljanja netačnih biračkih spiskova na izborima 25. oktobra. Prema prijavi, oko 1.100 birača je nezakonito dodato za glasanje van biračkog mesta; zvanično je potvrđeno samo formiranje predmeta.",
+   "osobe": "T.K. · M.P. · GIK Pančevo · OJT u Pančevu",
+   "red": 65,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h86"
+  },
+  {
    "datum": "2026-11-08",
    "iznos": "≈ 27 mil. din (≈ 230.000 €)",
    "izvori": [
     "https://novisad.vjt.rs/aktuelnosti/8-11-2026-saopstenje-za-javnost/",
     "https://n1info.rs/vesti/in-medija-ukp-priveo-predsednika-opstine-indjija-i-jos-dve-osobe/",
     "https://n1info.rs/vesti/marko-gasic-funkcioner-sns-a-bivsi-direktor-indjija-puta-i-predsednik-opstine/",
-    "https://insajder.net/vesti/vjt-u-novom-sadu-uhapseno-sest-osoba-osumnjicenih-za-zloupotrebu-sluzbenog-polozaja-medu-njima-direktori-jp-indija-put"
+    "https://insajder.net/vesti/vjt-u-novom-sadu-uhapseno-sest-osoba-osumnjicenih-za-zloupotrebu-sluzbenog-polozaja-medu-njima-direktori-jp-indija-put",
+    "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost-2/"
    ],
    "naslov": "Uhapšen predsednik opštine Inđija zbog sumnje na zloupotrebe u JP „Inđija put”",
-   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) i UKP uhapsili su šest osumnjičenih, za jednim se traga. M.G. i U.T. kao direktori JP „Inđija put” se terete za zloupotrebu službenog položaja: 2023–2025. nameštene nabavke za saobraćajnu signalizaciju i isplata za radove koji nisu izvedeni; troje za pomaganje, jedna osoba za pranje novca. Određeno zadržavanje do 48 sati.",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) i UKP uhapsili su šest osumnjičenih, za jednim se traga. M.G. i U.T. kao direktori JP „Inđija put” se terete za zloupotrebu službenog položaja: 2023–2025. nameštene nabavke za saobraćajnu signalizaciju i isplata za radove koji nisu izvedeni; troje za pomaganje, jedna osoba za pranje novca. Određeno zadržavanje do 48 sati. 9. nov: VJT je donelo naredbu o sprovođenju istrage protiv sedam lica i posle saslušanja predložilo pritvor za M.G. i U.T. (opasnost od uticaja na svedoke i ponavljanja dela), a za T.J. zabranu komuniciranja sa svedocima; preostala trojica biće saslušana u roku od 48 sati.",
    "osobe": "Marko Gašić (predsednik opštine Inđija, SNS) · Uroš Trifunović (direktor JP „Inđija put”) · VJT Novi Sad",
    "red": 90,
    "status": "zvanicno",
@@ -3501,10 +3653,11 @@
    "izvori": [
     "https://n1info.rs/vesti/mup-upravnik-zabele-kupovao-glasove-deleci-zaplenjene-cigarete-i-kafu/",
     "https://n1info.rs/vesti/direktoru-zabele-odredjeno-policijsko-zadrzavanje/",
-    "https://n1info.rs/vesti/ministarstvo-pravde-o-hapsenju-upravnika-zabele-postujemo-samostalnost-tuzilastva-i-nezavisnost-sudova/"
+    "https://n1info.rs/vesti/ministarstvo-pravde-o-hapsenju-upravnika-zabele-postujemo-samostalnost-tuzilastva-i-nezavisnost-sudova/",
+    "https://n1info.rs/vesti/upravniku-zabele-odredjen-pritvor-od-30-dana/"
    ],
    "naslov": "Priveden upravnik zatvora Zabela zbog sumnje na kupovinu glasova osuđenika",
-   "opis": "VJT u Kraljevu potvrdilo je zadržavanje upravnika KPZ Zabela zbog sumnje na zloupotrebu službenog položaja i davanje i primanje mita u vezi sa glasanjem. MUP navodi da je sumnja da je naložio deljenje zaplenjenih cigareta i kafe osuđenicima kako bi glasali za listu SNS-a, kao i da je deo od 20.265 boksova cigareta predat drugim zavodima. Zadržavanje je do 48 sati, posle čega se sprovodi tužiocu.",
+   "opis": "VJT u Kraljevu potvrdilo je zadržavanje upravnika KPZ Zabela zbog sumnje na zloupotrebu službenog položaja i davanje i primanje mita u vezi sa glasanjem. MUP navodi da je sumnja da je naložio deljenje zaplenjenih cigareta i kafe osuđenicima kako bi glasali za listu SNS-a, kao i da je deo od 20.265 boksova cigareta predat drugim zavodima. Zadržavanje je do 48 sati, posle čega se sprovodi tužiocu. 9. nov: Viši sud u Kraljevu odredio mu je, na predlog VJT, pritvor do 30 dana zbog opasnosti od uticaja na svedoke; on se nije izjašnjavao o odbrani.",
    "osobe": "Rodoljub Rončević · KPZ Zabela · VJT u Kraljevu · MUP",
    "red": 93,
    "status": "zvanicno",
