@@ -32,6 +32,7 @@ Be thorough even when sites are blocked: if WebFetch fails for a site (403, "not
   - Prvo, Drugo, Treće osnovno JT Beograd: https://prvo.ojt.rs/saopstenja/ , https://drugo.ojt.rs/ , https://trece.ojt.rs/
   - Vrhovno javno tužilaštvo: WebSearch "Vrhovno javno tužilaštvo saopštenje".
   Skip routine releases (ordinary street crime, traffic); keep anything about officials, public companies, public money, elections, destruction of documents, attacks on students or journalists.
+- Tehnička vlada (https://tehnickavlada.rs/, NGO Transparentnost Srbija; feed https://tehnickavlada.rs/rss.xml): acts of the outgoing government in its technical mandate with a risk rating. Add as `vesti` only new acts rated "Najviši rizik" or worth over ~1 mlrd RSD (izvor "Transparentnost Srbija", kategorija `korupcija` if public money/property/contracts, else `institucije`, url = the akt page). The rating is the organisation's assessment, not a finding of illegality: write "Transparentnost Srbija ocenjuje…". No `hronika` entries from this source alone.
 - Investigative outlets (theft/fraud and amounts), only items from the last few days: https://www.krik.rs/ , https://birn.rs/ , https://www.cins.rs/ , https://insajder.net/ , https://radar.nova.rs/
 - WebSearch (several queries): "Studentska lista" vlada / ministri / Skupština; uhapšen bivši funkcioner / direktor; krivična prijava SNS; TOK tužilaštvo korupcija; and news on danas.rs, nova.rs, 021.rs, vreme.com.
 
