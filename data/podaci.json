@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-08T15:13+00:00",
+ "generisano": "2026-11-09T07:01+00:00",
  "stanje": {
   "azurirano": "2026-11-08",
   "izbori": "2026-10-25",
@@ -9,6 +9,16 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-09",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "VJT u Novom Sadu: uhapšena dvojica iz uprave „Holding Centroslavija” zbog sumnje na protivpravnu korist od 98 miliona dinara",
+   "red": 70,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije uhapšeni su D.Lj. (predsednik odbora direktora) i P.B. (član odbora). Sumnjiče se da su u decembru 2022. omogućili da Holding pozajmi 98 miliona dinara firmi „Tehnogradnja”, čiji je vlasnik D.Lj.; zadržani su do 48 sati.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost/",
+   "id": "v329"
+  },
   {
    "datum": "2026-11-08",
    "izvor": "VJT Novi Sad",
@@ -41,6 +51,16 @@
   },
   {
    "datum": "2026-11-08",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Šoškić: ime predsednika Skupštine dogovoreno, poslanici i vlada odlučivaće autonomno",
+   "red": 60,
+   "sazetak": "Dejan Šoškić (Studentska lista) rekao je u „Utisku nedelje” da su studenti dogovorili ko će biti predsednik Skupštine i da će ime objaviti studentski pokret. Naveo je da će poslanici i članovi buduće vlade odluke donositi samostalno, u skladu sa Ustavom i zakonom.",
+   "url": "https://www.rtv.rs/sr_lat/politika/soskic-poslanici-i-clanovi-buduce-vlade-donosice-odluke-autonomno-ime-predsednika-skupstine-dogovoreno_1757376.html",
+   "id": "v330"
+  },
+  {
+   "datum": "2026-11-08",
    "izvor": "VJT Beograd",
    "kategorija": "mediji",
    "naslov": "VJT naložilo policiji da identifikuje osobe koje su na utakmici pretile Brankici Stanković",
@@ -61,6 +81,16 @@
   },
   {
    "datum": "2026-11-08",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "RTS: na konstitutivnoj sednici 17. novembra očekuje se i raspisivanje predsedničkih izbora",
+   "red": 50,
+   "sazetak": "Konstitutivna sednica nove Skupštine održaće se 23 dana posle vanrednih parlamentarnih izbora; prema RTS-u, tada se očekuje i raspisivanje predsedničkih izbora.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6079316/skupstina-srbije-konstituisanje.html",
+   "id": "v333"
+  },
+  {
+   "datum": "2026-11-08",
    "izvor": "RTV",
    "kategorija": "institucije",
    "naslov": "Baucal: Studentska lista spremna za konstitutivnu sednicu, razgovori o predsedniku Skupštine pri kraju",
@@ -68,6 +98,16 @@
    "sazetak": "Kandidat Studentske liste Aleksandar Baucal rekao je da su budući poslanici upoznati sa dnevnim redom i procedurama sednice 17. novembra i da je dogovor o predsedniku Skupštine u završnoj fazi. Naveo je da se formiraju timovi za različite sektore.",
    "url": "https://www.rtv.rs/sr_lat/politika/baucal-studentska-lista-spremna-za-konstitutivnu-sednicu-razgovori-o-predsedniku-skupstine-pri-kraju_1757296.html",
    "id": "v325"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Brnabić traži dijalog sa Studentskom listom pre konstitutivne sednice",
+   "red": 45,
+   "sazetak": "Ana Brnabić, predsednica Skupštine u tehničkom mandatu, tvrdi da niko iz Studentske liste nije kontaktirao skupštinske službe pred sednicu 17. novembra i pozvala je listu da to učini naredne nedelje.",
+   "url": "https://n1info.rs/vesti/brnabic-trazi-dijalog-sa-predstavnicima-studentske-liste-pre-konstitutivne-sednice-skupstine/",
+   "id": "v331"
   },
   {
    "datum": "2026-11-08",
@@ -91,6 +131,16 @@
   },
   {
    "datum": "2026-11-08",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Predstavnici Studentske liste posetili Gračanicu, Dečane i Prizren",
+   "red": 40,
+   "sazetak": "Mitropolit raško-prizrenski Teodosije primio je predstavnike Studentske liste u manastiru Gračanica; razgovarali su o položaju srpskog naroda i zaštiti svetinja na Kosovu i Metohiji.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6079416/mitropolit-teodosije-primio-predstavnike-studentske-liste-u-gracanici---posetili-i-decane-i-prizren.html",
+   "id": "v332"
+  },
+  {
+   "datum": "2026-11-08",
    "izvor": "Danas",
    "kategorija": "bezbednost",
    "naslov": "Radovanović: policajci na obezbeđenju „Ćacilenda” dobijali i 100.000–200.000 dinara mesečno više",
@@ -98,6 +148,16 @@
    "sazetak": "Bivša poslanica i penzionisana pukovnica policije Slavica Radovanović tvrdi, pozivajući se na pripadnike Interventne jedinice, da su im za obezbeđivanje Pionirskog parka isplaćivani uvećanja do 20 odsto, prekovremeni sati i dnevnice. Navodi nisu zvanično potvrđeni.",
    "url": "https://www.danas.rs/vesti/politika/radovanovic-policajci-za-obezbedjivanje-cacilenda-dobijali-i-po-200-000-dinara-dodatno-mesecno/",
    "id": "v327"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Održani izbori za nacionalne savete manjina, „Mađarska sloga” preliminarno 25 od 35 mandata",
+   "red": 35,
+   "sazetak": "Birališta za izbore za nacionalne savete 23 nacionalne manjine zatvorena su u 20 časova. Prema preliminarnim rezultatima, „Mađarska sloga” očekuje 25 od 35 mandata u Nacionalnom savetu mađarske nacionalne manjine.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6079392/izbori-nacionalni-saveti-nacionalnih-manjina-rezultati.html",
+   "id": "v334"
   },
   {
    "datum": "2026-11-08",
