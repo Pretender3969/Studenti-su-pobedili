@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-09T16:00+00:00",
+ "generisano": "2026-11-10T09:41+00:00",
  "stanje": {
   "azurirano": "2026-11-08",
   "izbori": "2026-10-25",
@@ -9,6 +9,26 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-10",
+   "izvor": "RTV / FoNet",
+   "kategorija": "mediji",
+   "naslov": "Rešenje REM-a stupilo na snagu: TV Informer sedam dana bez „Prve info”; Vučićević kaže da je policija došla s nalogom za privođenje",
+   "red": 50,
+   "sazetak": "Rešenjem Saveta REM-a od 9. novembra TV Informeru je na sedam dana zabranjeno emitovanje „Prve info” (7–8.30 č). Urednik Dragan J. Vučićević tvrdi da je policija ujutru došla sa nalogom za privođenje po krivičnoj prijavi Sanje Fric zbog uvrede, ali da je posle konsultacija sa sudijom i tužilaštvom pušten na sednicu REM-a; najavio je krivične prijave protiv članova Saveta.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/vucicevic-policija-uoci-sednice-rem-a-dosla-na-moja-vrata-nastavicu-borbu_1757743.html",
+   "id": "v351"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "N1 / FoNet",
+   "kategorija": "institucije",
+   "naslov": "Gradonačelnica Užica Jelena Raković Radivojević podnela ostavku",
+   "red": 40,
+   "sazetak": "Prema saopštenju Gradske uprave Užica, Raković Radivojević podnela je ostavku zbog zdravstvenog stanja i potrebe za oporavkom. Funkciju je obavljala od 2020. u dva mandata.",
+   "url": "https://n1info.rs/vesti/gradonacelnica-uzica-podnela-ostavku/",
+   "id": "v352"
+  },
   {
    "datum": "2026-11-09",
    "izvor": "VJT Beograd",
@@ -41,6 +61,26 @@
   },
   {
    "datum": "2026-11-09",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Viši sud u Novom Sadu odredio pritvor do 30 dana Marku Gašiću i Urošu Trifunoviću („Inđija put”)",
+   "red": 80,
+   "sazetak": "Predsedniku opštine Inđija Marku Gašiću i direktoru JP „Inđija put” Urošu Trifunoviću određen je pritvor do 30 dana zbog opasnosti od uticaja na svedoke i ponavljanja dela; sumnjiče se da su preduzeće oštetili za gotovo 27 miliona dinara. Osumnjičenoj T.J. (pranje novca) izrečena je zabrana komuniciranja sa svedocima na tri meseca. Žalba je dozvoljena.",
+   "url": "https://n1info.rs/vesti/visi-sud-u-novom-sadu-odredio-pritvor-predsedniku-opstine-indjija-i-direktoru-jp-indjija-put/",
+   "id": "v347"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "RTV / Tanjug",
+   "kategorija": "hapsenje",
+   "naslov": "Pritvor do 30 dana za osam policajaca osumnjičenih za smrt Dalibora Dragijevića",
+   "red": 72,
+   "sazetak": "Viši sud u Nišu nepravnosnažno je odredio pritvor do 30 dana osmorici pripadnika MUP-a osumnjičenih da su u PU Bor tukli i mučili Dalibora Dragijevića, koji je preminuo 7. aprila 2024. Pritvor je određen zbog opasnosti od uticaja na svedoke, ponavljanja dela i uznemirenja javnosti.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/do-30-dana-pritvora-za-osam-policajaca-osumnjicenih-za-zlostavljanje-i-smrt-dalibora-dragijevica_1757592.html",
+   "id": "v348"
+  },
+  {
+   "datum": "2026-11-09",
    "izvor": "VJT Novi Sad",
    "kategorija": "hapsenje",
    "naslov": "VJT u Novom Sadu: uhapšena dvojica iz uprave „Holding Centroslavija” zbog sumnje na protivpravnu korist od 98 miliona dinara",
@@ -58,6 +98,16 @@
    "sazetak": "Predmet je formiran po krivičnoj prijavi protiv predsednika i zamenika predsednika Gradske izborne komisije (T.K. i M.P.) i nepoznatih lica. Podnosilac prijave tvrdi da je od 22. do 25. oktobra oko 1.100 birača nezakonito upisano za glasanje van biračkog mesta; navodi nisu utvrđeni.",
    "url": "https://n1info.rs/vesti/tuzilastvo-u-pancevu-formiralo-predmet-zbog-sumnje-na-netacne-biracke-spiskove-u-gik/",
    "id": "v338"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista: nova vlada će hitno predstaviti mere za stabilizaciju poslovanja Idea marketa",
+   "red": 70,
+   "sazetak": "Studentska lista navodi da je preuzimanje vlasništva nad Idea marketima (više od 7.000 zaposlenih, prihod 93 mlrd. dinara) obavljeno pod sumnjivim okolnostima i da se dobavljačima duguje preko 180 miliona evra. Traži ispitivanje porekla sredstava za kupovinu i eventualne veze sa Alta bankom, a nova vlada će po formiranju predstaviti mere za stabilizaciju.",
+   "url": "https://studenti.org.rs/vesti/stabil_privreda/",
+   "id": "v346"
   },
   {
    "datum": "2026-11-09",
@@ -88,6 +138,16 @@
    "sazetak": "Pred Prvim osnovnim sudom u Beogradu Milić je rekao da nije kriv za neprijavljivanje ubistva u restoranu na Senjaku i sačinjavanje neistinite službene beleške. Odbrana tvrdi da je postupak posledica nezakonitog postupanja Marka Kričaka i Boška Sekulovića; nastavak je 17. decembra.",
    "url": "https://n1info.rs/vesti/veselin-milic-sudjenje-izjavio-nije-kriv-restoran-senjak/",
    "id": "v340"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Prvo OJT objavilo hronologiju u slučaju garaže Vlade: Sektor unutrašnje kontrole nije blagovremeno postupao",
+   "red": 60,
+   "sazetak": "Prvo osnovno javno tužilaštvo u Beogradu navodi da je već 21. avgusta 2025. od Sektora unutrašnje kontrole MUP-a zatražilo razgovore sa osumnjičenima i snimke nadzornih kamera iz garaže Vlade, ali da nadležni nisu blagovremeno postupali po nalozima. Od 22. avgusta 2025. tužilaštvo je uzimalo izjave oštećenih.",
+   "url": "https://n1info.rs/vesti/prvo-osnovno-tuzilastvo-hronologija-postupanja-zlostavljanje-studenata-garaza-vlade/",
+   "id": "v349"
   },
   {
    "datum": "2026-11-09",
@@ -128,6 +188,36 @@
    "sazetak": "Zlatko Minić kaže da je sajt tehnickavlada.rs pokrenut da prati odluke tehničke vlade i da su uočena kršenja zakona, među njima imenovanja načelnika upravnih okruga. Za tender za put Kraljevo–Novi Pazar naveo je da postoje uslovi za poništenje.",
    "url": "https://n1info.rs/vesti/transparentnost-srbija-zlatko-minic-tehnicka-vlada/",
    "id": "v344"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1 / RTS",
+   "kategorija": "hapsenje",
+   "naslov": "Od izbora uhapšeno više od 90 osoba, prema podacima MUP-a",
+   "red": 35,
+   "sazetak": "Posle izbora 25. oktobra, prema podacima sa sajta MUP-a, uhapšeno je više od 90 osoba, među njima nosioci javnih funkcija, pripadnici MUP-a i direktori ustanova. Profesor Goran Ilić za RTS upozorava na pretpostavku nevinosti i pita gde su institucije bile ranije.",
+   "url": "https://n1info.rs/vesti/od-izbora-vise-od-90-uhapsenih-profesor-ilic-kaze-da-je-pitanje-gde-su-institucije-bile-dosad/",
+   "id": "v353"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentski pokret u Vranju: ne delimo funkcije, nemamo dogovore za lokalne izbore",
+   "red": 25,
+   "sazetak": "Studentski pokret saopštava da ni on ni kandidati Studentske liste nemaju dogovore ni kadrovske aranžmane sa sedam navedenih lokalnih aktera u Vranju, koji ne govore u ime pokreta. Lokalni izbori još nisu raspisani.",
+   "url": "https://studenti.org.rs/vesti/vr_prica_carsija/",
+   "id": "v354"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "N1 / Nova",
+   "kategorija": "institucije",
+   "naslov": "VJT: lažni navodi o privođenju Bake Praseta, sledi krivična prijava za izazivanje panike",
+   "red": 20,
+   "sazetak": "VJT u Beogradu i policija utvrdili su da je objava na profilu Bogdana Ilića o njegovom odvođenju i povezivanju sa Alta bankom bila lažna. Protiv njega će biti podneta krivična prijava zbog izazivanja panike i nereda.",
+   "url": "https://n1info.rs/vesti/vjt-za-novars-lazni-navodi-o-privodjenju-bake-praseta-ali-mu-sledi-kivicna-prijava/",
+   "id": "v355"
   },
   {
    "datum": "2026-11-08",
@@ -178,6 +268,16 @@
    "sazetak": "Više javno tužilaštvo u Beogradu uputilo je policiji zahtev da utvrdi okolnosti skandiranja pretnji novinarki Brankici Stanković na utakmici Partizan – Makabi 6. novembra i identifikuje osumnjičene za ugrožavanje sigurnosti.",
    "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1487/",
    "id": "v315"
+  },
+  {
+   "datum": "2026-11-08",
+   "izvor": "RTV / FoNet",
+   "kategorija": "institucije",
+   "naslov": "Advokat Papić traži od VJT da zatraži poništaj 37 Vučićevih pomilovanja",
+   "red": 55,
+   "sazetak": "Advokat Bojan Papić podneo je Vrhovnom javnom tužilaštvu predlog da Upravnom sudu podnese tužbu za poništaj odluka o pomilovanju 37 od 49 osoba (među njima Dijana Hrkalović, Marko Pavlović, Igor Elez) i da se do kraja postupka odloži njihovo izvršenje. VJT se o predlogu nije izjasnilo.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/predlog-vrhovnom-javnom-tuzilastvu-trazi-se-ponistaj-odluka-o-pomilovanju-37-osoba-koje-je-doneo-vucic_1757356.html",
+   "id": "v350"
   },
   {
    "datum": "2026-11-08",
@@ -3580,10 +3680,11 @@
     "https://n1info.rs/vesti/in-medija-ukp-priveo-predsednika-opstine-indjija-i-jos-dve-osobe/",
     "https://n1info.rs/vesti/marko-gasic-funkcioner-sns-a-bivsi-direktor-indjija-puta-i-predsednik-opstine/",
     "https://insajder.net/vesti/vjt-u-novom-sadu-uhapseno-sest-osoba-osumnjicenih-za-zloupotrebu-sluzbenog-polozaja-medu-njima-direktori-jp-indija-put",
-    "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost-2/"
+    "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost-2/",
+    "https://n1info.rs/vesti/visi-sud-u-novom-sadu-odredio-pritvor-predsedniku-opstine-indjija-i-direktoru-jp-indjija-put/"
    ],
    "naslov": "Uhapšen predsednik opštine Inđija zbog sumnje na zloupotrebe u JP „Inđija put”",
-   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) i UKP uhapsili su šest osumnjičenih, za jednim se traga. M.G. i U.T. kao direktori JP „Inđija put” se terete za zloupotrebu službenog položaja: 2023–2025. nameštene nabavke za saobraćajnu signalizaciju i isplata za radove koji nisu izvedeni; troje za pomaganje, jedna osoba za pranje novca. Određeno zadržavanje do 48 sati. 9. nov: VJT je donelo naredbu o sprovođenju istrage protiv sedam lica i posle saslušanja predložilo pritvor za M.G. i U.T. (opasnost od uticaja na svedoke i ponavljanja dela), a za T.J. zabranu komuniciranja sa svedocima; preostala trojica biće saslušana u roku od 48 sati.",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) i UKP uhapsili su šest osumnjičenih, za jednim se traga. M.G. i U.T. kao direktori JP „Inđija put” se terete za zloupotrebu službenog položaja: 2023–2025. nameštene nabavke za saobraćajnu signalizaciju i isplata za radove koji nisu izvedeni; troje za pomaganje, jedna osoba za pranje novca. Određeno zadržavanje do 48 sati. 9. nov: VJT je donelo naredbu o sprovođenju istrage protiv sedam lica i posle saslušanja predložilo pritvor za M.G. i U.T. (opasnost od uticaja na svedoke i ponavljanja dela), a za T.J. zabranu komuniciranja sa svedocima; preostala trojica biće saslušana u roku od 48 sati. Istog dana Viši sud u Novom Sadu odredio je Gašiću i Trifunoviću pritvor do 30 dana, a T.J. zabranu komuniciranja sa svedocima na tri meseca (nepravnosnažno).",
    "osobe": "Marko Gašić (predsednik opštine Inđija, SNS) · Uroš Trifunović (direktor JP „Inđija put”) · VJT Novi Sad",
    "red": 90,
    "status": "zvanicno",
@@ -3638,10 +3739,11 @@
     "https://n1info.rs/vesti/osmorica-pripadnika-ukp-uhapsena-zbog-slucaja-smrti-dalibora-dragijevica-u-policijskoj-stanici/",
     "https://n1info.rs/vesti/vjt-u-nisu-mup-ranije-odbijao-da-privede-osumnjicene-za-smrt-dragijevica/",
     "https://n1info.rs/vesti/cetiri-uhapsena-policajca-u-slucaju-ubistva-dalibora-dragijevica-jzo/",
-    "https://www.rts.rs/lat/vesti/hronika/6079100/saslusani-uhapseni-policajci-zbog-smrti-dalibora-dragijevica.html"
+    "https://www.rts.rs/lat/vesti/hronika/6079100/saslusani-uhapseni-policajci-zbog-smrti-dalibora-dragijevica.html",
+    "https://www.rtv.rs/sr_lat/drustvo/do-30-dana-pritvora-za-osam-policajaca-osumnjicenih-za-zlostavljanje-i-smrt-dalibora-dragijevica_1757592.html"
    ],
    "naslov": "Uhapšeno osam policajaca zbog smrti Dalibora Dragijevića",
-   "opis": "Po nalogu VJT u Nišu pripadnici Sektora unutrašnje kontrole MUP-a uhapsili su osam policijskih službenika zbog sumnje na zlostavljanje i mučenje i tešku telesnu povredu usled koje je nastupila smrt, u noći između 6. i 7. aprila 2024. u Boru. Određeno im je zadržavanje do 48 sati. VJT u Nišu navodi da Sektor unutrašnje kontrole ranije nije postupao po njegovim nalozima za hapšenje. 7. nov: osumnjičeni saslušani u VJT u Nišu, tužilac predložio Višem sudu u Nišu da im odredi pritvor.",
+   "opis": "Po nalogu VJT u Nišu pripadnici Sektora unutrašnje kontrole MUP-a uhapsili su osam policijskih službenika zbog sumnje na zlostavljanje i mučenje i tešku telesnu povredu usled koje je nastupila smrt, u noći između 6. i 7. aprila 2024. u Boru. Određeno im je zadržavanje do 48 sati. VJT u Nišu navodi da Sektor unutrašnje kontrole ranije nije postupao po njegovim nalozima za hapšenje. 7. nov: osumnjičeni saslušani u VJT u Nišu, tužilac predložio Višem sudu u Nišu da im odredi pritvor. Viši sud u Nišu odredio je svoj osmorici pritvor do 30 dana (nepravnosnažno).",
    "osobe": "N.P. · M.Lj. · B.M. · I.T. · M.S. · M.B. · Z.Đ. · J.K. · VJT u Nišu · MUP",
    "red": 95,
    "status": "zvanicno",
@@ -4872,6 +4974,16 @@
    "status": "najavljeno",
    "url": "https://rts.rs/vesti/politika/6078644/jugoslav-gasic-nema-saradnje-sa-srpskom-listom-oni-su-odgovorni-za-ovakav-polozaj-srba-na-kim.html",
    "id": "o18"
+  },
+  {
+   "azurirano": "2026-11-10",
+   "datum": "2026-11-09",
+   "napomena": "Najavljeno saopštenjem Studentske liste; vlada još nije formirana.",
+   "naslov": "Hitne mere za stabilizaciju Idea marketa i ispitivanje preuzimanja",
+   "opis": "Nova vlada će po formiranju hitno predstaviti mere za stabilizaciju poslovanja Idea marketa i zaštitu zaposlenih i dobavljača, uz ispitivanje okolnosti sticanja vlasništva i porekla sredstava (moguća veza sa Alta bankom).",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/stabil_privreda/",
+   "id": "o19"
   }
  ]
 }
