@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-10T09:41+00:00",
+ "generisano": "2026-11-10T15:14+00:00",
  "stanje": {
   "azurirano": "2026-11-08",
   "izbori": "2026-10-25",
@@ -9,6 +9,66 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-10",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Komisija Vrhovnog javnog tužilaštva: osnovi sumnje da je Nenad Stefanović kršio zakon, izveštaj poslat JTOK-u",
+   "red": 90,
+   "sazetak": "U prvom izveštaju Komisija VJT ocenjuje da je glavni tužilac VJT u Beogradu uspostavio „paratužilački sistem” i predlaže krivične i disciplinske postupke, postupak za razrešenje i udaljenje Stefanovića i zamenika Miodraga Markovića (slučaj „zvučni top”). VJT u Beogradu odbacuje navode kao neutemeljene.",
+   "url": "https://n1info.rs/vesti/vrhovno-javno-tuzilastvo-tuzilac-stefanovic-uspostavio-paratuzilaski-sistem-i-krsio-zakon-izvestaj-komisije-poslat-jtok-u-na-postupanje/",
+   "id": "v356"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "Anketna komisija / Beta",
+   "kategorija": "institucije",
+   "naslov": "Anketna komisija traži od Vrhovnog tužilaštva upravni spor protiv 37 Vučićevih pomilovanja",
+   "red": 75,
+   "sazetak": "Anketna komisija za ispitivanje odgovornosti za pad nadstrešnice zatražila je da VJT pokrene postupak pred Upravnim sudom radi preispitivanja oktobarskih pomilovanja i da sud hitno odloži njihovo izvršenje. Inicijativu je podneo profesor Tanasije Marinković.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6080544/anketna-komisija-trazi-preispitivanje-vucicevih-pomilovanja.html",
+   "id": "v357"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "VJT Beograd",
+   "kategorija": "korupcija",
+   "naslov": "VJT u Beogradu naložilo proveru transfera fudbalera Partizana u Mančester siti iz 2021.",
+   "red": 70,
+   "sazetak": "Posebno odeljenje za suzbijanje korupcije preuzelo je predmet Prvog OJT iz 2021. po kome policija nije postupila i naložilo Službi za borbu protiv korupcije da prikupi dokumentaciju od Partizana i FSS i utvrdi koliko je klub prihodovao od transfera.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1489/",
+   "id": "v358"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Kandidati Studentske liste traže obustavu javnog uvida u plan za rudnik „Jama Bor”",
+   "red": 65,
+   "sazetak": "Agenciji za prostorno planiranje upućen je zahtev da obustavi rani javni uvid u Nacrt prostornog plana za II fazu rudnika, započet dan posle izbora, i da predloži budućoj vladi da odluku o izradi plana stavi van snage. Plan predviđa rudarenje ispod starog jezgra Bora.",
+   "url": "https://studenti.org.rs/vesti/bor_jana/",
+   "id": "v359"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "BIRN",
+   "kategorija": "mediji",
+   "naslov": "BIRN: interna platforma progress.rs koordinisala aktivnosti naloga koji promovišu SNS",
+   "red": 60,
+   "sazetak": "BIRN je uporedio procurele podatke sa platforme sa aktivnostima na mreži X i našao 339 poklapanja tokom kampanja 2026, kao i vezu administratorskog naloga sa mrežom registrovanom na sedište SNS. BIRN navodi da podaci ne dokazuju da su sve aktivnosti deo jedinstveno upravljane mreže.",
+   "url": "https://birn.rs/kako-je-organizovana-promocija-sns-na-drustvenim-mrezama/",
+   "id": "v360"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "REM izrekao mere TV Kurir, Prvoj i V5 zbog predizborne kampanje",
+   "red": 55,
+   "sazetak": "TV Kurir dobila je zabranu emitovanja Dnevnika na jedan dan i Vesti na dva dana, TV Prva jednodnevnu zabranu oglašavanja, a TV V5 upozorenje; postupak protiv K1 je obustavljen.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6080359/rem-savet-mere-zabrana-emitovanja-kurir-v5-prva-informer.html",
+   "id": "v361"
+  },
   {
    "datum": "2026-11-10",
    "izvor": "RTV / FoNet",
@@ -21,6 +81,16 @@
   },
   {
    "datum": "2026-11-10",
+   "izvor": "Insajder / RTV",
+   "kategorija": "institucije",
+   "naslov": "Sud poziva Vučića i Parezanovića kao svedoke na suđenju Darku Šariću za pranje novca",
+   "red": 50,
+   "sazetak": "Predsednik veća Posebnog odeljenja Višeg suda u Beogradu Vladan Ivanković saopštio je da će bivši predsednik Aleksandar Vučić i Marko Parezanović iz BIA biti pozvani kao svedoci u postupku za pranje najmanje 20 miliona evra.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/sudija-vladan-ivankovic-aleksandar-vucic-i-marko-parezanovic-bice-pozvani-da-svedoce-na-sudjenju-narko-bosu-darku-saricu-za-pranje-para_1757799.html",
+   "id": "v362"
+  },
+  {
+   "datum": "2026-11-10",
    "izvor": "N1 / FoNet",
    "kategorija": "institucije",
    "naslov": "Gradonačelnica Užica Jelena Raković Radivojević podnela ostavku",
@@ -28,6 +98,16 @@
    "sazetak": "Prema saopštenju Gradske uprave Užica, Raković Radivojević podnela je ostavku zbog zdravstvenog stanja i potrebe za oporavkom. Funkciju je obavljala od 2020. u dva mandata.",
    "url": "https://n1info.rs/vesti/gradonacelnica-uzica-podnela-ostavku/",
    "id": "v352"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "N1 / Beta",
+   "kategorija": "korupcija",
+   "naslov": "Čačak: krivična prijava zbog 432 kg roštilja za slavu plaćenog iz gradskog budžeta",
+   "red": 35,
+   "sazetak": "Odbornik Pavle Jelesijević podneo je VJT u Kraljevu prijavu protiv NN službenih lica Gradske uprave; samo za 19. decembar 2023. iz budžeta je plaćeno oko 780.000 dinara jednoj ugostiteljskoj radnji.",
+   "url": "https://n1info.rs/vesti/krivicna-prijava-protiv-nadleznih-u-cacku-zbog-432-kilograma-rostilja-za-slavu-placenog-iz-budzeta/",
+   "id": "v363"
   },
   {
    "datum": "2026-11-09",
@@ -3632,6 +3712,22 @@
    "id": "h72"
   },
   {
+   "datum": "2026-11-10",
+   "izvori": [
+    "https://n1info.rs/vesti/vrhovno-javno-tuzilastvo-tuzilac-stefanovic-uspostavio-paratuzilaski-sistem-i-krsio-zakon-izvestaj-komisije-poslat-jtok-u-na-postupanje/",
+    "https://www.rts.rs/lat/vesti/drustvo/6080587/komisija-vjt-objavila-prvi-izvestaj-predlazu-pokretanje-postupaka-protiv-nenada-stefanovica-i-vise-tuzilaca.html",
+    "https://n1info.rs/vesti/sta-je-utvrdila-komisija-u-postupanju-u-slucaju-zvucnog-topa-predlazu-postupak-protiv-tuzioca-markovica/",
+    "https://beograd.vjt.rs/aktuelnosti/reagovanje-povodom-izvestaja-komisije/"
+   ],
+   "naslov": "Komisija Vrhovnog javnog tužilaštva: osnovi sumnje protiv glavnog tužioca VJT u Beogradu, izveštaj prosleđen JTOK-u",
+   "opis": "Komisija formirana 27. oktobra utvrdila je u prvom izveštaju (od 9. nov) sistemske nepravilnosti u predmetima „zvučni top”, pretres Filozofskog fakulteta i Rektorata, pomilovanja, „Vista Rica”, povređivanje studenata i napad kod FDU. Predloženi su krivični i disciplinski postupci, postupak za razrešenje i udaljenje glavnog tužioca Nenada Stefanovića i zamenika Miodraga Markovića, a dokumentacija je upućena JTOK-u. VJT u Beogradu odbacuje navode kao neutemeljene i osporava sastav Komisije.",
+   "osobe": "Nenad Stefanović · Miodrag Marković · Vrhovno javno tužilaštvo · JTOK · VJT u Beogradu",
+   "red": 88,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h87"
+  },
+  {
    "datum": "2026-11-09",
    "izvori": [
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1488/",
@@ -4853,9 +4949,9 @@
    "id": "o05"
   },
   {
-   "azurirano": "2026-11-07",
+   "azurirano": "2026-11-10",
    "datum": "2026-10-29",
-   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. 6. nov: Žmiriću određen pritvor, a MUP ga privremeno udaljio sa rada; kandidati Studentske liste podneli TOK-u krivičnu prijavu protiv tužioca Nenada Stefanovića. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
+   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. 6. nov: Žmiriću određen pritvor, a MUP ga privremeno udaljio sa rada; kandidati Studentske liste podneli TOK-u krivičnu prijavu protiv tužioca Nenada Stefanovića. 10. nov: Komisija Vrhovnog javnog tužilaštva predložila postupak za razrešenje i udaljenje Stefanovića i prosledila izveštaj JTOK-u; VJT u Beogradu odbacuje navode. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
