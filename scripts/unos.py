@@ -138,7 +138,7 @@ def main() -> int:
         return 1
     print("\n".join(log) or "Nema izmena.")
     if "--proba" not in sys.argv:
-        write(d["stanje"], d["vesti"], d["hronika"], d["obecanja"])
+        write(d["stanje"], d["vesti"], d["hronika"], d["obecanja"], d.get("funkcije", []), d.get("sednice", []))
     return 0
 
 

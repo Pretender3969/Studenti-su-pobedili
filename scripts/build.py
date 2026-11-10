@@ -2,7 +2,8 @@
 
 Upotreba:  python scripts/build.py <export_dir>
            python scripts/build.py --podaci
-<export_dir> sadrži podfoldere vesti/, hronika/, obecanja/, stanje/ sa po jednim JSON fajlom po unosu.
+<export_dir> sadrži podfoldere vesti/, hronika/, obecanja/, stanje/ (i funkcije/, sednice/ za Skupštinu i Vladu)
+sa po jednim JSON fajlom po unosu.
 --podaci ponovo gradi sve iz postojećeg data/podaci.json (posle izmena koje pravi scripts/unos.py).
 Izlaz:  data/podaci.json  i  feed.xml  u korenu repozitorijuma.
 """
@@ -83,18 +84,23 @@ def build_feed(vesti: list[dict], hronika: list[dict]) -> str:
     )
 
 
-def write(stanje: dict, vesti: list[dict], hronika: list[dict], obecanja: list[dict]) -> None:
+def write(stanje: dict, vesti: list[dict], hronika: list[dict], obecanja: list[dict],
+          funkcije: list[dict] = (), sednice: list[dict] = ()) -> None:
     vesti = sorted(vesti, key=sort_key, reverse=True)
+    # Skupština i Vlada: ljudi po organu i važnosti, sednice od najnovije
+    funkcije = sorted(funkcije, key=lambda r: (r.get("organ", ""), -int(r.get("red") or 0), r.get("od", "")))
+    sednice = sorted(sednice, key=sort_key, reverse=True)
     hronika = sorted(hronika, key=sort_key, reverse=True)
     obecanja = sorted(obecanja, key=lambda r: int(r["id"][1:]) if r["id"][1:].isdigit() else 0)
     data = {
         "generisano": datetime.now(timezone.utc).isoformat(timespec="minutes"),
         "stanje": stanje, "vesti": vesti, "hronika": hronika, "obecanja": obecanja,
+        "funkcije": funkcije, "sednice": sednice,
     }
     (ROOT / "data").mkdir(exist_ok=True)
     (ROOT / "data" / "podaci.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
     (ROOT / "feed.xml").write_text(build_feed(vesti, hronika), encoding="utf-8")
-    print(f"vesti={len(vesti)} hronika={len(hronika)} obecanja={len(obecanja)}")
+    print(f"vesti={len(vesti)} hronika={len(hronika)} obecanja={len(obecanja)} funkcije={len(funkcije)} sednice={len(sednice)}")
 
 
 def main() -> None:
@@ -102,12 +108,14 @@ def main() -> None:
         sys.exit("Upotreba: python scripts/build.py <export_dir> | --podaci")
     if sys.argv[1] == "--podaci":
         d = json.loads((ROOT / "data" / "podaci.json").read_text(encoding="utf-8"))
-        write(d.get("stanje", {}), d.get("vesti", []), d.get("hronika", []), d.get("obecanja", []))
+        write(d.get("stanje", {}), d.get("vesti", []), d.get("hronika", []), d.get("obecanja", []),
+              d.get("funkcije", []), d.get("sednice", []))
         return
     export = Path(sys.argv[1])
     stanje = next((s for s in load(export, "stanje") if s["id"] == "trenutno"), {})
     stanje.pop("id", None)
-    write(stanje, load(export, "vesti"), load(export, "hronika"), load(export, "obecanja"))
+    write(stanje, load(export, "vesti"), load(export, "hronika"), load(export, "obecanja"),
+          load(export, "funkcije"), load(export, "sednice"))
 
 
 if __name__ == "__main__":

@@ -18,7 +18,7 @@
 :root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0} img{max-width:100%} [hidden]{display:none!important}
 </style>
-<link rel="stylesheet" href="assets/stil.css?v=11">
+<link rel="stylesheet" href="assets/stil.css?v=12">
 <!-- Google Analytics: bez kolačića dok posetilac ne prihvati (Consent Mode) -->
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -87,6 +87,7 @@ gtag("config", "G-VCDPZRL457");
     <button class="tab" role="tab" id="tab-vesti" data-view="vesti" aria-selected="true"><span>Vesti</span><span class="n" id="n-vesti"></span></button>
     <button class="tab" role="tab" id="tab-hronika" data-view="hronika" aria-selected="false"><span>Hronika<span class="lg"> događaja</span></span><span class="n" id="n-hronika"></span></button>
     <button class="tab" role="tab" id="tab-obecanja" data-view="obecanja" aria-selected="false"><span>Obećanja<span class="lg"> i zahtevi</span></span><span class="n" id="n-obecanja"></span></button>
+    <button class="tab" role="tab" id="tab-vlast" data-view="vlast" aria-selected="false"><span><span class="lg">Skupština i Vlada</span><span class="sm">Vlast</span></span><span class="n" id="n-vlast"></span></button>
   </div>
 </nav>
 
@@ -130,9 +131,9 @@ const ICONS = {
 const ico = k => ICONS[k] ? `<span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${ICONS[k]}</svg></span>` : "";
 const MONTHS=["jan","feb","mar","apr","maj","jun","jul","avg","sep","okt","nov","dec"];
 const DAYS=["nedelja","ponedeljak","utorak","sreda","četvrtak","petak","subota"];
-const VIEWS=["vesti","hronika","obecanja"];
+const VIEWS=["vesti","hronika","obecanja","vlast"];
 
-const state = { view:"vesti", vesti:[], hronika:[], obecanja:[], stanje:null, loaded:false, error:false, q:"", cat:null, tip:null, ps:null, sort:"novo" };
+const state = { view:"vesti", vesti:[], hronika:[], obecanja:[], funkcije:[], sednice:[], organ:"skupstina", stanje:null, loaded:false, error:false, q:"", cat:null, tip:null, ps:null, sort:"novo" };
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -178,7 +179,7 @@ function renderTally(){
   const done = state.obecanja.filter(p=>p.status==="ispunjeno").length;
   $("#tally").innerHTML = ["hapsenje","prijava","otkrice","ostavka","korak"].map(k=>`<span class="chip"><span class="dot" style="background:var(${TYPES[k].c})"></span>${TYPES[k].l}<b>${counts[k]||0}</b></span>`).join("")
     + `<span class="chip"><span class="dot" style="background:var(--s-ok)"></span>Ispunjena obećanja<b>${done}/${state.obecanja.length}</b></span>`;
-  $("#n-vesti").textContent = state.vesti.length||""; $("#n-hronika").textContent = state.hronika.length||""; $("#n-obecanja").textContent = state.obecanja.length||"";
+  $("#n-vesti").textContent = state.vesti.length||""; $("#n-hronika").textContent = state.hronika.length||""; $("#n-obecanja").textContent = state.obecanja.length||""; $("#n-vlast").textContent = state.funkcije.filter(f=>f.status==="izabran").length||"";
 }
 
 const sortHtml = () => `<label class="sortbox">Redosled <select id="sort">${Object.entries(SORTS).filter(([k])=>k!=="srca"||SRCA_ON).map(([k,l])=>`<option value="${k}"${state.sort===k?" selected":""}>${l}</option>`).join("")}</select></label>`;
@@ -216,6 +217,48 @@ function renderObecanja(){
   return toolsHtml(filters) + track + body;
 }
 
+// Skupština i Vlada: ko je na kojoj funkciji, sastav po listama, sednice sa odlukama i glasanjima
+const FSTAT = { predlozen:{l:"Predložen",c:"--s-warn"}, izabran:{l:"Izabran",c:"--s-ok"}, razresen:{l:"Razrešen",c:"--s-bad"}, ostavka:{l:"Ostavka",c:"--s-bad"} };
+const ISHOD = { usvojeno:{l:"Usvojeno",c:"--s-ok"}, odbijeno:{l:"Odbijeno",c:"--s-bad"}, povuceno:{l:"Povučeno",c:"--s-idle"}, u_raspravi:{l:"U raspravi",c:"--s-warn"} };
+const LISTA_BOJE = ["#2b3a8c","#a15c07","#0e7490","#6941c6","#475467","#157f3b","#9a3412","#5a6774"];
+const ORGANI = { skupstina:"Narodna skupština", vlada:"Vlada Srbije" };
+
+function renderVlast(){
+  const o = state.organ, s = state.stanje || {};
+  const sub = `<div class="tools"><div class="filters" role="group" aria-label="Organ">${Object.entries(ORGANI).map(([k,l])=>`<button class="fbtn" data-organ="${k}" aria-pressed="${o===k}">${l}</button>`).join("")}</div></div>`;
+  const statusTxt = o==="skupstina" ? s.skupstina : s.vlada;
+  const status = `<section class="vcard vstatus"><div class="k">Stanje</div><div class="v">${esc(statusTxt||"Nema podataka")}</div></section>`;
+
+  let sastav = "";
+  if(o==="skupstina"){
+    const rows = (s.sastav||[]).filter(r=>r.mandati>0).sort((a,b)=>b.mandati-a.mandati);
+    const total = rows.reduce((n,r)=>n+r.mandati,0);
+    let i = 0; const boja = r => /student/i.test(r.lista) ? "#c8102e" : LISTA_BOJE[i++ % LISTA_BOJE.length];
+    const obojeno = rows.map(r=>({...r, c:boja(r)}));
+    sastav = `<section class="vcard"><h3>Sastav po listama</h3>${rows.length ? `<div class="seats" role="img" aria-label="Raspodela mandata">${obojeno.map(r=>`<i style="flex:${r.mandati};background:${r.c}" title="${esc(r.lista)}: ${r.mandati}"></i>`).join("")}</div>
+      <div class="seatleg">${obojeno.map(r=>`<span><span class="dot" style="background:${r.c}"></span>${esc(r.lista)} <b>${r.mandati}</b></span>`).join("")}</div><p class="vnote">Ukupno ${total} od 250 mandata · većina je 126.</p>`
+      : `<p class="vnote">Raspodela mandata po listama pojaviće se kad RIK objavi konačne rezultate.</p>`}</section>`;
+  }
+
+  const ljudi = state.funkcije.filter(f=>f.organ===o);
+  const ljudiHtml = `<section class="vcard"><h3>${o==="skupstina" ? "Rukovodstvo Skupštine" : "Sastav Vlade"}</h3>${ljudi.length ? `<div class="people-grid">${ljudi.map(f=>{ const st=FSTAT[f.status]||FSTAT.izabran; const u=safeUrl(f.url);
+      return `<article class="person${f.status==="razresen"||f.status==="ostavka"?" past":""}"><div class="uloga">${esc(f.uloga)}</div><div class="ime">${esc(f.ime)}</div>
+        <div class="pmeta"><span class="pill" style="--pc:var(${st.c})">${st.l}</span>${f.lista?`<span>${esc(f.lista)}</span>`:""}${f.od?`<span>od ${fmtDate(f.od)}</span>`:""}${f.do?`<span>do ${fmtDate(f.do)}</span>`:""}</div>
+        ${f.napomena?`<p>${esc(f.napomena)}</p>`:""}${u?`<div class="links"><a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))} ↗</a></div>`:""}</article>`;}).join("")}</div>`
+    : `<p class="vnote">${o==="skupstina" ? "Kad se Skupština konstituiše, ovde će biti predsednik, potpredsednici i predsednici odbora. Kandidati se prikazuju čim budu predloženi." : "Kad mandatar predloži Vladu, ovde će biti premijer i svi ministri po resorima, sa listom kojoj pripadaju i datumom izbora."}</p>`}</section>`;
+
+  const sed = state.sednice.filter(x=>x.organ===o);
+  const sedHtml = `<section class="vcard"><h3>${o==="skupstina" ? "Sednice i glasanja" : "Sednice i odluke Vlade"}</h3>${sed.length ? `<div class="sessions">${sed.map(x=>{
+      const odl = (x.odluke||[]).map(d=>{ const ish=ISHOD[d.ishod]; const glas = [d.za!=null?`<span class="za">za ${d.za}</span>`:"", d.protiv!=null?`<span class="protiv">protiv ${d.protiv}</span>`:"", d.uzdrzano!=null?`<span>uzdržano ${d.uzdrzano}</span>`:""].join("");
+        return `<li><div class="otit">${esc(d.naslov)}</div><div class="ometa">${ish?`<span class="pill" style="--pc:var(${ish.c})">${ish.l}</span>`:""}${glas}</div>${d.napomena?`<div class="onote">${esc(d.napomena)}</div>`:""}</li>`; }).join("");
+      const links=(x.izvori||[]).map(safeUrl).filter(Boolean).map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))} ↗</a>`).join("");
+      return `<article class="session" id="sednica-${esc(x.id)}"><div class="shead"><span class="idate">${fmtDate(x.datum)}</span>${x.status==="zakazana"?`<span class="badge b-najavljeno">Zakazana</span>`:""}</div>
+        <h4>${esc(x.naslov)}</h4>${x.opis?`<p>${esc(x.opis)}</p>`:""}${odl?`<ul class="odluke">${odl}</ul>`:""}<div class="links">${links}</div></article>`;}).join("")}</div>`
+    : `<p class="vnote">${o==="skupstina" ? "Ovde će se pojaviti svaka sednica: dnevni red, šta je izglasano i kako se glasalo (za, protiv, uzdržano)." : "Ovde će se pojaviti sednice Vlade i odluke koje donosi: uredbe, imenovanja, razrešenja i predlozi zakona."}</p>`}</section>`;
+
+  return sub + status + sastav + ljudiHtml + sedHtml;
+}
+
 function render(){
   document.body.dataset.view = state.view; // zaglavlje se vidi samo na Vestima
   document.querySelectorAll(".tab").forEach(t=>t.setAttribute("aria-selected", String(t.dataset.view===state.view)));
@@ -223,7 +266,7 @@ function render(){
   const qFocus = document.activeElement && document.activeElement.id==="q";
   const sortFocus = document.activeElement && document.activeElement.id==="sort";
   $("#main").innerHTML = state.error ? `<div class="empty">Podaci trenutno nisu dostupni. Osvežite stranicu za minut.</div>`
-    : state.view==="vesti" ? renderVesti() : state.view==="hronika" ? renderHronika() : renderObecanja();
+    : state.view==="vesti" ? renderVesti() : state.view==="hronika" ? renderHronika() : state.view==="vlast" ? renderVlast() : renderObecanja();
   open.forEach(id=>{ const el=document.querySelector(`.news[data-id="${CSS.escape(id)}"]`); if(el){ el.classList.add("open"); el.querySelector("button").setAttribute("aria-expanded","true"); }});
   if(qFocus){ const q=$("#q"); q.focus(); q.setSelectionRange(q.value.length,q.value.length); }
   if(sortFocus) $("#sort")?.focus();
@@ -296,6 +339,7 @@ document.addEventListener("click", async e=>{
   const nb = e.target.closest(".news > button"); if(nb){ const a=nb.parentElement; a.classList.toggle("open"); nb.setAttribute("aria-expanded", String(a.classList.contains("open"))); if(a.classList.contains("open")) track("otvorena_vest", { id:a.dataset.id }); return; }
   const fc = e.target.closest("[data-cat]"); if(fc){ state.cat=fc.dataset.cat||null; render(); return; }
   const ft = e.target.closest("[data-tip]"); if(ft){ state.tip=ft.dataset.tip||null; render(); return; }
+  const fo = e.target.closest("[data-organ]"); if(fo){ state.organ=fo.dataset.organ; render(); return; }
   const fp = e.target.closest("[data-ps]"); if(fp){ state.ps=fp.dataset.ps||null; render(); return; }
   if(e.target.closest('a[href="feed.xml"]')) track("rss", { nacin:"link" });
   if(e.target.closest("#kolaciciDa, #kolaciciNe")){
@@ -429,7 +473,7 @@ if(ONESIGNAL_APP_ID && "serviceWorker" in navigator && "PushManager" in window){
     const r = await fetch("data/podaci.json", {cache:"no-cache"});
     if(!r.ok) throw new Error(r.status);
     const d = await r.json();
-    Object.assign(state, { vesti:d.vesti||[], hronika:d.hronika||[], obecanja:d.obecanja||[], stanje:d.stanje||null, loaded:true });
+    Object.assign(state, { vesti:d.vesti||[], hronika:d.hronika||[], obecanja:d.obecanja||[], funkcije:d.funkcije||[], sednice:d.sednice||[], stanje:d.stanje||null, loaded:true });
     if(d.generisano){ const t=new Date(d.generisano); $("#updated").textContent = "Poslednje ažuriranje: " + t.toLocaleString("sr-Latn-RS",{day:"numeric",month:"long",year:"numeric",hour:"2-digit",minute:"2-digit"}); }
   }catch{ state.error=true; }
   render();

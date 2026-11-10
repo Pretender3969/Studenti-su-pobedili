@@ -4,7 +4,7 @@
 try { importScripts("https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js"); } catch {}
 
 const CACHE = "pratimo-v3";
-const SHELL = ["./", "assets/stil.css?v=11", "assets/ikona-64.png?v=2", "assets/ikona-192.png?v=2", "manifest.webmanifest", "data/podaci.json"];
+const SHELL = ["./", "assets/stil.css?v=12", "assets/ikona-64.png?v=2", "assets/ikona-192.png?v=2", "manifest.webmanifest", "data/podaci.json"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
