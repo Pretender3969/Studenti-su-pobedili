@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-11T08:46+00:00",
+ "generisano": "2026-11-11T22:47+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -25,6 +25,36 @@
  "vesti": [
   {
    "datum": "2026-11-11",
+   "izvor": "VJT Beograd",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšen bivši ministar Rade Basta: sumnja da je kao direktor „Beogradskih elektrana” neosnovano dodelio donacije od 14,1 miliona dinara",
+   "red": 90,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Beogradu uhapšen je R.B. (prema medijima Rade Basta), bivši direktor JKP „Beogradske elektrane”, zbog sumnje da je preduzeće oštetio za 14.100.000 dinara neosnovano dodeljenih donacija udruženjima i klubovima. Uhapšeno je još sedam osoba, među njima izvršni direktor za finansije D.I. i zastupnici klubova iz Beograda i Sopota; MUP navodi da je deo novca od donacija podizan u gotovini. Osumnjičenima je određeno zadržavanje do 48 sati.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1493/",
+   "id": "v376"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "Insajder / N1",
+   "kategorija": "korupcija",
+   "naslov": "Insajder: TOK zabranio vlasniku Alta banke Davoru Macuri i njegovim firmama raspolaganje imovinom",
+   "red": 72,
+   "sazetak": "Prema Insajderu, TOK je Macuri i firmama Alta holding, Alta lizing i Campari International zabranio raspolaganje imovinom, uključujući oko 35 ha građevinskog zemljišta bivšeg IMT-a na Novom Beogradu i lične nekretnine. Sud tek treba da odluči o privremenom oduzimanju imovine. TOK ovu meru nije saopštio na svom sajtu.",
+   "url": "https://n1info.rs/vesti/insajder-tok-vlasniku-alta-banke-i-njegovim-firmama-zabranilo-raspolaganje-imovinom/",
+   "id": "v377"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "Radar / N1",
+   "kategorija": "bezbednost",
+   "naslov": "Radar: smenjen zamenik direktora BIA Tomislav Radovanović; BIA demantuje",
+   "red": 62,
+   "sazetak": "Nedeljnik Radar objavio je da je smenjen zamenik direktora BIA Tomislav Radovanović, kao i načelnik Prve uprave Miloš Simić i šef kabineta Oliver Munjić. BIA u saopštenju tvrdi da zamenik direktora nije smenjen, da nijedan načelnik nije razrešen raskidom ugovora i da nema uništavanja dokumentacije, nazivajući pisanje Radara dezinformacijama.",
+   "url": "https://n1info.rs/vesti/bia-demantuje-radar-o-smenama-u-agenciji/",
+   "id": "v379"
+  },
+  {
+   "datum": "2026-11-11",
    "izvor": "Razglas",
    "kategorija": "korupcija",
    "naslov": "„Centroslavija”: osumnjičenima Ljubičiću i Bobaru zabrana kontakta sa svedocima, brane se sa slobode",
@@ -32,6 +62,36 @@
    "sazetak": "Sudija za prethodni postupak Višeg suda u Novom Sadu odredio je Danku Ljubičiću i Petku Bobaru zabranu prilaska i komuniciranja sa svedocima u trajanju od tri meseca. Sumnjiče se da su 2022. odobrili pozajmicu holdinga od 98 miliona dinara povezanoj firmi „Tehnogradnja”.",
    "url": "https://razglas-news.com/2026/11/11/osumnjiceni-u-slucaju-centroslavija-se-brane-sa-slobode/",
    "id": "v367"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Miljanu Vidoviću Hofmanu određeno zadržavanje do 48 sati po nalogu Prvog OJT",
+   "red": 50,
+   "sazetak": "Miljan Vidović Hofman lišen je slobode po nalogu Prvog osnovnog javnog tužilaštva u Beogradu i zadržan do 48 sati radi saslušanja. Mediji navode da se sumnjiči za iznudu; tužilaštvo je najavilo saopštenje posle saslušanja.",
+   "url": "https://n1info.rs/vesti/uhapsen-miljan-hofman/",
+   "id": "v378"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "KRIK",
+   "kategorija": "bezbednost",
+   "naslov": "KRIK: Zvonko Veselinović otputovao iz Sarajeva u Istanbul sa srpskim pasošem",
+   "red": 48,
+   "sazetak": "Prema KRIK-u, biznismen sa severa Kosova Zvonko Veselinović odleteo je 11. novembra iz Sarajeva u Istanbul. Kosovsko tužilaštvo ga dovodi u vezu sa ubistvom Olivera Ivanovića 2018; pod sankcijama je SAD i Velike Britanije. Organi Srbije se o tome nisu oglasili.",
+   "url": "https://n1info.rs/vesti/krik-zvonko-veselinovic-se-sklonio-u-tursku/",
+   "id": "v380"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "Zborovi Novog Sada / Beta",
+   "kategorija": "korupcija",
+   "naslov": "Zborovi Novog Sada: Maja Gojković za putovanja potrošila preko 33 miliona dinara pokrajinskog budžeta",
+   "red": 45,
+   "sazetak": "Zborovi tvrde, pozivajući se na dokumentaciju, da je predsednica Pokrajinske vlade za sebe i pratnju za dve godine i dva meseca potrošila više od 33 miliona dinara na putovanja i da su hoteli i letovi plaćani i do tri puta više od stvarne cene. Reč je o navodima; nadležni se nisu oglasili.",
+   "url": "https://n1info.rs/vesti/zborovi-novog-sada-maja-gojkovic-troskove-putovanja-placala-tri-puta-vise-u-odnosu-na-cenu/",
+   "id": "v382"
   },
   {
    "datum": "2026-11-11",
@@ -45,6 +105,46 @@
   },
   {
    "datum": "2026-11-11",
+   "izvor": "N1 / Razglas",
+   "kategorija": "mediji",
+   "naslov": "Spor oko zahteva RTS-u za podatke o 50 zaposlenih: studenti FDU objavili zahtev, UNS i ANS reaguju",
+   "red": 44,
+   "sazetak": "Studenti FDU u blokadi objavili su zahtev za informacije od javnog značaja koji su RTS-u poslali 3. novembra (kvalifikacije i imenovanja zaposlenih) i naveli da ne traže privatne podatke, a da RTS nije odgovorio u roku. UNS kaže da mu je medijski tim Studentske liste dostavio zahtev za dokumentaciju o 50 imenovanih zaposlenih i ocenjuje ga nepotpunim; ANS osuđuje pritiske na zaposlene u RTS-u.",
+   "url": "https://n1info.rs/vesti/studenti-fdu-uputili-zahtev-rts-u-traze-dokumentaciju-o-kvalifikacijama-i-imenovanjima-zaposlenih/",
+   "id": "v383"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "Slučaj „Milenijum tim”: VJT u Beogradu odlučuje o zahtevu za izuzeće glavnog tužioca Trećeg OJT",
+   "red": 42,
+   "sazetak": "VJT u Beogradu saopštilo je da je 10. novembra primilo zahtev S.V. za izuzeće glavnog javnog tužioca Trećeg OJT, zatražilo spise i njegovo izjašnjenje i da će odlučiti u najkraćem roku. Kompanija „Milenijum tim” tvrdi da ne postoji zakonski razlog za hapšenje njenih zastupnika.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1492/",
+   "id": "v386"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "PU Niš / N1",
+   "kategorija": "izbori",
+   "naslov": "Doljevac: krivične prijave protiv troje zbog nasilja na biračkom mestu na dan izbora",
+   "red": 40,
+   "sazetak": "Po nalogu OJT u Nišu policija podnosi krivične prijave protiv Z.Lj. (57), A.T. (42) i N.J. (29) zbog sumnje na nasilničko ponašanje: 25. oktobra su, kako se sumnja, ušli na biračko mesto i vređali 24-godišnjaka, a Z.Lj. ga je uhvatio za vrat. Tužilaštvo je predložilo meru zabrane prilaska oštećenom i svedocima.",
+   "url": "https://n1info.rs/vesti/policija-podnosi-krivicne-prijave-protiv-tri-osobe-zbog-nasilja-na-izborni-dan-u-doljevcu/",
+   "id": "v381"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Studentska lista: Vlada u tehničkom mandatu odgovorna za probleme u građevinskim firmama koje rade državne poslove",
+   "red": 35,
+   "sazetak": "Studentska lista navodi da dobija poruke zaposlenih o otpuštanjima i obustavi radova u pojedinim privatnim građevinskim kompanijama i pita zašto odlazeća Vlada ne štiti javni interes i radnike. Ističe da buduća vlast nema uticaj na odluke aktuelne Vlade i javne nabavke.",
+   "url": "https://studenti.org.rs/vesti/normalni_ne/",
+   "id": "v384"
+  },
+  {
+   "datum": "2026-11-11",
    "izvor": "N1",
    "kategorija": "institucije",
    "naslov": "Zbor građana Novog Pazara traži ostavku gradonačelnika Nihata Biševca",
@@ -52,6 +152,16 @@
    "sazetak": "Zbor građana u Novom Pazaru zatražio je ostavku gradonačelnika Nihata Biševca.",
    "url": "https://n1info.rs/vesti/zbor-gradjana-novog-pazara-zahteva-ostavku-gradonacelnika-nihata-bisevca/",
    "id": "v375"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "Studenti",
+   "kategorija": "mediji",
+   "naslov": "Predstavnici Studentske liste neće gostovati na TV Informer",
+   "red": 28,
+   "sazetak": "U otvorenom pismu Informeru Studentska lista navodi da njeni predstavnici neće učestvovati u programima te televizije zbog, kako kažu, višegodišnjeg kršenja profesionalnih standarda i targetiranja studenata.",
+   "url": "https://studenti.org.rs/vesti/odgovor_dez/",
+   "id": "v385"
   },
   {
    "datum": "2026-11-10",
@@ -3846,6 +3956,23 @@
    "id": "h72"
   },
   {
+   "datum": "2026-11-11",
+   "iznos": "14,1 mil. din",
+   "izvori": [
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1493/",
+    "https://n1info.rs/vesti/mup-uhapseno-osam-osoba-medju-njima-i-bivsi-direktor-jkp-beogradske-elektrane-zbog-zloupotrebe-sluzbenog-polozaja/",
+    "https://n1info.rs/vesti/uhapsen-bivsi-ministar-rade-basta/",
+    "https://razglas-news.com/2026/11/11/vjt-sumnja-se-da-je-basta-neosnovano-dodelio-donacije-vredne-skoro-15-miliona-dinara/"
+   ],
+   "naslov": "Uhapšen bivši ministar privrede Rade Basta zbog donacija „Beogradskih elektrana”",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Beogradu Služba za borbu protiv korupcije uhapsila je R.B. (prema medijima Rade Basta), direktora JKP „Beogradske elektrane” od novembra 2020. do juna 2022, zbog sumnje na zloupotrebu službenog položaja: deset odluka o donacijama ukupno 14,1 miliona dinara. Uhapšeni su i izvršni direktor za finansije D.I. (pomaganje) i šestoro zastupnika klubova i udruženja osumnjičenih za pranje novca – oko 90% od 6 miliona dinara donacija navodno je podignuto u gotovini. Svima je određeno zadržavanje do 48 sati.",
+   "osobe": "Rade Basta (R.B.) · D.I. · JKP „Beogradske elektrane” · VJT u Beogradu",
+   "red": 92,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h89"
+  },
+  {
    "datum": "2026-11-10",
    "izvori": [
     "https://n1info.rs/vesti/vrhovno-javno-tuzilastvo-tuzilac-stefanovic-uspostavio-paratuzilaski-sistem-i-krsio-zakon-izvestaj-komisije-poslat-jtok-u-na-postupanje/",
@@ -3853,7 +3980,8 @@
     "https://n1info.rs/vesti/sta-je-utvrdila-komisija-u-postupanju-u-slucaju-zvucnog-topa-predlazu-postupak-protiv-tuzioca-markovica/",
     "https://beograd.vjt.rs/aktuelnosti/reagovanje-povodom-izvestaja-komisije/",
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1491/",
-    "https://n1info.rs/vesti/sef-beogradskog-vjt-stefanovic-podneo-krivicnu-prijavu-protiv-tuzioca-ilica-iz-vrhovnog-tuzilastva/"
+    "https://n1info.rs/vesti/sef-beogradskog-vjt-stefanovic-podneo-krivicnu-prijavu-protiv-tuzioca-ilica-iz-vrhovnog-tuzilastva/",
+    "https://beograd.vjt.rs/aktuelnosti/tendenciozni-zakljucci-komisije/"
    ],
    "naslov": "Komisija Vrhovnog javnog tužilaštva: osnovi sumnje protiv glavnog tužioca VJT u Beogradu, izveštaj prosleđen JTOK-u",
    "opis": "Komisija formirana 27. oktobra utvrdila je u prvom izveštaju (od 9. nov) sistemske nepravilnosti u predmetima „zvučni top”, pretres Filozofskog fakulteta i Rektorata, pomilovanja, „Vista Rica”, povređivanje studenata i napad kod FDU. Predloženi su krivični i disciplinski postupci, postupak za razrešenje i udaljenje glavnog tužioca Nenada Stefanovića i zamenika Miodraga Markovića, a dokumentacija je upućena JTOK-u. VJT u Beogradu odbacuje navode kao neutemeljene i osporava sastav Komisije. 10. nov: Stefanović je TOK-u podneo krivičnu prijavu protiv predsednika Komisije Gorana Ilića zbog zloupotrebe službenog položaja i ometanja pravde, tvrdeći da ga je Ilić 30. oktobra pozvao na ostavku.",
@@ -3869,10 +3997,12 @@
     "https://n1info.rs/vesti/tuzilastvo-trazi-hapsenje-odgovornih-iz-dve-kompanije-zbog-gradnje-bez-dozvole-na-lokaciji-hotela-jugoslavija/",
     "https://n1info.rs/vesti/milenijum-tim-vujko-bosnjak-i-djulic-nisu-uhapseni/",
     "https://www.rts.rs/lat/vesti/drustvo/6080942/milenijum-tim-denjub-riversajd-hapsenje-demanti.html",
-    "https://razglas-news.com/2026/11/10/izdat-nalog-za-hapsenje-vlasnika-kompanije-milenijum-tim-ivana-bosnjaka-i-stojana-vujka/"
+    "https://razglas-news.com/2026/11/10/izdat-nalog-za-hapsenje-vlasnika-kompanije-milenijum-tim-ivana-bosnjaka-i-stojana-vujka/",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1492/",
+    "https://n1info.rs/vesti/slucaj-milenijum-tim-tuzilastvo-nalozilo-hapsenja-advokati-zatrazili-izuzece-tuzilaca-ceka-se-nenad-stefanovic/"
    ],
    "naslov": "Treće OJT: istraga zbog gradnje bez dozvole na lokaciji Hotela „Jugoslavija”, naloženo privođenje čelnika investitora",
-   "opis": "Treće osnovno javno tužilaštvo u Beogradu vodi istragu zbog sumnje na građenje bez građevinske dozvole (čl. 219a KZ) na lokaciji nekadašnjeg Hotela „Jugoslavija” i naložilo je policiji lišenje slobode trojice odgovornih iz „Milenijum tima” i „Denjub Riversajda”. Osumnjičeni su podneli zahteve za izuzeće tužilaca i veštaka. Ministarstvo građevinarstva je 10. nov odbacilo kao nepotpun zahtev za dozvolu za prvu fazu. Kompanija tvrdi da trojica nisu uhapšena niti zadržana, već su dali izjavu policiji i pušteni.",
+   "opis": "Treće osnovno javno tužilaštvo u Beogradu vodi istragu zbog sumnje na građenje bez građevinske dozvole (čl. 219a KZ) na lokaciji nekadašnjeg Hotela „Jugoslavija” i naložilo je policiji lišenje slobode trojice odgovornih iz „Milenijum tima” i „Denjub Riversajda”. Osumnjičeni su podneli zahteve za izuzeće tužilaca i veštaka. Ministarstvo građevinarstva je 10. nov odbacilo kao nepotpun zahtev za dozvolu za prvu fazu. Kompanija tvrdi da trojica nisu uhapšena niti zadržana, već su dali izjavu policiji i pušteni. 11. nov: VJT u Beogradu saopštilo je da je zatražilo spise i izjašnjenje glavnog tužioca Trećeg OJT povodom zahteva S.V. za njegovo izuzeće i da će odlučiti u najkraćem roku.",
    "osobe": "Stojan Vujko · Ivan Bošnjak · Andreja Đulić · „Milenijum tim” · „Denjub Riversajd” · Treće OJT u Beogradu",
    "red": 78,
    "status": "zvanicno",
@@ -4483,10 +4613,11 @@
     "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261102_1_cir.pdf",
     "https://n1info.rs/vesti/uhapsene-tri-osobe-sumnja-se-da-je-davor-macura-izneo-iz-banke-45-milijardi-dinara/",
     "https://n1info.rs/vesti/davoru-macuri-odredjen-pritvor-do-30-dana/",
-    "https://www.rts.rs/lat/vesti/hronika/6075932/odredjen-pritvor-davoru-macuri-i-za-jos-dvoje-zaposlenih-u-alta-banci.html"
+    "https://www.rts.rs/lat/vesti/hronika/6075932/odredjen-pritvor-davoru-macuri-i-za-jos-dvoje-zaposlenih-u-alta-banci.html",
+    "https://n1info.rs/vesti/insajder-tok-vlasniku-alta-banke-i-njegovim-firmama-zabranilo-raspolaganje-imovinom/"
    ],
    "naslov": "TOK: uhapšen vlasnik Alta banke i dvoje zaposlenih zbog iznošenja novca iz trezora",
-   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra. Macura je pred TOK-om negirao krivicu, naveo je njegov advokat. 4. nov: Viši sud u Beogradu objavio je da je svoj trojici određen pritvor do 30 dana zbog opasnosti od uticaja na svedoke i ponavljanja dela, a Macuri i zbog opasnosti od bekstva.",
+   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra. Macura je pred TOK-om negirao krivicu, naveo je njegov advokat. 4. nov: Viši sud u Beogradu objavio je da je svoj trojici određen pritvor do 30 dana zbog opasnosti od uticaja na svedoke i ponavljanja dela, a Macuri i zbog opasnosti od bekstva. 11. nov: prema Insajderu, TOK je Macuri i njegovim firmama (Alta holding, Alta lizing, Campari International) zabranio raspolaganje imovinom, uključujući oko 35 ha zemljišta bivšeg IMT-a; o privremenom oduzimanju odlučuje sud.",
    "osobe": "Davor Macura (D.M.) · G.M. · I.P. · Alta banka · TOK",
    "red": 95,
    "status": "zvanicno",
@@ -5105,7 +5236,7 @@
   {
    "azurirano": "2026-11-11",
    "datum": "2026-10-29",
-   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. 6. nov: Žmiriću određen pritvor, a MUP ga privremeno udaljio sa rada; kandidati Studentske liste podneli TOK-u krivičnu prijavu protiv tužioca Nenada Stefanovića. 10. nov: Komisija Vrhovnog javnog tužilaštva predložila postupak za razrešenje i udaljenje Stefanovića i prosledila izveštaj JTOK-u; VJT u Beogradu odbacuje navode. Stefanović je istog dana TOK-u prijavio predsednika Komisije Gorana Ilića. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
+   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. 6. nov: Žmiriću određen pritvor, a MUP ga privremeno udaljio sa rada; kandidati Studentske liste podneli TOK-u krivičnu prijavu protiv tužioca Nenada Stefanovića. 10. nov: Komisija Vrhovnog javnog tužilaštva predložila postupak za razrešenje i udaljenje Stefanovića i prosledila izveštaj JTOK-u; VJT u Beogradu odbacuje navode. Stefanović je istog dana TOK-u prijavio predsednika Komisije Gorana Ilića. 11. nov: Radar je objavio da je smenjen zamenik direktora BIA Tomislav Radovanović, što BIA demantuje. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
