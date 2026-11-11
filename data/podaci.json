@@ -1,14 +1,58 @@
 {
- "generisano": "2026-11-10T15:14+00:00",
+ "generisano": "2026-11-11T08:46+00:00",
  "stanje": {
-  "azurirano": "2026-11-08",
+  "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
   "mandati": 140,
   "procenat": "53,01%",
+  "sastav": [
+   {
+    "lista": "Studentska lista",
+    "mandati": 140
+   },
+   {
+    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+    "mandati": 103
+   },
+   {
+    "lista": "Liste nacionalnih manjina",
+    "mandati": 7
+   }
+  ],
   "skupstina": "Nije konstituisana; konstitutivna sednica zakazana za 17. nov 2026.",
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-11",
+   "izvor": "Razglas",
+   "kategorija": "korupcija",
+   "naslov": "„Centroslavija”: osumnjičenima Ljubičiću i Bobaru zabrana kontakta sa svedocima, brane se sa slobode",
+   "red": 52,
+   "sazetak": "Sudija za prethodni postupak Višeg suda u Novom Sadu odredio je Danku Ljubičiću i Petku Bobaru zabranu prilaska i komuniciranja sa svedocima u trajanju od tri meseca. Sumnjiče se da su 2022. odobrili pozajmicu holdinga od 98 miliona dinara povezanoj firmi „Tehnogradnja”.",
+   "url": "https://razglas-news.com/2026/11/11/osumnjiceni-u-slucaju-centroslavija-se-brane-sa-slobode/",
+   "id": "v367"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "CLS: firma povezana sa Knez Petrolom postala suvlasnik u konzorcijumu za gradski prevoz Beograda",
+   "red": 44,
+   "sazetak": "Centar za lokalnu samoupravu navodi, prema podacima APR-a, da je „Knez Trading” upisan kao vlasnik 23% firme „B&B Linea”, članice konzorcijuma „BG Bus prevoz” koji održava 84 gradske linije po ugovoru vrednom 157 milijardi dinara. CLS traži da institucije prate ko i pod kojim uslovima obavlja javni prevoz.",
+   "url": "https://n1info.rs/vesti/jovanovic-cls-knez-petrol-zvanicno-postao-suvlasnik-u-javnom-prevozu-beogradjana/",
+   "id": "v372"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Zbor građana Novog Pazara traži ostavku gradonačelnika Nihata Biševca",
+   "red": 28,
+   "sazetak": "Zbor građana u Novom Pazaru zatražio je ostavku gradonačelnika Nihata Biševca.",
+   "url": "https://n1info.rs/vesti/zbor-gradjana-novog-pazara-zahteva-ostavku-gradonacelnika-nihata-bisevca/",
+   "id": "v375"
+  },
   {
    "datum": "2026-11-10",
    "izvor": "N1",
@@ -18,6 +62,26 @@
    "sazetak": "U prvom izveštaju Komisija VJT ocenjuje da je glavni tužilac VJT u Beogradu uspostavio „paratužilački sistem” i predlaže krivične i disciplinske postupke, postupak za razrešenje i udaljenje Stefanovića i zamenika Miodraga Markovića (slučaj „zvučni top”). VJT u Beogradu odbacuje navode kao neutemeljene.",
    "url": "https://n1info.rs/vesti/vrhovno-javno-tuzilastvo-tuzilac-stefanovic-uspostavio-paratuzilaski-sistem-i-krsio-zakon-izvestaj-komisije-poslat-jtok-u-na-postupanje/",
    "id": "v356"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "Treće OJT / Insajder",
+   "kategorija": "hapsenje",
+   "naslov": "Treće OJT naložilo privođenje čelnika „Milenijum tima” i „Denjub Riversajda” zbog gradnje bez dozvole na mestu Hotela „Jugoslavija”",
+   "red": 86,
+   "sazetak": "Treće osnovno javno tužilaštvo u Beogradu naložilo je policiji da pronađe i liši slobode S.V. i I.B. iz „Milenijum tima” i A.Đ. iz „Denjub Riversajda” zbog sumnje na građenje bez građevinske dozvole (čl. 219a KZ). Istog dana Ministarstvo građevinarstva odbacilo je kao nepotpun zahtev za dozvolu za prvu fazu projekta. Kompanija je 11. nov saopštila da Stojan Vujko, Ivan Bošnjak i Andreja Đulić nisu uhapšeni, već su dali izjavu policiji i napustili prostorije.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-trazi-hapsenje-odgovornih-iz-dve-kompanije-zbog-gradnje-bez-dozvole-na-lokaciji-hotela-jugoslavija/",
+   "id": "v364"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "Nenad Stefanović podneo TOK-u krivičnu prijavu protiv Gorana Ilića, predsednika Komisije Vrhovnog javnog tužilaštva",
+   "red": 80,
+   "sazetak": "Glavni tužilac VJT u Beogradu Nenad Stefanović prijavio je tužioca Vrhovnog javnog tužilaštva Gorana Ilića zbog zloupotrebe službenog položaja i ometanja pravde. U prijavi navodi da ga je Ilić 30. oktobra pozvao da podnese neopozivu ostavku i time prejudicirao ishod kontrole. Reč je o navodima iz prijave; Ilićev odgovor nije objavljen.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1491/",
+   "id": "v365"
   },
   {
    "datum": "2026-11-10",
@@ -51,6 +115,16 @@
   },
   {
    "datum": "2026-11-10",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "N1: upravnik KPZ Niš Bratislav Dikić u pismu priznao da je pratio „kapilarne glasove” za SNS",
+   "red": 64,
+   "sazetak": "Advokat Ivan Ninić objavio je pismo upravnika zatvora u Nišu zaposlenima u kojem on navodi da je na dan izbora pratio „kapilarne glasove” za SNS po zahtevu rukovodstva Uprave za izvršenje krivičnih sankcija i da se kaje. N1 navodi da je pismo nezvanično potvrđeno; Dikić i Uprava nisu odgovorili.",
+   "url": "https://n1info.rs/vesti/pokajanje-posle-izbora-upravnik-zatvora-u-nisu-priznao-da-je-pratio-kapilarne-glasove-za-sns/",
+   "id": "v369"
+  },
+  {
+   "datum": "2026-11-10",
    "izvor": "BIRN",
    "kategorija": "mediji",
    "naslov": "BIRN: interna platforma progress.rs koordinisala aktivnosti naloga koji promovišu SNS",
@@ -58,6 +132,26 @@
    "sazetak": "BIRN je uporedio procurele podatke sa platforme sa aktivnostima na mreži X i našao 339 poklapanja tokom kampanja 2026, kao i vezu administratorskog naloga sa mrežom registrovanom na sedište SNS. BIRN navodi da podaci ne dokazuju da su sve aktivnosti deo jedinstveno upravljane mreže.",
    "url": "https://birn.rs/kako-je-organizovana-promocija-sns-na-drustvenim-mrezama/",
    "id": "v360"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "N1 / Beta",
+   "kategorija": "hapsenje",
+   "naslov": "„Inđija put”: pritvor za još jednog osumnjičenog, zabrana prilaska svedocima za dvoje",
+   "red": 60,
+   "sazetak": "Viši sud u Novom Sadu odredio je pritvor do 30 dana D.Đ., osumnjičenom za pomaganje u zloupotrebi službenog položaja, zbog opasnosti od uticaja na svedoke. Za V.Đ. i M.D. određena je zabrana prilaska i komuniciranja sa svedocima na tri meseca. Predsedniku opštine Marku Gašiću i direktoru JP Urošu Trifunoviću pritvor je određen dan ranije.",
+   "url": "https://n1info.rs/vesti/pritvor-i-zabrana-prilaska-za-preostalo-troje-uhapsenih-s-predsednikom-opstine-indjija/",
+   "id": "v366"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "Treće OJT",
+   "kategorija": "bezbednost",
+   "naslov": "Treće OJT naložilo zadržavanje petorice osumnjičenih za pretnje novinarki Brankici Stanković",
+   "red": 58,
+   "sazetak": "Tužilaštvo je naložilo zadržavanje petorice osumnjičenih za ugrožavanje sigurnosti novinarke Brankice Stanković na košarkaškoj utakmici. Dvojica su zadržana, za trojicom se traga; saslušanje je zakazano za 12. novembar.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27135/",
+   "id": "v368"
   },
   {
    "datum": "2026-11-10",
@@ -91,6 +185,16 @@
   },
   {
    "datum": "2026-11-10",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Uskoković: Informativni program RTS-a prvi put radi bez političkog pritiska",
+   "red": 42,
+   "sazetak": "V.d. glavnog urednika Informativnog programa RTS-a Borivoje Uskoković rekao je zaposlenima da su slobodni od političkih pritisaka i zatražio od menadžmenta da utvrdi okolnosti zapošljavanja Vukašina Katića. Istog dana podneo je prijavu tražeći hitnu istragu o tome kako je snimak internog sastanka dospeo na Informer.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6080615/uskokovic-prvi-put-informativni-program-rts-a-radi-bez-politickog-pritiska.html",
+   "id": "v371"
+  },
+  {
+   "datum": "2026-11-10",
    "izvor": "N1 / FoNet",
    "kategorija": "institucije",
    "naslov": "Gradonačelnica Užica Jelena Raković Radivojević podnela ostavku",
@@ -108,6 +212,26 @@
    "sazetak": "Odbornik Pavle Jelesijević podneo je VJT u Kraljevu prijavu protiv NN službenih lica Gradske uprave; samo za 19. decembar 2023. iz budžeta je plaćeno oko 780.000 dinara jednoj ugostiteljskoj radnji.",
    "url": "https://n1info.rs/vesti/krivicna-prijava-protiv-nadleznih-u-cacku-zbog-432-kilograma-rostilja-za-slavu-placenog-iz-budzeta/",
    "id": "v363"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "N1 / Beta",
+   "kategorija": "izbori",
+   "naslov": "Svi potpredsednici SPS ponudili ostavke posle izbornog poraza",
+   "red": 34,
+   "sazetak": "Prema Beti, svi potpredsednici SPS ponudili su ostavke, a Ivica Dačić prihvatio je odgovornost za loš rezultat, ali nije podneo ostavku. SPS je osvojio 2,13% i prvi put nema poslanike; Glavni odbor odlučuje za sedam do deset dana.",
+   "url": "https://n1info.rs/vesti/svi-potpredsednici-sps-ponudili-ostavke-dacic-prihvatio-odgovornost-za-los-rezultat/",
+   "id": "v370"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvor": "Transparentnost Srbija",
+   "kategorija": "korupcija",
+   "naslov": "Ministarstvo odbrane u tehničkom mandatu raspisalo nabavku prirodnog gasa od 2,73 milijarde dinara",
+   "red": 30,
+   "sazetak": "Ministarstvo odbrane objavilo je 3. novembra javni poziv za nabavku prirodnog gasa procenjene vrednosti 2.727.272.727 dinara, s rokom 10. decembra. Transparentnost Srbija ocenjuje ovaj akt kao akt povišenog rizika; to je procena organizacije, a ne utvrđena nezakonitost.",
+   "url": "https://tehnickavlada.rs/akt/23307",
+   "id": "v373"
   },
   {
    "datum": "2026-11-09",
@@ -268,6 +392,16 @@
    "sazetak": "Zlatko Minić kaže da je sajt tehnickavlada.rs pokrenut da prati odluke tehničke vlade i da su uočena kršenja zakona, među njima imenovanja načelnika upravnih okruga. Za tender za put Kraljevo–Novi Pazar naveo je da postoje uslovi za poništenje.",
    "url": "https://n1info.rs/vesti/transparentnost-srbija-zlatko-minic-tehnicka-vlada/",
    "id": "v344"
+  },
+  {
+   "datum": "2026-11-09",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Studenti: raspored mandata 140 – 103 – 7 i postupak konstituisanja Skupštine 17. novembra",
+   "red": 44,
+   "sazetak": "Studentska lista objasnila je postupak konstituisanja: po RIK-u, Studentska lista ima 140 mandata, lista „Aleksandar Vučić – Ujedinjena Srbija” 103, a liste nacionalnih manjina 7. Sednicom će do izbora predsednika Skupštine predsedavati najstariji poslanik Stojan Radenović; prva tačka je potvrđivanje mandata.",
+   "url": "https://studenti.org.rs/vesti/sta_dalje/",
+   "id": "v374"
   },
   {
    "datum": "2026-11-09",
@@ -3717,15 +3851,33 @@
     "https://n1info.rs/vesti/vrhovno-javno-tuzilastvo-tuzilac-stefanovic-uspostavio-paratuzilaski-sistem-i-krsio-zakon-izvestaj-komisije-poslat-jtok-u-na-postupanje/",
     "https://www.rts.rs/lat/vesti/drustvo/6080587/komisija-vjt-objavila-prvi-izvestaj-predlazu-pokretanje-postupaka-protiv-nenada-stefanovica-i-vise-tuzilaca.html",
     "https://n1info.rs/vesti/sta-je-utvrdila-komisija-u-postupanju-u-slucaju-zvucnog-topa-predlazu-postupak-protiv-tuzioca-markovica/",
-    "https://beograd.vjt.rs/aktuelnosti/reagovanje-povodom-izvestaja-komisije/"
+    "https://beograd.vjt.rs/aktuelnosti/reagovanje-povodom-izvestaja-komisije/",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1491/",
+    "https://n1info.rs/vesti/sef-beogradskog-vjt-stefanovic-podneo-krivicnu-prijavu-protiv-tuzioca-ilica-iz-vrhovnog-tuzilastva/"
    ],
    "naslov": "Komisija Vrhovnog javnog tužilaštva: osnovi sumnje protiv glavnog tužioca VJT u Beogradu, izveštaj prosleđen JTOK-u",
-   "opis": "Komisija formirana 27. oktobra utvrdila je u prvom izveštaju (od 9. nov) sistemske nepravilnosti u predmetima „zvučni top”, pretres Filozofskog fakulteta i Rektorata, pomilovanja, „Vista Rica”, povređivanje studenata i napad kod FDU. Predloženi su krivični i disciplinski postupci, postupak za razrešenje i udaljenje glavnog tužioca Nenada Stefanovića i zamenika Miodraga Markovića, a dokumentacija je upućena JTOK-u. VJT u Beogradu odbacuje navode kao neutemeljene i osporava sastav Komisije.",
+   "opis": "Komisija formirana 27. oktobra utvrdila je u prvom izveštaju (od 9. nov) sistemske nepravilnosti u predmetima „zvučni top”, pretres Filozofskog fakulteta i Rektorata, pomilovanja, „Vista Rica”, povređivanje studenata i napad kod FDU. Predloženi su krivični i disciplinski postupci, postupak za razrešenje i udaljenje glavnog tužioca Nenada Stefanovića i zamenika Miodraga Markovića, a dokumentacija je upućena JTOK-u. VJT u Beogradu odbacuje navode kao neutemeljene i osporava sastav Komisije. 10. nov: Stefanović je TOK-u podneo krivičnu prijavu protiv predsednika Komisije Gorana Ilića zbog zloupotrebe službenog položaja i ometanja pravde, tvrdeći da ga je Ilić 30. oktobra pozvao na ostavku.",
    "osobe": "Nenad Stefanović · Miodrag Marković · Vrhovno javno tužilaštvo · JTOK · VJT u Beogradu",
    "red": 88,
    "status": "zvanicno",
    "tip": "prijava",
    "id": "h87"
+  },
+  {
+   "datum": "2026-11-10",
+   "izvori": [
+    "https://n1info.rs/vesti/tuzilastvo-trazi-hapsenje-odgovornih-iz-dve-kompanije-zbog-gradnje-bez-dozvole-na-lokaciji-hotela-jugoslavija/",
+    "https://n1info.rs/vesti/milenijum-tim-vujko-bosnjak-i-djulic-nisu-uhapseni/",
+    "https://www.rts.rs/lat/vesti/drustvo/6080942/milenijum-tim-denjub-riversajd-hapsenje-demanti.html",
+    "https://razglas-news.com/2026/11/10/izdat-nalog-za-hapsenje-vlasnika-kompanije-milenijum-tim-ivana-bosnjaka-i-stojana-vujka/"
+   ],
+   "naslov": "Treće OJT: istraga zbog gradnje bez dozvole na lokaciji Hotela „Jugoslavija”, naloženo privođenje čelnika investitora",
+   "opis": "Treće osnovno javno tužilaštvo u Beogradu vodi istragu zbog sumnje na građenje bez građevinske dozvole (čl. 219a KZ) na lokaciji nekadašnjeg Hotela „Jugoslavija” i naložilo je policiji lišenje slobode trojice odgovornih iz „Milenijum tima” i „Denjub Riversajda”. Osumnjičeni su podneli zahteve za izuzeće tužilaca i veštaka. Ministarstvo građevinarstva je 10. nov odbacilo kao nepotpun zahtev za dozvolu za prvu fazu. Kompanija tvrdi da trojica nisu uhapšena niti zadržana, već su dali izjavu policiji i pušteni.",
+   "osobe": "Stojan Vujko · Ivan Bošnjak · Andreja Đulić · „Milenijum tim” · „Denjub Riversajd” · Treće OJT u Beogradu",
+   "red": 78,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h88"
   },
   {
    "datum": "2026-11-09",
@@ -3745,11 +3897,12 @@
    "datum": "2026-11-09",
    "iznos": "98 mil. din (≈ 835.000 €)",
    "izvori": [
-    "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost/"
+    "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost/",
+    "https://razglas-news.com/2026/11/11/osumnjiceni-u-slucaju-centroslavija-se-brane-sa-slobode/"
    ],
    "naslov": "Novi Sad: uhapšena dvojica iz uprave „Holding Centroslavija” zbog sumnje na protivpravnu korist od 98 miliona dinara",
-   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu uhapšeni su D.Lj. (predsednik odbora direktora) i P.B. (član odbora) zbog zloupotrebe položaja odgovornog lica. Sumnja se da su u decembru 2022. odobrili pozajmicu od 98 miliona dinara povezanoj firmi „Tehnogradnja”, kojom je ona otkupila 35% akcija holdinga i postala većinski vlasnik. Određeno zadržavanje do 48 sati. Iznos je sumnja tužilaštva.",
-   "osobe": "D.Lj. · P.B. · „Holding Centroslavija” · „Tehnogradnja” · VJT u Novom Sadu",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu uhapšeni su D.Lj. (predsednik odbora direktora) i P.B. (član odbora) zbog zloupotrebe položaja odgovornog lica. Sumnja se da su u decembru 2022. odobrili pozajmicu od 98 miliona dinara povezanoj firmi „Tehnogradnja”, kojom je ona otkupila 35% akcija holdinga i postala većinski vlasnik. Određeno zadržavanje do 48 sati. Iznos je sumnja tužilaštva. Viši sud u Novom Sadu odredio je Danku Ljubičiću i Petku Bobaru zabranu prilaska i komuniciranja sa svedocima na tri meseca; brane se sa slobode.",
+   "osobe": "Danko Ljubičić · Petko Bobar · „Holding Centroslavija” · „Tehnogradnja” · VJT u Novom Sadu",
    "red": 80,
    "status": "zvanicno",
    "tip": "hapsenje",
@@ -3777,10 +3930,11 @@
     "https://n1info.rs/vesti/marko-gasic-funkcioner-sns-a-bivsi-direktor-indjija-puta-i-predsednik-opstine/",
     "https://insajder.net/vesti/vjt-u-novom-sadu-uhapseno-sest-osoba-osumnjicenih-za-zloupotrebu-sluzbenog-polozaja-medu-njima-direktori-jp-indija-put",
     "https://novisad.vjt.rs/aktuelnosti/9-11-2026-saopstenje-za-javnost-2/",
-    "https://n1info.rs/vesti/visi-sud-u-novom-sadu-odredio-pritvor-predsedniku-opstine-indjija-i-direktoru-jp-indjija-put/"
+    "https://n1info.rs/vesti/visi-sud-u-novom-sadu-odredio-pritvor-predsedniku-opstine-indjija-i-direktoru-jp-indjija-put/",
+    "https://n1info.rs/vesti/pritvor-i-zabrana-prilaska-za-preostalo-troje-uhapsenih-s-predsednikom-opstine-indjija/"
    ],
    "naslov": "Uhapšen predsednik opštine Inđija zbog sumnje na zloupotrebe u JP „Inđija put”",
-   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) i UKP uhapsili su šest osumnjičenih, za jednim se traga. M.G. i U.T. kao direktori JP „Inđija put” se terete za zloupotrebu službenog položaja: 2023–2025. nameštene nabavke za saobraćajnu signalizaciju i isplata za radove koji nisu izvedeni; troje za pomaganje, jedna osoba za pranje novca. Određeno zadržavanje do 48 sati. 9. nov: VJT je donelo naredbu o sprovođenju istrage protiv sedam lica i posle saslušanja predložilo pritvor za M.G. i U.T. (opasnost od uticaja na svedoke i ponavljanja dela), a za T.J. zabranu komuniciranja sa svedocima; preostala trojica biće saslušana u roku od 48 sati. Istog dana Viši sud u Novom Sadu odredio je Gašiću i Trifunoviću pritvor do 30 dana, a T.J. zabranu komuniciranja sa svedocima na tri meseca (nepravnosnažno).",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) i UKP uhapsili su šest osumnjičenih, za jednim se traga. M.G. i U.T. kao direktori JP „Inđija put” se terete za zloupotrebu službenog položaja: 2023–2025. nameštene nabavke za saobraćajnu signalizaciju i isplata za radove koji nisu izvedeni; troje za pomaganje, jedna osoba za pranje novca. Određeno zadržavanje do 48 sati. 9. nov: VJT je donelo naredbu o sprovođenju istrage protiv sedam lica i posle saslušanja predložilo pritvor za M.G. i U.T. (opasnost od uticaja na svedoke i ponavljanja dela), a za T.J. zabranu komuniciranja sa svedocima; preostala trojica biće saslušana u roku od 48 sati. Istog dana Viši sud u Novom Sadu odredio je Gašiću i Trifunoviću pritvor do 30 dana, a T.J. zabranu komuniciranja sa svedocima na tri meseca (nepravnosnažno). 10. nov: Viši sud u Novom Sadu odredio je pritvor do 30 dana i D.Đ. (pomaganje), a V.Đ. i M.D. zabranu prilaska svedocima na tri meseca.",
    "osobe": "Marko Gašić (predsednik opštine Inđija, SNS) · Uroš Trifunović (direktor JP „Inđija put”) · VJT Novi Sad",
    "red": 90,
    "status": "zvanicno",
@@ -4949,9 +5103,9 @@
    "id": "o05"
   },
   {
-   "azurirano": "2026-11-10",
+   "azurirano": "2026-11-11",
    "datum": "2026-10-29",
-   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. 6. nov: Žmiriću određen pritvor, a MUP ga privremeno udaljio sa rada; kandidati Studentske liste podneli TOK-u krivičnu prijavu protiv tužioca Nenada Stefanovića. 10. nov: Komisija Vrhovnog javnog tužilaštva predložila postupak za razrešenje i udaljenje Stefanovića i prosledila izveštaj JTOK-u; VJT u Beogradu odbacuje navode. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
+   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. 6. nov: Žmiriću određen pritvor, a MUP ga privremeno udaljio sa rada; kandidati Studentske liste podneli TOK-u krivičnu prijavu protiv tužioca Nenada Stefanovića. 10. nov: Komisija Vrhovnog javnog tužilaštva predložila postupak za razrešenje i udaljenje Stefanovića i prosledila izveštaj JTOK-u; VJT u Beogradu odbacuje navode. Stefanović je istog dana TOK-u prijavio predsednika Komisije Gorana Ilića. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
@@ -4967,9 +5121,9 @@
    "id": "o07"
   },
   {
-   "azurirano": "2026-11-05",
+   "azurirano": "2026-11-11",
    "datum": "2026-10-27",
-   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić; ostavku podneo i direktor RTV-a Goran Karadžić. 3. nov: UO RTS odložio izbor v.d. generalnog direktora. 4. nov: Savet REM-a usvojio nacrt pravilnika o imenovanju članova upravnih odbora javnih servisa; Smederevac kaže da RTS trenutno nema upravni odbor i da se novi odbori RTS-a i RTV-a očekuju oko februara. Dejan Jovanović, kao zamenik, zastupa RTS do izbora novog direktora. 5. nov: dosadašnji UO RTS-a saopštio je da je za krizu upravljanja odgovoran REM, jer konkurs nije raspisao na vreme.",
+   "napomena": "Manja Grčić podnela ostavku; Dejan Jovanović imenovan za v.d. direktora suprotno zahtevu. 29. okt: smenjeni urednici Informativnog programa, najavljene ostavke u Radio Beogradu; studenti traže ostavke, ne izvinjenje. 30. okt: UO RTS prihvatio ostavku Grčić; ostavku podneo i direktor RTV-a Goran Karadžić. 3. nov: UO RTS odložio izbor v.d. generalnog direktora. 4. nov: Savet REM-a usvojio nacrt pravilnika o imenovanju članova upravnih odbora javnih servisa; Smederevac kaže da RTS trenutno nema upravni odbor i da se novi odbori RTS-a i RTV-a očekuju oko februara. Dejan Jovanović, kao zamenik, zastupa RTS do izbora novog direktora. 5. nov: dosadašnji UO RTS-a saopštio je da je za krizu upravljanja odgovoran REM, jer konkurs nije raspisao na vreme. 10. nov: v.d. glavnog urednika Informativnog programa Borivoje Uskoković rekao je da program radi bez političkog pritiska i zatražio proveru zapošljavanja Vukašina Katića; novi upravni odbor i generalni direktor još nisu izabrani.",
    "naslov": "Departizacija RTS-a i ostavke rukovodstva javnog servisa",
    "opis": "Ostavke generalnog direktora, zamenika i glavnih urednika; nezavisan REM.",
    "status": "delimicno",
@@ -5080,6 +5234,24 @@
    "status": "najavljeno",
    "url": "https://studenti.org.rs/vesti/stabil_privreda/",
    "id": "o19"
+  }
+ ],
+ "funkcije": [],
+ "sednice": [
+  {
+   "datum": "2026-11-17",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6079105/brnabic-konstitutivna-sednica-17-novembra-u-10-casova.html",
+    "https://www.rtv.rs/sr_lat/politika/konstitutivna-sednica-skupstine-17.-novembra-sest-tacaka-dnevnog-reda_1757273.html",
+    "https://studenti.org.rs/vesti/s_budna/",
+    "https://studenti.org.rs/vesti/sta_dalje/"
+   ],
+   "naslov": "Konstitutivna sednica Narodne skupštine",
+   "odluke": [],
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade.",
+   "organ": "skupstina",
+   "status": "zakazana",
+   "id": "s01"
   }
  ]
 }
