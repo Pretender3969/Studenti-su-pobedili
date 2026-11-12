@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-11T22:47+00:00",
+ "generisano": "2026-11-12T15:26+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -24,6 +24,156 @@
  },
  "vesti": [
   {
+   "datum": "2026-11-12",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšena gradonačelnica Smedereva Jasmina Vojinović zbog nelegalne deponije",
+   "red": 90,
+   "sazetak": "Po nalogu OJT u Smederevu uhapšeni su gradonačelnica Jasmina Vojinović (SNS), načelnica Gradske uprave Ivana Mitrović Stamenković i direktor JKP „Zelenilo i groblja” Miroslav Ilić, zbog sumnje na nepreduzimanje mera zaštite životne sredine. Sumnjiče se da su posle zatvaranja gradske deponije krajem septembra smeće odlagali na smetlište bez dozvola; određeno im je zadržavanje do 48 sati.",
+   "url": "https://n1info.rs/vesti/uhapsena-gradonacelnica-smedereva/",
+   "id": "v387"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Goran Puzović podneo neopozivu ostavku na mesto direktora „Srbijavoda”",
+   "red": 70,
+   "sazetak": "Puzović, koji je preduzeće vodio od 2012, ostavku obrazlaže pretnjama i objavljivanjem podataka o njegovoj porodici, kao i upadom u prostorije „Srbijavoda”. Naveo je da ne prihvata optužbe protiv sebe i da očekuje da ih ispitaju nadležne institucije.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6081620/direktor-goran-puzovic-srbijavode-ostavka.html",
+   "id": "v388"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "Nenad Stefanović podneo disciplinsku prijavu protiv tužioca VJT-a Branka Stamenkovića",
+   "red": 65,
+   "sazetak": "Glavni tužilac VJT u Beogradu prijavio je disciplinskom tužiocu Visokog saveta tužilaštva člana Komisije Vrhovnog javnog tužilaštva Branka Stamenkovića zbog izjava da je u VJT-u uspostavljen „paratužilački sistem”. Stamenković je istog dana za Vreme izjavio da je Stefanović imao „potpunu političku podršku” za takvu organizaciju.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/disciplinska-prijava-protiv-branka-stamenkovica/",
+   "id": "v389"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Treće OJT / RTV",
+   "kategorija": "bezbednost",
+   "naslov": "Slučaj Šapić – Mićić: Kreni-promeni kaže da je veštak utvrdio teške telesne povrede; tužilaštvo objašnjava zašto nije bilo zadržavanja",
+   "red": 60,
+   "sazetak": "Pokret Kreni-promeni tvrdi da je sudski veštak koga je angažovalo tužilaštvo utvrdio da je gradonačelnik Beograda Aleksandar Šapić 28. septembra naneo teške telesne povrede odbornici Tatjani Mićić. Treće OJT navodi da je u vreme saslušanja Šapića raspolagalo podacima o lakim povredama i da bi odluka o zadržavanju bila drugačija da je imalo podatke o teškim.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27185/",
+   "id": "v391"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Danas / Razglas",
+   "kategorija": "korupcija",
+   "naslov": "DRI: rukovodstvo MSK Kikinda plaćalo radnicima po 1.000 dinara za odlazak na mitinge SNS",
+   "red": 60,
+   "sazetak": "Prema nalazu Državne revizorske institucije, o kome je pisao Danas, rukovodstvo državnog Metanolsko-sirćetnog kompleksa u Kikindi isplaćivalo je radnicima „stimulaciju” od 1.000 dinara za prisustvo skupovima SNS.",
+   "url": "https://razglas-news.com/2026/11/12/rukovodstvo-preduzeca-iz-kikinde-placalo-1-000-dinara-radnicima-koji-su-isli-na-mitinge-sns/",
+   "id": "v396"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Ministarstvo pravde dovodi u pitanje izveštaj Komisije Vrhovnog tužilaštva; Udruženje tužilaca traži utvrđivanje odgovornosti",
+   "red": 55,
+   "sazetak": "Ministarstvo pravde u tehničkom mandatu navodi da tužioci VJT-a nisu imali priliku da se izjasne pre objave izveštaja i pita zašto Vrhovna javna tužiteljka ranije nije reagovala. Udruženje tužilaca Srbije ocenjuje da nalazi ukazuju na obrasce koji imaju odlike disciplinskih prekršaja i krivičnih dela iz nadležnosti TOK-a.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6081630/ministarstvo-pravde-izvestaj-komisije-vrhovnog-tuzilastva-iz-vise-razloga.html",
+   "id": "v390"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "korupcija",
+   "naslov": "Novi Sad: uhapšen zastupnik udruženja „Signum” zbog 2,75 miliona dinara iz gradskog budžeta za projekte koji nisu sprovedeni",
+   "red": 55,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu lišen je slobode I. B., zastupnik udruženja „Signum”, kome je Grad Novi Sad od 2021. do 2024. dodelio 2.750.000 dinara za pet projekata. Sumnja se da aktivnosti nisu sprovedene i da je podnosio lažne izveštaje o utrošku novca; određeno mu je zadržavanje do 48 sati.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/12-11-2026-saopstenje-za-javnost-2/",
+   "id": "v394"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Treće OJT",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšena još dvojica zbog pretnji novinarki Brankici Stanković",
+   "red": 50,
+   "sazetak": "Po nalogu Trećeg OJT u Beogradu policija je uhapsila A. N. i O. I. (obojica 1999) zbog sumnje na ugrožavanje sigurnosti novinarke Brankice Stanković pretnjama tokom košarkaške utakmice Partizan – Cedevita.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27189/",
+   "id": "v392"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Treće OJT",
+   "kategorija": "institucije",
+   "naslov": "„Milenijum tim”: odbrana podnela dopunu zahteva za izuzeće tužilaca, postupak zastao",
+   "red": 45,
+   "sazetak": "Treće OJT saopštava da je odbrana osumnjičenih iz „Milenijum tima” VJT-u dostavila novu dopunu zahteva za izuzeće glavnog i postupajućeg tužioca, iako o prethodnim zahtevima još nije odlučeno, pa je postupanje obustavljeno. Tužilaštvo ocenjuje da okrivljeni zloupotrebljavaju procesna prava i da se postupak odugovlači.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27156/",
+   "id": "v393"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Studenti",
+   "kategorija": "bezbednost",
+   "naslov": "Doljevac: osumnjičeni za napad na biračko mesto brane se sa slobode, Studentska lista protestuje",
+   "red": 45,
+   "sazetak": "Prema Studentskoj listi, oštećeni su 10. novembra u policiji prepoznali napadače sa izbornog dana, među njima Aleksandra Tošića i Zorana Ljubića, brata predsednika opštine, ali OJT u Nišu nije tražilo pritvor. Lista navodi da je zastrašivanje svedoka nastavljeno i traži objašnjenje zašto se slučaj tretira blaže od napada na mobilni tim u Nišu.",
+   "url": "https://studenti.org.rs/vesti/doljevac_napad/",
+   "id": "v400"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "N1 / Bujanovačke",
+   "kategorija": "izbori",
+   "naslov": "Tužilaštvo u Bujanovcu formiralo predmet zbog skupa SNS u školskom dvorištu u Rakovcu",
+   "red": 40,
+   "sazetak": "Odeljenje Osnovnog tužilaštva u Bujanovcu formiralo je predmet zbog stranačkog skupa SNS održanog 18. jula na sportskom terenu Osnovne škole „Branko Radičević” u Rakovcu, gde su stranački skupovi zakonom zabranjeni. Glavni tužilac Boban Nakić kaže da tužilaštvo ne prejudicira ničiju odgovornost.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-formiralo-predmet-zbog-skupa-sns-u-skoli-u-bujanovcu/",
+   "id": "v395"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Predstavnici Studentske liste sastaju se sa delegacijama Stejt departmenta SAD i Ambasade Italije",
+   "red": 40,
+   "sazetak": "Milana Pisarić, Dejan Radivojević, Dejan Šoškić i Igor Mikitišin razgovaraju sa Aleksandrom Titolom i delegacijom Stejt departmenta o vladavini prava i energetici, a Vladan Jovanović i Stanislav Milošević sa delegacijom Ambasade Italije. Lista poručuje da u međunarodnim odnosima želi „partnerstvo, a ne podaništvo”.",
+   "url": "https://studenti.org.rs/vesti/ita_usa/",
+   "id": "v398"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Poverenik o zahtevu za podatke o zaposlenima RTS-a: pristup samo u meri neophodnoj za pravo javnosti da zna",
+   "red": 40,
+   "sazetak": "Povodom zahteva studenata u blokadi za dokumentaciju o zaposlenima RTS-a, Poverenik za informacije od javnog značaja upozorava da bi otkrivanje podataka o ličnosti preko zakonske mere bilo kršenje Zakona o zaštiti podataka o ličnosti i da zahtev mora proći test javnog interesa.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6081634/radnici-rts-podaci-studenti-poverenik-informacije-od-javnog-znacaja.html",
+   "id": "v401"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Predstavnici Studentske liste posetili Kosovo i Metohiju",
+   "red": 35,
+   "sazetak": "Delegacija liste posetila je Gračanicu, Visoke Dečane i Prizren i razgovarala sa mitropolitom Teodosijem i igumanom Savom Janjićem o položaju građana na KiM. Lista navodi da im je potrebna sigurnost, institucionalna podrška i konkretna rešenja.",
+   "url": "https://studenti.org.rs/vesti/poseta_kim/",
+   "id": "v399"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Suđenje veteranima u Kraljevu: sud izdvojio snimke tajnog nadzora za koje odbrana tvrdi da ih je BIA nezakonito pribavila",
+   "red": 35,
+   "sazetak": "Viši sud u Kraljevu izdvojio je iz spisa snimke tajnog nadzora i dokaze proistekle iz njih u postupku protiv veterana Dragana Radića i Miloša Radenkovića; odbrana smatra da bi postupak sada mogao biti obustavljen.",
+   "url": "https://n1info.rs/vesti/sudjenje-veteranima-sud-izdvojio-prisluskivane-razgovore-za-koje-odbrana-tvrdi-da-ih-je-bia-nezakonito-pribavila/",
+   "id": "v402"
+  },
+  {
    "datum": "2026-11-11",
    "izvor": "VJT Beograd",
    "kategorija": "hapsenje",
@@ -42,6 +192,16 @@
    "sazetak": "Prema Insajderu, TOK je Macuri i firmama Alta holding, Alta lizing i Campari International zabranio raspolaganje imovinom, uključujući oko 35 ha građevinskog zemljišta bivšeg IMT-a na Novom Beogradu i lične nekretnine. Sud tek treba da odluči o privremenom oduzimanju imovine. TOK ovu meru nije saopštio na svom sajtu.",
    "url": "https://n1info.rs/vesti/insajder-tok-vlasniku-alta-banke-i-njegovim-firmama-zabranilo-raspolaganje-imovinom/",
    "id": "v377"
+  },
+  {
+   "datum": "2026-11-11",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Vučić: ignorisao bih predsedničke izbore; „Ujedinjena Srbija” predložiće Stojana Radenovića za predsednika Skupštine",
+   "red": 70,
+   "sazetak": "Bivši predsednik i nosilac liste „Ujedinjena Srbija” Aleksandar Vučić rekao je da ne vidi uslove za predsedničke izbore i da bi ih ignorisao, uz konačnu odluku stranačkih organa. Najavio je učešće na konsultacijama pred konstitutivnu sednicu i predlog Stojana Radenovića za predsednika Skupštine, a hapšenja policijskih funkcionera i postupanje prema „Milenijum timu” ocenio je kao politički motivisana.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6081145/vucic-konferencija-mediji-obracanje.html",
+   "id": "v397"
   },
   {
    "datum": "2026-11-11",
@@ -3956,6 +4116,35 @@
    "id": "h72"
   },
   {
+   "datum": "2026-11-12",
+   "izvori": [
+    "https://n1info.rs/vesti/uhapsena-gradonacelnica-smedereva/",
+    "https://www.rtv.rs/sr_lat/drustvo/uhapsena-gradonacelnica-smedereva-i-jos-dve-osobe-zbog-divlje-deponije_1758339.html",
+    "https://razglas-news.com/2026/11/12/uhapsena-gradonacelnica-smedereva-jasmina-vojinovic/"
+   ],
+   "naslov": "Uhapšena gradonačelnica Smedereva zbog nelegalnog odlaganja otpada",
+   "opis": "Po nalogu OJT u Smederevu uhapšeni su gradonačelnica Jasmina Vojinović (SNS), načelnica Gradske uprave i direktor JKP „Zelenilo i groblja”, zbog sumnje na krivično delo nepreduzimanje mera zaštite životne sredine. Tužilaštvo navodi da su posle zatvaranja gradske deponije krajem septembra otpad odlagali na smetlište bez dozvola. Određeno im je zadržavanje do 48 sati.",
+   "osobe": "Jasmina Vojinović · Ivana Mitrović Stamenković · Miroslav Ilić · JKP „Zelenilo i groblja” · OJT u Smederevu",
+   "red": 85,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h90"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/drustvo/6081620/direktor-goran-puzovic-srbijavode-ostavka.html",
+    "https://n1info.rs/vesti/goran-puzovic-podneo-neopozivu-ostavku-na-mesto-direktora-srbijavoda/"
+   ],
+   "naslov": "Direktor „Srbijavoda” Goran Puzović podneo neopozivu ostavku",
+   "opis": "Puzović, na čelu javnog preduzeća od 2012, podneo je ostavku navodeći pretnje porodici i upad u prostorije preduzeća; navodi da ne prihvata optužbe protiv sebe. Ekološka udruženja ranije su tražila njegovu smenu jer mu je mandat istekao 2021.",
+   "osobe": "Goran Puzović · „Srbijavode”",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "ostavka",
+   "id": "h91"
+  },
+  {
    "datum": "2026-11-11",
    "iznos": "14,1 mil. din",
    "izvori": [
@@ -5367,7 +5556,19 @@
    "id": "o19"
   }
  ],
- "funkcije": [],
+ "funkcije": [
+  {
+   "ime": "Stojan Radenović",
+   "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+   "napomena": "Profesor i najstariji poslanik, predsedava konstitutivnom sednicom do izbora predsednika; kandidaturu je 11. nov najavio Aleksandar Vučić, uz ocenu da je većina neće prihvatiti.",
+   "organ": "skupstina",
+   "red": 95,
+   "status": "predlozen",
+   "uloga": "Predsednik Narodne skupštine",
+   "url": "https://www.rts.rs/lat/vesti/politika/6081145/vucic-konferencija-mediji-obracanje.html",
+   "id": "f01"
+  }
+ ],
  "sednice": [
   {
    "datum": "2026-11-17",
