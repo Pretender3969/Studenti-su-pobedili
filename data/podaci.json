@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-12T15:26+00:00",
+ "generisano": "2026-11-12T15:27+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -69,7 +69,7 @@
    "kategorija": "korupcija",
    "naslov": "DRI: rukovodstvo MSK Kikinda plaćalo radnicima po 1.000 dinara za odlazak na mitinge SNS",
    "red": 60,
-   "sazetak": "Prema nalazu Državne revizorske institucije, o kome je pisao Danas, rukovodstvo državnog Metanolsko-sirćetnog kompleksa u Kikindi isplaćivalo je radnicima „stimulaciju” od 1.000 dinara za prisustvo skupovima SNS.",
+   "sazetak": "Prema nalazu Državne revizorske institucije, o kome je pisao Danas, izvršni odbor državnog Metanolsko-sirćetnog kompleksa u Kikindi (88% Srbijagas) isplatio je radnicima po 1.000 dinara „stimulacije” za odlazak na skupove SNS, ukupno 712.000 dinara, a dane skupova u 2025. tretirao kao radne dane (3,6 miliona dinara bruto). DRI je, prema Danasu, obavestila VJT u Novom Sadu i Agenciju za sprečavanje korupcije.",
    "url": "https://razglas-news.com/2026/11/12/rukovodstvo-preduzeca-iz-kikinde-placalo-1-000-dinara-radnicima-koji-su-isli-na-mitinge-sns/",
    "id": "v396"
   },
@@ -172,6 +172,16 @@
    "sazetak": "Viši sud u Kraljevu izdvojio je iz spisa snimke tajnog nadzora i dokaze proistekle iz njih u postupku protiv veterana Dragana Radića i Miloša Radenkovića; odbrana smatra da bi postupak sada mogao biti obustavljen.",
    "url": "https://n1info.rs/vesti/sudjenje-veteranima-sud-izdvojio-prisluskivane-razgovore-za-koje-odbrana-tvrdi-da-ih-je-bia-nezakonito-pribavila/",
    "id": "v402"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "NUNS traži hitno procesuiranje osobe koja preti Marku Vidojkoviću i Nenadu Kulačinu",
+   "red": 30,
+   "sazetak": "NUNS je osudio pretnje, uključujući pretnju seksualnim nasiljem, autorima emisije „Dobar, loš, zao” i zatražio od policije i tužilaštva da hitno identifikuju autora. Prema NUNS-u, ranije prijavljene pretnje Vidojkoviću nisu dobile sudski epilog.",
+   "url": "https://n1info.rs/vesti/nuns-hitno-identifikovati-i-procesuirati-osobu-koja-preti-marku-vidojkovicu-i-nenadu-kulacinu/",
+   "id": "v403"
   },
   {
    "datum": "2026-11-11",
@@ -4145,6 +4155,20 @@
    "id": "h91"
   },
   {
+   "datum": "2026-11-12",
+   "iznos": "≈ 4,3 mil. din.",
+   "izvori": [
+    "https://razglas-news.com/2026/11/12/rukovodstvo-preduzeca-iz-kikinde-placalo-1-000-dinara-radnicima-koji-su-isli-na-mitinge-sns/"
+   ],
+   "naslov": "DRI: MSK Kikinda plaćao radnike za odlazak na mitinge SNS",
+   "opis": "Revizija Državne revizorske institucije utvrdila je da je izvršni odbor MSK Kikinda (88% Srbijagas) odlukom od 17. novembra 2025. isplatio zaposlenima po 1.000 dinara za odlazak na mitinge SNS (ukupno 712.000 din.) i dane skupova u 2025. tretirao kao radne dane (3,6 mil. din. bruto). Nalaz prenose Danas i Razglas; DRI je obavestila VJT u Novom Sadu i Agenciju za sprečavanje korupcije.",
+   "osobe": "MSK Kikinda · Srbijagas · Državna revizorska institucija",
+   "red": 55,
+   "status": "zvanicno",
+   "tip": "otkrice",
+   "id": "h92"
+  },
+  {
    "datum": "2026-11-11",
    "iznos": "14,1 mil. din",
    "izvori": [
@@ -4170,10 +4194,13 @@
     "https://beograd.vjt.rs/aktuelnosti/reagovanje-povodom-izvestaja-komisije/",
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1491/",
     "https://n1info.rs/vesti/sef-beogradskog-vjt-stefanovic-podneo-krivicnu-prijavu-protiv-tuzioca-ilica-iz-vrhovnog-tuzilastva/",
-    "https://beograd.vjt.rs/aktuelnosti/tendenciozni-zakljucci-komisije/"
+    "https://beograd.vjt.rs/aktuelnosti/tendenciozni-zakljucci-komisije/",
+    "https://beograd.vjt.rs/aktuelnosti/disciplinska-prijava-protiv-branka-stamenkovica/",
+    "https://www.rts.rs/lat/vesti/drustvo/6081804/udruzenje-tuzilaca-srbije.html",
+    "https://www.rts.rs/lat/vesti/politika/6081630/ministarstvo-pravde-izvestaj-komisije-vrhovnog-tuzilastva-iz-vise-razloga.html"
    ],
    "naslov": "Komisija Vrhovnog javnog tužilaštva: osnovi sumnje protiv glavnog tužioca VJT u Beogradu, izveštaj prosleđen JTOK-u",
-   "opis": "Komisija formirana 27. oktobra utvrdila je u prvom izveštaju (od 9. nov) sistemske nepravilnosti u predmetima „zvučni top”, pretres Filozofskog fakulteta i Rektorata, pomilovanja, „Vista Rica”, povređivanje studenata i napad kod FDU. Predloženi su krivični i disciplinski postupci, postupak za razrešenje i udaljenje glavnog tužioca Nenada Stefanovića i zamenika Miodraga Markovića, a dokumentacija je upućena JTOK-u. VJT u Beogradu odbacuje navode kao neutemeljene i osporava sastav Komisije. 10. nov: Stefanović je TOK-u podneo krivičnu prijavu protiv predsednika Komisije Gorana Ilića zbog zloupotrebe službenog položaja i ometanja pravde, tvrdeći da ga je Ilić 30. oktobra pozvao na ostavku.",
+   "opis": "Komisija formirana 27. oktobra utvrdila je u prvom izveštaju (od 9. nov) sistemske nepravilnosti u predmetima „zvučni top”, pretres Filozofskog fakulteta i Rektorata, pomilovanja, „Vista Rica”, povređivanje studenata i napad kod FDU. Predloženi su krivični i disciplinski postupci, postupak za razrešenje i udaljenje glavnog tužioca Nenada Stefanovića i zamenika Miodraga Markovića, a dokumentacija je upućena JTOK-u. VJT u Beogradu odbacuje navode kao neutemeljene i osporava sastav Komisije. 10. nov: Stefanović je TOK-u podneo krivičnu prijavu protiv predsednika Komisije Gorana Ilića zbog zloupotrebe službenog položaja i ometanja pravde, tvrdeći da ga je Ilić 30. oktobra pozvao na ostavku. 12. nov: Stefanović podneo disciplinsku prijavu protiv člana Komisije Branka Stamenkovića; Udruženje tužilaca traži utvrđivanje individualne odgovornosti, a Ministarstvo pravde u tehničkom mandatu dovodi izveštaj u pitanje.",
    "osobe": "Nenad Stefanović · Miodrag Marković · Vrhovno javno tužilaštvo · JTOK · VJT u Beogradu",
    "red": 88,
    "status": "zvanicno",
@@ -4188,10 +4215,11 @@
     "https://www.rts.rs/lat/vesti/drustvo/6080942/milenijum-tim-denjub-riversajd-hapsenje-demanti.html",
     "https://razglas-news.com/2026/11/10/izdat-nalog-za-hapsenje-vlasnika-kompanije-milenijum-tim-ivana-bosnjaka-i-stojana-vujka/",
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1492/",
-    "https://n1info.rs/vesti/slucaj-milenijum-tim-tuzilastvo-nalozilo-hapsenja-advokati-zatrazili-izuzece-tuzilaca-ceka-se-nenad-stefanovic/"
+    "https://n1info.rs/vesti/slucaj-milenijum-tim-tuzilastvo-nalozilo-hapsenja-advokati-zatrazili-izuzece-tuzilaca-ceka-se-nenad-stefanovic/",
+    "https://trece.ojt.rs/aktuelnosti/27156/"
    ],
    "naslov": "Treće OJT: istraga zbog gradnje bez dozvole na lokaciji Hotela „Jugoslavija”, naloženo privođenje čelnika investitora",
-   "opis": "Treće osnovno javno tužilaštvo u Beogradu vodi istragu zbog sumnje na građenje bez građevinske dozvole (čl. 219a KZ) na lokaciji nekadašnjeg Hotela „Jugoslavija” i naložilo je policiji lišenje slobode trojice odgovornih iz „Milenijum tima” i „Denjub Riversajda”. Osumnjičeni su podneli zahteve za izuzeće tužilaca i veštaka. Ministarstvo građevinarstva je 10. nov odbacilo kao nepotpun zahtev za dozvolu za prvu fazu. Kompanija tvrdi da trojica nisu uhapšena niti zadržana, već su dali izjavu policiji i pušteni. 11. nov: VJT u Beogradu saopštilo je da je zatražilo spise i izjašnjenje glavnog tužioca Trećeg OJT povodom zahteva S.V. za njegovo izuzeće i da će odlučiti u najkraćem roku.",
+   "opis": "Treće osnovno javno tužilaštvo u Beogradu vodi istragu zbog sumnje na građenje bez građevinske dozvole (čl. 219a KZ) na lokaciji nekadašnjeg Hotela „Jugoslavija” i naložilo je policiji lišenje slobode trojice odgovornih iz „Milenijum tima” i „Denjub Riversajda”. Osumnjičeni su podneli zahteve za izuzeće tužilaca i veštaka. Ministarstvo građevinarstva je 10. nov odbacilo kao nepotpun zahtev za dozvolu za prvu fazu. Kompanija tvrdi da trojica nisu uhapšena niti zadržana, već su dali izjavu policiji i pušteni. 11. nov: VJT u Beogradu saopštilo je da je zatražilo spise i izjašnjenje glavnog tužioca Trećeg OJT povodom zahteva S.V. za njegovo izuzeće i da će odlučiti u najkraćem roku. 12. nov: odbrana podnela novu dopunu zahteva za izuzeće; Treće OJT ocenjuje da se postupak odugovlači i traži od VJT hitnu odluku.",
    "osobe": "Stojan Vujko · Ivan Bošnjak · Andreja Đulić · „Milenijum tim” · „Denjub Riversajd” · Treće OJT u Beogradu",
    "red": 78,
    "status": "zvanicno",
@@ -5536,9 +5564,9 @@
    "id": "o17"
   },
   {
-   "azurirano": "2026-11-07",
+   "azurirano": "2026-11-12",
    "datum": "2026-11-07",
-   "napomena": "Izjava kandidata za RTS.",
+   "napomena": "Izjava kandidata za RTS. 12. nov: predstavnici liste posetili Gračanicu, Visoke Dečane i Prizren i razgovarali sa mitropolitom Teodosijem i igumanom Savom Janjićem.",
    "naslov": "Pomoć Srbima na Kosovu bez političkih uslova",
    "opis": "Finansijska pomoć Srbima na Kosovu biće nastavljena i proširena, ali bez političkih uslova, rekao je kandidat Jugoslav Gašić. Najavio je i preispitivanje dogovorenog Briselskim i drugim sporazumima.",
    "status": "najavljeno",
