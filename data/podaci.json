@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-12T15:27+00:00",
+ "generisano": "2026-11-13T06:47+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -105,6 +105,16 @@
   },
   {
    "datum": "2026-11-12",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Reljanović i Čupić predstavljaju Studentsku listu na konsultacijama pred konstitutivnu sednicu",
+   "red": 50,
+   "sazetak": "Mario Reljanović i Aleksandar Čupić učestvuju 13. novembra na konsultativnom sastanku sa predstavnicima ostalih lista u novom sazivu. Studentska lista navodi da će razgovarati samo o tehničkim pitanjima (raspored sedenja, dnevni red, predsedavanje), bez političkih dogovora, i da će javnost obavestiti o dogovorenom.",
+   "url": "https://studenti.org.rs/vesti/ne_pregovor/",
+   "id": "v404"
+  },
+  {
+   "datum": "2026-11-12",
    "izvor": "Treće OJT",
    "kategorija": "institucije",
    "naslov": "„Milenijum tim”: odbrana podnela dopunu zahteva za izuzeće tužilaca, postupak zastao",
@@ -122,6 +132,16 @@
    "sazetak": "Prema Studentskoj listi, oštećeni su 10. novembra u policiji prepoznali napadače sa izbornog dana, među njima Aleksandra Tošića i Zorana Ljubića, brata predsednika opštine, ali OJT u Nišu nije tražilo pritvor. Lista navodi da je zastrašivanje svedoka nastavljeno i traži objašnjenje zašto se slučaj tretira blaže od napada na mobilni tim u Nišu.",
    "url": "https://studenti.org.rs/vesti/doljevac_napad/",
    "id": "v400"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "N1 / FoNet",
+   "kategorija": "program",
+   "naslov": "Sanja Fric: plan je hitno formiranje nezavisne komisije za reviziju javnih investicija",
+   "red": 45,
+   "sazetak": "Buduća poslanica Studentske liste rekla je da bi komisija pregledala sve kapitalne infrastrukturne projekte i predložila nastavak, izmenu ili obustavu, kao i da treba preispitati projekte po leks specijalisima i razmotriti ukidanje tog okvira. Revizija Ekspa počela bi od ugovora koji, kako navodi, nemaju suštinske veze sa izložbom (oko 18 mlrd. evra).",
+   "url": "https://n1info.rs/vesti/fric-plan-je-hitno-formiranje-komisije-za-reviziju-javnih-investicija/",
+   "id": "v408"
   },
   {
    "datum": "2026-11-12",
@@ -155,6 +175,16 @@
   },
   {
    "datum": "2026-11-12",
+   "izvor": "N1 / Studenti",
+   "kategorija": "institucije",
+   "naslov": "Ministarstvo finansija: dokument o oduzimanju penzija zbog podrške protestima je lažan",
+   "red": 40,
+   "sazetak": "Ministarstvo finansija saopštilo je da nije izradilo dokument u kom se preti uskraćivanjem penzija i zatvorskim kaznama i da su svi penzioneri primili oktobarsku penziju. Studentska lista traži od policije i tužilaštva da utvrde ko je dokument sačinio i širio, i pita zašto je Banka Poštanska štedionica Pošti uplatila samo polovinu sredstava za isplatu penzija.",
+   "url": "https://n1info.rs/vesti/ministarstvo-finansija-demantuje-navode-o-oduzimanju-penzija-zbog-podrske-protestima-dokument-je-lazan/",
+   "id": "v405"
+  },
+  {
+   "datum": "2026-11-12",
    "izvor": "Studenti",
    "kategorija": "program",
    "naslov": "Predstavnici Studentske liste posetili Kosovo i Metohiju",
@@ -182,6 +212,76 @@
    "sazetak": "NUNS je osudio pretnje, uključujući pretnju seksualnim nasiljem, autorima emisije „Dobar, loš, zao” i zatražio od policije i tužilaštva da hitno identifikuju autora. Prema NUNS-u, ranije prijavljene pretnje Vidojkoviću nisu dobile sudski epilog.",
    "url": "https://n1info.rs/vesti/nuns-hitno-identifikovati-i-procesuirati-osobu-koja-preti-marku-vidojkovicu-i-nenadu-kulacinu/",
    "id": "v403"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "N1 / Danas",
+   "kategorija": "institucije",
+   "naslov": "Studenti u Novom Pazaru prijavili dvojicu predsednika sudova zbog prisustva skupu SNS",
+   "red": 30,
+   "sazetak": "Studenti u blokadi DUNP podneli su disciplinskom tužiocu Visokog saveta sudstva prijavu protiv v.f. predsednika Osnovnog suda Predraga Živkovića i predsednika Prekršajnog suda Jasmina Divanefendića, koji su 11. oktobra bili na predizbornom skupu SNS u Novom Pazaru.",
+   "url": "https://n1info.rs/vesti/prijava-protiv-sudija-zbog-ucesca-na-skupu-sns-u-novom-pazaru/",
+   "id": "v406"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "N1 / Nova",
+   "kategorija": "program",
+   "naslov": "Radonjić Živkov: Generalštabu hitno vratiti status kulturnog dobra",
+   "red": 30,
+   "sazetak": "Kandidatkinja Studentske liste i konzervatorka Estela Radonjić Živkov rekla je da je prioritet da Generalštab ponovo dobije pun status kulturnog dobra, putem odluke Ustavnog suda ili Skupštine, i da će služba zaštite predložiti da bude utvrđen kao kulturno dobro od izuzetnog značaja.",
+   "url": "https://n1info.rs/vesti/kandidatkinja-studentske-liste-radonjic-zivkov-objasnjava-kakav-je-plan-buduce-vlasti-za-generalstab/",
+   "id": "v409"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "N1 / RTS",
+   "kategorija": "institucije",
+   "naslov": "Ambasador Rusije Bocan-Harčenko sastao se sa Šoškićem i Krmarom iz Studentske liste",
+   "red": 25,
+   "sazetak": "Prema saopštenju Ambasade Rusije, razgovaralo se o razvoju rusko-srpskih odnosa i saradnji na međunarodnim forumima, uz potvrdu ruskog stava o Kosovu. Istog dana predstavnici liste sastali su se i sa pomoćnikom državnog sekretara SAD Brendanom Hanrahanom.",
+   "url": "https://n1info.rs/vesti/bocan-harcenko-sa-predstavnicima-studentske-liste-o-odnosima-dve-zemlje/",
+   "id": "v407"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Razglas / Beta",
+   "kategorija": "institucije",
+   "naslov": "Predsednik Skupštine opštine Ivanjica Dragovan Milinković (SPS) podneo ostavku",
+   "red": 20,
+   "sazetak": "Ostavka je zavedena u opštinskoj pisarnici 12. novembra, a Milinković ju je potvrdio portalu Info liga. Lokalna opozicija ocenjuje da ostavka nije dovoljna.",
+   "url": "https://razglas-news.com/2026/11/12/predsednik-skupstine-opstine-ivanjica-dragovan-milinkovic-sps-podneo-ostavku/",
+   "id": "v410"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Razglas / Zborovi Novog Sada",
+   "kategorija": "institucije",
+   "naslov": "Zborovi Novog Sada: Pokrajinska vlada tri dana posle izbora tražila saglasnost za zapošljavanje 106 osoba",
+   "red": 20,
+   "sazetak": "Prema dokumentu koji su objavili zborovi, Pokrajinska vlada je 28. oktobra donela predlog za zapošljavanje 106 osoba na neodređeno u 29 organa i ustanova, ali republička komisija nije dala saglasnost. Pokrajinska vlada je istog dana odbacila ranije navode zborova o preplaćenim službenim putovanjima Maje Gojković.",
+   "url": "https://razglas-news.com/2026/11/12/zborovi-gradana-novog-sada-pokrajinska-vlada-nije-dobila-odobrenje-za-zaposljavanje-106-novih-radnika/",
+   "id": "v411"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "RIK / N1",
+   "kategorija": "izbori",
+   "naslov": "RIK utvrdio rezultate izbora za nacionalne savete 18 manjina; glasanje se ponavlja na pet mesta",
+   "red": 20,
+   "sazetak": "Republička izborna komisija usvojila je izveštaj o ukupnim rezultatima izbora za nacionalne savete 18 nacionalnih manjina. Nepravilnosti nisu utvrđene, ali je glasanje poništeno na četiri biračka mesta i ponavlja se na ukupno pet.",
+   "url": "https://n1info.rs/vesti/rik-utvrdio-rezultate-izbora-za-18-nacionalnih-manjina-glasanje-se-ponavlja-na-pet-birackih-mesta/",
+   "id": "v412"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "N1 / Newsmax Balkans",
+   "kategorija": "institucije",
+   "naslov": "Nenad Stefanović: tužilaštvo nije našlo materijalne dokaze o upotrebi zvučnog topa 15. marta",
+   "red": 15,
+   "sazetak": "Glavni tužilac VJT u Beogradu, protiv kog je Komisija Vrhovnog javnog tužilaštva utvrdila osnove sumnje, rekao je da posle godinu i po dana nema materijalnih dokaza o upotrebi zvučnog oružja na protestu 15. marta 2025. i da je zvuk aviona na pojedinim snimcima naknadno ubačen.",
+   "url": "https://n1info.rs/vesti/nenad-stefanovic-nema-dokaza-da-je-15-marta-koriscen-zvucni-top/",
+   "id": "v413"
   },
   {
    "datum": "2026-11-11",
@@ -5423,9 +5523,9 @@
    "id": "o02"
   },
   {
-   "azurirano": "2026-11-03",
+   "azurirano": "2026-11-12",
    "datum": "2026-10-29",
-   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje. 2. nov: studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej (≈ 300 mil. €) dok se ne ispitaju ugovori i dozvole; Kuzmanović (RTV) najavio proveru svih aktuelnih infrastrukturnih projekata.",
+   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje. 2. nov: studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej (≈ 300 mil. €) dok se ne ispitaju ugovori i dozvole; Kuzmanović (RTV) najavio proveru svih aktuelnih infrastrukturnih projekata. 12. nov: Sanja Fric najavila hitno formiranje nezavisne komisije za reviziju javnih investicija, počev od ugovora u okviru Ekspa.",
    "naslov": "Preispitivanje svih ugovora i javnih nabavki",
    "opis": "U skladu sa zakonom, posle formiranja vlasti.",
    "status": "najavljeno",
@@ -5515,9 +5615,9 @@
    "id": "o12"
   },
   {
-   "azurirano": "2026-10-31",
+   "azurirano": "2026-11-12",
    "datum": "2026-10-30",
-   "napomena": "Najavio kandidat Vladan Kuzmanović.",
+   "napomena": "Najavio kandidat Vladan Kuzmanović. 12. nov: Sanja Fric rekla je da treba preispitati sve projekte po leks specijalisima i razmotriti ukidanje tog zakonskog okvira.",
    "naslov": "Suspenzija leks specijalisa u građevinarstvu",
    "opis": "Suspendovati posebne zakone (leks specijalise) ili ih uskladiti sa važećim propisima; kratkoročne mere u roku od 6–12 meseci.",
    "status": "najavljeno",
@@ -5582,6 +5682,16 @@
    "status": "najavljeno",
    "url": "https://studenti.org.rs/vesti/stabil_privreda/",
    "id": "o19"
+  },
+  {
+   "azurirano": "2026-11-12",
+   "datum": "2026-11-12",
+   "napomena": "Najavila kandidatkinja Estela Radonjić Živkov (Nova.rs / N1); vlada još nije formirana.",
+   "naslov": "Vraćanje statusa kulturnog dobra Generalštabu",
+   "opis": "Generalštabu vratiti pun status kulturnog dobra (odlukom Ustavnog suda ili Skupštine) i predložiti njegovo utvrđivanje za kulturno dobro od izuzetnog značaja.",
+   "status": "najavljeno",
+   "url": "https://n1info.rs/vesti/kandidatkinja-studentske-liste-radonjic-zivkov-objasnjava-kakav-je-plan-buduce-vlasti-za-generalstab/",
+   "id": "o20"
   }
  ],
  "funkcije": [
