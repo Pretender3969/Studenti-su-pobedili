@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-14T15:09+00:00",
+ "generisano": "2026-11-14T21:01+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -45,6 +45,36 @@
   },
   {
    "datum": "2026-11-14",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Vučić izabran za šefa poslaničke grupe liste „Ujedinjena Srbija”",
+   "red": 75,
+   "sazetak": "Aleksandar Vučić izjavio je za TV Pink da je na sednici poslaničke grupe liste „Ujedinjena Srbija” izabran za njenog šefa u Skupštini Srbije. Naziv grupe još nije određen, a pomenuo je i „Srbija protiv terora”. Najavio je da će grupa biti „borbena”, ali da će se ponašati pristojno.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083766/aleksandar-vucic-skupstina-sef-poslanicke-grupe.html",
+   "id": "v431"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Gde je Milan Radoičić: sud mu zabranio napuštanje Srbije, bivši inspektor BIA tvrdi da je u Rusiji",
+   "red": 65,
+   "sazetak": "Milanu Radoičiću, protiv koga se u Beogradu vodi postupak zbog oružanog napada u Banjskoj, oduzet je pasoš i zabranjeno napuštanje zemlje. Bivši inspektor BIA rekao je za N1 da, prema nezvaničnim saznanjima, Radoičić boravi u Rusiji. Državne institucije to nisu potvrdile, a Viši sud je odgovorio samo o merama koje su mu određene.",
+   "url": "https://n1info.rs/vesti/gde-je-milan-radoicic/",
+   "id": "v435"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Studentska lista: subvencije poljoprivrednicima moraju da se isplate, tehnički mandat ne oslobađa Vladu odgovornosti",
+   "red": 55,
+   "sazetak": "U saopštenju na sajtu Studenti pobeđuju Studentska lista traži da se ranije donete odluke sprovedu i da se obaveze prema poljoprivrednicima isplate po utvrđenom kalendaru. To je odgovor na izjavu ministra Dragana Glamočića da nema novca za drugi deo direktnih davanja po hektaru.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083800/studentska-lista-subvencije-poljoprivrednicima-moraju-da-se-isplacuju-tehnicki-mandat-vladu-ne-oslobadja-odgovornosti.html",
+   "id": "v433"
+  },
+  {
+   "datum": "2026-11-14",
    "izvor": "RTS / Razglas",
    "kategorija": "korupcija",
    "naslov": "Kekić (BPŠ): posle izbora sprečeno povlačenje oko dve milijarde dinara",
@@ -62,6 +92,46 @@
    "sazetak": "Prema dokumentaciji Poreske uprave na koju se poziva Radar, Pink medija grupa je 3. novembra dugovala 208,1 milion dinara, najviše po osnovu poreza na dobit. Iz Pinka su 9. novembra rekli da im je dug nula, ne navodeći kada je izmiren; Poreska uprava nije odgovorila.",
    "url": "https://razglas-news.com/2026/11/14/pink-dugovao-za-poreze-oko-18-miliona-evra/",
    "id": "v424"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Stejt department posle sastanka sa Studentskom listom: kriminalne mreže sa Zapadnog Balkana pretnja i za SAD",
+   "red": 45,
+   "sazetak": "Biro Stejt departmenta za borbu protiv narkotika i sprovođenje zakona (INL) saopštio je da su se njegovi predstavnici u Beogradu, zajedno sa pomoćnikom državnog sekretara Brendanom Hanrahanom, sastali sa predstavnicima Studentskog pokreta i Studentske liste. U objavi se navodi da kriminalne mreže sa Zapadnog Balkana predstavljaju pretnju i za Amerikance.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083936/stejt-department-studentska-lista-sastanak.html",
+   "id": "v432"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "N1 / Cenzolovka",
+   "kategorija": "bezbednost",
+   "naslov": "Radić iz egzila: u noći izbora se pripremao državni udar, ali se sve „u sekundi promenilo”",
+   "red": 40,
+   "sazetak": "Vojni analitičar Aleksandar Radić, koji četiri meseca živi van Srbije, tvrdi u intervjuu za Cenzolovku da je imao informacije da se u noći izbora pripremao državni udar. Navodi i da pritisci na njega traju i posle izbora, a tužilaštvo je najavilo proveru njegovih kontakata sa novinarima. Ove tvrdnje nijedan nadležni organ nije potvrdio.",
+   "url": "https://n1info.rs/vesti/radic-u-noci-izbora-se-pripremao-drzavni-udar-ali-se-sve-u-sekundi-promenilo/",
+   "id": "v436"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "RTS",
+   "kategorija": "korupcija",
+   "naslov": "Ekološki ustanak traži hitnu reviziju svih ugovora gradske vlasti u Beogradu",
+   "red": 35,
+   "sazetak": "Odbornik Ekološkog ustanka Aleksandar Stevanović ocenio je da zbog teške finansijske situacije grada treba hitno revidirati sve ugovore koje je zaključila gradska vlast. Traži i preispitivanje ugovora javnih preduzeća i ustanova iz perioda vlasti SNS-a, posebno javnih nabavki.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083710/ekoloski-ustanak-trazi-hitnu-reviziju-svih-ugovora-koje-je-zakljucivala-gradska-vlast-u-beogradu.html",
+   "id": "v434"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "Razglas",
+   "kategorija": "korupcija",
+   "naslov": "Pokret Bravo o SNP-u: sporne nabavke, 200.000 evra za operu i politički angažman Željka Andrića",
+   "red": 35,
+   "sazetak": "Građanski pokret Bravo ocenjuje da su posle ostavke upravnice Srpskog narodnog pozorišta ostala otvorena pitanja javnih nabavki i trošenja novca. Navodi da je za novu produkciju „Carska nevesta” planirano 200.000 evra, dok su ranije produkcije koštale oko 45.000 evra, i ukazuje na politički angažman novog v.d. upravnika Željka Andrića. Reč je o navodima pokreta.",
+   "url": "https://razglas-news.com/2026/11/14/pokret-bravo-o-snp-u-sporne-nabavke-200-000-evra-za-operu-i-politicki-angazman-zeljka-andrica/",
+   "id": "v437"
   },
   {
    "datum": "2026-11-14",
