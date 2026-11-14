@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-13T06:47+00:00",
+ "generisano": "2026-11-14T15:08+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -23,6 +23,146 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-14",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Raskid ugovora sa Kušnerovom firmom za Generalštab bez međusobnih potraživanja, formalizacija sledeće nedelje",
+   "red": 80,
+   "sazetak": "Ministarstvo građevinarstva potvrdilo je RTS-u da je Vlada u avgustu donela zaključak o raskidu ugovora sa „Atlantic Incubation Partners” i da nacrt raskida predviđa prestanak svih međusobnih potraživanja. Ugovor o raskidu je u formalizaciji, završetak se očekuje početkom naredne nedelje. Prvi je o tome izvestio nedeljnik Vreme.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083647/mgsi-raskidom-ugovora-sa-kusnerovom-firmom-o-generalstabu-nece-biti-potrazivanja-formalizacija-sledece-nedelje-.html",
+   "id": "v416"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "Radar",
+   "kategorija": "korupcija",
+   "naslov": "Radar: kineskim izvođačima na pruzi vraćeno oko 150 miliona evra PDV-a, sumnja na fiktivne fakture",
+   "red": 75,
+   "sazetak": "Prema Radaru, kineskim kompanijama, podizvođačima i dobavljačima na deonicama Beograd – Stara Pazova i Novi Sad – Kelebija Poreska uprava je od 2020. do 2025. vratila 17,6 milijardi dinara PDV-a. Radar navodi indicije o fiktivnim fakturama i nezakonitim povraćajima odobravanim i posle kontrola; nadležni organi to nisu potvrdili.",
+   "url": "https://radar.nova.rs/ekonomija/fiktivnim-fakturama-drzavu-ostetili-za-milione/",
+   "id": "v417"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "RTS / Razglas",
+   "kategorija": "korupcija",
+   "naslov": "Kekić (BPŠ): posle izbora sprečeno povlačenje oko dve milijarde dinara",
+   "red": 50,
+   "sazetak": "Predsednik Izvršnog odbora Banke Poštanska štedionica Bojan Kekić rekao je za RTS da je 27. oktobra jedno državno preduzeće nameravalo da prebaci milijardu dinara u drugu banku, a da je privatni klijent sa članom porodice tražio da odmah podigne oko 1,1 milijardu dinara u devizama, što nije odobreno.",
+   "url": "https://razglas-news.com/2026/11/14/predsednik-izvrsnog-odbora-banke-postanske-stedionice-kaze-da-je-spreceno-povlacenje-dve-milijarde-dinara/",
+   "id": "v423"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "Radar / Razglas",
+   "kategorija": "mediji",
+   "naslov": "Radar: Pink medija grupa dugovala oko 1,8 miliona evra poreza; Pink tvrdi da duga nema",
+   "red": 45,
+   "sazetak": "Prema dokumentaciji Poreske uprave na koju se poziva Radar, Pink medija grupa je 3. novembra dugovala 208,1 milion dinara, najviše po osnovu poreza na dobit. Iz Pinka su 9. novembra rekli da im je dug nula, ne navodeći kada je izmiren; Poreska uprava nije odgovorila.",
+   "url": "https://razglas-news.com/2026/11/14/pink-dugovao-za-poreze-oko-18-miliona-evra/",
+   "id": "v424"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Reljanović i studenti sa poslanikom Evropskog parlamenta iz grupe Levica",
+   "red": 30,
+   "sazetak": "Na poziv Centra za politike emancipacije, kandidat Mario Reljanović i studenti sastali su se sa poslanikom Evropskog parlamenta iz grupe Levica i Pokreta pet zvezda o situaciji u Srbiji i evropskim integracijama.",
+   "url": "https://studenti.org.rs/vesti/ep_bg/",
+   "id": "v427"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "VJT u Nišu: uhapšeno sedam policajaca PU Bor zbog mučenja osumnjičenih u slučaju Danke Ilić",
+   "red": 85,
+   "sazetak": "Po nalogu Višeg javnog tužilaštva u Nišu uhapšeno je sedam službenika PU Bor zbog sumnje na tešku telesnu povredu i zlostavljanje i mučenje Srđana Jankovića i Dejana Dragijevića dok su bili lišeni slobode. Određeno im je zadržavanje do 48 sati. Tužilaštvo navodi da Sektor unutrašnje kontrole MUP-a ranije nije postupao po njegovim nalozima za hapšenje.",
+   "url": "https://n1info.rs/vesti/vjt-u-nisu-uhapsena-sedmorica-policajaca-iz-bora-zbog-mucenja-osumnjicenih-za-ubistvo-danke-ilic/",
+   "id": "v415"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Konsultacije pred konstitutivnu sednicu: Studentska lista traži nastavak sednice odmah posle verifikacije mandata",
+   "red": 80,
+   "sazetak": "Reljanović i Čupić (Studentska lista), Brnabić i Jovanov (Ujedinjena Srbija) i predstavnici manjinskih lista održali su konsultacije u Skupštini. Sve liste su se složile da glasanje bude javno; predsednik i potpredsednici Skupštine biraće se većinom, a odbori će imati sastav srazmeran poslaničkim grupama. Brnabić i Jovanov ocenili su da je „revolucionarni teror došao u Skupštinu”.",
+   "url": "https://studenti.org.rs/vesti/izvesta_konsultacija/",
+   "id": "v414"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "Treće OJT",
+   "kategorija": "institucije",
+   "naslov": "„Hotel Jugoslavija”: glavna tužiteljka Trećeg OJT izuzeta, predmet prenet Prvom OJT",
+   "red": 65,
+   "sazetak": "Više javno tužilaštvo u Beogradu usvojilo je zahtev odbrane i izuzelo glavnu javnu tužiteljku Ivanu Stojiljković Pomorišku iz predmeta o radovima na lokaciji Hotela „Jugoslavija”, a postupanje poverilo Prvom OJT. Treće OJT navodi da glavna tužiteljka nije preduzela nijednu radnju u predmetu i ocenjuje odluku kao nezakonitu.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27240/",
+   "id": "v421"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Studentska lista u Kragujevcu: posle izbora poslat veliki broj zahteva za zapošljavanje na neodređeno",
+   "red": 55,
+   "sazetak": "Na konferenciji u Kragujevcu Studentska lista je saopštila da su posle izbora ministarstvima upućeni brojni zahtevi za saglasnost za zapošljavanje u gradskoj upravi i javnim preduzećima. Najavila je insistiranje na odgovornosti i zapošljavanje isključivo putem javnih konkursa.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083377/studentska-lista-u-kragujevcu-upozorila-na-veliki-broj-zahteva-za-zaposljavanje-posle-izbora.html",
+   "id": "v419"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "RTS",
+   "kategorija": "korupcija",
+   "naslov": "Krivična prijava zbog ugovora sa „Pauer Čajnom” o novom i uklanjanju Starog savskog mosta",
+   "red": 55,
+   "sazetak": "Advokat Rastko Naumov iz udruženja „Beograd ostaje” podneo je krivičnu prijavu protiv odgovornih u Direkciji za građevinsko zemljište i izgradnju Beograda i u Vladi Srbije zbog sumnje na zloupotrebu službenog položaja i nesavestan rad. Ugovor iz decembra 2020. sa aneksima nije dostupan javnosti.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6082637/krivicna-prijava-zbog-ugovora-o-izgradnji-novog-i-uklanjanju-starog-savskog-mosta.html",
+   "id": "v420"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "Razglas / BPŠ",
+   "kategorija": "institucije",
+   "naslov": "Počela isplata osiguranih depozita Alta banke, termin zakazalo 17.193 deponenata",
+   "red": 55,
+   "sazetak": "Banka Poštanska štedionica isplatila je 13. novembra sve klijente Alta banke u stečaju sa zakazanim terminom, sredstvima Agencije za osiguranje depozita; zbog tehničkih problema radno vreme je produženo, a poslednji klijent isplaćen je u 23.47. Isplata se nastavlja 14. novembra.",
+   "url": "https://razglas-news.com/2026/11/14/nastavlja-se-isplata-klijentima-alta-banke-u-stecaju-termin-do-sada-zakazalo-17-193-deponenata/",
+   "id": "v422"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Vlada u tehničkom mandatu odobrila NIS-u do 66.000 tona nafte iz državnih rezervi",
+   "red": 50,
+   "sazetak": "Odluka je doneta na zahtev NIS-a zbog prekida dotoka sirove nafte usled oštećenja naftovoda JANAF, kako bi Rafinerija Pančevo nastavila rad i tržište bilo redovno snabdeveno.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083322/-vlada-u-tehnickom-mandatu-odobrila-nis-u-do-66000-tona-nafte-iz-drzavnih-rezervi.html",
+   "id": "v418"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu odgovara na izveštaj Komisije Vrhovnog tužilaštva; član Komisije Stamenković: pojedine radnje „potpuno suprotne zakonu”",
+   "red": 50,
+   "sazetak": "Više javno tužilaštvo u Beogradu objavilo je saopštenje „Rezultati rada – odgovor na neosnovane napade”, tvrdeći da je najefikasnije tužilaštvo u zemlji i najavljujući odgovor na izveštaj Komisije. Član Komisije Branko Stamenković rekao je za Danas da je u pojedinim predmetima VJT sled radnji bio suprotan zakonu i pravilima struke.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/rezultati-rada-odgovor-na-neosnovane-napade/",
+   "id": "v425"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista se sastala sa predstavnicima ambasada Kanade i Egipta",
+   "red": 30,
+   "sazetak": "Kandidati Studentske liste sastali su se sa zamenicom ambasadorke Kanade Ešli Durek i sa delegacijom ambasade Egipta. Lista navodi da će javnost redovno obaveštavati o svim susretima.",
+   "url": "https://studenti.org.rs/vesti/kanada_delegacija/",
+   "id": "v426"
+  },
   {
    "datum": "2026-11-12",
    "izvor": "N1",
@@ -4201,10 +4341,11 @@
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6079105/brnabic-konstitutivna-sednica-17-novembra-u-10-casova.html",
     "https://www.rtv.rs/sr_lat/politika/brnabic-konstitutivna-sednica-17.-novembra-od-10-sati-sest-tacaka-dnevnog-reda_1757273.html",
-    "https://n1info.rs/vesti/ana-brnabic-sednica-skupstine-17-novembra/"
+    "https://n1info.rs/vesti/ana-brnabic-sednica-skupstine-17-novembra/",
+    "https://studenti.org.rs/vesti/izvesta_konsultacija/"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine novog saziva",
-   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović.",
+   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović. 13. nov: na konsultacijama sve liste su se složile da glasanje bude javno; Studentska lista je zatražila da se sednica nastavi odmah posle verifikacije mandata.",
    "osobe": "Ana Brnabić · Stojan Radenović · Narodna skupština",
    "red": 95,
    "status": "najavljeno",
@@ -4212,16 +4353,60 @@
    "id": "h82"
   },
   {
+   "datum": "2026-11-14",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6083647/mgsi-raskidom-ugovora-sa-kusnerovom-firmom-o-generalstabu-nece-biti-potrazivanja-formalizacija-sledece-nedelje-.html",
+    "https://n1info.rs/vesti/vreme-raskinut-ugovor-sa-kusnerovom-firmom-za-generalstab-nema-medjusobnih-potrazivanja/"
+   ],
+   "naslov": "Ministarstvo potvrdilo raskid ugovora za Generalštab bez međusobnih potraživanja",
+   "opis": "Ministarstvo građevinarstva, saobraćaja i infrastrukture potvrdilo je da je Vlada u avgustu donela zaključak o raskidu ugovora sa firmom Džareda Kušnera „Atlantic Incubation Partners” za Generalštab, uz prestanak svih međusobnih potraživanja. Ugovor o raskidu je u formalizaciji, očekuje se početkom naredne nedelje.",
+   "osobe": "Ministarstvo građevinarstva · Atlantic Incubation Partners · Vlada Srbije",
+   "red": 75,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h94"
+  },
+  {
+   "datum": "2026-11-14",
+   "iznos": "≈ 150 mil. €",
+   "izvori": [
+    "https://radar.nova.rs/ekonomija/fiktivnim-fakturama-drzavu-ostetili-za-milione/",
+    "https://razglas-news.com/2026/11/14/kako-su-kineske-kompanije-izvlacile-novac-iz-budzeta-srbije/"
+   ],
+   "naslov": "Radar: oko 150 miliona evra povraćaja PDV-a kineskim izvođačima na pruzi",
+   "opis": "Radar navodi da su CRIC, ogranci CRSC-a, CRCEB Serbia, Šandong Lućao, CCECC Balkan i Ingrap-Omni od 2020. do 2025. dobili 17,6 milijardi dinara povraćaja PDV-a, uz indicije o fiktivnim fakturama, izvlačenju gotovine i povraćajima odobravanim i posle kontrola. Nalazi nisu potvrđeni od nadležnih organa.",
+   "osobe": "Poreska uprava · CRIC · CCECC Balkan · Ingrap-Omni",
+   "red": 72,
+   "status": "navod",
+   "tip": "otkrice",
+   "id": "h95"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvori": [
+    "https://n1info.rs/vesti/vjt-u-nisu-uhapsena-sedmorica-policajaca-iz-bora-zbog-mucenja-osumnjicenih-za-ubistvo-danke-ilic/",
+    "https://razglas-news.com/2026/11/14/uhapseno-jos-sedam-policajaca-iz-pu-bor-zbog-smrti-dalibora-dragijevica/"
+   ],
+   "naslov": "Uhapšeno sedam policajaca PU Bor zbog mučenja osumnjičenih u slučaju Danke Ilić",
+   "opis": "Policija je po nalogu Višeg javnog tužilaštva u Nišu uhapsila sedam službenika PU Bor (D.B, M.M, M.R, N.J, S.F, D.P, G.Ž.) zbog sumnje na tešku telesnu povredu u sticaju sa zlostavljanjem i mučenjem Srđana Jankovića i Dejana Dragijevića u prostorijama PU Bor. Određeno im je zadržavanje do 48 sati. Tužilaštvo navodi da Sektor unutrašnje kontrole MUP-a ranije nije postupao po nalozima za hapšenje. Odvojeno od slučaja smrti Dalibora Dragijevića.",
+   "osobe": "VJT u Nišu · PU Bor · Sektor unutrašnje kontrole MUP",
+   "red": 82,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h93"
+  },
+  {
    "datum": "2026-11-13",
    "izvori": [
     "https://insajder.net/vesti/agencija-za-osiguranje-depozita-isplata-osiguranih-depozita-alta-banke-u-stecaju-pocinje-13-novembra-preko-banke-postanska-stedionica",
-    "https://n1info.rs/biznis/objavljeno-kada-pocinje-isplata-depozita-alta-banke-u-stecaju-sta-treba-poneti-od-dokumenata/"
+    "https://n1info.rs/biznis/objavljeno-kada-pocinje-isplata-depozita-alta-banke-u-stecaju-sta-treba-poneti-od-dokumenata/",
+    "https://razglas-news.com/2026/11/14/nastavlja-se-isplata-klijentima-alta-banke-u-stecaju-termin-do-sada-zakazalo-17-193-deponenata/"
    ],
    "naslov": "Početak isplate osiguranih depozita Alta banke",
-   "opis": "Agencija za osiguranje depozita objavila je da isplata počinje 13. novembra preko Banke Poštanska štedionica, do 50.000 evra po deponentu.",
+   "opis": "Agencija za osiguranje depozita objavila je da isplata počinje 13. novembra preko Banke Poštanska štedionica, do 50.000 evra po deponentu. 13. nov: isplata je počela; BPŠ je isplatila sve klijente sa zakazanim terminom (poslednjeg u 23.47), termin je zakazalo 17.193 deponenata, a isplata se nastavlja.",
    "osobe": "Agencija za osiguranje depozita · Banka Poštanska štedionica · Alta banka",
    "red": 60,
-   "status": "najavljeno",
+   "status": "zvanicno",
    "tip": "korak",
    "id": "h72"
   },
@@ -4316,10 +4501,11 @@
     "https://razglas-news.com/2026/11/10/izdat-nalog-za-hapsenje-vlasnika-kompanije-milenijum-tim-ivana-bosnjaka-i-stojana-vujka/",
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1492/",
     "https://n1info.rs/vesti/slucaj-milenijum-tim-tuzilastvo-nalozilo-hapsenja-advokati-zatrazili-izuzece-tuzilaca-ceka-se-nenad-stefanovic/",
-    "https://trece.ojt.rs/aktuelnosti/27156/"
+    "https://trece.ojt.rs/aktuelnosti/27156/",
+    "https://trece.ojt.rs/aktuelnosti/27240/"
    ],
    "naslov": "Treće OJT: istraga zbog gradnje bez dozvole na lokaciji Hotela „Jugoslavija”, naloženo privođenje čelnika investitora",
-   "opis": "Treće osnovno javno tužilaštvo u Beogradu vodi istragu zbog sumnje na građenje bez građevinske dozvole (čl. 219a KZ) na lokaciji nekadašnjeg Hotela „Jugoslavija” i naložilo je policiji lišenje slobode trojice odgovornih iz „Milenijum tima” i „Denjub Riversajda”. Osumnjičeni su podneli zahteve za izuzeće tužilaca i veštaka. Ministarstvo građevinarstva je 10. nov odbacilo kao nepotpun zahtev za dozvolu za prvu fazu. Kompanija tvrdi da trojica nisu uhapšena niti zadržana, već su dali izjavu policiji i pušteni. 11. nov: VJT u Beogradu saopštilo je da je zatražilo spise i izjašnjenje glavnog tužioca Trećeg OJT povodom zahteva S.V. za njegovo izuzeće i da će odlučiti u najkraćem roku. 12. nov: odbrana podnela novu dopunu zahteva za izuzeće; Treće OJT ocenjuje da se postupak odugovlači i traži od VJT hitnu odluku.",
+   "opis": "Treće osnovno javno tužilaštvo u Beogradu vodi istragu zbog sumnje na građenje bez građevinske dozvole (čl. 219a KZ) na lokaciji nekadašnjeg Hotela „Jugoslavija” i naložilo je policiji lišenje slobode trojice odgovornih iz „Milenijum tima” i „Denjub Riversajda”. Osumnjičeni su podneli zahteve za izuzeće tužilaca i veštaka. Ministarstvo građevinarstva je 10. nov odbacilo kao nepotpun zahtev za dozvolu za prvu fazu. Kompanija tvrdi da trojica nisu uhapšena niti zadržana, već su dali izjavu policiji i pušteni. 11. nov: VJT u Beogradu saopštilo je da je zatražilo spise i izjašnjenje glavnog tužioca Trećeg OJT povodom zahteva S.V. za njegovo izuzeće i da će odlučiti u najkraćem roku. 12. nov: odbrana podnela novu dopunu zahteva za izuzeće; Treće OJT ocenjuje da se postupak odugovlači i traži od VJT hitnu odluku. 13. nov: VJT je izuzelo glavnu tužiteljku Ivanu Stojiljković Pomorišku i predmet poverilo Prvom OJT; Treće OJT ocenjuje odluku kao nezakonitu.",
    "osobe": "Stojan Vujko · Ivan Bošnjak · Andreja Đulić · „Milenijum tim” · „Denjub Riversajd” · Treće OJT u Beogradu",
    "red": 78,
    "status": "zvanicno",
@@ -5503,9 +5689,9 @@
  ],
  "obecanja": [
   {
-   "azurirano": "2026-11-08",
+   "azurirano": "2026-11-14",
    "datum": "2026-10-29",
-   "napomena": "1. nov: ponovljeno glasanje na 53 mesta. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. 5. nov: RIK proglasio konačne rezultate, Studentskoj listi 140 mandata, čime je ispunjen prvi deo zahteva. Počeo je rok od 30 dana za konstituisanje Skupštine. 6. nov: RIK dodelio mandate poslanicima; Đenadić rekao da lista očekuje što skorije zakazivanje konstitutivne sednice; Vlada u tehničkom mandatu saopštila je da očekuje konstituisanje u najkraćem roku. 8. nov: Brnabić zakazala konstitutivnu sednicu za 17. novembar u 10 časova.",
+   "napomena": "1. nov: ponovljeno glasanje na 53 mesta. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. 5. nov: RIK proglasio konačne rezultate, Studentskoj listi 140 mandata, čime je ispunjen prvi deo zahteva. Počeo je rok od 30 dana za konstituisanje Skupštine. 6. nov: RIK dodelio mandate poslanicima; Đenadić rekao da lista očekuje što skorije zakazivanje konstitutivne sednice; Vlada u tehničkom mandatu saopštila je da očekuje konstituisanje u najkraćem roku. 8. nov: Brnabić zakazala konstitutivnu sednicu za 17. novembar u 10 časova. 13. nov: na konsultacijama Studentska lista zatražila je da se sednica nastavi odmah posle verifikacije mandata; dogovoreno javno glasanje.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
    "status": "u_toku",
@@ -5714,11 +5900,12 @@
     "https://www.rts.rs/lat/vesti/politika/6079105/brnabic-konstitutivna-sednica-17-novembra-u-10-casova.html",
     "https://www.rtv.rs/sr_lat/politika/konstitutivna-sednica-skupstine-17.-novembra-sest-tacaka-dnevnog-reda_1757273.html",
     "https://studenti.org.rs/vesti/s_budna/",
-    "https://studenti.org.rs/vesti/sta_dalje/"
+    "https://studenti.org.rs/vesti/sta_dalje/",
+    "https://studenti.org.rs/vesti/izvesta_konsultacija/"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
    "odluke": [],
-   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade.",
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje.",
    "organ": "skupstina",
    "status": "zakazana",
    "id": "s01"
