@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-14T15:08+00:00",
+ "generisano": "2026-11-14T15:09+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -155,6 +155,16 @@
   },
   {
    "datum": "2026-11-13",
+   "izvor": "RTV / RTS",
+   "kategorija": "institucije",
+   "naslov": "Ministar Glamočić: nema novca za drugi deo direktnih davanja po hektaru",
+   "red": 40,
+   "sazetak": "Ministar poljoprivrede u tehničkom mandatu Dragan Glamočić rekao je da trenutno nema novca za drugi deo subvencija za biljnu proizvodnju, ali da novac nije nestao, već da je raspodelu promenio rast broja registrovanih hektara i grla; najavio je isplatu premija za mleko i tov. Poljoprivrednici su reagovali nezadovoljstvom.",
+   "url": "https://www.rtv.rs/sr_lat/ekonomija/glamocic-nema-novca-za-isplatu-drugog-dela-direktnih-davanja-po-hektaru-isplaticemo-premije-za-mleko-i-tov-grla_1758422.html",
+   "id": "v428"
+  },
+  {
+   "datum": "2026-11-13",
    "izvor": "Studenti",
    "kategorija": "program",
    "naslov": "Studentska lista se sastala sa predstavnicima ambasada Kanade i Egipta",
@@ -162,6 +172,26 @@
    "sazetak": "Kandidati Studentske liste sastali su se sa zamenicom ambasadorke Kanade Ešli Durek i sa delegacijom ambasade Egipta. Lista navodi da će javnost redovno obaveštavati o svim susretima.",
    "url": "https://studenti.org.rs/vesti/kanada_delegacija/",
    "id": "v426"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "Raskrinkavanje / Razglas",
+   "kategorija": "mediji",
+   "naslov": "Mreža lokalnih portala koja je dobila 18,6 miliona dinara iz budžeta preneta novom vlasniku bez naknade",
+   "red": 30,
+   "sazetak": "Novosadska firma Zaple Media Group, osnovana u decembru 2025, za nekoliko meseci osnovala je 12 lokalnih portala, a njeni mediji dobili su 18,6 miliona dinara na konkursima za projektno sufinansiranje. Ugovorom od 2. novembra 2026. vlasništvo je bez naknade preneto na Zoltana Sinka iz Vrbasa.",
+   "url": "https://razglas-news.com/2026/11/13/mreza-lokalnih-portala-promenila-vlasnika-firma-kojoj-je-dodeljeno-186-miliona-dinara-iz-budzeta-preneta-bez-naknade/",
+   "id": "v429"
+  },
+  {
+   "datum": "2026-11-13",
+   "izvor": "Budi heroj / Razglas",
+   "kategorija": "korupcija",
+   "naslov": "„Budi heroj” podnelo krivičnu prijavu zbog ugovora o agencijskom angažovanju radnika u javnim preduzećima",
+   "red": 30,
+   "sazetak": "Udruženje traži da tužilaštvo proveri ugovore novosadskih firmi Montop HRS, Laboris HRS i Optimum MV-NS sa javnim preduzećima i ustanovama: kome je isplaćivan novac, ko je overavao radne sate i da li su poslovi obavljeni. Navodi da je Montop HRS 9. novembra promenio naziv, delatnost i direktore.",
+   "url": "https://razglas-news.com/2026/11/13/udruzenje-budi-heroj-podnelo-krivicnu-prijavu-zbog-visemilionskih-ugovora-za-agencijsko-zaposljavanje-povezanih-sa-markom-bosancem/",
+   "id": "v430"
   },
   {
    "datum": "2026-11-12",
@@ -5870,9 +5900,9 @@
    "id": "o19"
   },
   {
-   "azurirano": "2026-11-12",
+   "azurirano": "2026-11-14",
    "datum": "2026-11-12",
-   "napomena": "Najavila kandidatkinja Estela Radonjić Živkov (Nova.rs / N1); vlada još nije formirana.",
+   "napomena": "Najavila kandidatkinja Estela Radonjić Živkov (Nova.rs / N1); vlada još nije formirana. 14. nov: Ministarstvo građevinarstva potvrdilo je da se raskida ugovor sa Kušnerovom firmom bez međusobnih potraživanja (formalizacija sledeće nedelje); status kulturnog dobra još nije vraćen.",
    "naslov": "Vraćanje statusa kulturnog dobra Generalštabu",
    "opis": "Generalštabu vratiti pun status kulturnog dobra (odlukom Ustavnog suda ili Skupštine) i predložiti njegovo utvrđivanje za kulturno dobro od izuzetnog značaja.",
    "status": "najavljeno",
