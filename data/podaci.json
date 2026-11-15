@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-14T21:01+00:00",
+ "generisano": "2026-11-15T08:22+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -23,6 +23,36 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-15",
+   "izvor": "Radar",
+   "kategorija": "korupcija",
+   "naslov": "Radar: nevenčana supruga ministra Nenada Popovića upisuje se kao vlasnica dva stana u Luštica beju",
+   "red": 50,
+   "sazetak": "Prema pisanju Radara, odlazeći ministar bez portfelja, pod američkim sankcijama, zatvorio je firme u Srbiji, a nekretnine prepisao na nevenčanu suprugu, koja će se upisati kao vlasnica dva stana u izgradnji u crnogorskom letovalištu. Popović se o navodima nije oglasio.",
+   "url": "https://radar.nova.rs/ekonomija/nenad-popovic-kupio-dva-stana-lustica/",
+   "id": "v442"
+  },
+  {
+   "datum": "2026-11-15",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Izvršni urednik Nova.rs: redakcija ne sarađuje sa novim glavnim urednikom, strahuje od gašenja portala",
+   "red": 45,
+   "sazetak": "Vojislav Milovančević kaže da je redakcija uoči izbora bila pod pritiskom i da je 66 od 67 zaposlenih odbilo otpremninu kada je na čelo redakcije postavljen novi urednik. Smatra da promene u medijima United Media imaju političku pozadinu.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6084055/milovancevic-sa-portala-novars-pred-izbore-su-pokusali-da-nas-ucutkaju-sada-strahujemo-od-gasenja.html",
+   "id": "v439"
+  },
+  {
+   "datum": "2026-11-15",
+   "izvor": "Forbes Srbija / N1",
+   "kategorija": "institucije",
+   "naslov": "Forbes: stanica „Nacionalni stadion” dobila građevinsku dozvolu 6. novembra, a snimci pokazuju da je zgrada već gotovo izgrađena",
+   "red": 45,
+   "sazetak": "Ministarstvo građevinarstva izdalo je samo sebi dozvolu za podfazu 1.3 kompleksa železničke stanice Nacionalni stadion, dok snimci stari nekoliko nedelja pokazuju da su radovi tekli i ranije. Ministarstvo nije odgovorilo na pitanje po kom osnovu su radovi izvođeni.",
+   "url": "https://forbes.n1info.rs/biznis/propisi/divlja-gradnja-uz-nacionalni-stadion-dozvola-za-zeleznicku-stanicu-stigla-pre-nedelju-dana-na-snimcima-objekat-skoro-pa-izgradjen/",
+   "id": "v440"
+  },
   {
    "datum": "2026-11-14",
    "izvor": "RTS",
@@ -52,6 +82,16 @@
    "sazetak": "Aleksandar Vučić izjavio je za TV Pink da je na sednici poslaničke grupe liste „Ujedinjena Srbija” izabran za njenog šefa u Skupštini Srbije. Naziv grupe još nije određen, a pomenuo je i „Srbija protiv terora”. Najavio je da će grupa biti „borbena”, ali da će se ponašati pristojno.",
    "url": "https://www.rts.rs/lat/vesti/politika/6083766/aleksandar-vucic-skupstina-sef-poslanicke-grupe.html",
    "id": "v431"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Studentska lista objavila program „Privreda i finansije”: javni ugovori, crna lista i bez rasprodaje strateških preduzeća",
+   "red": 70,
+   "sazetak": "Program predviđa da svaki ugovor države bude javan, uz ceo tekst, cene i bodovanje na Portalu javnih nabavki, crnu listu na tri godine za one koji prekrše ugovor, nacionalni cenovnik za javne radove i referentne cene za lekove, IT opremu, vozila i gorivo. Najavljeni su i progresivnije oporezivanje, stabilan dinar, bez prodaje strateških preduzeća, i revizija posebnih zakona za Beograd na vodi, EXPO 2027 i linijsku infrastrukturu.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083986/studentska-lista-objavila-ekonomski-plan-politika-mora-da-podstice-domacu-proizvodnju-a-ne-da-nagradjuje-privilegovane.html",
+   "id": "v438"
   },
   {
    "datum": "2026-11-14",
@@ -112,6 +152,16 @@
    "sazetak": "Vojni analitičar Aleksandar Radić, koji četiri meseca živi van Srbije, tvrdi u intervjuu za Cenzolovku da je imao informacije da se u noći izbora pripremao državni udar. Navodi i da pritisci na njega traju i posle izbora, a tužilaštvo je najavilo proveru njegovih kontakata sa novinarima. Ove tvrdnje nijedan nadležni organ nije potvrdio.",
    "url": "https://n1info.rs/vesti/radic-u-noci-izbora-se-pripremao-drzavni-udar-ali-se-sve-u-sekundi-promenilo/",
    "id": "v436"
+  },
+  {
+   "datum": "2026-11-14",
+   "izvor": "RTV / Tanjug",
+   "kategorija": "institucije",
+   "naslov": "Međunarodni biro za izložbe traži potvrdu da radovi za Ekspo 2027 teku po planu",
+   "red": 40,
+   "sazetak": "BIE je zatražio od srpskih vlasti potvrdu da će više od 140 učesnika moći da preuzme paviljone od 1. decembra; organizator će 17. novembra izvestiti Generalnu skupštinu BIE. Iz BIE ističu potrebu za dobro pripremljenom primopredajom novoj vladi.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/medjunarodni-biro-za-izlozbe-zatrazio-potvrdu-od-srbije-da-radovi-za-ekspo-teku-po-planu_1758679.html",
+   "id": "v441"
   },
   {
    "datum": "2026-11-14",
@@ -442,6 +492,16 @@
    "sazetak": "Viši sud u Kraljevu izdvojio je iz spisa snimke tajnog nadzora i dokaze proistekle iz njih u postupku protiv veterana Dragana Radića i Miloša Radenkovića; odbrana smatra da bi postupak sada mogao biti obustavljen.",
    "url": "https://n1info.rs/vesti/sudjenje-veteranima-sud-izdvojio-prisluskivane-razgovore-za-koje-odbrana-tvrdi-da-ih-je-bia-nezakonito-pribavila/",
    "id": "v402"
+  },
+  {
+   "datum": "2026-11-12",
+   "izvor": "Radar",
+   "kategorija": "korupcija",
+   "naslov": "Radar: izvor tvrdi da je Macura trezor Alta banke dopunjavao lažnim novčanicama od 500 evra; TOK: za sada nije utvrđeno",
+   "red": 35,
+   "sazetak": "Neimenovani izvor Radara tvrdi da je vlasnik Alta banke pred kontrolu NBS naručio falsifikovane novčanice da popuni manjak u trezoru. TOK kaže da za sada nije utvrđeno da je u trezoru bilo krivotvorenih novčanica i da će to proveriti ako se pojavi sumnja.",
+   "url": "https://radar.nova.rs/ekonomija/alta-banka-falsifikovane-novcanice/",
+   "id": "v443"
   },
   {
    "datum": "2026-11-12",
@@ -4482,6 +4542,20 @@
    "id": "h95"
   },
   {
+   "datum": "2026-11-14",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6083986/studentska-lista-objavila-ekonomski-plan-politika-mora-da-podstice-domacu-proizvodnju-a-ne-da-nagradjuje-privilegovane.html",
+    "https://n1info.rs/biznis/studentska-lista-objavila-svoj-program-za-privredu-i-finansije/"
+   ],
+   "naslov": "Studentska lista objavila program za privredu i finansije",
+   "opis": "Program najavljuje javnost svih državnih ugovora, crnu listu za izvođače koji prekrše ugovor, nacionalni cenovnik javnih radova i referentne cene, ugovaranje velikih projekata po opštem postupku umesto lex specialis, reviziju tekućih projekata preko nezavisne Komisije za reviziju kapitalnih investicija i reviziju posebnih zakona za Beograd na vodi, EXPO 2027 i linijsku infrastrukturu.",
+   "osobe": "Studentska lista",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h96"
+  },
+  {
    "datum": "2026-11-13",
    "izvori": [
     "https://n1info.rs/vesti/vjt-u-nisu-uhapsena-sedmorica-policajaca-iz-bora-zbog-mucenja-osumnjicenih-za-ubistvo-danke-ilic/",
@@ -5809,9 +5883,9 @@
    "id": "o02"
   },
   {
-   "azurirano": "2026-11-12",
+   "azurirano": "2026-11-15",
    "datum": "2026-10-29",
-   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje. 2. nov: studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej (≈ 300 mil. €) dok se ne ispitaju ugovori i dozvole; Kuzmanović (RTV) najavio proveru svih aktuelnih infrastrukturnih projekata. 12. nov: Sanja Fric najavila hitno formiranje nezavisne komisije za reviziju javnih investicija, počev od ugovora u okviru Ekspa.",
+   "napomena": "30. okt: Kuzmanović najavio raskid preplaćenih i koruptivnih ugovora u građevinarstvu; Expo se nastavlja uz preispitivanje. 2. nov: studenti u Nišu traže obustavu radova na brzoj pruzi kroz Pantelej (≈ 300 mil. €) dok se ne ispitaju ugovori i dozvole; Kuzmanović (RTV) najavio proveru svih aktuelnih infrastrukturnih projekata. 12. nov: Sanja Fric najavila hitno formiranje nezavisne komisije za reviziju javnih investicija, počev od ugovora u okviru Ekspa. 14. nov: program „Privreda i finansije” predviđa da svaki državni ugovor bude javan (ceo tekst, cene i bodovanje na Portalu javnih nabavki), crnu listu na tri godine, nacionalni cenovnik javnih radova i referentne cene, a za tekuće projekte objavu stvarne cene od strane DRI i nezavisnog revizora.",
    "naslov": "Preispitivanje svih ugovora i javnih nabavki",
    "opis": "U skladu sa zakonom, posle formiranja vlasti.",
    "status": "najavljeno",
@@ -5901,9 +5975,9 @@
    "id": "o12"
   },
   {
-   "azurirano": "2026-11-12",
+   "azurirano": "2026-11-15",
    "datum": "2026-10-30",
-   "napomena": "Najavio kandidat Vladan Kuzmanović. 12. nov: Sanja Fric rekla je da treba preispitati sve projekte po leks specijalisima i razmotriti ukidanje tog zakonskog okvira.",
+   "napomena": "Najavio kandidat Vladan Kuzmanović. 12. nov: Sanja Fric rekla je da treba preispitati sve projekte po leks specijalisima i razmotriti ukidanje tog zakonskog okvira. 14. nov: program „Privreda i finansije” predviđa da se novi projekti ugovaraju po opštem postupku umesto posebnim zakonom, a da posebni zakoni za Beograd na vodi, EXPO 2027 i linijsku infrastrukturu prođu reviziju (ukidanje, izmena ili usklađivanje), uz procenu arbitražnog rizika.",
    "naslov": "Suspenzija leks specijalisa u građevinarstvu",
    "opis": "Suspendovati posebne zakone (leks specijalise) ili ih uskladiti sa važećim propisima; kratkoročne mere u roku od 6–12 meseci.",
    "status": "najavljeno",
@@ -5978,6 +6052,26 @@
    "status": "najavljeno",
    "url": "https://n1info.rs/vesti/kandidatkinja-studentske-liste-radonjic-zivkov-objasnjava-kakav-je-plan-buduce-vlasti-za-generalstab/",
    "id": "o20"
+  },
+  {
+   "azurirano": "2026-11-15",
+   "datum": "2026-11-14",
+   "napomena": "Najavljeno u saopštenju povodom neisplaćenih subvencija; vlada još nije formirana.",
+   "naslov": "Zaštitnik građana za zemljište, vode i prehrambenu nezavisnost i Agroparlament",
+   "opis": "Studentska lista najavila je uspostavljanje „Zaštitnika građana Republike Srbije za očuvanje zemljišta, vodnih resursa i prehrambene nezavisnosti”, kao i lokalnih agroparlamenata i nacionalnog Agroparlamenta za dijalog poljoprivrednika, otkupljivača i prerađivača.",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/djon_obraz/",
+   "id": "o21"
+  },
+  {
+   "azurirano": "2026-11-15",
+   "datum": "2026-11-14",
+   "napomena": "Programska najava; vlada još nije formirana.",
+   "naslov": "Bez prodaje strateških preduzeća, progresivnije oporezivanje i stručnjaci na čelu javnih preduzeća",
+   "opis": "Program „Privreda i finansije”: neće biti rasprodaje strateških preduzeća, dinar ostaje stabilan, oduzeta imovina ide u društveno korisnu upotrebu, uvodi se progresivnije oporezivanje i podsticaji za firme koje podižu prosek plata, a javna preduzeća vode stručnjaci sa javne liste.",
+   "status": "najavljeno",
+   "url": "https://www.rts.rs/lat/vesti/politika/6083986/studentska-lista-objavila-ekonomski-plan-politika-mora-da-podstice-domacu-proizvodnju-a-ne-da-nagradjuje-privilegovane.html",
+   "id": "o22"
   }
  ],
  "funkcije": [
