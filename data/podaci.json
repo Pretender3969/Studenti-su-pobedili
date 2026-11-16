@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-16T08:59+00:00",
+ "generisano": "2026-11-16T15:13+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -35,6 +35,46 @@
   },
   {
    "datum": "2026-11-16",
+   "izvor": "KRIK / N1",
+   "kategorija": "korupcija",
+   "naslov": "KRIK: Agencija za sprečavanje korupcije prijavila bivšu ministarku Dubravku Đedović Handanović zbog prikrivanja imovine",
+   "red": 85,
+   "sazetak": "Agencija je Višem javnom tužilaštvu u Beogradu podnela izveštaj o kontroli imovine bivše ministarke rudarstva i energetike, uz sumnju na krivično delo neprijavljivanja imovine i prihoda (čl. 101 Zakona o sprečavanju korupcije). Povod je to što nije prijavila suvlasništvo u firmi u Hrvatskoj; za to delo predviđeno je od šest meseci do pet godina zatvora.",
+   "url": "https://n1info.rs/vesti/krik-agencija-prijavila-djedovic-handanovic-zbog-prikrivanja-imovine/",
+   "id": "v456"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Zvanično raskinut ugovor o kompleksu Generalštaba, bez međusobnih potraživanja",
+   "red": 80,
+   "sazetak": "Sporazum o raskidu ugovora o revitalizaciji Generalštaba sa kompanijom povezanom sa Džaredom Kušnerom potpisan je 16. novembra, u skladu sa zaključkom Vlade iz avgusta. Ugovorne strane nemaju međusobnih potraživanja, čime je raskid i formalno završen.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6084817/zvanicno-raskinut-ugovor-o-kompleksu-generalstaba-ugovorne-strane-nemaju-medjusobnih-potrazivanja.html",
+   "id": "v455"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Načelnik Generalštaba Milan Mojsilović penzionisan na sopstveni zahtev",
+   "red": 75,
+   "sazetak": "Ukazom vršioca dužnosti predsednika Republike generalu Milanu Mojsiloviću prestala je profesionalna vojna služba. Do postavljenja novog načelnika dužnost obavlja general-potpukovnik Tiosav Janković, dosadašnji komandant RV i PVO, saopštilo je Ministarstvo odbrane.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6084562/milan-mojsilovic-generalsab-penzija-vojska-srbije.html",
+   "id": "v457"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Razrešen direktor Jovine gimnazije Radivoje P. Stojković",
+   "red": 60,
+   "sazetak": "Ministarstvo prosvete potvrdilo je da je direktor novosadske gimnazije „Jovan Jovanović Zmaj” razrešen uz prethodnu saglasnost pokrajinskog sekretara za obrazovanje, na osnovu inspekcijskih nalaza. Prema rečima roditelja, razlog je to što nije postupio po pravosnažnoj presudi da suspendovane profesore vrati na posao.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6084998/smenjen-direktor-jovine-gimnazije-radivoje-p-stojkovic.html",
+   "id": "v458"
+  },
+  {
+   "datum": "2026-11-16",
    "izvor": "Radar",
    "kategorija": "institucije",
    "naslov": "Radar: deficit posle deset meseci 226 milijardi dinara, budžet za 2027. verovatno neće biti usvojen na vreme",
@@ -42,6 +82,26 @@
    "sazetak": "Prema Radaru, deficit republičkog budžeta posle prvih deset meseci premašio je 226 milijardi dinara, naspram 77,6 milijardi u istom periodu prošle godine, što list povezuje sa jednokratnim isplatama pred izbore. Pošto se Skupština konstituiše 17. novembra, a rok za budžet je 20. decembar, država će početkom 2027. verovatno biti na privremenom finansiranju; to je posredno potvrdio i Dejan Šoškić sa Studentske liste.",
    "url": "https://radar.nova.rs/ekonomija/srbija-ce-2027-docekati-bez-budzeta/",
    "id": "v453"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "REM pokreće ispitni postupak protiv RTS-a zbog predizbornog spota liste „Ujedinjena Srbija”, i protiv TV Hepi",
+   "red": 55,
+   "sazetak": "Savet REM-a odlučio je da pokrene ispitni postupak i pozove predstavnika RTS-a na sledeću sednicu zbog spota emitovanog 20. oktobra. Ispitni postupak pokrenut je i protiv TV Hepi, TV Kurir je dobila upozorenje, a za TV K1 Savet nije našao razloge za mere.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6084964/savet-rem-a-pokrece-ispitni-postupak-protiv-rts-a-zbog-predizbornog-spota-lista-ujedinjena-srbija.html",
+   "id": "v459"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "Razglas",
+   "kategorija": "bezbednost",
+   "naslov": "Uhapšen napadač na reportera N1 Mladena Savatovića, određeno mu zadržavanje",
+   "red": 55,
+   "sazetak": "Željko Jovićević, koji je 2. oktobra na Trgu Nikole Pašića pretio reporteru N1 da će mu „razbiti glavu” i krajem oktobra mu ponovo uputio pretnje, uhapšen je i zadržan do 48 sati.",
+   "url": "https://razglas-news.com/2026/11/16/uhapsen-napadac-na-reportera-n1-mladena-savatovica-odredeno-mu-zadrzavanje/",
+   "id": "v460"
   },
   {
    "datum": "2026-11-16",
@@ -55,6 +115,26 @@
   },
   {
    "datum": "2026-11-16",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu objavilo analizu kojom osporava izveštaj Komisije Vrhovnog javnog tužilaštva",
+   "red": 50,
+   "sazetak": "Tužilaštvo izveštaj od 10. novembra naziva „skandaloznim” i objavljuje izjašnjenja tužilaca iz sedam pomenutih predmeta, odbacujući predloge za krivični i disciplinski progon glavnog tužioca. Tužilac VJT Branko Stamenković za N1 ocenjuje da rukovodstvo VJT „bez presedana” nastupa protiv najvišeg tužilačkog organa.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/analiza-izvestaja-komisije/",
+   "id": "v461"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "Studenti",
+   "kategorija": "izbori",
+   "naslov": "Studenti pozvali na okupljanje u Pionirskom parku 17. novembra u 8 časova pred konstitutivnu sednicu",
+   "red": 50,
+   "sazetak": "Studentska lista poziva građane da isprate njene kandidate pred odlazak u Skupštinu, a zatim da se mirno raziđu i sednicu prate od kuće. Aleksandra Štimac (SL) navela je da će lista predloge za predsednika i potpredsednike Skupštine predati pisanim putem posle verifikacije mandata.",
+   "url": "https://studenti.org.rs/vesti/park_okupljanje/",
+   "id": "v463"
+  },
+  {
+   "datum": "2026-11-16",
    "izvor": "N1",
    "kategorija": "mediji",
    "naslov": "Sindikat SMER traži ostavku v.d. glavnog urednika Informativnog programa RTS-a Borivoja Uskokovića",
@@ -65,6 +145,16 @@
   },
   {
    "datum": "2026-11-16",
+   "izvor": "N1 / OJT Kragujevac",
+   "kategorija": "izbori",
+   "naslov": "Krivična prijava zbog sumnje na zloupotrebu biračkih spiskova u Gradskoj upravi Kragujevca",
+   "red": 45,
+   "sazetak": "OJT u Kragujevcu primilo je prijavu protiv NN lica iz Gradske uprave i još jedne osobe zbog zloupotrebe službenog položaja u vezi sa biračkim spiskovima i podacima građana. Prijava je istog dana ustupljena Posebnom odeljenju za suzbijanje korupcije VJT u Kraljevu.",
+   "url": "https://n1info.rs/vesti/krivicna-prijava-protiv-radnika-gradske-uprave-kragujevca-zbog-sumnje-na-zloupotrebu-birackih-spiskova-i-podataka-gradjana/",
+   "id": "v462"
+  },
+  {
+   "datum": "2026-11-16",
    "izvor": "RTV / FoNet",
    "kategorija": "institucije",
    "naslov": "Tošković: Studentska lista ima kandidate za predsednika i potpredsednike Skupštine, izbor očekuje u utorak",
@@ -72,6 +162,46 @@
    "sazetak": "Budući poslanik Oliver Tošković rekao je da kadrovska rešenja postoje i da se očekuje da predsednik Skupštine bude izabran već na konstitutivnoj sednici 17. novembra, dok izbor potpredsednika zavisi od toka sednice jer poslovnik predlagačima daje neograničeno vreme za obrazloženje. Imena kandidata lista još nije zvanično objavila.",
    "url": "https://www.rtv.rs/sr_lat/politika/toskovic-cilj-nam-je-da-skupstinu-vratimo-u-normalne-tokove-kadrovska-resenja-postoje_1758941.html",
    "id": "v454"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Siniša Mali podneo ostavku na mesto odbornika Skupštine Beograda",
+   "red": 35,
+   "sazetak": "Ministar finansija u tehničkom mandatu potvrdio je da je ostavku podneo u petak, odmah po dobijanju rešenja Agencije za sprečavanje korupcije.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6084977/sinisa-mali-podneo-ostavku-na-mesto-odbornika-skupstine-beograda.html",
+   "id": "v464"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "Vreme / Razglas",
+   "kategorija": "mediji",
+   "naslov": "Jovana Joksimović podnela ostavku i napušta mesto direktorke i glavne urednice Tanjuga",
+   "red": 35,
+   "sazetak": "Joksimović je odluku saopštila zaposlenima u oproštajnom mejlu, navodeći lične i porodične razloge; ostaje voditeljka jutarnjeg programa na TV K1.",
+   "url": "https://razglas-news.com/2026/11/16/vreme-direktorka-i-glavna-urednica-napusta-tanjug/",
+   "id": "v465"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Delegacija Studentske liste na Evropskom forumu o proširenju u Briselu, Baucal među glavnim govornicima",
+   "red": 30,
+   "sazetak": "Profesor Aleksandar Baucal obraća se skupu koji organizuje Evropska komisija; u delegaciji su Ana Dimitrijević, Ana-Marija Radosavljević i Jovana Pavlović.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6084587/studenti-lista-evropa-unija-.html",
+   "id": "v466"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "Razglas",
+   "kategorija": "institucije",
+   "naslov": "Direktorka Devete gimnazije Tatjana Šuković podnela ostavku posle višemesečnog spora sa roditeljima",
+   "red": 30,
+   "sazetak": "Savet roditelja saopštio je da je Ministarstvo prosvete primilo ostavku dan pre isteka roka za razrešenje i da očekuje i razrešenje privremenog školskog odbora.",
+   "url": "https://razglas-news.com/2026/11/16/direktorka-devete-gimnazije-podnela-ostavku-dan-pre-isteka-roka-koji-su-joj-dali-roditelji/",
+   "id": "v467"
   },
   {
    "datum": "2026-11-15",
@@ -4624,6 +4754,20 @@
   },
   {
    "datum": "2026-11-16",
+   "izvori": [
+    "https://n1info.rs/vesti/krik-agencija-prijavila-djedovic-handanovic-zbog-prikrivanja-imovine/",
+    "https://razglas-news.com/2026/11/16/krik-agencija-za-sprecavanje-korupcije-prijavila-dedovic-handanovic-zbog-prikrivanja-imovine/"
+   ],
+   "naslov": "Agencija za sprečavanje korupcije prijavila tužilaštvu bivšu ministarku Đedović Handanović",
+   "opis": "Agencija je posle vanredne kontrole imovine podnela VJT u Beogradu izveštaj o osnovama sumnje na krivično delo neprijavljivanja imovine i prihoda (čl. 101 Zakona o sprečavanju korupcije), jer bivša ministarka rudarstva i energetike nije prijavila suvlasništvo u firmi u Hrvatskoj. Prijavu je otkrio KRIK, uz citat iz odgovora Agencije.",
+   "osobe": "Dubravka Đedović Handanović · Agencija za sprečavanje korupcije · VJT Beograd",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h98"
+  },
+  {
+   "datum": "2026-11-16",
    "iznos": "≈ 19,5 mil. din.",
    "izvori": [
     "https://novisad.vjt.rs/aktuelnosti/16-11-2026-saopstenje-za-javnost/",
@@ -4639,13 +4783,27 @@
    "id": "h97"
   },
   {
+   "datum": "2026-11-16",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/drustvo/6084562/milan-mojsilovic-generalsab-penzija-vojska-srbije.html"
+   ],
+   "naslov": "Načelnik Generalštaba Milan Mojsilović penzionisan, dužnost preuzima Tiosav Janković",
+   "opis": "Ukazom v.d. predsednika Republike generalu Mojsiloviću prestala je služba na sopstveni zahtev, po sili zakona s pravom na penziju. Do postavljenja novog načelnika dužnost obavlja general-potpukovnik Tiosav Janković.",
+   "osobe": "Milan Mojsilović · Tiosav Janković · Ministarstvo odbrane",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "ostavka",
+   "id": "h99"
+  },
+  {
    "datum": "2026-11-14",
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6083647/mgsi-raskidom-ugovora-sa-kusnerovom-firmom-o-generalstabu-nece-biti-potrazivanja-formalizacija-sledece-nedelje-.html",
-    "https://n1info.rs/vesti/vreme-raskinut-ugovor-sa-kusnerovom-firmom-za-generalstab-nema-medjusobnih-potrazivanja/"
+    "https://n1info.rs/vesti/vreme-raskinut-ugovor-sa-kusnerovom-firmom-za-generalstab-nema-medjusobnih-potrazivanja/",
+    "https://www.rts.rs/lat/vesti/politika/6084817/zvanicno-raskinut-ugovor-o-kompleksu-generalstaba-ugovorne-strane-nemaju-medjusobnih-potrazivanja.html"
    ],
-   "naslov": "Ministarstvo potvrdilo raskid ugovora za Generalštab bez međusobnih potraživanja",
-   "opis": "Ministarstvo građevinarstva, saobraćaja i infrastrukture potvrdilo je da je Vlada u avgustu donela zaključak o raskidu ugovora sa firmom Džareda Kušnera „Atlantic Incubation Partners” za Generalštab, uz prestanak svih međusobnih potraživanja. Ugovor o raskidu je u formalizaciji, očekuje se početkom naredne nedelje.",
+   "naslov": "Raskinut ugovor za Generalštab bez međusobnih potraživanja",
+   "opis": "Ministarstvo građevinarstva, saobraćaja i infrastrukture potvrdilo je da je Vlada u avgustu donela zaključak o raskidu ugovora sa firmom Džareda Kušnera „Atlantic Incubation Partners” za Generalštab, uz prestanak svih međusobnih potraživanja. 16. nov: sporazum o raskidu je potpisan, čime je raskid i formalno završen.",
    "osobe": "Ministarstvo građevinarstva · Atlantic Incubation Partners · Vlada Srbije",
    "red": 75,
    "status": "zvanicno",
@@ -5800,10 +5958,11 @@
     "https://www.021.rs/novi-sad/vesti/459589/uhapsen-direktor-jovine-gimnazije-radivoje-p-stojkovic",
     "https://n1info.rs/vesti/021rs-saznaje-bez-pritvora-za-direktora-jovine-zabranjen-mu-ulaz-u-gimnaziju-i-prilaz-profesorima/",
     "https://n1info.rs/vesti/grujic-direktor-jovine-gimnazije-ponovo-suspendovao-profesore/",
-    "https://www.rts.rs/lat/vesti/drustvo/6077290/jovina-gimnazija-direktor-radivoje-stojkovic-dejan-vuk-stankovic-vanredni-inspekcijski-nadzor.html"
+    "https://www.rts.rs/lat/vesti/drustvo/6077290/jovina-gimnazija-direktor-radivoje-stojkovic-dejan-vuk-stankovic-vanredni-inspekcijski-nadzor.html",
+    "https://www.rts.rs/lat/vesti/drustvo/6084998/smenjen-direktor-jovine-gimnazije-radivoje-p-stojkovic.html"
    ],
    "naslov": "Uhapšen direktor Jovine gimnazije u Novom Sadu",
-   "opis": "Osumnjičen za četiri krivična dela neizvršenja sudskih odluka: nije vratio na posao četiri profesora kojima su sudovi poništili suspenzije. Zadržan do 48 sati. Mediji ga opisuju kao otvorenog pristalicu bivšeg predsednika. 30. okt: sud odbio pritvor, odredio zabranu ulaska u gimnaziju i prilaska svedocima do 30. januara 2027. 4. nov: profesorka Rima Grujić navodi da su njoj i Jovanu Travici uručena nova rešenja o suspenziji; ročište je zakazano za 17. novembar. 5. nov: ministar prosvete u tehničkom mandatu predložio je vanredni inspekcijski nadzor i naložio Školskom odboru da razmotri mere.",
+   "opis": "Osumnjičen za četiri krivična dela neizvršenja sudskih odluka: nije vratio na posao četiri profesora kojima su sudovi poništili suspenzije. Zadržan do 48 sati. Mediji ga opisuju kao otvorenog pristalicu bivšeg predsednika. 30. okt: sud odbio pritvor, odredio zabranu ulaska u gimnaziju i prilaska svedocima do 30. januara 2027. 4. nov: profesorka Rima Grujić navodi da su njoj i Jovanu Travici uručena nova rešenja o suspenziji; ročište je zakazano za 17. novembar. 5. nov: ministar prosvete u tehničkom mandatu predložio je vanredni inspekcijski nadzor i naložio Školskom odboru da razmotri mere. 16. nov: Ministarstvo prosvete potvrdilo je da je direktor razrešen na osnovu inspekcijskih nalaza, uz saglasnost pokrajinskog sekretara.",
    "osobe": "R. S., direktor gimnazije · OJT Bačka Palanka · MUP",
    "red": 80,
    "status": "zvanicno",
@@ -6221,11 +6380,12 @@
     "https://www.rtv.rs/sr_lat/politika/konstitutivna-sednica-skupstine-17.-novembra-sest-tacaka-dnevnog-reda_1757273.html",
     "https://studenti.org.rs/vesti/s_budna/",
     "https://studenti.org.rs/vesti/sta_dalje/",
-    "https://studenti.org.rs/vesti/izvesta_konsultacija/"
+    "https://studenti.org.rs/vesti/izvesta_konsultacija/",
+    "https://www.rtv.rs/sr_lat/politika/aleksandra-stimac-sa-studentske-liste-predloge-za-predsednika-i-potpredsednike-predacemo-sutra_1759115.html"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
    "odluke": [],
-   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje.",
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. Studentska lista najavila je da će predloge za predsednika i potpredsednike predati pisanim putem posle verifikacije mandata.",
    "organ": "skupstina",
    "status": "zakazana",
    "id": "s01"
