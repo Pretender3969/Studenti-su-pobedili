@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-15T15:13+00:00",
+ "generisano": "2026-11-16T08:59+00:00",
  "stanje": {
   "azurirano": "2026-11-11",
   "izbori": "2026-10-25",
@@ -23,6 +23,56 @@
   "vlada": "Nije formirana (tehnički mandat)"
  },
  "vesti": [
+  {
+   "datum": "2026-11-16",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšeni dekan Fakulteta sporta u Novom Sadu Patrik Drid i bivši dekan Nebojša Maksimović zbog 19,5 miliona dinara",
+   "red": 85,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu lišeni su slobode sadašnji i bivši dekan Fakulteta sporta i fizičkog vaspitanja zbog sumnje na zloupotrebu službenog položaja. Prema tužilaštvu, iznajmljivali su prostor koji pripada Pokrajini, a novac (19.522.500 dinara) nisu uplatili u pokrajinski budžet već su ga isplaćivali zaposlenima, dok su ugovore vodili kao „organizaciju sportskih aktivnosti”. Imena je objavio N1.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/16-11-2026-saopstenje-za-javnost/",
+   "id": "v449"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "Radar",
+   "kategorija": "institucije",
+   "naslov": "Radar: deficit posle deset meseci 226 milijardi dinara, budžet za 2027. verovatno neće biti usvojen na vreme",
+   "red": 55,
+   "sazetak": "Prema Radaru, deficit republičkog budžeta posle prvih deset meseci premašio je 226 milijardi dinara, naspram 77,6 milijardi u istom periodu prošle godine, što list povezuje sa jednokratnim isplatama pred izbore. Pošto se Skupština konstituiše 17. novembra, a rok za budžet je 20. decembar, država će početkom 2027. verovatno biti na privremenom finansiranju; to je posredno potvrdio i Dejan Šoškić sa Studentske liste.",
+   "url": "https://radar.nova.rs/ekonomija/srbija-ce-2027-docekati-bez-budzeta/",
+   "id": "v453"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Plan Studentske liste za Vojsku Srbije: bez smanjenja budžeta, prioritet ljudski resurs i ispitivanje ugovora",
+   "red": 50,
+   "sazetak": "Luka Ponorac iz programske grupe za odbranu rekao je za RTS da će modernizacija vojske biti nastavljena, da budžet za odbranu neće biti smanjivan i da je prioritet životni standard pripadnika vojske i povratak službi u njihove nadležnosti. Ko će voditi Ministarstvo odbrane lista ne otkriva; intervju je snimljen 6. novembra, a emitovan posebno jer je Ministarstvo odbrane jednostrano prekinulo saradnju sa emisijom „Dozvolite…”.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6084272/studentska-lista-vojsk-srbije.html",
+   "id": "v450"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Sindikat SMER traži ostavku v.d. glavnog urednika Informativnog programa RTS-a Borivoja Uskokovića",
+   "red": 45,
+   "sazetak": "Sindikat medijskih radnika SMER navodi da je Uskoković na kolegijumu 10. novembra pročitao spisak od oko 50 zaposlenih uz navod da su zatraženi njihovi personalni dosijei, što sindikat ocenjuje kao kršenje zaštite podataka o ličnosti i pritisak na zaposlene. Kao razlog navodi i smene urednika bez jasnih kriterijuma; dopis je upućen i Savetu REM-a. Uskoković je u „Utisku nedelje” najavio formiranje etičkih komisija.",
+   "url": "https://n1info.rs/vesti/sindikat-smer-trazi-ostavku-uskokovica-narusio-radna-prava-zaposlenih-na-rts/",
+   "id": "v451"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTV / FoNet",
+   "kategorija": "institucije",
+   "naslov": "Tošković: Studentska lista ima kandidate za predsednika i potpredsednike Skupštine, izbor očekuje u utorak",
+   "red": 40,
+   "sazetak": "Budući poslanik Oliver Tošković rekao je da kadrovska rešenja postoje i da se očekuje da predsednik Skupštine bude izabran već na konstitutivnoj sednici 17. novembra, dok izbor potpredsednika zavisi od toka sednice jer poslovnik predlagačima daje neograničeno vreme za obrazloženje. Imena kandidata lista još nije zvanično objavila.",
+   "url": "https://www.rtv.rs/sr_lat/politika/toskovic-cilj-nam-je-da-skupstinu-vratimo-u-normalne-tokove-kadrovska-resenja-postoje_1758941.html",
+   "id": "v454"
+  },
   {
    "datum": "2026-11-15",
    "izvor": "Radar",
@@ -82,6 +132,16 @@
    "sazetak": "PU Smederevo uhapsila je Z.S. (63) zbog sumnje na ugrožavanje sigurnosti: posle saopštenja o hapšenju gradonačelnice Jasmine Vojinović, na društvenoj mreži je, kako se sumnja, pretio policajcima, tužiocima i njihovoj deci. Po nalogu OJT određeno mu je zadržavanje do 48 sati.",
    "url": "https://n1info.rs/vesti/muskarac-priveden-u-smederevu-zbog-pretnji-policajcima-tuziocima-i-njihovoj-deci-posle-hapsenja-gradonacelnice/",
    "id": "v446"
+  },
+  {
+   "datum": "2026-11-15",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Kolektivna krivična prijava protiv urednika „Informera” Dragana J. Vučićevića u ime 97 građana",
+   "red": 40,
+   "sazetak": "Advokat Ivan S. Petrović iz Kraljeva saopštio je da je 13. novembra Posebnom odeljenju za visokotehnološki kriminal VJT u Beogradu poslao kolektivnu krivičnu prijavu protiv Vučićevića zbog izjava u emisijama uživo od sredine 2023. do oktobra 2026. Od REM-a je zatražena i privremena zabrana emisije „Kolegijum” do 30 dana. Reč je o prijavi građana; tužilaštvo se još nije oglasilo.",
+   "url": "https://n1info.rs/vesti/advokat-podneo-krivicnu-prijavu-protiv-dragana-j-vucicevica-u-ime-97-gradjana/",
+   "id": "v452"
   },
   {
    "datum": "2026-11-15",
@@ -4561,6 +4621,22 @@
    "status": "najavljeno",
    "tip": "korak",
    "id": "h82"
+  },
+  {
+   "datum": "2026-11-16",
+   "iznos": "≈ 19,5 mil. din.",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/16-11-2026-saopstenje-za-javnost/",
+    "https://n1info.rs/vesti/uhapseni-patrik-drid-i-bivsi-dekan-dif-a-u-novom-sadu/",
+    "https://razglas-news.com/2026/11/16/uhapseni-dekan-novosadskog-dif-a-patrik-drid-i-bivsi-dekan-nebojsa-maksimovic-zbog-sumnje-na-zloupotrebu-sluzbenog-polozaja/"
+   ],
+   "naslov": "Uhapšeni sadašnji i bivši dekan Fakulteta sporta u Novom Sadu zbog štete pokrajinskom budžetu",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su lišeni slobode P. D. i N. M. zbog sumnje na zloupotrebu službenog položaja: prostor u vlasništvu AP Vojvodine izdavan je u zakup, a novac nije uplaćen u budžet Pokrajine već je potrošen na isplate zaposlenima, uz ugovore vođene kao „organizacija sportskih aktivnosti”. N1 i Razglas navode da je reč o dekanu Patriku Dridu i bivšem dekanu Nebojši Maksimoviću.",
+   "osobe": "Patrik Drid · Nebojša Maksimović · Fakultet sporta i fizičkog vaspitanja, Univerzitet u Novom Sadu",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h97"
   },
   {
    "datum": "2026-11-14",
