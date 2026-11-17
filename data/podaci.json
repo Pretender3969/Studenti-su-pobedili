@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-17T17:17+00:00",
+ "generisano": "2026-11-17T17:21+00:00",
  "stanje": {
   "azurirano": "2026-11-17",
   "izbori": "2026-10-25",
@@ -61,6 +61,16 @@
   },
   {
    "datum": "2026-11-17",
+   "izvor": "Insajder / Razglas",
+   "kategorija": "bezbednost",
+   "naslov": "Viši sud odredio pritvor i raspisao poternicu za Milanom Radoičićem",
+   "red": 78,
+   "sazetak": "Viši sud u Beogradu potvrdio je Insajderu da je za bivšim potpredsednikom Srpske liste Milanom Radoičićem, koji je pod istragom zbog napada u Banjskoj, određen pritvor i raspisana poternica jer se 15. novembra nije javio u policijsku stanicu. Sud navodi da postoje okolnosti koje ukazuju da se krije ili je pobegao.",
+   "url": "https://razglas-news.com/2026/11/17/insajder-za-milanom-radoicicem-raspisana-poternica/",
+   "id": "v477"
+  },
+  {
+   "datum": "2026-11-17",
    "izvor": "Radar / N1",
    "kategorija": "bezbednost",
    "naslov": "Radar: direktor VBA Đuro Jovanić penzionisan na lični zahtev, novi šef Nenad Nešović",
@@ -111,6 +121,26 @@
   },
   {
    "datum": "2026-11-17",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Smederevo proglasilo vanrednu situaciju zbog problema sa odlaganjem komunalnog otpada",
+   "red": 45,
+   "sazetak": "Gradski štab za vanredne situacije proglasio je vanrednu situaciju zbog opasnosti od zaraznih bolesti jer otpad ne može da se sakuplja i bezbedno odlaže; JKP „Zelenilo i groblja” treba hitnom nabavkom da nađe sanitarnu deponiju. Gradonačelnica Jasmina Vojinović uhapšena je 12. novembra zbog sumnje na nelegalnu deponiju.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6085769/smederevo-komunalni-otpad-vanredna-situacija.html",
+   "id": "v481"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "Treće OJT",
+   "kategorija": "bezbednost",
+   "naslov": "Uhapšeno još šest osoba zbog pretnji novinarki Brankici Stanković",
+   "red": 42,
+   "sazetak": "Po nalogu Trećeg OJT u Beogradu 16. novembra uhapšeno je još šest osoba zbog sumnje na ugrožavanje sigurnosti novinarke Brankice Stanković pretećim skandiranjem na utakmici Partizan – Makabi 6. novembra. Određeno im je zadržavanje do 48 sati i 17. novembra su sprovedeni na saslušanje.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27303/",
+   "id": "v478"
+  },
+  {
+   "datum": "2026-11-17",
    "izvor": "N1",
    "kategorija": "institucije",
    "naslov": "Vučić u Skupštini: SBPOK oduzeo službeni telefon ministru pravde Vujiću i pozvao ga na informativni razgovor",
@@ -118,6 +148,26 @@
    "sazetak": "Aleksandar Vučić tvrdi da su pripadnici SBPOK-a 16. novembra oduzeli službeni telefon ministru pravde u tehničkom mandatu Nenadu Vujiću i pozvali ga na informativni razgovor, povezujući to sa navodima o deljenju cigareta u zatvorima pred izbore. MUP i Ministarstvo pravde to nisu potvrdili.",
    "url": "https://n1info.rs/vesti/vucic-pripadnici-sbpok-a-oteli-ministru-vujicu-telefon-i-pozvali-ga-na-informativni-razgovor/",
    "id": "v475"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "Prvi osnovni sud / Razglas",
+   "kategorija": "bezbednost",
+   "naslov": "Određen pritvor do 30 dana napadaču na reportera N1 Mladena Savatovića",
+   "red": 40,
+   "sazetak": "Prvi osnovni sud u Beogradu odredio je pritvor do 30 dana okrivljenom Ž. J. zbog sumnje da je 2. oktobra na Trgu Nikole Pašića ugrozio sigurnost reportera N1 Mladena Savatovića, zbog opasnosti od bekstva i ponavljanja dela.",
+   "url": "https://razglas-news.com/2026/11/17/odreden-pritvor-napadacu-na-reportera-n1-mladena-savatovica/",
+   "id": "v482"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "RTV / DRI",
+   "kategorija": "korupcija",
+   "naslov": "DRI: za sanaciju divljih deponija potrošeno više od 60 miliona dinara, a otpad se ponovo odlaže na 225 od 230 lokacija",
+   "red": 40,
+   "sazetak": "Revizija svrsishodnosti Državne revizorske institucije pokazala je da je u Nišu, Vranju i Požarevcu 2024. i 2025. za sanaciju divljih deponija utrošeno više od 60 miliona dinara, dok je otpad ponovo odlagan na gotovo svim evidentiranim lokacijama. Pronađene su i 183 neregistrovane deponije.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/dri-za-sanacije-divljih-deponija-vise-od-60-miliona-dinara-a-deponije-rade-punom-parom_1759399.html",
+   "id": "v484"
   },
   {
    "datum": "2026-11-16",
@@ -161,6 +211,16 @@
   },
   {
    "datum": "2026-11-16",
+   "izvor": "RTV / Tanjug",
+   "kategorija": "mediji",
+   "naslov": "Savet REM-a izrekao nove mere TV Informer: zabrane emisija i oglašavanja",
+   "red": 62,
+   "sazetak": "Savet REM-a zabranio je emitovanje emisije „Info jutro” na 15 dana, „Srpskog dnevnika” na 10 dana i oglašavanje na 10 dana, između ostalog zbog difamacije kandidata Studentske liste; zastupnik Informera odbacio je navode. Istog dana policija je uhapsila muškarca koji je nožem pretio ispred zgrade REM-a.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/savet-rem-a-izrekao-nove-tri-kaznene-mere-informeru;-incident-ispred-prostorija-rem-a-okoncan-hapsenjem-nasilnika_1759108.html",
+   "id": "v480"
+  },
+  {
+   "datum": "2026-11-16",
    "izvor": "RTS",
    "kategorija": "institucije",
    "naslov": "Razrešen direktor Jovine gimnazije Radivoje P. Stojković",
@@ -198,6 +258,16 @@
    "sazetak": "Željko Jovićević, koji je 2. oktobra na Trgu Nikole Pašića pretio reporteru N1 da će mu „razbiti glavu” i krajem oktobra mu ponovo uputio pretnje, uhapšen je i zadržan do 48 sati.",
    "url": "https://razglas-news.com/2026/11/16/uhapsen-napadac-na-reportera-n1-mladena-savatovica-odredeno-mu-zadrzavanje/",
    "id": "v460"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTV / RTS",
+   "kategorija": "mediji",
+   "naslov": "Uskoković pozvan u policiju na informativni razgovor zbog intervjua sa Aleksandrom Radićem",
+   "red": 55,
+   "sazetak": "V.d. glavnog urednika Informativnog programa RTS-a Borivoje Uskoković pozvan je, na zahtev Višeg javnog tužilaštva u Beogradu, na informativni razgovor u svojstvu građanina. Poziv se odnosi na predistražni postupak zbog intervjua sa Aleksandrom Radićem, za kojim je raspisana poternica, emitovanog u Drugom dnevniku 30. oktobra.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/uskokovic-pozvan-na-informativni-razgovor-u-policiju-zbog-intervjua-sa-radicem_1759193.html",
+   "id": "v479"
   },
   {
    "datum": "2026-11-16",
@@ -308,6 +378,16 @@
    "sazetak": "Savet roditelja saopštio je da je Ministarstvo prosvete primilo ostavku dan pre isteka roka za razrešenje i da očekuje i razrešenje privremenog školskog odbora.",
    "url": "https://razglas-news.com/2026/11/16/direktorka-devete-gimnazije-podnela-ostavku-dan-pre-isteka-roka-koji-su-joj-dali-roditelji/",
    "id": "v467"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "Transparentnost Srbija",
+   "kategorija": "korupcija",
+   "naslov": "Tehnička vlada: EPS ugovorio specijalistički nadzor pumpi u TENT-A bez javnog poziva",
+   "red": 20,
+   "sazetak": "EPS je u pregovaračkom postupku bez objave javnog poziva ugovorio specijalistički nadzor nad radovima na napojnim pumpama Sulzer u TENT-A vredan 16 miliona dinara. Transparentnost Srbija ovaj akt svrstava u kategoriju „najviši rizik”, što je ocena organizacije, a ne utvrđena nezakonitost.",
+   "url": "https://tehnickavlada.rs/akt/3147",
+   "id": "v483"
   },
   {
    "datum": "2026-11-15",
@@ -4861,6 +4941,20 @@
    "id": "h82"
   },
   {
+   "datum": "2026-11-17",
+   "izvori": [
+    "https://razglas-news.com/2026/11/17/insajder-za-milanom-radoicicem-raspisana-poternica/",
+    "https://n1info.rs/vesti/gde-je-milan-radoicic/"
+   ],
+   "naslov": "Određen pritvor i raspisana poternica za Milanom Radoičićem",
+   "opis": "Viši sud u Beogradu odredio je pritvor i raspisao poternicu za bivšim potpredsednikom Srpske liste Milanom Radoičićem, koji je pod istragom zbog oružanog napada u Banjskoj 2023, jer se 15. novembra nije javio u policijsku stanicu, što mu je bila izrečena mera. Sud navodi okolnosti koje ukazuju da se krije ili je pobegao; ranije su mediji navodili da boravi u Rusiji, što nije zvanično potvrđeno.",
+   "osobe": "Milan Radoičić · Viši sud u Beogradu",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "incident",
+   "id": "h101"
+  },
+  {
    "datum": "2026-11-16",
    "izvori": [
     "https://n1info.rs/vesti/krik-agencija-prijavila-djedovic-handanovic-zbog-prikrivanja-imovine/",
@@ -4873,6 +4967,23 @@
    "status": "zvanicno",
    "tip": "prijava",
    "id": "h98"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvori": [
+    "https://trece.ojt.rs/aktuelnosti/27314/",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1499/",
+    "https://n1info.rs/vesti/trece-ojt-odlukom-vjt-ponovo-izuzeta-nasa-glavna-tuziteljka-u-slucaju-belgrade-eye-ali-nas-nece-pokolebati/",
+    "https://n1info.rs/vesti/milenijum-tim-najavljuje-krivicnu-prijavu-protiv-glavne-tuziteljke-treceg-ojt/",
+    "https://www.krik.rs/ko-su-vlasnici-milenijum-tima-cije-hapsenje-trazi-tuzilastvo/"
+   ],
+   "naslov": "„Belgrade Eye”: nalog za hapšenje zastupnika „Beograda na vodi” i „Millennium Team”, predmet prenet Prvom OJT",
+   "opis": "Treće OJT je zbog izgradnje panoramskog točka bez građevinske dozvole 16. novembra izdalo usmeni nalog za hapšenje zakonskog zastupnika „Beograda na vodi” Z. B. i tri odgovorna lica „Millennium Team”, ali zadržavanje nije sprovedeno, odnosno ukinuto je, posle zahteva za izuzeće. 17. nov: VJT u Beogradu usvojilo je izuzeće glavne tužiteljke Trećeg OJT i naložilo Prvom OJT da hitno nastavi postupak; „Millennium Team” najavljuje krivičnu prijavu protiv tužiteljke. Navodi tužilaštva nisu sudski utvrđeni.",
+   "osobe": "Beograd na vodi · Millennium Team · Ivana Stojiljković Pomoriški · Treće OJT · VJT u Beogradu · Prvo OJT",
+   "red": 72,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h103"
   },
   {
    "datum": "2026-11-16",
@@ -4915,6 +5026,19 @@
    "status": "zvanicno",
    "tip": "ostavka",
    "id": "h99"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6085114/predstavnici-srba-sa-kim-podneli-krivicnu-prijavu-protiv-vucica-dacica-brnabiceve-petkovica-i-rakica.html"
+   ],
+   "naslov": "Pokret „Otadžbina” podneo krivičnu prijavu protiv Vučića, Dačića, Brnabić, Petkovića i Rakića zbog sporazuma o KiM",
+   "opis": "Predstavnici Srba sa Kosova i Metohije podneli su VJT u Beogradu krivičnu prijavu na 25 strana zbog sumnje na prekoračenje ustavnih i zakonskih ovlašćenja u dijalogu o KiM i sprovođenju sporazuma. Reč je o prijavi građana; tužilaštvo nije saopštilo da li je formiralo predmet.",
+   "osobe": "Aleksandar Vučić · Ivica Dačić · Ana Brnabić · Petar Petković · Goran Rakić · Momčilo Trajković · Marko Jakšić",
+   "red": 60,
+   "status": "navod",
+   "tip": "prijava",
+   "id": "h102"
   },
   {
    "datum": "2026-11-14",
@@ -5061,10 +5185,12 @@
     "https://beograd.vjt.rs/aktuelnosti/tendenciozni-zakljucci-komisije/",
     "https://beograd.vjt.rs/aktuelnosti/disciplinska-prijava-protiv-branka-stamenkovica/",
     "https://www.rts.rs/lat/vesti/drustvo/6081804/udruzenje-tuzilaca-srbije.html",
-    "https://www.rts.rs/lat/vesti/politika/6081630/ministarstvo-pravde-izvestaj-komisije-vrhovnog-tuzilastva-iz-vise-razloga.html"
+    "https://www.rts.rs/lat/vesti/politika/6081630/ministarstvo-pravde-izvestaj-komisije-vrhovnog-tuzilastva-iz-vise-razloga.html",
+    "https://n1info.rs/vesti/jtok-za-n1-formiran-predmet-o-izvestaju-komisije-vjt-postupamo-po-njemu/",
+    "https://beograd.vjt.rs/aktuelnosti/reagovanje-29/"
    ],
    "naslov": "Komisija Vrhovnog javnog tužilaštva: osnovi sumnje protiv glavnog tužioca VJT u Beogradu, izveštaj prosleđen JTOK-u",
-   "opis": "Komisija formirana 27. oktobra utvrdila je u prvom izveštaju (od 9. nov) sistemske nepravilnosti u predmetima „zvučni top”, pretres Filozofskog fakulteta i Rektorata, pomilovanja, „Vista Rica”, povređivanje studenata i napad kod FDU. Predloženi su krivični i disciplinski postupci, postupak za razrešenje i udaljenje glavnog tužioca Nenada Stefanovića i zamenika Miodraga Markovića, a dokumentacija je upućena JTOK-u. VJT u Beogradu odbacuje navode kao neutemeljene i osporava sastav Komisije. 10. nov: Stefanović je TOK-u podneo krivičnu prijavu protiv predsednika Komisije Gorana Ilića zbog zloupotrebe službenog položaja i ometanja pravde, tvrdeći da ga je Ilić 30. oktobra pozvao na ostavku. 12. nov: Stefanović podneo disciplinsku prijavu protiv člana Komisije Branka Stamenkovića; Udruženje tužilaca traži utvrđivanje individualne odgovornosti, a Ministarstvo pravde u tehničkom mandatu dovodi izveštaj u pitanje.",
+   "opis": "Komisija formirana 27. oktobra utvrdila je u prvom izveštaju (od 9. nov) sistemske nepravilnosti u predmetima „zvučni top”, pretres Filozofskog fakulteta i Rektorata, pomilovanja, „Vista Rica”, povređivanje studenata i napad kod FDU. Predloženi su krivični i disciplinski postupci, postupak za razrešenje i udaljenje glavnog tužioca Nenada Stefanovića i zamenika Miodraga Markovića, a dokumentacija je upućena JTOK-u. VJT u Beogradu odbacuje navode kao neutemeljene i osporava sastav Komisije. 10. nov: Stefanović je TOK-u podneo krivičnu prijavu protiv predsednika Komisije Gorana Ilića zbog zloupotrebe službenog položaja i ometanja pravde, tvrdeći da ga je Ilić 30. oktobra pozvao na ostavku. 12. nov: Stefanović podneo disciplinsku prijavu protiv člana Komisije Branka Stamenkovića; Udruženje tužilaca traži utvrđivanje individualne odgovornosti, a Ministarstvo pravde u tehničkom mandatu dovodi izveštaj u pitanje. 17. nov: JTOK je potvrdio N1 da je po izveštaju formirao predmet i da postupa; VJT u Beogradu optužuje Stamenkovića za pritisak na JTOK i disciplinske organe.",
    "osobe": "Nenad Stefanović · Miodrag Marković · Vrhovno javno tužilaštvo · JTOK · VJT u Beogradu",
    "red": 88,
    "status": "zvanicno",
@@ -6504,6 +6630,30 @@
    "uloga": "Predsednik Narodne skupštine",
    "url": "https://www.rts.rs/lat/vesti/politika/6081145/vucic-konferencija-mediji-obracanje.html",
    "id": "f01"
+  },
+  {
+   "ime": "Jovo Bakić",
+   "lista": "Studentska lista",
+   "napomena": "Sociolog, profesor Filozofskog fakulteta u Beogradu; zamenica predsednika grupe je Aleksandra Štimac.",
+   "od": "2026-11-17",
+   "organ": "skupstina",
+   "red": 85,
+   "status": "izabran",
+   "uloga": "Predsednik poslaničke grupe „Studentska lista”",
+   "url": "https://razglas-news.com/2026/11/17/jovo-bakic-je-sef-poslanicke-grupe-studentske-liste/",
+   "id": "f03"
+  },
+  {
+   "ime": "Aleksandar Vučić",
+   "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+   "napomena": "Bivši predsednik Srbije; zamenik predsednika grupe je Milenko Jovanov.",
+   "od": "2026-11-17",
+   "organ": "skupstina",
+   "red": 84,
+   "status": "izabran",
+   "uloga": "Predsednik poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”",
+   "url": "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
+   "id": "f04"
   }
  ],
  "sednice": [
