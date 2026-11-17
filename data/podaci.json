@@ -1,7 +1,7 @@
 {
- "generisano": "2026-11-16T15:13+00:00",
+ "generisano": "2026-11-17T17:17+00:00",
  "stanje": {
-  "azurirano": "2026-11-11",
+  "azurirano": "2026-11-17",
   "izbori": "2026-10-25",
   "mandati": 140,
   "procenat": "53,01%",
@@ -15,14 +15,110 @@
     "mandati": 103
    },
    {
-    "lista": "Liste nacionalnih manjina",
-    "mandati": 7
+    "lista": "Savez vojvođanskih Mađara – dr Balint Pastor",
+    "mandati": 2
+   },
+   {
+    "lista": "Albanska koalicija",
+    "mandati": 2
+   },
+   {
+    "lista": "Rasim Ljajić – Ljudski (SDP – CDP)",
+    "mandati": 1
+   },
+   {
+    "lista": "SDA Sandžaka – Čuvari Sandžaka",
+    "mandati": 1
+   },
+   {
+    "lista": "Usame Zukorlić (SPP) – Pokret za ujedinjenje",
+    "mandati": 1
    }
   ],
-  "skupstina": "Nije konstituisana; konstitutivna sednica zakazana za 17. nov 2026.",
-  "vlada": "Nije formirana (tehnički mandat)"
+  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); izbor predsednika u toku, nastavak 18. nov.",
+  "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-17",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Konstituisan 15. saziv Narodne skupštine; za predsednika predloženi Aleksandar Čupić i Stojan Radenović",
+   "red": 97,
+   "sazetak": "Potvrđeni su mandati svih 250 poslanika, koji su položili zakletvu, čime je Skupština konstituisana i počeo da teče rok od 90 dana za izbor Vlade. Poslaničku grupu „Studentska lista” vodi Jovo Bakić, a grupu „Aleksandar Vučić – Srbija pobeđuje” Aleksandar Vučić. Studentska lista predložila je za predsednika Skupštine docenta Saobraćajnog fakulteta Aleksandra Čupića, a SNS Stojana Radenovića; rasprava se nastavlja 18. novembra u 10 časova.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
+   "id": "v468"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "Prvo OJT Beograd",
+   "kategorija": "hapsenje",
+   "naslov": "Marko Kričak saslušan zbog zlostavljanja studenata u garaži Vlade, tužilaštvo traži pritvor",
+   "red": 85,
+   "sazetak": "Prvo osnovno javno tužilaštvo u Beogradu saslušalo je bivšeg komandanta Jedinice za zaštitu određenih ličnosti i objekata Marka Krička, za kog sumnja da je sa još devetoricom ranije saslušanih u noći 14/15. avgusta 2025. zlostavljao deset osoba u garaži Vlade. Prvom osnovnom sudu predložen je pritvor zbog opasnosti od uticaja na svedoke.",
+   "url": "https://prvo.ojt.rs/aktuelnosti/s-a-o-p-s-t-e-nj-e-210/",
+   "id": "v470"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "Radar / N1",
+   "kategorija": "bezbednost",
+   "naslov": "Radar: direktor VBA Đuro Jovanić penzionisan na lični zahtev, novi šef Nenad Nešović",
+   "red": 75,
+   "sazetak": "Prema pisanju Radara, Đuro Jovanić penzionisan je 16. novembra na lični zahtev, koji je prihvatila v.d. predsednika Ana Brnabić, a za novog direktora VBA imenovan je Nenad Nešović. Uzbunjivač Novica Antić potvrdio je penzionisanje; zvanično saopštenje nije objavljeno.",
+   "url": "https://n1info.rs/vesti/radar-penzionisan-sef-vba-djuro-jovanic/",
+   "id": "v471"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "JTOK: formiran predmet po izveštaju Komisije Vrhovnog javnog tužilaštva o radu VJT u Beogradu",
+   "red": 65,
+   "sazetak": "Tužilaštvo za organizovani kriminal potvrdilo je za N1 da je formiralo predmet povodom prvog izveštaja Komisije VJT od 10. novembra, u kom se navode osnovi sumnje da je glavni tužilac VJT u Beogradu Nenad Stefanović kršio zakon, i da po njemu postupa. VJT u Beogradu istog dana optužilo je člana Komisije Branka Stamenkovića za pritisak na JTOK i disciplinske organe.",
+   "url": "https://n1info.rs/vesti/jtok-za-n1-formiran-predmet-o-izvestaju-komisije-vjt-postupamo-po-njemu/",
+   "id": "v472"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "RTV",
+   "kategorija": "bezbednost",
+   "naslov": "Poslanica Lidija Vukićević polivena jogurtom ispred Skupštine; Studentska lista: protiv smo svakog nasilja",
+   "red": 60,
+   "sazetak": "Pri dolasku poslanika na konstitutivnu sednicu, dok su okupljeni građani zviždali kandidatima liste „Ujedinjena Srbija”, jedna osoba polila je Lidiju Vukićević jogurtom. Vučić tvrdi da je poslanica fizički napadnuta i traži izvinjenje, a poslanik Studentske liste Željko Hubač rekao je da taj čin ne predstavlja vrednosti liste.",
+   "url": "https://www.rtv.rs/sr_lat/politika/polemika-u-skupstini-o-izvinjenju-lidiji-vukicevic;-bakic-vucic-krsio-poslovnik-a-radenovic-ga-ne-opominje_1759411.html",
+   "id": "v469"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "Slučaj „Belgrade Eye”: VJT izuzelo glavnu tužiteljku Trećeg OJT, predmet preuzima Prvo OJT",
+   "red": 60,
+   "sazetak": "Posle naloga Trećeg OJT za hapšenje zakonskog zastupnika „Beograda na vodi” i odgovornih lica „Millennium Team-a” zbog sumnje na radove na panoramskom točku bez građevinske dozvole, glavni tužilac VJT u Beogradu usvojio je zahtev osumnjičenog za izuzeće glavne tužiteljke Ivane Stojiljković Pomoriški i naložio Prvom OJT da hitno nastavi postupak. Treće OJT poručilo je da ga odluka neće pokolebati, a Millennium Team najavio je krivičnu prijavu protiv tužiteljke.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1499/",
+   "id": "v473"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Vlada u tehničkom mandatu preusmerila gotovo pet milijardi dinara iz budžetske rezerve",
+   "red": 55,
+   "sazetak": "Tri rešenja objavljena u Službenom glasniku preusmeravaju 4,992 milijarde dinara za energetski sektor, Srbija kargo i likvidnost 74 lokalne samouprave. Deo novca povučen je sa projekata nove zgrade Prirodnjačkog muzeja (2,05 mlrd), eksproprijacije za kapitalne projekte (1,38 mlrd), metroa i Đerdapa 3.",
+   "url": "https://www.rtv.rs/sr_lat/ekonomija/aktuelno/vlada-preusmerila-pet-milijardi-dinara-iz-rezerve-za-energetiku-zeleznicu-i-pomoc-opstinama_1759338.html",
+   "id": "v474"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Vučić u Skupštini: SBPOK oduzeo službeni telefon ministru pravde Vujiću i pozvao ga na informativni razgovor",
+   "red": 40,
+   "sazetak": "Aleksandar Vučić tvrdi da su pripadnici SBPOK-a 16. novembra oduzeli službeni telefon ministru pravde u tehničkom mandatu Nenadu Vujiću i pozvali ga na informativni razgovor, povezujući to sa navodima o deljenju cigareta u zatvorima pred izbore. MUP i Ministarstvo pravde to nisu potvrdili.",
+   "url": "https://n1info.rs/vesti/vucic-pripadnici-sbpok-a-oteli-ministru-vujicu-telefon-i-pozvali-ga-na-informativni-razgovor/",
+   "id": "v475"
+  },
   {
    "datum": "2026-11-16",
    "izvor": "VJT Novi Sad",
@@ -152,6 +248,16 @@
    "sazetak": "OJT u Kragujevcu primilo je prijavu protiv NN lica iz Gradske uprave i još jedne osobe zbog zloupotrebe službenog položaja u vezi sa biračkim spiskovima i podacima građana. Prijava je istog dana ustupljena Posebnom odeljenju za suzbijanje korupcije VJT u Kraljevu.",
    "url": "https://n1info.rs/vesti/krivicna-prijava-protiv-radnika-gradske-uprave-kragujevca-zbog-sumnje-na-zloupotrebu-birackih-spiskova-i-podataka-gradjana/",
    "id": "v462"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Predstavnici Srba sa KiM podneli krivičnu prijavu protiv Vučića, Dačića, Brnabić, Petkovića i Rakića",
+   "red": 45,
+   "sazetak": "Pokret „Otadžbina” Momčila Trajkovića podneo je Višem javnom tužilaštvu u Beogradu prijavu zbog sumnje da su prijavljeni prekoračili ustavna i zakonska ovlašćenja u vezi sa sporazumima o Kosovu i Metohiji. Reč je o prijavi građana, o kojoj tužilaštvo tek treba da odluči.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6085114/predstavnici-srba-sa-kim-podneli-krivicnu-prijavu-protiv-vucica-dacica-brnabiceve-petkovica-i-rakica.html",
+   "id": "v476"
   },
   {
    "datum": "2026-11-16",
@@ -4742,13 +4848,15 @@
     "https://www.rts.rs/lat/vesti/politika/6079105/brnabic-konstitutivna-sednica-17-novembra-u-10-casova.html",
     "https://www.rtv.rs/sr_lat/politika/brnabic-konstitutivna-sednica-17.-novembra-od-10-sati-sest-tacaka-dnevnog-reda_1757273.html",
     "https://n1info.rs/vesti/ana-brnabic-sednica-skupstine-17-novembra/",
-    "https://studenti.org.rs/vesti/izvesta_konsultacija/"
+    "https://studenti.org.rs/vesti/izvesta_konsultacija/",
+    "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
+    "https://www.rtv.rs/sr_lat/politika/konstituisanjem-parlamenta-poceo-da-tece-rok-od-90-dana-za-izbor-nove-vlade-srbije_1759344.html"
    ],
-   "naslov": "Konstitutivna sednica Narodne skupštine novog saziva",
-   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović. 13. nov: na konsultacijama sve liste su se složile da glasanje bude javno; Studentska lista je zatražila da se sednica nastavi odmah posle verifikacije mandata.",
-   "osobe": "Ana Brnabić · Stojan Radenović · Narodna skupština",
+   "naslov": "Konstituisan 15. saziv Narodne skupštine",
+   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović. 13. nov: na konsultacijama sve liste su se složile da glasanje bude javno; Studentska lista je zatražila da se sednica nastavi odmah posle verifikacije mandata. 17. nov: sednica je počela u 10 časova; komisija (Dražen Drašković i Petar Mitov sa Studentske liste, Vjerica Radeta sa liste „Ujedinjena Srbija”) verifikovala je mandate svih 250 poslanika, koji su položili zakletvu, čime je Skupština konstituisana i počeo da teče rok od 90 dana za izbor Vlade. Obrazovane su poslaničke grupe „Studentska lista” (šef Jovo Bakić, zamenica Aleksandra Štimac) i „Aleksandar Vučić – Srbija pobeđuje” (šef Aleksandar Vučić, zamenik Milenko Jovanov). Za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović; rasprava se nastavlja 18. novembra u 10 časova.",
+   "osobe": "Stojan Radenović · Aleksandar Čupić · Jovo Bakić · Aleksandar Vučić · Narodna skupština",
    "red": 95,
-   "status": "najavljeno",
+   "status": "zvanicno",
    "tip": "korak",
    "id": "h82"
   },
@@ -4765,6 +4873,19 @@
    "status": "zvanicno",
    "tip": "prijava",
    "id": "h98"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvori": [
+    "https://n1info.rs/vesti/radar-penzionisan-sef-vba-djuro-jovanic/"
+   ],
+   "naslov": "Radar: direktor VBA Đuro Jovanić penzionisan, novi šef Nenad Nešović",
+   "opis": "Prema Radaru, direktor Vojnobezbednosne agencije Đuro Jovanić penzionisan je na lični zahtev, koji je prihvatila v.d. predsednika Ana Brnabić, i za novog direktora imenovan je Nenad Nešović. Uzbunjivač Novica Antić, koji je Jovanića optuživao za prisluškivanja, potvrdio je penzionisanje. Zvanična potvrda nije objavljena.",
+   "osobe": "Đuro Jovanić · Nenad Nešović · Ana Brnabić · VBA",
+   "red": 70,
+   "status": "navod",
+   "tip": "ostavka",
+   "id": "h100"
   },
   {
    "datum": "2026-11-16",
@@ -5331,11 +5452,13 @@
     "https://www.telegraf.rs/vesti/hronika/4427799-saslusani-zmiric-i-vukovic-zbog-torture-u-garazi-vlade-predlozen-pritvor-za-komandanta-saj-a-i-policajce",
     "https://n1info.rs/vesti/odredjen-pritvor-zmiricu-i-osumnjicenima-u-slucaju-zlostavljanja-studenata-u-garazi-vlade-srbije",
     "https://n1info.rs/vesti/igor-zmiric-privremeno-udaljen-sa-rada/",
-    "https://vreme.com/vesti/zlostavljanje-i-mucenje-igor-zmiric-marko-kricak/"
+    "https://vreme.com/vesti/zlostavljanje-i-mucenje-igor-zmiric-marko-kricak/",
+    "https://prvo.ojt.rs/aktuelnosti/s-a-o-p-s-t-e-nj-e-210/",
+    "https://n1info.rs/vesti/marko-kricak-saslusan-u-vezi-sa-zlostavljanjem-studenata-u-garazi-vlade/"
    ],
    "naslov": "Komandantu SAJ-a Igoru Žmiriću i još osmorici određen pritvor zbog zlostavljanja u garaži Vlade",
-   "opis": "MUP je saopštio da je po nalogu Prvog OJT u Beogradu određeno zadržavanje do 48 sati za osam policijskih službenika i jednog bivšeg službenika, zbog sumnje na zlostavljanje i mučenje u garaži zgrade Vlade u Nemanjinoj, u noći 14/15. avgusta 2025. Prema MUP-u, primenom sile i pretnji naneli su veliki bol i teške patnje većem broju lica. Prvo OJT je saslušalo svih devetoro i predložilo im pritvor; oštećeno je deset osoba. 6. nov: Prvi osnovni sud u Beogradu odredio je pritvor do 30 dana svoj devetorici, sadašnjim i bivšim pripadnicima Jedinice za obezbeđenje određenih ličnosti i objekata, zbog opasnosti od uticaja na svedoke i uznemirenja javnosti; žalba je moguća u roku od tri dana. MUP je istog dana privremeno udaljio Žmirića sa rada, a dužnost preuzima zamenik. Prema Telegrafu, prvookrivljeni je Marko Kričak, koji je već u pritvoru. Navodi tužilaštva nisu sudski utvrđeni.",
-   "osobe": "Igor Žmirić (I.Ž., komandant SAJ-a) · Milan Vuković · Marko Kričak · MUP · Prvo OJT u Beogradu · Prvi osnovni sud u Beogradu",
+   "opis": "MUP je saopštio da je po nalogu Prvog OJT u Beogradu određeno zadržavanje do 48 sati za osam policijskih službenika i jednog bivšeg službenika, zbog sumnje na zlostavljanje i mučenje u garaži zgrade Vlade u Nemanjinoj, u noći 14/15. avgusta 2025. Prema MUP-u, primenom sile i pretnji naneli su veliki bol i teške patnje većem broju lica. Prvo OJT je saslušalo svih devetoro i predložilo im pritvor; oštećeno je deset osoba. 6. nov: Prvi osnovni sud u Beogradu odredio je pritvor do 30 dana svoj devetorici, sadašnjim i bivšim pripadnicima Jedinice za obezbeđenje određenih ličnosti i objekata, zbog opasnosti od uticaja na svedoke i uznemirenja javnosti; žalba je moguća u roku od tri dana. MUP je istog dana privremeno udaljio Žmirića sa rada, a dužnost preuzima zamenik. Prema Telegrafu, prvookrivljeni je Marko Kričak, koji je već u pritvoru. Navodi tužilaštva nisu sudski utvrđeni. 17. nov: Prvo OJT saslušalo je i Marka Krička (M.K., 1983), za kog se sumnja da je u saizvršilaštvu sa devetoricom ranije saslušanih učestvovao u zlostavljanju, i Prvom osnovnom sudu predložilo pritvor zbog opasnosti od uticaja na svedoke.",
+   "osobe": "Igor Žmirić (I.Ž., komandant SAJ-a) · Milan Vuković · Marko Kričak · MUP · Prvo OJT u Beogradu · Prvi osnovni sud u Beogradu · Marko Kričak",
    "red": 94,
    "status": "zvanicno",
    "tip": "hapsenje",
@@ -6148,12 +6271,12 @@
  ],
  "obecanja": [
   {
-   "azurirano": "2026-11-14",
+   "azurirano": "2026-11-17",
    "datum": "2026-10-29",
-   "napomena": "1. nov: ponovljeno glasanje na 53 mesta. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. 5. nov: RIK proglasio konačne rezultate, Studentskoj listi 140 mandata, čime je ispunjen prvi deo zahteva. Počeo je rok od 30 dana za konstituisanje Skupštine. 6. nov: RIK dodelio mandate poslanicima; Đenadić rekao da lista očekuje što skorije zakazivanje konstitutivne sednice; Vlada u tehničkom mandatu saopštila je da očekuje konstituisanje u najkraćem roku. 8. nov: Brnabić zakazala konstitutivnu sednicu za 17. novembar u 10 časova. 13. nov: na konsultacijama Studentska lista zatražila je da se sednica nastavi odmah posle verifikacije mandata; dogovoreno javno glasanje.",
+   "napomena": "1. nov: ponovljeno glasanje na 53 mesta. 2. nov: RIK objavio rezultate sa svih 8.392 mesta (53,01%); Brnabić najavila da će sednicu sazvati odmah posle konačnih rezultata. 4. nov: Saičić rekao da su kandidati spremni i da sazivanje sednice zavisi od Brnabić; razgovori o sastavu vlade nisu završeni. 5. nov: RIK proglasio konačne rezultate, Studentskoj listi 140 mandata, čime je ispunjen prvi deo zahteva. Počeo je rok od 30 dana za konstituisanje Skupštine. 6. nov: RIK dodelio mandate poslanicima; Đenadić rekao da lista očekuje što skorije zakazivanje konstitutivne sednice; Vlada u tehničkom mandatu saopštila je da očekuje konstituisanje u najkraćem roku. 8. nov: Brnabić zakazala konstitutivnu sednicu za 17. novembar u 10 časova. 13. nov: na konsultacijama Studentska lista zatražila je da se sednica nastavi odmah posle verifikacije mandata; dogovoreno javno glasanje. 17. nov: na konstitutivnoj sednici potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana, 12 dana posle proglašenja konačnih rezultata; izbor predsednika Skupštine nastavlja se 18. novembra.",
    "naslov": "Konačni rezultati i konstituisanje Skupštine bez odlaganja",
    "opis": "Zahtev RIK-u i nadležnim organima da poštuju zakonske rokove i što pre proglase konačne rezultate.",
-   "status": "u_toku",
+   "status": "ispunjeno",
    "url": "https://studenti.org.rs/vesti/pionirski_park/",
    "id": "o01"
   },
@@ -6196,9 +6319,9 @@
    "id": "o05"
   },
   {
-   "azurirano": "2026-11-11",
+   "azurirano": "2026-11-17",
    "datum": "2026-10-29",
-   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. 6. nov: Žmiriću određen pritvor, a MUP ga privremeno udaljio sa rada; kandidati Studentske liste podneli TOK-u krivičnu prijavu protiv tužioca Nenada Stefanovića. 10. nov: Komisija Vrhovnog javnog tužilaštva predložila postupak za razrešenje i udaljenje Stefanovića i prosledila izveštaj JTOK-u; VJT u Beogradu odbacuje navode. Stefanović je istog dana TOK-u prijavio predsednika Komisije Gorana Ilića. 11. nov: Radar je objavio da je smenjen zamenik direktora BIA Tomislav Radovanović, što BIA demantuje. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene.",
+   "napomena": "1. nov: VJT u Beogradu potvrdio hapšenje načelnika UKP Marka Krička i Boška Sekulovića (slučaj „Senjak”); 3. nov: Viši sud im odredio pritvor do 30 dana, a MUP ih privremeno udaljio s rada. 4. nov: uhapšen komandant SAJ-a Igor Žmirić; NUNS zatražio hitnu smenu direktora BIA Orlića. 5. nov: TOK saopštio da je zatražio od SBPOK-a provere i razgovor s Orlićem po krivičnoj prijavi; Danas navodi da UKP sada vodi zamenik Nevenko Marić, što stručnjaci osporavaju. 6. nov: Žmiriću određen pritvor, a MUP ga privremeno udaljio sa rada; kandidati Studentske liste podneli TOK-u krivičnu prijavu protiv tužioca Nenada Stefanovića. 10. nov: Komisija Vrhovnog javnog tužilaštva predložila postupak za razrešenje i udaljenje Stefanovića i prosledila izveštaj JTOK-u; VJT u Beogradu odbacuje navode. Stefanović je istog dana TOK-u prijavio predsednika Komisije Gorana Ilića. 11. nov: Radar je objavio da je smenjen zamenik direktora BIA Tomislav Radovanović, što BIA demantuje. Smene čelnika BIA, VBA, Ustavnog suda i VJT još nisu sprovedene. 17. nov: Radar javlja da je direktor VBA Đuro Jovanić 16. novembra penzionisan na lični zahtev, a da je v.d. predsednika Ana Brnabić za novog šefa VBA imenovala Nenada Nešovića; zvanične potvrde nema. Prvo OJT saslušalo je Marka Krička i u slučaju zlostavljanja studenata u garaži Vlade i predložilo pritvor.",
    "naslov": "Smena čelnika policije, BIA, VBA, Ustavnog suda i VJT",
    "opis": "Tražene ostavke: Vasiljević, Orlić, Jovanić, Petrov, Stefanović; smene u vrhu policije (Kričak, Repac i drugi).",
    "status": "najavljeno",
@@ -6361,6 +6484,17 @@
  ],
  "funkcije": [
   {
+   "ime": "Aleksandar Čupić",
+   "lista": "Studentska lista",
+   "napomena": "Docent Saobraćajnog fakulteta u Beogradu; kandidaturu je 17. nov u ime poslaničke grupe „Studentska lista” obrazložio Jugoslav Gašić.",
+   "organ": "skupstina",
+   "red": 99,
+   "status": "predlozen",
+   "uloga": "Predsednik Narodne skupštine",
+   "url": "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
+   "id": "f02"
+  },
+  {
    "ime": "Stojan Radenović",
    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
    "napomena": "Profesor i najstariji poslanik, predsedava konstitutivnom sednicom do izbora predsednika; kandidaturu je 11. nov najavio Aleksandar Vučić, uz ocenu da je većina neće prihvatiti.",
@@ -6381,13 +6515,31 @@
     "https://studenti.org.rs/vesti/s_budna/",
     "https://studenti.org.rs/vesti/sta_dalje/",
     "https://studenti.org.rs/vesti/izvesta_konsultacija/",
-    "https://www.rtv.rs/sr_lat/politika/aleksandra-stimac-sa-studentske-liste-predloge-za-predsednika-i-potpredsednike-predacemo-sutra_1759115.html"
+    "https://www.rtv.rs/sr_lat/politika/aleksandra-stimac-sa-studentske-liste-predloge-za-predsednika-i-potpredsednike-predacemo-sutra_1759115.html",
+    "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
+    "https://studenti.org.rs/vesti/cupic_gasic/",
+    "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-srbije-uzivo-2026/"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
-   "odluke": [],
-   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. Studentska lista najavila je da će predloge za predsednika i potpredsednike predati pisanim putem posle verifikacije mandata.",
+   "odluke": [
+    {
+     "ishod": "usvojeno",
+     "napomena": "Većinom glasova prisutnih; broj glasova nije objavljen.",
+     "naslov": "Obrazovanje tročlane komisije za potvrđivanje mandata (Drašković, Mitov, Radeta)"
+    },
+    {
+     "ishod": "usvojeno",
+     "napomena": "Predsedavajući je konstatovao da su svi mandati potvrđeni i da je Skupština konstituisana; poslanici su položili zakletvu.",
+     "naslov": "Potvrđivanje mandata 250 narodnih poslanika"
+    },
+    {
+     "ishod": "u_raspravi",
+     "naslov": "Izbor predsednika Narodne skupštine (kandidati Aleksandar Čupić i Stojan Radenović)"
+    }
+   ],
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. Studentska lista najavila je da će predloge za predsednika i potpredsednike predati pisanim putem posle verifikacije mandata. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). Rasprava se nastavlja 18. novembra u 10 časova.",
    "organ": "skupstina",
-   "status": "zakazana",
+   "status": "odrzana",
    "id": "s01"
   }
  ]
