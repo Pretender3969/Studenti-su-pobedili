@@ -17,6 +17,11 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
+# Windows konzola podrazumevano nije UTF-8; bez ovoga ispis slova kao „č” ruši skriptu pre slanja.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 SITE_URL = "https://pretender3969.github.io/Studenti-su-pobedili/"
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT.parent / "onesignal.json"
