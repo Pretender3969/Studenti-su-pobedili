@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-17T17:21+00:00",
+ "generisano": "2026-11-18T06:47+00:00",
  "stanje": {
   "azurirano": "2026-11-17",
   "izbori": "2026-10-25",
@@ -48,6 +48,16 @@
    "sazetak": "Potvrđeni su mandati svih 250 poslanika, koji su položili zakletvu, čime je Skupština konstituisana i počeo da teče rok od 90 dana za izbor Vlade. Poslaničku grupu „Studentska lista” vodi Jovo Bakić, a grupu „Aleksandar Vučić – Srbija pobeđuje” Aleksandar Vučić. Studentska lista predložila je za predsednika Skupštine docenta Saobraćajnog fakulteta Aleksandra Čupića, a SNS Stojana Radenovića; rasprava se nastavlja 18. novembra u 10 časova.",
    "url": "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
    "id": "v468"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "Prvi osnovni sud / N1",
+   "kategorija": "hapsenje",
+   "naslov": "Marku Kričku određen pritvor do 30 dana zbog zlostavljanja u garaži Vlade",
+   "red": 86,
+   "sazetak": "Sudija za prethodni postupak Prvog osnovnog suda u Beogradu odredio je pritvor do 30 dana bivšem komandantu Jedinice za obezbeđenje Marku Kričku, osumnjičenom za zlostavljanje i mučenje u saizvršilaštvu u garaži Vlade Srbije u avgustu 2025. Pritvor je određen zbog opasnosti od uticaja na svedoke i uznemirenja javnosti; žalba je moguća u roku od tri dana.",
+   "url": "https://n1info.rs/vesti/novi-pritvor-za-marka-kricka-zbog-sumnje-da-je-ucestvovao-u-zlostavljanju-u-garazi-vlade-srbije/",
+   "id": "v485"
   },
   {
    "datum": "2026-11-17",
@@ -111,6 +121,16 @@
   },
   {
    "datum": "2026-11-17",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "korupcija",
+   "naslov": "VJT u Novom Sadu pokrenulo istragu i predložilo pritvor dekanu Patriku Dridu i bivšem dekanu Nebojši Maksimoviću",
+   "red": 60,
+   "sazetak": "Posebno odeljenje za suzbijanje korupcije VJT u Novom Sadu donelo je naredbu o sprovođenju istrage protiv P. D. i N. M. zbog sumnje na zloupotrebu službenog položaja, saslušalo ih i Višem sudu u Novom Sadu predložilo pritvor zbog opasnosti od uticaja na svedoke i ponavljanja dela.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/17-11-2026-saopstenje-za-javnost/",
+   "id": "v486"
+  },
+  {
+   "datum": "2026-11-17",
    "izvor": "RTV",
    "kategorija": "institucije",
    "naslov": "Vlada u tehničkom mandatu preusmerila gotovo pet milijardi dinara iz budžetske rezerve",
@@ -168,6 +188,36 @@
    "sazetak": "Revizija svrsishodnosti Državne revizorske institucije pokazala je da je u Nišu, Vranju i Požarevcu 2024. i 2025. za sanaciju divljih deponija utrošeno više od 60 miliona dinara, dok je otpad ponovo odlagan na gotovo svim evidentiranim lokacijama. Pronađene su i 183 neregistrovane deponije.",
    "url": "https://www.rtv.rs/sr_lat/drustvo/dri-za-sanacije-divljih-deponija-vise-od-60-miliona-dinara-a-deponije-rade-punom-parom_1759399.html",
    "id": "v484"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Policija po nalogu VJT obavila informativni razgovor sa Uskokovićem; sindikati RTS-a govore o pritisku",
+   "red": 35,
+   "sazetak": "Uprava kriminalističke policije je po nalogu Višeg javnog tužilaštva u Beogradu obavila informativni razgovor sa v.d. glavnog urednika Informativnog programa RTS-a Borivojem Uskokovićem, u svojstvu građanina, zbog emitovane izjave Aleksandra Radića. Reprezentativni sindikati RTS-a ocenili su to kao neprihvatljiv pritisak na novinare.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6085948/vjt-uskokovic-policija-razgovor.html",
+   "id": "v488"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "N1 / VJT Niš",
+   "kategorija": "izbori",
+   "naslov": "VJT u Nišu proverava krivičnu prijavu protiv predsednice Opštinske izborne komisije u Beloj Palanci",
+   "red": 30,
+   "sazetak": "Posebno odeljenje za suzbijanje korupcije VJT u Nišu naložilo je policiji prikupljanje obaveštenja po prijavi da je predsednica OIK Bela Palanka (M. K.) omogućavala rad komisije u sastavu koji nije u skladu sa zakonom. Tužilaštvo će oceniti da li postoje obeležja zloupotrebe službenog položaja.",
+   "url": "https://n1info.rs/vesti/policija-proverava-navode-iz-prijave-protiv-predsednice-opstinske-izborne-komisije-u-beloj-palanci/",
+   "id": "v487"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "RTS / FoNet",
+   "kategorija": "mediji",
+   "naslov": "ANEM traži ukidanje zabrane ulaska u Srbiju Željku Ivanoviću i povlačenje optužbe protiv Aleksandra Radića",
+   "red": 25,
+   "sazetak": "ANEM je od MUP-a i BIA zatražio da ukinu zabranu ulaska u Srbiju osnivaču crnogorskih Vijesti Željku Ivanoviću i ponište sve zabrane koje je bivša vlast izrekla novinarima iz susednih zemalja. Pozvao je i VJT u Beogradu da povuče optužbu, poternicu i odluku o pritvoru protiv vojnog analitičara Aleksandra Radića.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6085967/anem-zeljko-ivanovic.html",
+   "id": "v489"
   },
   {
    "datum": "2026-11-16",
@@ -328,6 +378,16 @@
    "sazetak": "Pokret „Otadžbina” Momčila Trajkovića podneo je Višem javnom tužilaštvu u Beogradu prijavu zbog sumnje da su prijavljeni prekoračili ustavna i zakonska ovlašćenja u vezi sa sporazumima o Kosovu i Metohiji. Reč je o prijavi građana, o kojoj tužilaštvo tek treba da odluči.",
    "url": "https://www.rts.rs/lat/vesti/politika/6085114/predstavnici-srba-sa-kim-podneli-krivicnu-prijavu-protiv-vucica-dacica-brnabiceve-petkovica-i-rakica.html",
    "id": "v476"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvor": "Radar / RTV",
+   "kategorija": "bezbednost",
+   "naslov": "Radar: Veselin Milić u izjavi tužilaštvu tvrdi da je uhapšen jer je odbio da naredi intervenciju 15. marta 2025.",
+   "red": 45,
+   "sazetak": "Radar je objavio izjavu pomoćnika direktora policije Veselina Milića Višem javnom tužilaštvu u Beogradu u istrazi protiv Marka Krička. Milić tvrdi da mu je slučaj „Senjak” namešten jer nije postupio po naređenju za „odlučnu intervenciju” radi uvođenja vanrednog stanja 15. marta 2025; njegovi navodi nisu provereni.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/veselin-milic-uhapsen-sam-jer-sam-odbio-da-intervenisem-15.-marta_1759204.html",
+   "id": "v490"
   },
   {
    "datum": "2026-11-16",
@@ -5004,10 +5064,12 @@
    "izvori": [
     "https://novisad.vjt.rs/aktuelnosti/16-11-2026-saopstenje-za-javnost/",
     "https://n1info.rs/vesti/uhapseni-patrik-drid-i-bivsi-dekan-dif-a-u-novom-sadu/",
-    "https://razglas-news.com/2026/11/16/uhapseni-dekan-novosadskog-dif-a-patrik-drid-i-bivsi-dekan-nebojsa-maksimovic-zbog-sumnje-na-zloupotrebu-sluzbenog-polozaja/"
+    "https://razglas-news.com/2026/11/16/uhapseni-dekan-novosadskog-dif-a-patrik-drid-i-bivsi-dekan-nebojsa-maksimovic-zbog-sumnje-na-zloupotrebu-sluzbenog-polozaja/",
+    "https://novisad.vjt.rs/aktuelnosti/17-11-2026-saopstenje-za-javnost/",
+    "https://razglas-news.com/2026/11/17/tuzilastvo-predlozilo-pritvor-patriku-dridu-i-nebojsi-maksimovicu/"
    ],
    "naslov": "Uhapšeni sadašnji i bivši dekan Fakulteta sporta u Novom Sadu zbog štete pokrajinskom budžetu",
-   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su lišeni slobode P. D. i N. M. zbog sumnje na zloupotrebu službenog položaja: prostor u vlasništvu AP Vojvodine izdavan je u zakup, a novac nije uplaćen u budžet Pokrajine već je potrošen na isplate zaposlenima, uz ugovore vođene kao „organizacija sportskih aktivnosti”. N1 i Razglas navode da je reč o dekanu Patriku Dridu i bivšem dekanu Nebojši Maksimoviću.",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su lišeni slobode P. D. i N. M. zbog sumnje na zloupotrebu službenog položaja: prostor u vlasništvu AP Vojvodine izdavan je u zakup, a novac nije uplaćen u budžet Pokrajine već je potrošen na isplate zaposlenima, uz ugovore vođene kao „organizacija sportskih aktivnosti”. N1 i Razglas navode da je reč o dekanu Patriku Dridu i bivšem dekanu Nebojši Maksimoviću. 17. nov: tužilaštvo je donelo naredbu o sprovođenju istrage, saslušalo osumnjičene i Višem sudu u Novom Sadu predložilo pritvor zbog opasnosti od uticaja na svedoke i ponavljanja dela.",
    "osobe": "Patrik Drid · Nebojša Maksimović · Fakultet sporta i fizičkog vaspitanja, Univerzitet u Novom Sadu",
    "red": 70,
    "status": "zvanicno",
@@ -5580,10 +5642,12 @@
     "https://n1info.rs/vesti/igor-zmiric-privremeno-udaljen-sa-rada/",
     "https://vreme.com/vesti/zlostavljanje-i-mucenje-igor-zmiric-marko-kricak/",
     "https://prvo.ojt.rs/aktuelnosti/s-a-o-p-s-t-e-nj-e-210/",
-    "https://n1info.rs/vesti/marko-kricak-saslusan-u-vezi-sa-zlostavljanjem-studenata-u-garazi-vlade/"
+    "https://n1info.rs/vesti/marko-kricak-saslusan-u-vezi-sa-zlostavljanjem-studenata-u-garazi-vlade/",
+    "https://n1info.rs/vesti/novi-pritvor-za-marka-kricka-zbog-sumnje-da-je-ucestvovao-u-zlostavljanju-u-garazi-vlade-srbije/",
+    "https://insajder.net/vesti/odreden-pritvor-kricku-osumnjicenom-za-zlostavljanje-i-mucenje-u-garazi-vlade-srbije"
    ],
    "naslov": "Komandantu SAJ-a Igoru Žmiriću i još osmorici određen pritvor zbog zlostavljanja u garaži Vlade",
-   "opis": "MUP je saopštio da je po nalogu Prvog OJT u Beogradu određeno zadržavanje do 48 sati za osam policijskih službenika i jednog bivšeg službenika, zbog sumnje na zlostavljanje i mučenje u garaži zgrade Vlade u Nemanjinoj, u noći 14/15. avgusta 2025. Prema MUP-u, primenom sile i pretnji naneli su veliki bol i teške patnje većem broju lica. Prvo OJT je saslušalo svih devetoro i predložilo im pritvor; oštećeno je deset osoba. 6. nov: Prvi osnovni sud u Beogradu odredio je pritvor do 30 dana svoj devetorici, sadašnjim i bivšim pripadnicima Jedinice za obezbeđenje određenih ličnosti i objekata, zbog opasnosti od uticaja na svedoke i uznemirenja javnosti; žalba je moguća u roku od tri dana. MUP je istog dana privremeno udaljio Žmirića sa rada, a dužnost preuzima zamenik. Prema Telegrafu, prvookrivljeni je Marko Kričak, koji je već u pritvoru. Navodi tužilaštva nisu sudski utvrđeni. 17. nov: Prvo OJT saslušalo je i Marka Krička (M.K., 1983), za kog se sumnja da je u saizvršilaštvu sa devetoricom ranije saslušanih učestvovao u zlostavljanju, i Prvom osnovnom sudu predložilo pritvor zbog opasnosti od uticaja na svedoke.",
+   "opis": "MUP je saopštio da je po nalogu Prvog OJT u Beogradu određeno zadržavanje do 48 sati za osam policijskih službenika i jednog bivšeg službenika, zbog sumnje na zlostavljanje i mučenje u garaži zgrade Vlade u Nemanjinoj, u noći 14/15. avgusta 2025. Prema MUP-u, primenom sile i pretnji naneli su veliki bol i teške patnje većem broju lica. Prvo OJT je saslušalo svih devetoro i predložilo im pritvor; oštećeno je deset osoba. 6. nov: Prvi osnovni sud u Beogradu odredio je pritvor do 30 dana svoj devetorici, sadašnjim i bivšim pripadnicima Jedinice za obezbeđenje određenih ličnosti i objekata, zbog opasnosti od uticaja na svedoke i uznemirenja javnosti; žalba je moguća u roku od tri dana. MUP je istog dana privremeno udaljio Žmirića sa rada, a dužnost preuzima zamenik. Prema Telegrafu, prvookrivljeni je Marko Kričak, koji je već u pritvoru. Navodi tužilaštva nisu sudski utvrđeni. 17. nov: Prvo OJT saslušalo je i Marka Krička (M.K., 1983), za kog se sumnja da je u saizvršilaštvu sa devetoricom ranije saslušanih učestvovao u zlostavljanju, i Prvom osnovnom sudu predložilo pritvor zbog opasnosti od uticaja na svedoke. Istog dana sudija za prethodni postupak Prvog osnovnog suda odredio je Kričku pritvor do 30 dana (uticaj na svedoke, uznemirenje javnosti); žalba je moguća u roku od tri dana.",
    "osobe": "Igor Žmirić (I.Ž., komandant SAJ-a) · Milan Vuković · Marko Kričak · MUP · Prvo OJT u Beogradu · Prvi osnovni sud u Beogradu · Marko Kričak",
    "red": 94,
    "status": "zvanicno",
