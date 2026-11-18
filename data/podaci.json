@@ -1,7 +1,7 @@
 {
- "generisano": "2026-11-18T06:47+00:00",
+ "generisano": "2026-11-18T17:40+00:00",
  "stanje": {
-  "azurirano": "2026-11-17",
+  "azurirano": "2026-11-18",
   "izbori": "2026-10-25",
   "mandati": 140,
   "procenat": "53,01%",
@@ -35,10 +35,130 @@
     "mandati": 1
    }
   ],
-  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); izbor predsednika u toku, nastavak 18. nov.",
+  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); izbor predsednika u toku, nastavak 19. nov.",
   "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-18",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Drugi dan konstitutivne sednice bez izbora predsednika Skupštine, nastavak 19. novembra",
+   "red": 90,
+   "sazetak": "Poslanici su ceo dan raspravljali o kandidatima Aleksandru Čupiću i Stojanu Radenoviću. Studentska lista je odustala od svih svojih govornika radi ubrzanja sednice, a šef grupe „Srbija pobeđuje” Aleksandar Vučić najavio je da će izlaganje završiti do 13 časova u četvrtak i da će se glasati posle pauze. Vučić je u sali najavio i demonstracije ispred RTS-a.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6085901/poslanici-raspravljali-o-kandidatu-za-predsednika-parlamenta-nastavak-sutra-u-10-casova.html",
+   "id": "v491"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "SVM, SPP i SDA Sandžaka podržaće Čupića za predsednika Skupštine",
+   "red": 70,
+   "sazetak": "Balint Pastor je rekao da će poslanici SVM glasati za Aleksandra Čupića jer iza njega stoji većina, i da to ne znači ulazak SVM u vladajuću većinu. Podršku Čupiću najavili su i poslanici SPP i SDA Sandžaka.",
+   "url": "https://www.rtv.rs/sr_lat/politika/pastor-svm-ce-glasati-za-cupica-za-predsednika-skupstine_1759590.html",
+   "id": "v492"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "OJT Novi Sad / RTS",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšen pomilovani Gorski Matović zbog pretnji smrću na dan izbora u Novom Sadu",
+   "red": 65,
+   "sazetak": "Osnovno javno tužilaštvo u Novom Sadu saopštilo je da je uhapšen Gorski Matović, za kojim je bila raspisana poternica, zbog sumnje da je 25. oktobra na Novom naselju pretio smrću više osoba (ugrožavanje sigurnosti). Matović je bio među osobama koje je Aleksandar Vučić pomilovao pre ostavke.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6086983/novi-sad-hapsenje.html",
+   "id": "v493"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "Glavni tužilac VJT u Beogradu traži od VST hitnu reakciju zbog izjava tužioca VJT-a Branka Stamenkovića",
+   "red": 62,
+   "sazetak": "Glavni javni tužilac VJT u Beogradu zatražio je od Visokog saveta tužilaštva hitnu reakciju zbog, kako navodi, nedozvoljenog uticaja tužioca Vrhovnog javnog tužilaštva Branka Stamenkovića na VJT, disciplinskog tužioca i JTOK, i podneo protiv njega novu disciplinsku prijavu zbog kršenja Etičkog kodeksa.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1501/",
+   "id": "v495"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "Treće OJT",
+   "kategorija": "bezbednost",
+   "naslov": "Tužilaštvo predložilo pritvor za šestoricu osumnjičenih za pretnje Brankici Stanković",
+   "red": 60,
+   "sazetak": "Treće osnovno javno tužilaštvo u Beogradu saslušalo je šest osumnjičenih za pretnje novinarki Brankici Stanković tokom utakmice Partizan – Makabi 6. novembra i predložilo sudu da im odredi pritvor zbog mogućeg uticaja na svedoka i ponavljanja dela.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27342/",
+   "id": "v494"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "OJT Novi Sad / N1",
+   "kategorija": "bezbednost",
+   "naslov": "Priveden policajac osumnjičen za zlostavljanje maloletnika iz Odžaka posle protesta u avgustu 2025.",
+   "red": 58,
+   "sazetak": "OJT u Novom Sadu identifikovalo je policijskog službenika M. M. kao jednog od osumnjičenih za zlostavljanje i mučenje tada maloletnog S. V. iz Odžaka 14. avgusta 2025. i odredilo mu zadržavanje do 48 sati. Porodica je ranije navodila da je bila na meti jer je podržala studente.",
+   "url": "https://n1info.rs/vesti/policajac-uhapsen-zbog-zlostavljanja-decaka-u-policijskoj-stanici-u-novom-sadu/",
+   "id": "v497"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista: ukidanje lex specialisa za Generalštab među prvim zadacima nove Skupštine",
+   "red": 56,
+   "sazetak": "Povodom raskida ugovora o Generalštabu, Studentska lista traži objavljivanje svih ugovora i zaključaka Vlade o projektu, stavljanje van snage posebnog zakona kao jedan od prvih zadataka Skupštine, vraćanje statusa kulturnog dobra i utvrđivanje odgovornosti.",
+   "url": "https://studenti.org.rs/vesti/generalstab_ugovor/",
+   "id": "v500"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "Danas / Razglas",
+   "kategorija": "bezbednost",
+   "naslov": "Penzionisan komandant „Kobri” Darko Đošić, bivši šef Vučićevog obezbeđenja",
+   "red": 55,
+   "sazetak": "Prema pisanju Danasa, komandant Odreda vojne policije „Kobre” Darko Đošić penzionisan je 16. novembra na sopstveni zahtev, rešenjem v. d. predsednice Ana Brnabić. To je treći visoki vojni funkcioner penzionisan u nekoliko dana, posle načelnika Generalštaba i direktora VBA.",
+   "url": "https://razglas-news.com/2026/11/18/penzionisan-komandant-kobri-darko-dosic/",
+   "id": "v496"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "N1: Evropska narodna partija predložiće suspenziju SNS-a kao pridružene članice",
+   "red": 52,
+   "sazetak": "Prema nezvaničnim saznanjima N1, Predsedništvo EPP odlučilo je da predloži suspenziju SNS-a, o čemu bi Skupština EPP glasala 7. i 8. decembra u Briselu. SNS-u se navodno postavlja sedam uslova i rok od godinu dana.",
+   "url": "https://n1info.rs/vesti/evropska-narodna-partija-predlog-suspenzija-srpska-napredna-stranka/",
+   "id": "v499"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "Razglas",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšen bivši gradonačelnik Smedereva Predrag Umičević zbog sumnje na poresku prevaru",
+   "red": 50,
+   "sazetak": "Policija u Smederevu uhapsila je bivšeg gradonačelnika i funkcionera DS Predraga Umičevića i još jednu osobu zbog sumnje da su lažnom potvrdom o poreskom oslobođenju oštetili budžet za 1,73 miliona dinara; na placu njegove firme pronađena je i velika količina toksičnog otpada.",
+   "url": "https://razglas-news.com/2026/11/18/uhapsen-bivsi-gradonacelnik-smedereva-osumnjicen-za-poresku-prevaru/",
+   "id": "v498"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "RTV / Tanjug",
+   "kategorija": "institucije",
+   "naslov": "Siniša Mali: novoj vlasti predajemo kasu sa više od četiri milijarde evra",
+   "red": 40,
+   "sazetak": "Ministar finansija u tehničkom mandatu Siniša Mali izjavio je da na računu države ima više od 500 milijardi dinara i da je rast BDP-a u trećem kvartalu bio četiri odsto.",
+   "url": "https://www.rtv.rs/sr_lat/politika/mali-predajemo-novoj-vlasti-kasu-sa-preko-cetiri-milijardi-evra-na-racunu_1759542.html",
+   "id": "v501"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Marija Radovanović dala izjavu policiji: polivanje Lidije Vukićević lični čin, Studentska lista nema veze",
+   "red": 35,
+   "sazetak": "Bivša sekretarka Medicinskog fakulteta Marija Radovanović dala je izjavu u policiji zbog polivanja poslanice SNS Lidije Vukićević jogurtom ispred Skupštine i ponovila da je to uradila sama, iz revolta.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6086267/marija-radovanovic-lidija-vukicevic-polivanje-jogurtom.html",
+   "id": "v502"
+  },
   {
    "datum": "2026-11-17",
    "izvor": "RTS",
@@ -4990,10 +5110,11 @@
     "https://n1info.rs/vesti/ana-brnabic-sednica-skupstine-17-novembra/",
     "https://studenti.org.rs/vesti/izvesta_konsultacija/",
     "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
-    "https://www.rtv.rs/sr_lat/politika/konstituisanjem-parlamenta-poceo-da-tece-rok-od-90-dana-za-izbor-nove-vlade-srbije_1759344.html"
+    "https://www.rtv.rs/sr_lat/politika/konstituisanjem-parlamenta-poceo-da-tece-rok-od-90-dana-za-izbor-nove-vlade-srbije_1759344.html",
+    "https://www.rts.rs/lat/vesti/politika/6085901/poslanici-raspravljali-o-kandidatu-za-predsednika-parlamenta-nastavak-sutra-u-10-casova.html"
    ],
    "naslov": "Konstituisan 15. saziv Narodne skupštine",
-   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović. 13. nov: na konsultacijama sve liste su se složile da glasanje bude javno; Studentska lista je zatražila da se sednica nastavi odmah posle verifikacije mandata. 17. nov: sednica je počela u 10 časova; komisija (Dražen Drašković i Petar Mitov sa Studentske liste, Vjerica Radeta sa liste „Ujedinjena Srbija”) verifikovala je mandate svih 250 poslanika, koji su položili zakletvu, čime je Skupština konstituisana i počeo da teče rok od 90 dana za izbor Vlade. Obrazovane su poslaničke grupe „Studentska lista” (šef Jovo Bakić, zamenica Aleksandra Štimac) i „Aleksandar Vučić – Srbija pobeđuje” (šef Aleksandar Vučić, zamenik Milenko Jovanov). Za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović; rasprava se nastavlja 18. novembra u 10 časova.",
+   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović. 13. nov: na konsultacijama sve liste su se složile da glasanje bude javno; Studentska lista je zatražila da se sednica nastavi odmah posle verifikacije mandata. 17. nov: sednica je počela u 10 časova; komisija (Dražen Drašković i Petar Mitov sa Studentske liste, Vjerica Radeta sa liste „Ujedinjena Srbija”) verifikovala je mandate svih 250 poslanika, koji su položili zakletvu, čime je Skupština konstituisana i počeo da teče rok od 90 dana za izbor Vlade. Obrazovane su poslaničke grupe „Studentska lista” (šef Jovo Bakić, zamenica Aleksandra Štimac) i „Aleksandar Vučić – Srbija pobeđuje” (šef Aleksandar Vučić, zamenik Milenko Jovanov). Za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović. 18. nov: rasprava je trajala ceo dan bez glasanja; Studentska lista je odustala od svojih govornika, a Vučić je najavio da će izlaganje završiti do 13 časova 19. novembra i da se glasa posle pauze. Podršku Čupiću najavili su SVM, SPP i SDA Sandžaka.",
    "osobe": "Stojan Radenović · Aleksandar Čupić · Jovo Bakić · Aleksandar Vučić · Narodna skupština",
    "red": 95,
    "status": "zvanicno",
@@ -5101,6 +5222,19 @@
    "status": "navod",
    "tip": "prijava",
    "id": "h102"
+  },
+  {
+   "datum": "2026-11-16",
+   "izvori": [
+    "https://razglas-news.com/2026/11/18/penzionisan-komandant-kobri-darko-dosic/"
+   ],
+   "naslov": "Penzionisan komandant „Kobri” Darko Đošić",
+   "opis": "Prema pisanju Danasa (više izvora, potvrdili vojni analitičari), komandant Odreda vojne policije „Kobre” i bivši šef obezbeđenja Aleksandra Vučića Darko Đošić penzionisan je 16. novembra na sopstveni zahtev, rešenjem v. d. predsednice Ana Brnabić. Treći visoki vojni funkcioner penzionisan u nekoliko dana, posle Milana Mojsilovića i Đura Jovanića. Zvanično saopštenje nije objavljeno.",
+   "osobe": "Darko Đošić · Vojska Srbije",
+   "red": 55,
+   "status": "navod",
+   "tip": "ostavka",
+   "id": "h104"
   },
   {
    "datum": "2026-11-14",
@@ -5620,10 +5754,12 @@
    "datum": "2026-11-05",
    "izvori": [
     "https://www.krik.rs/raspisana-poternica-za-gorskim-matovicem-zbog-pretnji-gradjanima-na-izborni-dan/",
-    "https://www.danas.rs/vesti/drustvo/gorski-matovic-potraga-policija/"
+    "https://www.danas.rs/vesti/drustvo/gorski-matovic-potraga-policija/",
+    "https://www.rts.rs/lat/vesti/hronika/6086983/novi-sad-hapsenje.html",
+    "https://n1info.rs/vesti/uhapsen-gorski-matovic-zbog-pretnji-smrcu-gradjanima-tokom-izbornog-dana-u-novom-sadu/"
    ],
-   "naslov": "Raspisana poternica za pomilovanim Gorskim Matovićem",
-   "opis": "Osnovno tužilaštvo u Novom Sadu saopštilo je da se Matović sumnjiči za ugrožavanje sigurnosti, jer je na dan izbora građanima pretio smrću, i da je za njim raspisana poternica. Za isto delo uhapšena je još jedna osoba. Saopštenje tužilaštva preneo je KRIK, a potragu je objavio i Danas.",
+   "naslov": "Pomilovani Gorski Matović: poternica, pa hapšenje zbog pretnji na dan izbora",
+   "opis": "Osnovno tužilaštvo u Novom Sadu saopštilo je da se Matović sumnjiči za ugrožavanje sigurnosti, jer je na dan izbora (25. oktobra, Novo naselje) građanima pretio smrću, i da je za njim raspisana poternica. Za isto delo uhapšena je još jedna osoba. Saopštenje tužilaštva preneo je KRIK, a potragu je objavio i Danas. 18. nov: OJT u Novom Sadu saopštilo je da je Matović uhapšen i da će u roku od 48 sati biti saslušan.",
    "osobe": "Gorski Matović · OJT u Novom Sadu",
    "red": 66,
    "status": "zvanicno",
@@ -6642,9 +6778,9 @@
    "id": "o19"
   },
   {
-   "azurirano": "2026-11-14",
+   "azurirano": "2026-11-18",
    "datum": "2026-11-12",
-   "napomena": "Najavila kandidatkinja Estela Radonjić Živkov (Nova.rs / N1); vlada još nije formirana. 14. nov: Ministarstvo građevinarstva potvrdilo je da se raskida ugovor sa Kušnerovom firmom bez međusobnih potraživanja (formalizacija sledeće nedelje); status kulturnog dobra još nije vraćen.",
+   "napomena": "Najavila kandidatkinja Estela Radonjić Živkov (Nova.rs / N1); vlada još nije formirana. 14–16. nov: ugovor sa Kušnerovom firmom zvanično raskinut bez međusobnih potraživanja. 18. nov: Studentska lista traži da Skupština među prvim zadacima stavi van snage lex specialis za Generalštab, objavi svu dokumentaciju i utvrdi odgovornost; status kulturnog dobra još nije vraćen.",
    "naslov": "Vraćanje statusa kulturnog dobra Generalštabu",
    "opis": "Generalštabu vratiti pun status kulturnog dobra (odlukom Ustavnog suda ili Skupštine) i predložiti njegovo utvrđivanje za kulturno dobro od izuzetnog značaja.",
    "status": "najavljeno",
@@ -6732,7 +6868,10 @@
     "https://www.rtv.rs/sr_lat/politika/aleksandra-stimac-sa-studentske-liste-predloge-za-predsednika-i-potpredsednike-predacemo-sutra_1759115.html",
     "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
     "https://studenti.org.rs/vesti/cupic_gasic/",
-    "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-srbije-uzivo-2026/"
+    "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-srbije-uzivo-2026/",
+    "https://www.rts.rs/lat/vesti/politika/6085901/poslanici-raspravljali-o-kandidatu-za-predsednika-parlamenta-nastavak-sutra-u-10-casova.html",
+    "https://n1info.rs/vesti/blog-nastavak-konstitutivne-sednice-skupstine-srbije-uzivo-2026/",
+    "https://www.rtv.rs/sr_lat/politika/pastor-svm-ce-glasati-za-cupica-za-predsednika-skupstine_1759590.html"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
    "odluke": [
@@ -6751,7 +6890,7 @@
      "naslov": "Izbor predsednika Narodne skupštine (kandidati Aleksandar Čupić i Stojan Radenović)"
     }
    ],
-   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. Studentska lista najavila je da će predloge za predsednika i potpredsednike predati pisanim putem posle verifikacije mandata. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). Rasprava se nastavlja 18. novembra u 10 časova.",
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; Studentska lista je odustala od svojih govornika, Vučić je najavio da će izlaganje završiti do 13 časova 19. nov i da se glasa posle pauze. SVM, SPP i SDA Sandžaka najavili su glasanje za Čupića. Sednica se nastavlja 19. novembra u 10 časova.",
    "organ": "skupstina",
    "status": "odrzana",
    "id": "s01"
