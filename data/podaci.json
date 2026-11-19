@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-18T17:40+00:00",
+ "generisano": "2026-11-19T06:48+00:00",
  "stanje": {
   "azurirano": "2026-11-18",
   "izbori": "2026-10-25",
@@ -91,6 +91,16 @@
   },
   {
    "datum": "2026-11-18",
+   "izvor": "Danas / Razglas",
+   "kategorija": "izbori",
+   "naslov": "TOK potvrdio: telefon ministra pravde Vujića oduzet po nalogu tužilaštva, oduzet i telefon direktora UIKS-a Jandrića",
+   "red": 60,
+   "sazetak": "TOK je za Danas potvrdio da je SBPOK po njegovom nalogu, u predmetu po prijavi advokata Ivana Ninića o navodnom prikupljanju glasova za SNS u zatvorima, ministru pravde u tehničkom mandatu Nenadu Vujiću privremeno oduzeo telefon radi veštačenja. Službeni telefon v.d. direktora Uprave za izvršenje krivičnih sankcija Mileta Jandrića oduzet je po nalogu VJT u Kraljevu; od Jandrića obaveštenja još nisu prikupljena. Reč je o predistražnim radnjama, ne o optužbi.",
+   "url": "https://razglas-news.com/2026/11/18/tok-potvrdio-da-je-nenadu-vujicu-oduzet-telefon-po-njihovom-nalogu-kao-i-telefon-mileta-jandrica/",
+   "id": "v503"
+  },
+  {
+   "datum": "2026-11-18",
    "izvor": "OJT Novi Sad / N1",
    "kategorija": "bezbednost",
    "naslov": "Priveden policajac osumnjičen za zlostavljanje maloletnika iz Odžaka posle protesta u avgustu 2025.",
@@ -121,12 +131,22 @@
   },
   {
    "datum": "2026-11-18",
-   "izvor": "N1",
+   "izvor": "Vreme / Razglas",
+   "kategorija": "korupcija",
+   "naslov": "NBS blokirala račune kineskoj firmi CCECC koja je rekonstruisala železničku stanicu u Novom Sadu",
+   "red": 55,
+   "sazetak": "Prema registru dužnika u prinudnoj naplati NBS, beogradski ogranak kompanije China Civil Engineering Construction Corporation (CCECC) od 17. novembra ne može da raspolaže sredstvima na računima. Razlog blokade nije javno saopšten, a NBS nije odgovorila na pitanja Vremena.",
+   "url": "https://razglas-news.com/2026/11/18/vreme-nbs-blokirala-racune-kineskoj-firmi-koja-je-rekonstruisala-nadstresnicu/",
+   "id": "v504"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "RTS / N1",
    "kategorija": "institucije",
-   "naslov": "N1: Evropska narodna partija predložiće suspenziju SNS-a kao pridružene članice",
+   "naslov": "Evropska narodna partija predložila suspenziju SNS-a kao pridružene članice",
    "red": 52,
-   "sazetak": "Prema nezvaničnim saznanjima N1, Predsedništvo EPP odlučilo je da predloži suspenziju SNS-a, o čemu bi Skupština EPP glasala 7. i 8. decembra u Briselu. SNS-u se navodno postavlja sedam uslova i rok od godinu dana.",
-   "url": "https://n1info.rs/vesti/evropska-narodna-partija-predlog-suspenzija-srpska-napredna-stranka/",
+   "sazetak": "Predsedništvo Evropske narodne partije (EPP) predložilo je suspenziju SNS-a, koja bi imala rok od godinu dana da ispuni postavljene zahteve ili se suoči sa isključenjem. Prema N1, o predlogu bi Skupština EPP glasala 7. i 8. decembra u Briselu.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6087029/srpska-napredna-stranka-iskljucenje.html",
    "id": "v499"
   },
   {
@@ -158,6 +178,66 @@
    "sazetak": "Bivša sekretarka Medicinskog fakulteta Marija Radovanović dala je izjavu u policiji zbog polivanja poslanice SNS Lidije Vukićević jogurtom ispred Skupštine i ponovila da je to uradila sama, iz revolta.",
    "url": "https://www.rts.rs/lat/vesti/politika/6086267/marija-radovanovic-lidija-vukicevic-polivanje-jogurtom.html",
    "id": "v502"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "BIRN / N1",
+   "kategorija": "korupcija",
+   "naslov": "Slučaj „Asomakum”: službenici Poreske uprave svedočili o falsifikovanim rešenjima kojima su vraćani PIB-ovi fantomskim firmama",
+   "red": 35,
+   "sazetak": "Na ročištu u predmetu „Asomakum”, nazvanom po firmi za koju tužilaštvo tvrdi da je osnovana falsifikovanom ličnom kartom Andreja Vučića, prvi put od početka suđenja 2019. saslušani su službenici Poreske uprave. Optužnica tereti okrivljene da su simulovanim transakcijama preko fantomskih firmi stvarali osnov za povraćaj PDV-a.",
+   "url": "https://n1info.rs/vesti/slucaj-asomakum-falsifikovanim-resenjima-poreske-uprave-vracani-pib-ovi-fantomskim-firmama/",
+   "id": "v506"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "Razglas",
+   "kategorija": "mediji",
+   "naslov": "Vučić u Skupštini najavio demonstracije ispred RTS-a",
+   "red": 35,
+   "sazetak": "Predsednik poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje” Aleksandar Vučić najavio je na sednici Skupštine demonstracije ispred RTS-a zbog nezadovoljstva izveštavanjem i kritikovao v.d. urednika Informativnog programa Borivoja Uskokovića. Datum nije naveden.",
+   "url": "https://razglas-news.com/2026/11/18/vucic-najavio-demonstracije-ispred-rts/",
+   "id": "v508"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "Nova.rs / N1",
+   "kategorija": "institucije",
+   "naslov": "Obustavljen disciplinski postupak protiv tužiteljke Bojane Savović",
+   "red": 30,
+   "sazetak": "Disciplinska komisija Visokog saveta tužilaštva jednoglasno je odbila kao neosnovan predlog za vođenje disciplinskog postupka protiv tužiteljke Bojane Savović, pokrenut po prijavi prvog zamenika glavnog tužioca VJT u Beogradu Miodraga Markovića. Prema Nova.rs, rukovodioci su protiv nje podneli više od 20 disciplinskih prijava.",
+   "url": "https://n1info.rs/vesti/novars-obustavljen-disciplinski-postupak-protiv-tuziteljke-bojane-savovic/",
+   "id": "v507"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "Razglas",
+   "kategorija": "institucije",
+   "naslov": "Pokretanje postupka za razrešenje rektora Dejana Madića na dnevnom redu Senata Univerziteta u Novom Sadu 23. novembra",
+   "red": 25,
+   "sazetak": "Senat Univerziteta u Novom Sadu na sednici 23. novembra treba da razmatra pokretanje postupka i utvrđivanje predloga za razrešenje rektora Dejana Madića. Akademija umetnosti zahtev za razrešenje podnela je još u februaru, navodeći grube povrede zakona i statuta.",
+   "url": "https://razglas-news.com/2026/11/18/razresenje-rektora-dejana-madica-ponovo-na-dnevnom-redu-senata-uniiverziteta-23-novembra/",
+   "id": "v511"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "RTS",
+   "kategorija": "program",
+   "naslov": "Predstavnici Studentske liste sastali se sa predstavnicima Francuske, Nemačke i Saveta Evrope",
+   "red": 20,
+   "sazetak": "Dejan Šoškić, Jasmina Đorđević i Vladan Jovanović razgovarali su sa francuskom delegacijom, poslanikom Bundestaga Borisom Mijatovićem i predstavnicima Saveta Evrope o evrointegracijama, vladavini prava, reformi pravosuđa, borbi protiv korupcije i formiranju nove vlade.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6087088/studentska-lista-sa-predstavnicima-nemacke-saveta-evrope-i-francuske.html",
+   "id": "v509"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "RIK: izbori za nacionalne savete nacionalnih manjina ponavljaju se na pet biračkih mesta 22. novembra",
+   "red": 15,
+   "sazetak": "Republička izborna komisija odlučila je na sednici 18. novembra da se izbori za članove nacionalnih saveta nacionalnih manjina ponove na ukupno pet biračkih mesta u nedelju 22. novembra.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6087070/-izbor-za-clanove-saveta-nacionalnih-manjina.html",
+   "id": "v510"
   },
   {
    "datum": "2026-11-17",
@@ -268,6 +348,16 @@
    "sazetak": "Gradski štab za vanredne situacije proglasio je vanrednu situaciju zbog opasnosti od zaraznih bolesti jer otpad ne može da se sakuplja i bezbedno odlaže; JKP „Zelenilo i groblja” treba hitnom nabavkom da nađe sanitarnu deponiju. Gradonačelnica Jasmina Vojinović uhapšena je 12. novembra zbog sumnje na nelegalnu deponiju.",
    "url": "https://www.rts.rs/lat/vesti/drustvo/6085769/smederevo-komunalni-otpad-vanredna-situacija.html",
    "id": "v481"
+  },
+  {
+   "datum": "2026-11-17",
+   "izvor": "Radar",
+   "kategorija": "izbori",
+   "naslov": "Radar: prema Ninićevoj prijavi TOK-u, mreža „Dunav osiguranja” pretvorena u 102 izborna štaba SNS-a",
+   "red": 45,
+   "sazetak": "U tekstu advokata Ivana Ninića u Radaru, na osnovu krivične prijave i arhive dostavljene TOK-u, navodi se da je prodajna mreža državnog „Dunav osiguranja” 2026. korišćena kao 102 izborna štaba SNS-a, sa kol-centrom, kvotama i spiskovima „sigurnih glasova”. Reč je o navodima podnosioca prijave; kompanija i nadležni organi nisu se izjasnili.",
+   "url": "https://radar.nova.rs/drustvo/kako-je-dunav-osiguranje-pretvoreno-u-102-izborna-staba-sns-a/",
+   "id": "v505"
   },
   {
    "datum": "2026-11-17",
@@ -6081,10 +6171,11 @@
     "https://n1info.rs/vesti/ninic-podneo-krivicnu-prijavu-tok-u-protiv-orlica-zaposleni-u-bia-imali-radnu-obavezu-da-skupljaju-glasove-za-sns/",
     "https://n1info.rs/vesti/glasanje-zatvori-izbori-prijava-ivan-ninic/",
     "https://tok.jt.rs/html_tok/saopstenja/saopstenje_20261105_cir.pdf",
-    "https://n1info.rs/vesti/tuzilastvo-za-organizovani-kriminal-nalozilo-da-sbpok-ispita-vladimira-orlica/"
+    "https://n1info.rs/vesti/tuzilastvo-za-organizovani-kriminal-nalozilo-da-sbpok-ispita-vladimira-orlica/",
+    "https://razglas-news.com/2026/11/18/tok-potvrdio-da-je-nenadu-vujicu-oduzet-telefon-po-njihovom-nalogu-kao-i-telefon-mileta-jandrica/"
    ],
    "naslov": "TOK formirao predmete po Ninićevim prijavama protiv direktora BIA i ministra pravde",
-   "opis": "Advokat Ivan Ninić podneo je TOK-u prijavu protiv direktora BIA Vladimira Orlića i službenika BIA, tvrdeći da su zaposleni prikupljali „kapilarne glasove” za SNS, i prijavu na 238 strana protiv ministra pravde Nenada Vujića i upravnika zatvora zbog navodnog pritiska na osuđenike da glasaju za listu broj 1. 5. nov: TOK je saopštio da je formirao dva predmeta i da je 4. novembra od SBPOK-a zatražio provere, uključujući razgovore s prijavljenima. Druga prijava obuhvata i Mileta Jandrića, Milicu Radonjić i još 60 osoba. Zvanično je potvrđeno formiranje predmeta; sadržaj prijava su navodi podnosioca.",
+   "opis": "Advokat Ivan Ninić podneo je TOK-u prijavu protiv direktora BIA Vladimira Orlića i službenika BIA, tvrdeći da su zaposleni prikupljali „kapilarne glasove” za SNS, i prijavu na 238 strana protiv ministra pravde Nenada Vujića i upravnika zatvora zbog navodnog pritiska na osuđenike da glasaju za listu broj 1. 5. nov: TOK je saopštio da je formirao dva predmeta i da je 4. novembra od SBPOK-a zatražio provere, uključujući razgovore s prijavljenima. Druga prijava obuhvata i Mileta Jandrića, Milicu Radonjić i još 60 osoba. 18. nov: TOK je za Danas potvrdio da je SBPOK po njegovom nalogu Vujiću privremeno oduzeo telefon radi veštačenja i obavio informativni razgovor; Jandriću je službeni telefon oduzet po nalogu VJT u Kraljevu, a obaveštenja od njega još nisu prikupljena. Zvanično su potvrđeni predmet i dokazne radnje; sadržaj prijava su navodi podnosioca.",
    "osobe": "Vladimir Orlić · Nenad Vujić · Mile Jandrić · Milica Radonjić · BIA · Ministarstvo pravde · Ivan Ninić · TOK · SBPOK",
    "red": 60,
    "status": "zvanicno",
@@ -6871,7 +6962,9 @@
     "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-srbije-uzivo-2026/",
     "https://www.rts.rs/lat/vesti/politika/6085901/poslanici-raspravljali-o-kandidatu-za-predsednika-parlamenta-nastavak-sutra-u-10-casova.html",
     "https://n1info.rs/vesti/blog-nastavak-konstitutivne-sednice-skupstine-srbije-uzivo-2026/",
-    "https://www.rtv.rs/sr_lat/politika/pastor-svm-ce-glasati-za-cupica-za-predsednika-skupstine_1759590.html"
+    "https://www.rtv.rs/sr_lat/politika/pastor-svm-ce-glasati-za-cupica-za-predsednika-skupstine_1759590.html",
+    "https://www.rts.rs/lat/vesti/politika/6087124/sdp-cupic-skupstina.html",
+    "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-.html"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
    "odluke": [
@@ -6890,7 +6983,7 @@
      "naslov": "Izbor predsednika Narodne skupštine (kandidati Aleksandar Čupić i Stojan Radenović)"
     }
    ],
-   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; Studentska lista je odustala od svojih govornika, Vučić je najavio da će izlaganje završiti do 13 časova 19. nov i da se glasa posle pauze. SVM, SPP i SDA Sandžaka najavili su glasanje za Čupića. Sednica se nastavlja 19. novembra u 10 časova.",
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; Studentska lista je odustala od svojih govornika, Vučić je najavio da će izlaganje završiti do 13 časova 19. nov i da se glasa posle pauze. SVM, SPP i SDA Sandžaka najavili su glasanje za Čupića, a uveče 18. nov podršku je najavio i SDP. Sednica se nastavlja 19. novembra u 10 časova (treći dan), sa izborom predsednika Skupštine na dnevnom redu.",
    "organ": "skupstina",
    "status": "odrzana",
    "id": "s01"
