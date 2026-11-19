@@ -1,7 +1,7 @@
 {
- "generisano": "2026-11-19T06:48+00:00",
+ "generisano": "2026-11-19T15:15+00:00",
  "stanje": {
-  "azurirano": "2026-11-18",
+  "azurirano": "2026-11-19",
   "izbori": "2026-10-25",
   "mandati": 140,
   "procenat": "53,01%",
@@ -35,10 +35,110 @@
     "mandati": 1
    }
   ],
-  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); izbor predsednika u toku, nastavak 19. nov.",
+  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); predsednik Aleksandar Čupić (izabran 19. nov); izbor potpredsednika u toku.",
   "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-19",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Aleksandar Čupić izabran za predsednika Narodne skupštine sa 140 glasova",
+   "red": 99,
+   "sazetak": "Od 239 prisutnih poslanika za Čupića, kandidata Studentske liste, glasalo je 140, za Stojana Radenovića 97, a dvoje je bilo uzdržano; glasalo se javno, prozivkom. Čupić je preuzeo predsedavanje i predložio da Skupština u ovom sazivu ima šest potpredsednika.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
+   "id": "v512"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "N1 / Ministarstvo odbrane",
+   "kategorija": "bezbednost",
+   "naslov": "Ministarstvo odbrane potvrdilo penzionisanje direktora VBA Đura Jovanića i komandanta „Kobri” Darka Đošića",
+   "red": 70,
+   "sazetak": "Ministarstvo odbrane saopštilo je da je ukazom vršioca dužnosti predsednika Republike profesionalna služba Jovaniću i Đošiću prestala po potrebi službe, na osnovu člana 110. Zakona o Vojsci Srbije, i navelo da se penzionisanje u Vojsci ne vrši „na lični zahtev”. Bivši portparol MO Petar Bošković tvrdi da je penzionisano desetak visokih oficira.",
+   "url": "https://n1info.rs/vesti/ministarstvo-potvrdilo-penzionisanje-jovanica-i-djosica/",
+   "id": "v514"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Vučić najavio da će u nekom trenutku podneti ostavku na poslanički mandat; Jovanov: ostavke podnosi još šest do osam poslanika SNS",
+   "red": 60,
+   "sazetak": "Šef poslaničke grupe „Srbija pobeđuje” Aleksandar Vučić rekao je u replici Jovi Bakiću da neće sedeti pun mandat i da će podneti ostavku. Milenko Jovanov je potvrdio ostavku Marka Koraća i najavio da će još šest, sedam ili osam poslanika sa liste SNS podneti ostavke, uz napomenu da će ih zameniti drugi kandidati sa iste liste.",
+   "url": "https://n1info.rs/vesti/vucic-odgovorio-bakicu-podnecu-ostavku-jer-ste-mi-toliko-odvratni-da-ne-mogu-da-vas-gledam-vi-ste-ziva-slika-mog-poraza/",
+   "id": "v513"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "korupcija",
+   "naslov": "Lišeni slobode zastupnici udruženja „Kreativni niz” zbog 2,1 miliona dinara Grada Novog Sada za projekte koji nisu sprovedeni",
+   "red": 55,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu lišeni su slobode M.Z. i N.T. zbog sumnje na zloupotrebu položaja odgovornog lica. Udruženju je od 2021. do 2025. dodeljeno 2.135.000 dinara za devet projekata, a sumnja se da su podnošeni lažni izveštaji o manifestacijama koje nikada nisu održane; određeno im je zadržavanje do 48 sati.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/19-11-2026-saopstenje-za-javnost/",
+   "id": "v515"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "VJT u Nišu proverava prijavu o kupovini glasova u selima kod Surdulice",
+   "red": 45,
+   "sazetak": "OJT u Vladičinom Hanu prosledilo je VJT u Nišu krivičnu prijavu protiv NN lica zbog sumnje da su birači u više naselja opštine Surdulica nagovarani da glasaju za određenu listu robom vrednom 5.000 dinara i da su na biračkom mestu 32 u Novom Selu u zapisnik unošeni neistiniti podaci. Tužilaštvo je zatražilo od UKP prikupljanje obaveštenja zbog sumnje na davanje i primanje mita u vezi sa glasanjem.",
+   "url": "https://n1info.rs/vesti/nisko-tuzilastvo-nalozilo-istragu-o-prijavi-kupovine-glasova-u-naseljima-u-surdulici/",
+   "id": "v516"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "Radar / N1",
+   "kategorija": "korupcija",
+   "naslov": "Radar: Andrej Vučić kompleks Zavoda za izradu novčanica na Topčideru koristio kao operativni centar SNS-a",
+   "red": 45,
+   "sazetak": "Nedeljnik Radar, pozivajući se na zaposlene u Zavodu za izradu novčanica i NBS, navodi da je Andrej Vučić, savetnik direktora, koristio vilu guvernera kao privatnu rezidenciju i da je u kompleksu na dan izbora 25. oktobra radio SNS kol-centar. Reč je o medijskim navodima; zvanične reakcije nisu objavljene.",
+   "url": "https://n1info.rs/vesti/radar-andrej-vucic-kompleks-kovnice-novca-na-topcideru-pretvorio-u-operativni-centar-sns/",
+   "id": "v517"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "N1 / Razglas",
+   "kategorija": "institucije",
+   "naslov": "Spor oko potpredsednika Skupštine: SNS tvrdi da je opozicija prvi put isključena iz upravljanja parlamentom",
+   "red": 40,
+   "sazetak": "Studentska lista predložila je šest kandidata za potpredsednike (Jelena Petrović, Lidija Dimitrijević, Marija Bjelobrk, Sara Valentik, Tibor Lazar, Adem Marvić), a grupa „Srbija pobeđuje” svojih šest. Milenko Jovanov i Miloš Vučević kažu da opozicija nije konsultovana i da neće dobiti mesta potpredsednika ni u odborima, što nazivaju „revolucionarnim terorom”.",
+   "url": "https://n1info.rs/vesti/sns-opozicija-prvi-put-iskljucena-iz-upravljanja-parlamentom/",
+   "id": "v518"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Zaposleni u Radio Beogradu ponovo traže ostavke direktorke Zorane Bojičić, njene pomoćnice i glavnog urednika Prvog programa",
+   "red": 35,
+   "sazetak": "Grupa zaposlenih i honorarnih saradnika Radio Beograda ponovo je zatražila ostavke direktorke Zorane Bojičić, pomoćnice Snežane Grujić i glavnog i odgovornog urednika Prvog programa Nebojše Nikolića.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6087808/zaposleni-i-honorarni-saradnici-u-radio-beogradu-traze-ostavke-direktorke-njene-pomocnice-i-glavnog-urednika.html",
+   "id": "v519"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "N1 / Danas",
+   "kategorija": "institucije",
+   "naslov": "Ministar Beriša o pozivu zaposlenima na miting SNS: „porodičan skup”, bez posledica za one koji nisu došli",
+   "red": 35,
+   "sazetak": "Danas je objavio da je ministar za ljudska i manjinska prava u tehničkom mandatu Demo Beriša krajem juna pozvao zaposlene na skup SNS ispred Skupštine uz poruku da je prisustvo obavezno. Beriša tvrdi da je skup imao porodični karakter i da niko nije snosio posledice zbog nedolaska.",
+   "url": "https://n1info.rs/vesti/berisa-tvrdi-da-je-pozivao-na-porodican-skup-i-da-nije-bilo-posledica-za-zaposlene-koji-nisu-dosli/",
+   "id": "v520"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "RTS / N1",
+   "kategorija": "institucije",
+   "naslov": "Katarina Kovačević imenovana za v.d. direktorke Jovine gimnazije u Novom Sadu",
+   "red": 30,
+   "sazetak": "Pokrajinski sekretarijat za obrazovanje imenovao je Katarinu Kovačević za vršioca dužnosti direktora Gimnazije „Jovan Jovanović Zmaj”, posle razrešenja Radivoja P. Stojkovića. Roditelji učenika podržali su imenovanje.",
+   "url": "https://n1info.rs/vesti/roditelji-jovinih-djaka-podrzali-novu-vd-direktorku/",
+   "id": "v521"
+  },
   {
    "datum": "2026-11-18",
    "izvor": "RTS",
@@ -5193,6 +5293,22 @@
    "id": "h20"
   },
   {
+   "datum": "2026-11-19",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
+    "https://n1info.rs/vesti/cupic-izabran-za-predsednika-narodne-skupstine/",
+    "https://studenti.org.rs/vesti/cupic_pobedio/",
+    "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/"
+   ],
+   "naslov": "Aleksandar Čupić izabran za predsednika Narodne skupštine",
+   "opis": "Trećeg dana konstitutivne sednice, javnim glasanjem prozivkom, od 239 prisutnih poslanika za Čupića (Studentska lista) glasalo je 140, za Stojana Radenovića („Srbija pobeđuje”) 97, a dvoje je bilo uzdržano. Podršku su mu dali i poslanici manjinskih lista. Čupić je preuzeo predsedavanje i predložio šest potpredsednika; izbor potpredsednika, generalnog sekretara i radnih tela nastavljen je popodne. Prema navodima N1, izborom za predsednika Skupštine Čupić preuzima i dužnost vršioca dužnosti predsednika Republike, koju je do tada obavljala Ana Brnabić.",
+   "osobe": "Aleksandar Čupić · Stojan Radenović · Narodna skupština",
+   "red": 99,
+   "status": "zvanicno",
+   "tip": "korak",
+   "id": "h105"
+  },
+  {
    "datum": "2026-11-17",
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6079105/brnabic-konstitutivna-sednica-17-novembra-u-10-casova.html",
@@ -5201,10 +5317,11 @@
     "https://studenti.org.rs/vesti/izvesta_konsultacija/",
     "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
     "https://www.rtv.rs/sr_lat/politika/konstituisanjem-parlamenta-poceo-da-tece-rok-od-90-dana-za-izbor-nove-vlade-srbije_1759344.html",
-    "https://www.rts.rs/lat/vesti/politika/6085901/poslanici-raspravljali-o-kandidatu-za-predsednika-parlamenta-nastavak-sutra-u-10-casova.html"
+    "https://www.rts.rs/lat/vesti/politika/6085901/poslanici-raspravljali-o-kandidatu-za-predsednika-parlamenta-nastavak-sutra-u-10-casova.html",
+    "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html"
    ],
    "naslov": "Konstituisan 15. saziv Narodne skupštine",
-   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović. 13. nov: na konsultacijama sve liste su se složile da glasanje bude javno; Studentska lista je zatražila da se sednica nastavi odmah posle verifikacije mandata. 17. nov: sednica je počela u 10 časova; komisija (Dražen Drašković i Petar Mitov sa Studentske liste, Vjerica Radeta sa liste „Ujedinjena Srbija”) verifikovala je mandate svih 250 poslanika, koji su položili zakletvu, čime je Skupština konstituisana i počeo da teče rok od 90 dana za izbor Vlade. Obrazovane su poslaničke grupe „Studentska lista” (šef Jovo Bakić, zamenica Aleksandra Štimac) i „Aleksandar Vučić – Srbija pobeđuje” (šef Aleksandar Vučić, zamenik Milenko Jovanov). Za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović. 18. nov: rasprava je trajala ceo dan bez glasanja; Studentska lista je odustala od svojih govornika, a Vučić je najavio da će izlaganje završiti do 13 časova 19. novembra i da se glasa posle pauze. Podršku Čupiću najavili su SVM, SPP i SDA Sandžaka.",
+   "opis": "Ana Brnabić zakazala je 8. novembra prvu sednicu za 17. novembar u 10 časova. Dnevni red: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, imenovanje generalnog sekretara, izbor članova radnih tela i delegacija. Predsedava najstariji poslanik, prof. Stojan Radenović. 13. nov: na konsultacijama sve liste su se složile da glasanje bude javno; Studentska lista je zatražila da se sednica nastavi odmah posle verifikacije mandata. 17. nov: sednica je počela u 10 časova; komisija (Dražen Drašković i Petar Mitov sa Studentske liste, Vjerica Radeta sa liste „Ujedinjena Srbija”) verifikovala je mandate svih 250 poslanika, koji su položili zakletvu, čime je Skupština konstituisana i počeo da teče rok od 90 dana za izbor Vlade. Obrazovane su poslaničke grupe „Studentska lista” (šef Jovo Bakić, zamenica Aleksandra Štimac) i „Aleksandar Vučić – Srbija pobeđuje” (šef Aleksandar Vučić, zamenik Milenko Jovanov). Za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović. 18. nov: rasprava je trajala ceo dan bez glasanja; Studentska lista je odustala od svojih govornika, a Vučić je najavio da će izlaganje završiti do 13 časova 19. novembra i da se glasa posle pauze. Podršku Čupiću najavili su SVM, SPP i SDA Sandžaka. 19. nov: Čupić je izabran za predsednika Skupštine sa 140 glasova (Radenović 97, uzdržano 2); popodne je počeo izbor šest potpredsednika.",
    "osobe": "Stojan Radenović · Aleksandar Čupić · Jovo Bakić · Aleksandar Vučić · Narodna skupština",
    "red": 95,
    "status": "zvanicno",
@@ -5259,13 +5376,15 @@
   {
    "datum": "2026-11-16",
    "izvori": [
-    "https://n1info.rs/vesti/radar-penzionisan-sef-vba-djuro-jovanic/"
+    "https://n1info.rs/vesti/radar-penzionisan-sef-vba-djuro-jovanic/",
+    "https://n1info.rs/vesti/ministarstvo-potvrdilo-penzionisanje-jovanica-i-djosica/",
+    "https://www.rts.rs/lat/vesti/drustvo/6087811/ministarstvo-odbrane-potvrdilo-da-su-penzionisani-direktor-vba-i-komandant-kobri.html"
    ],
-   "naslov": "Radar: direktor VBA Đuro Jovanić penzionisan, novi šef Nenad Nešović",
-   "opis": "Prema Radaru, direktor Vojnobezbednosne agencije Đuro Jovanić penzionisan je na lični zahtev, koji je prihvatila v.d. predsednika Ana Brnabić, i za novog direktora imenovan je Nenad Nešović. Uzbunjivač Novica Antić, koji je Jovanića optuživao za prisluškivanja, potvrdio je penzionisanje. Zvanična potvrda nije objavljena.",
+   "naslov": "Direktor VBA Đuro Jovanić penzionisan, novi šef Nenad Nešović",
+   "opis": "Prema Radaru, direktor Vojnobezbednosne agencije Đuro Jovanić penzionisan je i za novog direktora imenovan je Nenad Nešović; uzbunjivač Novica Antić, koji je Jovanića optuživao za prisluškivanja, potvrdio je penzionisanje. 19. nov: Ministarstvo odbrane zvanično je potvrdilo da je Jovaniću ukazom v.d. predsednika Republike profesionalna služba prestala po potrebi službe (član 110. Zakona o Vojsci Srbije) i navelo da se penzionisanje ne vrši „na lični zahtev”. Imenovanje Nešovića ministarstvo nije pomenulo.",
    "osobe": "Đuro Jovanić · Nenad Nešović · Ana Brnabić · VBA",
    "red": 70,
-   "status": "navod",
+   "status": "zvanicno",
    "tip": "ostavka",
    "id": "h100"
   },
@@ -5316,13 +5435,15 @@
   {
    "datum": "2026-11-16",
    "izvori": [
-    "https://razglas-news.com/2026/11/18/penzionisan-komandant-kobri-darko-dosic/"
+    "https://razglas-news.com/2026/11/18/penzionisan-komandant-kobri-darko-dosic/",
+    "https://n1info.rs/vesti/ministarstvo-potvrdilo-penzionisanje-jovanica-i-djosica/",
+    "https://www.rts.rs/lat/vesti/drustvo/6087811/ministarstvo-odbrane-potvrdilo-da-su-penzionisani-direktor-vba-i-komandant-kobri.html"
    ],
    "naslov": "Penzionisan komandant „Kobri” Darko Đošić",
-   "opis": "Prema pisanju Danasa (više izvora, potvrdili vojni analitičari), komandant Odreda vojne policije „Kobre” i bivši šef obezbeđenja Aleksandra Vučića Darko Đošić penzionisan je 16. novembra na sopstveni zahtev, rešenjem v. d. predsednice Ana Brnabić. Treći visoki vojni funkcioner penzionisan u nekoliko dana, posle Milana Mojsilovića i Đura Jovanića. Zvanično saopštenje nije objavljeno.",
+   "opis": "Prema pisanju Danasa, komandant Odreda vojne policije „Kobre” i bivši šef obezbeđenja Aleksandra Vučića Darko Đošić penzionisan je 16. novembra rešenjem v. d. predsednice Ane Brnabić — treći visoki vojni funkcioner penzionisan u nekoliko dana, posle Milana Mojsilovića i Đura Jovanića. 19. nov: Ministarstvo odbrane zvanično je potvrdilo da je Đošiću ukazom v.d. predsednika Republike prestala profesionalna služba sa pravom na starosnu penziju.",
    "osobe": "Darko Đošić · Vojska Srbije",
    "red": 55,
-   "status": "navod",
+   "status": "zvanicno",
    "tip": "ostavka",
    "id": "h104"
   },
@@ -6903,24 +7024,152 @@
   {
    "ime": "Aleksandar Čupić",
    "lista": "Studentska lista",
-   "napomena": "Docent Saobraćajnog fakulteta u Beogradu; kandidaturu je 17. nov u ime poslaničke grupe „Studentska lista” obrazložio Jugoslav Gašić.",
+   "napomena": "Docent Saobraćajnog fakulteta u Beogradu; izabran 19. nov sa 140 od 239 glasova prisutnih poslanika (Radenović 97, uzdržano 2).",
+   "od": "2026-11-19",
    "organ": "skupstina",
    "red": 99,
-   "status": "predlozen",
+   "status": "izabran",
    "uloga": "Predsednik Narodne skupštine",
-   "url": "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
+   "url": "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
    "id": "f02"
   },
   {
+   "do": "2026-11-19",
    "ime": "Stojan Radenović",
    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
-   "napomena": "Profesor i najstariji poslanik, predsedava konstitutivnom sednicom do izbora predsednika; kandidaturu je 11. nov najavio Aleksandar Vučić, uz ocenu da je većina neće prihvatiti.",
+   "napomena": "Profesor i najstariji poslanik, predsedavao konstitutivnom sednicom do izbora predsednika; kandidat grupe „Aleksandar Vučić – Srbija pobeđuje”, na glasanju 19. nov dobio 97 glasova i nije izabran.",
    "organ": "skupstina",
    "red": 95,
    "status": "predlozen",
    "uloga": "Predsednik Narodne skupštine",
-   "url": "https://www.rts.rs/lat/vesti/politika/6081145/vucic-konferencija-mediji-obracanje.html",
+   "url": "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
    "id": "f01"
+  },
+  {
+   "ime": "Jelena Petrović",
+   "napomena": "Kandidatkinja koju je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "organ": "skupstina",
+   "red": 90,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f05"
+  },
+  {
+   "ime": "Lidija Dimitrijević",
+   "napomena": "Kandidatkinja koju je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "organ": "skupstina",
+   "red": 90,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f06"
+  },
+  {
+   "ime": "Marija Bjelobrk",
+   "napomena": "Kandidatkinja koju je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "organ": "skupstina",
+   "red": 90,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f07"
+  },
+  {
+   "ime": "Sara Valentik",
+   "napomena": "Kandidatkinja koju je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "organ": "skupstina",
+   "red": 90,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f08"
+  },
+  {
+   "ime": "Tibor Lazar",
+   "napomena": "Kandidat koga je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "organ": "skupstina",
+   "red": 90,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f09"
+  },
+  {
+   "ime": "Adem Marvić",
+   "napomena": "Kandidat koga je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "organ": "skupstina",
+   "red": 90,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f10"
+  },
+  {
+   "ime": "Miloš Vučević",
+   "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+   "napomena": "Predsednik SNS; kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "organ": "skupstina",
+   "red": 88,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f11"
+  },
+  {
+   "ime": "Vladimir Đukanović",
+   "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+   "napomena": "Kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "organ": "skupstina",
+   "red": 88,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f12"
+  },
+  {
+   "ime": "Marina Raguš",
+   "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "organ": "skupstina",
+   "red": 88,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f13"
+  },
+  {
+   "ime": "Arno Gujon",
+   "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+   "napomena": "Kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "organ": "skupstina",
+   "red": 88,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f14"
+  },
+  {
+   "ime": "Lidija Vukićević",
+   "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "organ": "skupstina",
+   "red": 88,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f15"
+  },
+  {
+   "ime": "Marija Stanković",
+   "lista": "Aleksandar Vučić – Ujedinjena Srbija",
+   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "organ": "skupstina",
+   "red": 88,
+   "status": "predlozen",
+   "uloga": "Potpredsednik Narodne skupštine",
+   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "id": "f16"
   },
   {
    "ime": "Jovo Bakić",
@@ -6964,7 +7213,10 @@
     "https://n1info.rs/vesti/blog-nastavak-konstitutivne-sednice-skupstine-srbije-uzivo-2026/",
     "https://www.rtv.rs/sr_lat/politika/pastor-svm-ce-glasati-za-cupica-za-predsednika-skupstine_1759590.html",
     "https://www.rts.rs/lat/vesti/politika/6087124/sdp-cupic-skupstina.html",
-    "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-.html"
+    "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
+    "https://n1info.rs/vesti/cupic-izabran-za-predsednika-narodne-skupstine/",
+    "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+    "https://studenti.org.rs/vesti/cupic_pobedio/"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
    "odluke": [
@@ -6979,11 +7231,23 @@
      "naslov": "Potvrđivanje mandata 250 narodnih poslanika"
     },
     {
+     "ishod": "usvojeno",
+     "napomena": "Glasalo 239 prisutnih poslanika, javno prozivkom; za Stojana Radenovića 97 glasova.",
+     "naslov": "Izbor predsednika Narodne skupštine – izabran Aleksandar Čupić",
+     "uzdrzano": 2,
+     "za": 140
+    },
+    {
      "ishod": "u_raspravi",
-     "naslov": "Izbor predsednika Narodne skupštine (kandidati Aleksandar Čupić i Stojan Radenović)"
+     "naslov": "Utvrđivanje broja potpredsednika Narodne skupštine (predlog: šest)"
+    },
+    {
+     "ishod": "u_raspravi",
+     "napomena": "Po šest kandidata predložile su grupe „Studentska lista” i „Aleksandar Vučić – Srbija pobeđuje”.",
+     "naslov": "Izbor potpredsednika Narodne skupštine"
     }
    ],
-   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; Studentska lista je odustala od svojih govornika, Vučić je najavio da će izlaganje završiti do 13 časova 19. nov i da se glasa posle pauze. SVM, SPP i SDA Sandžaka najavili su glasanje za Čupića, a uveče 18. nov podršku je najavio i SDP. Sednica se nastavlja 19. novembra u 10 časova (treći dan), sa izborom predsednika Skupštine na dnevnom redu.",
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; SVM, SPP, SDA Sandžaka i SDP najavili su glasanje za Čupića. 19. nov (treći dan): posle završetka rasprave Čupić je javnim glasanjem prozivkom izabran za predsednika Skupštine i preuzeo predsedavanje; popodne je predložio da Skupština ima šest potpredsednika, a obe poslaničke grupe predložile su po šest kandidata. Grupa „Srbija pobeđuje” tvrdi da nije konsultovana. Izbor potpredsednika, generalnog sekretara i radnih tela je u toku.",
    "organ": "skupstina",
    "status": "odrzana",
    "id": "s01"
