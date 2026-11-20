@@ -1,7 +1,7 @@
 {
- "generisano": "2026-11-19T15:15+00:00",
+ "generisano": "2026-11-20T06:50+00:00",
  "stanje": {
-  "azurirano": "2026-11-19",
+  "azurirano": "2026-11-20",
   "izbori": "2026-10-25",
   "mandati": 140,
   "procenat": "53,01%",
@@ -35,10 +35,20 @@
     "mandati": 1
    }
   ],
-  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); predsednik Aleksandar Čupić (izabran 19. nov); izbor potpredsednika u toku.",
+  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); predsednik Aleksandar Čupić, šest potpredsednika i generalna sekretarka Mirjana Radaković izabrani 19. nov; izbor radnih tela nastavlja se 24. nov.",
   "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-20",
+   "izvor": "Radar / N1",
+   "kategorija": "mediji",
+   "naslov": "Radar: BIA od 2022. tajno nadzirala redakciju Ozon presa i aktivistkinje iz Čačka i Gornjeg Milanovca",
+   "red": 60,
+   "sazetak": "Prema dokumentima u koje je imao uvid Radar, BIA je na osnovu naredbi Višeg suda u Beogradu prisluškivala i pratila novinare Ozon presa, novinarku Svetlanu Kojanović i aktivistkinje Ljiljanu Bralović i Kristinu Milošević, a ozvučila je i prostorije redakcije. Zahteve je 2022. podneo tadašnji direktor BIA Aleksandar Vulin, uz tvrdnju da se bave „subverzivnim aktivnostima”.",
+   "url": "https://n1info.rs/vesti/cacani-pod-tajnim-nadzorom-bia-kao-da-mi-je-neko-virio-kroz-kljucaonicu-kupatila-dok-se-kupam/",
+   "id": "v528"
+  },
   {
    "datum": "2026-11-19",
    "izvor": "RTS",
@@ -48,6 +58,26 @@
    "sazetak": "Od 239 prisutnih poslanika za Čupića, kandidata Studentske liste, glasalo je 140, za Stojana Radenovića 97, a dvoje je bilo uzdržano; glasalo se javno, prozivkom. Čupić je preuzeo predsedavanje i predložio da Skupština u ovom sazivu ima šest potpredsednika.",
    "url": "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
    "id": "v512"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Izabrano šest potpredsednika Skupštine sa Studentske liste i generalna sekretarka Mirjana Radaković",
+   "red": 90,
+   "sazetak": "Kasno uveče 19. novembra javnim glasanjem izabrani su potpredsednici Adem Mavrić (137 glasova), Marija Bjelobrk, Sara Valentik, Lidija Dimitrijević, Tibor Lazar i Jelena Petrović (po 136); kandidati grupe „Srbija pobeđuje” dobili su po šest glasova, a njeni poslanici napustili su salu tokom glasanja. Za generalnu sekretarku izabrana je Mirjana Radaković sa 138 glasova; konstitutivna sednica nastavlja se 24. novembra izborom radnih tela.",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
+   "id": "v522"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "VJT Niš / Beta",
+   "kategorija": "hapsenje",
+   "naslov": "Leskovac: uhapšeno šest službenika Gradske uprave zbog javne nabavke od 80 miliona dinara, vlasnik firme GAT u bekstvu",
+   "red": 80,
+   "sazetak": "Po nalogu Višeg javnog tužilaštva u Nišu uhapšeni su šefovi odeljenja za javne nabavke, finansije i komunalne poslove i tri člana komisije za javne nabavke Gradske uprave Leskovca. Sumnja se da je 2023. potpisan ugovor za saobraćajnicu kod stadiona „Dubočica” veći od 80 miliona dinara, iako je budžetom bilo predviđeno oko 41 milion; za direktorom i vlasnikom novosadske firme GAT Dejanom Slijepčevićem raspisana je potraga.",
+   "url": "https://razglas-news.com/2026/11/19/direktor-novosadske-firme-gat-u-bekstvu-raspisana-potraga/",
+   "id": "v524"
   },
   {
    "datum": "2026-11-19",
@@ -61,6 +91,16 @@
   },
   {
    "datum": "2026-11-19",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista traži hitnu obustavu novih zapošljavanja u javnim preduzećima i ustanovama pre primopredaje vlasti",
+   "red": 70,
+   "sazetak": "Studentski pokret i Studentska lista upozorili su odlazeću vlast da ne koristi poslednje dane mandata za zapošljavanje partijskih kadrova, navodeći konkurse za stalne poslove u školama, vrtićima i ustanovama u Novom Sadu, Inđiji i Šidu. Traže obustavu zapošljavanja do nezavisne provere kadrovskog stanja i najavljuju da će zapošljavanje ubuduće ići samo putem javnih konkursa.",
+   "url": "https://studenti.org.rs/vesti/kofer_ne_ugovor/",
+   "id": "v523"
+  },
+  {
+   "datum": "2026-11-19",
    "izvor": "N1",
    "kategorija": "institucije",
    "naslov": "Vučić najavio da će u nekom trenutku podneti ostavku na poslanički mandat; Jovanov: ostavke podnosi još šest do osam poslanika SNS",
@@ -68,6 +108,16 @@
    "sazetak": "Šef poslaničke grupe „Srbija pobeđuje” Aleksandar Vučić rekao je u replici Jovi Bakiću da neće sedeti pun mandat i da će podneti ostavku. Milenko Jovanov je potvrdio ostavku Marka Koraća i najavio da će još šest, sedam ili osam poslanika sa liste SNS podneti ostavke, uz napomenu da će ih zameniti drugi kandidati sa iste liste.",
    "url": "https://n1info.rs/vesti/vucic-odgovorio-bakicu-podnecu-ostavku-jer-ste-mi-toliko-odvratni-da-ne-mogu-da-vas-gledam-vi-ste-ziva-slika-mog-poraza/",
    "id": "v513"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "Nova.rs",
+   "kategorija": "korupcija",
+   "naslov": "Nova.rs: najmanje milijardu dinara Grada Beograda ostalo zarobljeno u Alta banci",
+   "red": 60,
+   "sazetak": "Prema pisanju Nova.rs, Grad Beograd je jedini aktivirao menicu od milijardu dinara na dan kada je NBS oduzela dozvolu Alta banci, ali je ona ostala neizvršena; Grad i NBS nisu odgovorili na pitanja. Grad će se, kao i ostali poverioci, naplaćivati iz stečajne mase.",
+   "url": "https://razglas-news.com/2026/11/19/nova-gradu-beogradu-najmanje-milijardu-dinara-ostalo-zarobljeno-u-alta-banci/",
+   "id": "v525"
   },
   {
    "datum": "2026-11-19",
@@ -101,6 +151,16 @@
   },
   {
    "datum": "2026-11-19",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "MSP usred tranzicije vlasti imenovalo arhitektu bez diplomatskog iskustva za prvog savetnika u ambasadi u Vašingtonu",
+   "red": 45,
+   "sazetak": "Ambasada Srbije u SAD potvrdila je da je odlukom Ministarstva spoljnih poslova za četvrtog prvog savetnika imenovan arhitekta Petar Stojanović, koji je prema nezvaničnim izvorima bio povezan sa EXPO 2027. Odluka nije javna, a ministarstvo nije odgovorilo na pitanja N1.",
+   "url": "https://n1info.rs/vesti/arhitekta-bez-diplomatskog-iskustva-novi-prvi-savetnik-u-ambasadi-srbije-u-vasingtonu/",
+   "id": "v529"
+  },
+  {
+   "datum": "2026-11-19",
    "izvor": "N1 / Razglas",
    "kategorija": "institucije",
    "naslov": "Spor oko potpredsednika Skupštine: SNS tvrdi da je opozicija prvi put isključena iz upravljanja parlamentom",
@@ -108,6 +168,16 @@
    "sazetak": "Studentska lista predložila je šest kandidata za potpredsednike (Jelena Petrović, Lidija Dimitrijević, Marija Bjelobrk, Sara Valentik, Tibor Lazar, Adem Marvić), a grupa „Srbija pobeđuje” svojih šest. Milenko Jovanov i Miloš Vučević kažu da opozicija nije konsultovana i da neće dobiti mesta potpredsednika ni u odborima, što nazivaju „revolucionarnim terorom”.",
    "url": "https://n1info.rs/vesti/sns-opozicija-prvi-put-iskljucena-iz-upravljanja-parlamentom/",
    "id": "v518"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Pokret za novi početak vojvođanskih Mađara podneo krivičnu prijavu zbog snimka o plaćenim aktivistima u kampanji",
+   "red": 40,
+   "sazetak": "Povod je audio-snimak koji pojedini mediji dovode u vezu sa dosadašnjim predsednikom Mađarskog nacionalnog saveta Arpadom Fremondom, na kojem se govori o 800 aktivista i naknadi od 100 evra za 100 izbornih pošiljki. Prijava protiv nepoznatih podneta je Posebnom odeljenju za suzbijanje korupcije VJT u Novom Sadu, a predstavke Agenciji za sprečavanje korupcije i Povereniku zbog mogućeg korišćenja podataka dvojnih državljana.",
+   "url": "https://n1info.rs/vesti/pokret-za-novi-pocetak-vojvodjanskih-madjara-podneo-krivicnu-prijavu-i-tri-predstavke-zbog-snimka/",
+   "id": "v530"
   },
   {
    "datum": "2026-11-19",
@@ -131,6 +201,16 @@
   },
   {
    "datum": "2026-11-19",
+   "izvor": "Prvo OJT / N1",
+   "kategorija": "bezbednost",
+   "naslov": "Slučaj garaže Vlade: tužilaštvo ispitalo dva svedoka oštećena u istrazi protiv Marka Krička",
+   "red": 35,
+   "sazetak": "Prvo osnovno javno tužilaštvo u Beogradu saopštilo je da je 19. novembra kao svedoke oštećene ispitalo dve osobe u istrazi protiv Marka Krička i drugih zbog zlostavljanja i mučenja, a da će ostali oštećeni biti ispitani u najkraćem roku.",
+   "url": "https://razglas-news.com/2026/11/19/ispitana-dva-svedoka-u-slucaju-protiv-marka-kricka/",
+   "id": "v527"
+  },
+  {
+   "datum": "2026-11-19",
    "izvor": "RTS / N1",
    "kategorija": "institucije",
    "naslov": "Katarina Kovačević imenovana za v.d. direktorke Jovine gimnazije u Novom Sadu",
@@ -138,6 +218,16 @@
    "sazetak": "Pokrajinski sekretarijat za obrazovanje imenovao je Katarinu Kovačević za vršioca dužnosti direktora Gimnazije „Jovan Jovanović Zmaj”, posle razrešenja Radivoja P. Stojkovića. Roditelji učenika podržali su imenovanje.",
    "url": "https://n1info.rs/vesti/roditelji-jovinih-djaka-podrzali-novu-vd-direktorku/",
    "id": "v521"
+  },
+  {
+   "datum": "2026-11-19",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Brnabić: SNS dobio zvanično obaveštenje o predlogu suspenzije iz Evropske narodne partije",
+   "red": 30,
+   "sazetak": "Ana Brnabić izjavila je da je SNS zvanično obavešten o predlogu suspenzije iz EPP i da stranka ostaje članica. Iste večeri ocenila je da je Studentska lista „ukinula demokratiju” u Skupštini, posle izbora svih šest potpredsednika iz redova većine.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6087649/epp-ana-branabic-sns-konferencija.html",
+   "id": "v531"
   },
   {
    "datum": "2026-11-18",
@@ -238,6 +328,16 @@
    "sazetak": "Prema registru dužnika u prinudnoj naplati NBS, beogradski ogranak kompanije China Civil Engineering Construction Corporation (CCECC) od 17. novembra ne može da raspolaže sredstvima na računima. Razlog blokade nije javno saopšten, a NBS nije odgovorila na pitanja Vremena.",
    "url": "https://razglas-news.com/2026/11/18/vreme-nbs-blokirala-racune-kineskoj-firmi-koja-je-rekonstruisala-nadstresnicu/",
    "id": "v504"
+  },
+  {
+   "datum": "2026-11-18",
+   "izvor": "KRIK",
+   "kategorija": "korupcija",
+   "naslov": "Agencija za sprečavanje korupcije izrekla opomenu Goranu Vesiću jer nije prijavio stan na Vračaru",
+   "red": 55,
+   "sazetak": "Posle vanredne kontrole imovine Agencija je bivšem ministru građevinarstva izrekla meru opomene jer u zakonskom roku nije prijavio da je postao vlasnik stana na Vračaru, prema KRIK-u vrednog više od pola miliona evra, koji je ranije pripadao njegovom bratu. Vesić je optužen u slučaju pada nadstrešnice i osumnjičen u istrazi o pruzi Novi Sad–Kelebija.",
+   "url": "https://www.krik.rs/agencija-za-krik-vesicu-opomena-jer-nije-prijavio-stan/",
+   "id": "v526"
   },
   {
    "datum": "2026-11-18",
@@ -5298,15 +5398,32 @@
     "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
     "https://n1info.rs/vesti/cupic-izabran-za-predsednika-narodne-skupstine/",
     "https://studenti.org.rs/vesti/cupic_pobedio/",
-    "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/"
+    "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+    "https://studenti.org.rs/vesti/nasi_zamenici/",
+    "https://www.rtv.rs/sr_lat/politika/aleksandar-cupic-izabran-za-predsednika-skupstine-srbije-izglasano-i-sest-potpredsednika_1759743.html"
    ],
-   "naslov": "Aleksandar Čupić izabran za predsednika Narodne skupštine",
-   "opis": "Trećeg dana konstitutivne sednice, javnim glasanjem prozivkom, od 239 prisutnih poslanika za Čupića (Studentska lista) glasalo je 140, za Stojana Radenovića („Srbija pobeđuje”) 97, a dvoje je bilo uzdržano. Podršku su mu dali i poslanici manjinskih lista. Čupić je preuzeo predsedavanje i predložio šest potpredsednika; izbor potpredsednika, generalnog sekretara i radnih tela nastavljen je popodne. Prema navodima N1, izborom za predsednika Skupštine Čupić preuzima i dužnost vršioca dužnosti predsednika Republike, koju je do tada obavljala Ana Brnabić.",
+   "naslov": "Aleksandar Čupić izabran za predsednika Narodne skupštine; izabrani i potpredsednici i generalna sekretarka",
+   "opis": "Trećeg dana konstitutivne sednice, javnim glasanjem prozivkom, od 239 prisutnih poslanika za Čupića (Studentska lista) glasalo je 140, za Stojana Radenovića („Srbija pobeđuje”) 97, a dvoje je bilo uzdržano. Podršku su mu dali i poslanici manjinskih lista. Čupić je preuzeo predsedavanje i predložio šest potpredsednika. Prema navodima N1, izborom za predsednika Skupštine Čupić preuzima i dužnost vršioca dužnosti predsednika Republike, koju je do tada obavljala Ana Brnabić. Kasno uveče izabrano je svih šest kandidata Studentske liste za potpredsednike (Adem Mavrić 137 glasova; Marija Bjelobrk, Sara Valentik, Lidija Dimitrijević, Tibor Lazar i Jelena Petrović po 136), dok su kandidati grupe „Srbija pobeđuje” dobili po šest glasova; njeni poslanici napustili su salu tokom glasanja, a SVM i SPP nisu podržali predlog. Za generalnu sekretarku izabrana je Mirjana Radaković sa 138 glasova. Sednica se nastavlja 24. novembra izborom radnih tela.",
    "osobe": "Aleksandar Čupić · Stojan Radenović · Narodna skupština",
    "red": 99,
    "status": "zvanicno",
    "tip": "korak",
    "id": "h105"
+  },
+  {
+   "datum": "2026-11-19",
+   "iznos": "≈ 80 mil. RSD (ugovor)",
+   "izvori": [
+    "https://razglas-news.com/2026/11/19/direktor-novosadske-firme-gat-u-bekstvu-raspisana-potraga/",
+    "https://razglas-news.com/2026/11/19/uhapseno-sestoro-zaposlenih-u-leskovackoj-gradskoj-upravi-zbog-sumnje-na-zloupotrebe-pri-javnim-nabavkama/"
+   ],
+   "naslov": "Leskovac: uhapšeno šest službenika Gradske uprave zbog javne nabavke za saobraćajnicu kod stadiona „Dubočica”",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije Višeg javnog tužilaštva u Nišu uhapšeni su šef Odeljenja za javne nabavke Z. N., šef Odeljenja za finansije M. M., šef Odeljenja za komunalne poslove D. S. i tri člana komisije za javne nabavke; određeno im je zadržavanje do 48 sati. Sumnja se da je 16. aprila 2023. zaključen ugovor sa novosadskim ponuđačem na više od 80 miliona dinara, iako je budžetom bilo predviđeno oko 41 milion. Za direktorom i vlasnikom firme GAT Dejanom Slijepčevićem raspisana je potraga.",
+   "osobe": "Dejan Slijepčević (GAT) · Gradska uprava Leskovca · VJT u Nišu",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h106"
   },
   {
    "datum": "2026-11-17",
@@ -7018,6 +7135,15 @@
    "status": "najavljeno",
    "url": "https://www.rts.rs/lat/vesti/politika/6083986/studentska-lista-objavila-ekonomski-plan-politika-mora-da-podstice-domacu-proizvodnju-a-ne-da-nagradjuje-privilegovane.html",
    "id": "o22"
+  },
+  {
+   "azurirano": "2026-11-19",
+   "datum": "2026-11-19",
+   "naslov": "Obustava partijskog zapošljavanja i zapošljavanje u javnom sektoru samo putem javnih konkursa",
+   "opis": "Studentska lista traži hitnu obustavu svih novih zapošljavanja u javnim preduzećima i ustanovama do nezavisne provere kadrovskog stanja i sistematizacije, a potom zapošljavanje isključivo kroz javne i transparentne konkurse na osnovu stručnosti; najavljuje i odgovornost rukovodilaca koji su sprovodili partijska zapošljavanja.",
+   "status": "najavljeno",
+   "url": "https://studenti.org.rs/vesti/kofer_ne_ugovor/",
+   "id": "o23"
   }
  ],
  "funkcije": [
@@ -7047,128 +7173,146 @@
   },
   {
    "ime": "Jelena Petrović",
-   "napomena": "Kandidatkinja koju je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "lista": "Studentska lista",
+   "napomena": "Specijalistkinja interne medicine i endokrinologije; izabrana 19. nov sa 136 glasova.",
+   "od": "2026-11-19",
    "organ": "skupstina",
    "red": 90,
-   "status": "predlozen",
+   "status": "izabran",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f05"
   },
   {
    "ime": "Lidija Dimitrijević",
-   "napomena": "Kandidatkinja koju je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "lista": "Studentska lista",
+   "napomena": "Univerzitetska profesorka i lekarka specijalistkinja; izabrana 19. nov sa 136 glasova.",
+   "od": "2026-11-19",
    "organ": "skupstina",
    "red": 90,
-   "status": "predlozen",
+   "status": "izabran",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f06"
   },
   {
    "ime": "Marija Bjelobrk",
-   "napomena": "Kandidatkinja koju je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "lista": "Studentska lista",
+   "napomena": "Univerzitetska profesorka i lekarka specijalistkinja; izabrana 19. nov sa 136 glasova.",
+   "od": "2026-11-19",
    "organ": "skupstina",
    "red": 90,
-   "status": "predlozen",
+   "status": "izabran",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f07"
   },
   {
    "ime": "Sara Valentik",
-   "napomena": "Kandidatkinja koju je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "lista": "Studentska lista",
+   "napomena": "Master politikologije, pripadnica slovačke zajednice iz Bačkog Petrovca; izabrana 19. nov sa 136 glasova.",
+   "od": "2026-11-19",
    "organ": "skupstina",
    "red": 90,
-   "status": "predlozen",
+   "status": "izabran",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f08"
   },
   {
    "ime": "Tibor Lazar",
-   "napomena": "Kandidat koga je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "lista": "Studentska lista",
+   "napomena": "Magistar slikarstva i nastavnik, pripadnik mađarske zajednice; izabran 19. nov sa 136 glasova.",
+   "od": "2026-11-19",
    "organ": "skupstina",
    "red": 90,
-   "status": "predlozen",
+   "status": "izabran",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f09"
   },
   {
    "ime": "Adem Marvić",
-   "napomena": "Kandidat koga je 19. nov predložila poslanička grupa „Studentska lista”.",
+   "lista": "Studentska lista",
+   "napomena": "Politikolog iz Novog Pazara, pripadnik bošnjačke zajednice; izabran 19. nov sa 137 glasova.",
+   "od": "2026-11-19",
    "organ": "skupstina",
    "red": 90,
-   "status": "predlozen",
+   "status": "izabran",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f10"
   },
   {
+   "do": "2026-11-19",
    "ime": "Miloš Vučević",
    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
-   "napomena": "Predsednik SNS; kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "napomena": "Predsednik SNS; kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”; na glasanju 19. nov dobio šest glasova i nije izabran.",
    "organ": "skupstina",
    "red": 88,
    "status": "predlozen",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f11"
   },
   {
+   "do": "2026-11-19",
    "ime": "Vladimir Đukanović",
    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
-   "napomena": "Kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "napomena": "Kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”; na glasanju 19. nov dobio šest glasova i nije izabran.",
    "organ": "skupstina",
    "red": 88,
    "status": "predlozen",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f12"
   },
   {
+   "do": "2026-11-19",
    "ime": "Marina Raguš",
    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
-   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”; na glasanju 19. nov dobila šest glasova i nije izabrana.",
    "organ": "skupstina",
    "red": 88,
    "status": "predlozen",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f13"
   },
   {
+   "do": "2026-11-19",
    "ime": "Arno Gujon",
    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
-   "napomena": "Kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "napomena": "Kandidat poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”; na glasanju 19. nov dobio šest glasova i nije izabran.",
    "organ": "skupstina",
    "red": 88,
    "status": "predlozen",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f14"
   },
   {
+   "do": "2026-11-19",
    "ime": "Lidija Vukićević",
    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
-   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”; na glasanju 19. nov dobila šest glasova i nije izabrana.",
    "organ": "skupstina",
    "red": 88,
    "status": "predlozen",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f15"
   },
   {
+   "do": "2026-11-19",
    "ime": "Marija Stanković",
    "lista": "Aleksandar Vučić – Ujedinjena Srbija",
-   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”.",
+   "napomena": "Kandidatkinja poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”; na glasanju 19. nov dobila šest glasova i nije izabrana.",
    "organ": "skupstina",
    "red": 88,
    "status": "predlozen",
    "uloga": "Potpredsednik Narodne skupštine",
-   "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
+   "url": "https://studenti.org.rs/vesti/nasi_zamenici/",
    "id": "f16"
   },
   {
@@ -7182,6 +7326,18 @@
    "uloga": "Predsednik poslaničke grupe „Studentska lista”",
    "url": "https://razglas-news.com/2026/11/17/jovo-bakic-je-sef-poslanicke-grupe-studentske-liste/",
    "id": "f03"
+  },
+  {
+   "ime": "Mirjana Radaković",
+   "lista": "Studentska lista",
+   "napomena": "Predlog Studentske liste; imenovana 19. nov sa 138 glasova prisutnih poslanika.",
+   "od": "2026-11-19",
+   "organ": "skupstina",
+   "red": 85,
+   "status": "izabran",
+   "uloga": "Generalni sekretar Narodne skupštine",
+   "url": "https://www.rtv.rs/sr_lat/politika/aleksandar-cupic-izabran-za-predsednika-skupstine-srbije-izglasano-i-sest-potpredsednika_1759743.html",
+   "id": "f17"
   },
   {
    "ime": "Aleksandar Vučić",
@@ -7216,7 +7372,9 @@
     "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
     "https://n1info.rs/vesti/cupic-izabran-za-predsednika-narodne-skupstine/",
     "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
-    "https://studenti.org.rs/vesti/cupic_pobedio/"
+    "https://studenti.org.rs/vesti/cupic_pobedio/",
+    "https://studenti.org.rs/vesti/nasi_zamenici/",
+    "https://www.rtv.rs/sr_lat/politika/aleksandar-cupic-izabran-za-predsednika-skupstine-srbije-izglasano-i-sest-potpredsednika_1759743.html"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
    "odluke": [
@@ -7238,16 +7396,33 @@
      "za": 140
     },
     {
-     "ishod": "u_raspravi",
-     "naslov": "Utvrđivanje broja potpredsednika Narodne skupštine (predlog: šest)"
+     "ishod": "usvojeno",
+     "napomena": "Predlog predsednika Skupštine; broj glasova za ovu odluku nije objavljen u izvorima.",
+     "naslov": "Utvrđivanje broja potpredsednika Narodne skupštine – šest"
+    },
+    {
+     "ishod": "usvojeno",
+     "naslov": "Javno glasanje (prozivkom) o izboru potpredsednika",
+     "za": 133
+    },
+    {
+     "ishod": "usvojeno",
+     "napomena": "Adem Mavrić 137 glasova; Marija Bjelobrk, Sara Valentik, Lidija Dimitrijević, Tibor Lazar i Jelena Petrović po 136. Kandidati grupe „Srbija pobeđuje” (Vukićević, Vučević, Gujon, Đukanović, Raguš, Stanković) dobili su po šest glasova.",
+     "naslov": "Izbor šest potpredsednika Narodne skupštine – izabrani kandidati Studentske liste"
+    },
+    {
+     "ishod": "usvojeno",
+     "napomena": "Glasali su svi prisutni poslanici (138).",
+     "naslov": "Imenovanje generalnog sekretara Narodne skupštine – Mirjana Radaković",
+     "za": 138
     },
     {
      "ishod": "u_raspravi",
-     "napomena": "Po šest kandidata predložile su grupe „Studentska lista” i „Aleksandar Vučić – Srbija pobeđuje”.",
-     "naslov": "Izbor potpredsednika Narodne skupštine"
+     "napomena": "Nastavak sednice 24. novembra.",
+     "naslov": "Izbor članova radnih tela i stalnih delegacija u međunarodnim institucijama"
     }
    ],
-   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; SVM, SPP, SDA Sandžaka i SDP najavili su glasanje za Čupića. 19. nov (treći dan): posle završetka rasprave Čupić je javnim glasanjem prozivkom izabran za predsednika Skupštine i preuzeo predsedavanje; popodne je predložio da Skupština ima šest potpredsednika, a obe poslaničke grupe predložile su po šest kandidata. Grupa „Srbija pobeđuje” tvrdi da nije konsultovana. Izbor potpredsednika, generalnog sekretara i radnih tela je u toku.",
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; SVM, SPP, SDA Sandžaka i SDP najavili su glasanje za Čupića. 19. nov (treći dan): Čupić je javnim glasanjem prozivkom izabran za predsednika Skupštine i preuzeo predsedavanje; predložio je šest potpredsednika, a obe poslaničke grupe predložile su po šest kandidata. Grupa „Srbija pobeđuje” tvrdi da nije konsultovana; Čupić je izrekao opomene njenim poslanicima Samiru Tandiru i Milošu Stojkoviću. Nešto pre ponoći izabrano je svih šest kandidata Studentske liste za potpredsednike (poslanici „Srbija pobeđuje” napustili su salu tokom glasanja, a SVM i SPP nisu podržali predlog), a za generalnu sekretarku Mirjana Radaković. Nastavak sednice – izbor radnih tela i stalnih delegacija – zakazan je za 24. novembar.",
    "organ": "skupstina",
    "status": "odrzana",
    "id": "s01"
