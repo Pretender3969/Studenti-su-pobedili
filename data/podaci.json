@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-20T06:50+00:00",
+ "generisano": "2026-11-20T15:15+00:00",
  "stanje": {
   "azurirano": "2026-11-20",
   "izbori": "2026-10-25",
@@ -41,6 +41,36 @@
  "vesti": [
   {
    "datum": "2026-11-20",
+   "izvor": "Treće OJT",
+   "kategorija": "bezbednost",
+   "naslov": "Treće OJT podnelo optužni predlog protiv gradonačelnika Beograda Aleksandra Šapića zbog teške telesne povrede odbornice Tatjane Mićić",
+   "red": 85,
+   "sazetak": "Tužilaštvo Šapiću stavlja na teret da je 28. septembra na Novom Beogradu udario odbornicu Kreni-promeni pesnicom u lice, od čega je zadobila prelome nosne kosti i dela gornje vilice. Predložena je kazna zatvora od najmanje tri godine i mera zabrane približavanja i komunikacije sa oštećenom.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27410/",
+   "id": "v532"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Čupić: predsedničke izbore raspisaću u narednih nekoliko dana, rok je 27. novembar",
+   "red": 75,
+   "sazetak": "Predsednik Skupštine i v.d. predsednika Republike Aleksandar Čupić rekao je za FoNet da izbore neće raspisati danas, ali da će to učiniti narednih dana, u roku koji ističe 27. novembra. Od raspisivanja do glasanja mora proći najmanje 30, a najviše 60 dana.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6088301/cupic-raspisacu-predsednicke-izbore-u-narednih-nekoliko-dana.html",
+   "id": "v535"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Viši sud obustavio postupak protiv devetoro studenata optuženih za „pripremanje nasilne promene ustavnog uređenja”",
+   "red": 70,
+   "sazetak": "Na ročištu u Palati pravde sud je, posle odustanka VJT u Beogradu od optužbe 9. novembra, odbio optužbu i obustavio postupak. Tužilac nije došao na ročište; studenti su se posle ročišta obratili medijima.",
+   "url": "https://www.rtv.rs/sr_lat/drustvo/sud-obustavio-postupak-protiv-9-optuzenih-za-pripremu-nasilne-promene-ustavnog-poretka_1760159.html",
+   "id": "v534"
+  },
+  {
+   "datum": "2026-11-20",
    "izvor": "Radar / N1",
    "kategorija": "mediji",
    "naslov": "Radar: BIA od 2022. tajno nadzirala redakciju Ozon presa i aktivistkinje iz Čačka i Gornjeg Milanovca",
@@ -48,6 +78,86 @@
    "sazetak": "Prema dokumentima u koje je imao uvid Radar, BIA je na osnovu naredbi Višeg suda u Beogradu prisluškivala i pratila novinare Ozon presa, novinarku Svetlanu Kojanović i aktivistkinje Ljiljanu Bralović i Kristinu Milošević, a ozvučila je i prostorije redakcije. Zahteve je 2022. podneo tadašnji direktor BIA Aleksandar Vulin, uz tvrdnju da se bave „subverzivnim aktivnostima”.",
    "url": "https://n1info.rs/vesti/cacani-pod-tajnim-nadzorom-bia-kao-da-mi-je-neko-virio-kroz-kljucaonicu-kupatila-dok-se-kupam/",
    "id": "v528"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Čupić pozvan na samit EU i Zapadnog Balkana u Briselu 25. novembra",
+   "red": 60,
+   "sazetak": "Predsednik Evropskog saveta Antonio Košta uputio je poziv v.d. predsednika Republike Aleksandru Čupiću. Ako ga prihvati, to će biti prvo predstavljanje Srbije na najvišem međunarodnom nivou posle pobede Studentske liste.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6088756/cupic-pozvan-na-samit-eu-i-zapadnog-balkana-u-briselu.html",
+   "id": "v536"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "N1 / BCLJP",
+   "kategorija": "institucije",
+   "naslov": "Evropski sud za ljudska prava traži od Srbije izjašnjenje o Vučićevim pomilovanjima optuženih za napade na studente",
+   "red": 55,
+   "sazetak": "Sud je Vladi dostavio dve predstavke o pet pomilovanja: četvorice aktivista SNS optuženih za napad palicama na studente u Novom Sadu 28. januara 2025. i Milice Stojanović, optužene da je 24. januara 2025. automobilom udarila studentkinju. Podnosioci tvrde da su im prava povređena jer su postupci obustavljeni pre odluke suda.",
+   "url": "https://n1info.rs/vesti/evropski-sud-za-ljudska-prava-trazi-izjasnjenje-srbije-o-vucicevom-pomilovanjima-optuzenih-za-napade-na-studente/",
+   "id": "v537"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "BIRN / N1",
+   "kategorija": "institucije",
+   "naslov": "BIRN: Vučić pomilovao osuđenog za smrt dva radnika MB Namenske u Lučanima suprotno mišljenju suda",
+   "red": 50,
+   "sazetak": "Prema BIRN-u, Osnovni sud u Ivanjici zaključio je 12 dana pre pomilovanja da za pomilovanje Toma Stojića nema osnova. Stojić je jedini pravnosnažno osuđen za smrt dva radnika u požaru u fabrici 2017. godine.",
+   "url": "https://n1info.rs/vesti/birn-vucic-suprotno-misljenju-suda-pomilovao-osudjenog-za-smrt-radnika-mb-namenske-u-lucanima/",
+   "id": "v538"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "VJT Beograd",
+   "kategorija": "korupcija",
+   "naslov": "VJT: krivičnu prijavu Agencije protiv Šapića zbog neprijavljivanja imovine od decembra 2025. vodi Treće OJT",
+   "red": 45,
+   "sazetak": "VJT u Beogradu saopštilo je da je Agencija za sprečavanje korupcije prijavu protiv Šapića zbog neprijavljivanja imovine i prihoda ili davanja lažnih podataka podnela 14. avgusta 2025, a da je ona 30. decembra 2025. prosleđena nadležnom Trećem OJT. Saopštenje je odgovor na navode medija da je prijava podneta u januaru ove godine.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1504/",
+   "id": "v533"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "Danas / Razglas",
+   "kategorija": "mediji",
+   "naslov": "Šabić: REM će podneti više stotina zahteva za prekršajne postupke zbog kršenja Zakona o oglašavanju",
+   "red": 40,
+   "sazetak": "Član Saveta REM-a Rodoljub Šabić rekao je za Danas da je u poslednje tri godine zabeleženo više od 10.000 prekršaja, od kojih je dobar deo zastareo. Prijave će biti podnete za one koji nisu zastareli.",
+   "url": "https://razglas-news.com/2026/11/20/sabic-podnecemo-vise-stotina-prijava-zbog-krsenja-zakona-o-oglasavanju/",
+   "id": "v540"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Granična policija: Radoičić ne može zakonito preći granicu; Vulin, Popović i Bajatović nisu imali zabranu putovanja",
+   "red": 35,
+   "sazetak": "Uprava granične policije saopštila je, povodom navoda da je Milan Radoičić napustio Srbiju, da osoba za kojom je raspisana potraga ne može zakonito preći granicu i da sudske odluke izvršava po službenom dostavljanju. Za let za Moskvu vraćen 3. novembra navela je da putnici nisu imali evidentiranu zabranu.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6088787/granicna-policija-o-radoicicu-i-putovanju-vulina-popovica-i-bajatovica-za-moskvu.html",
+   "id": "v539"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "RTS",
+   "kategorija": "korupcija",
+   "naslov": "DS tvrdi da je sajt digitalnih usluga Grada Beograda „preplaćen 150 puta”",
+   "red": 25,
+   "sazetak": "Gradski odbor DS-a navodi da je sajt deo projekta „Beograd pametan grad” vrednog više od 14,5 miliona evra i da su ugovori protivzakonito proglašavani tajnim. Stranka najavljuje da će dokumentaciju proslediti istražnim organima; reč je o tvrdnji stranke.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6088733/gradski-odbor-ds-a-sajt-digitalnih-usluga-grada-beograda-preplacen-150-puta.html",
+   "id": "v541"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "Razglas",
+   "kategorija": "korupcija",
+   "naslov": "Pogačar: brat predsednice Skupštine Novog Sada dobio otkaz u „Novosadskom sajmu” posle deset godina nedolaska na posao",
+   "red": 20,
+   "sazetak": "Odbornik pokreta Bravo Miran Pogačar tvrdi da je Neven Malešević, brat Dine Vučinić (SNS), dobio otkaz jer deset godina nije dolazio na posao, i najavljuje krivične prijave protiv odgovornih.",
+   "url": "https://razglas-news.com/2026/11/20/pogacar-bravo-brat-dine-vucinic-sns-dobio-otkaz-nakon-sto-se-10-godina-nije-pojavio-na-poslu/",
+   "id": "v542"
   },
   {
    "datum": "2026-11-19",
@@ -5393,6 +5503,21 @@
    "id": "h20"
   },
   {
+   "datum": "2026-11-20",
+   "izvori": [
+    "https://trece.ojt.rs/aktuelnosti/27410/",
+    "https://www.rts.rs/lat/vesti/hronika/6088708/aleksandar-sapic-optuzba-tatjana-micic-kreni-promeni.html",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1504/"
+   ],
+   "naslov": "Optužni predlog protiv gradonačelnika Beograda Aleksandra Šapića zbog teške telesne povrede odbornice",
+   "opis": "Treće OJT u Beogradu podnelo je Trećem osnovnom sudu optužni predlog protiv Šapića zbog sumnje da je 28. septembra 2026. na Novom Beogradu udario odbornicu Tatjanu Mićić (Kreni-promeni), koja je zadobila prelome nosne kosti i dela gornje vilice. Predložena je kazna zatvora od najmanje tri godine i zabrana približavanja oštećenoj. Istog dana VJT u Beogradu je saopštilo da odvojenu prijavu Agencije za sprečavanje korupcije protiv Šapića (neprijavljivanje imovine, avgust 2025) od decembra 2025. vodi Treće OJT.",
+   "osobe": "Aleksandar Šapić · Tatjana Mićić · Treće OJT u Beogradu",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h107"
+  },
+  {
    "datum": "2026-11-19",
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6087079/skupstina-nastavak-sednica-cupic.html",
@@ -5745,10 +5870,11 @@
    "datum": "2026-11-09",
    "izvori": [
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1488/",
-    "https://n1info.rs/vesti/vjt-obustavilo-postupak-protiv-devetoro-studenata-optuzenih-za-pripremu-nasilne-promene-ustavnog-uredjenja/"
+    "https://n1info.rs/vesti/vjt-obustavilo-postupak-protiv-devetoro-studenata-optuzenih-za-pripremu-nasilne-promene-ustavnog-uredjenja/",
+    "https://www.rtv.rs/sr_lat/drustvo/sud-obustavio-postupak-protiv-9-optuzenih-za-pripremu-nasilne-promene-ustavnog-poretka_1760159.html"
    ],
    "naslov": "VJT odustalo od optužbe protiv devetoro studenata za „pripremanje nasilne promene ustavnog uređenja”",
-   "opis": "Više javno tužilaštvo u Beogradu odustalo je od optužnog predloga iz 19. septembra 2025. protiv devetoro okrivljenih, pošto je Apelacioni sud potvrdio rešenje Višeg suda o izdvajanju nezakonito pribavljenih dokaza (posebne dokazne radnje). Prema N1, optužba se odnosila na sastanke na Građevinskom i Filološkom fakultetu u junu 2025.",
+   "opis": "Više javno tužilaštvo u Beogradu odustalo je od optužnog predloga iz 19. septembra 2025. protiv devetoro okrivljenih, pošto je Apelacioni sud potvrdio rešenje Višeg suda o izdvajanju nezakonito pribavljenih dokaza (posebne dokazne radnje). Prema N1, optužba se odnosila na sastanke na Građevinskom i Filološkom fakultetu u junu 2025. 20. nov: Viši sud u Beogradu je na ročištu odbio optužbu i obustavio krivični postupak; tužilac nije prisustvovao.",
    "osobe": "Luka S. · Bojo B. · Lazar S. · Ivana M. · Dušan S. · Dimitrije S. · Dimitrije D. · Nikola P. · Luka D. · VJT u Beogradu · Apelacioni sud u Beogradu",
    "red": 82,
    "status": "zvanicno",
