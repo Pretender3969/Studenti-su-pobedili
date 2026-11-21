@@ -1,7 +1,7 @@
 {
- "generisano": "2026-11-20T15:15+00:00",
+ "generisano": "2026-11-21T06:53+00:00",
  "stanje": {
-  "azurirano": "2026-11-20",
+  "azurirano": "2026-11-21",
   "izbori": "2026-10-25",
   "mandati": 140,
   "procenat": "53,01%",
@@ -39,6 +39,16 @@
   "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-21",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista objasnila postupak izbora nove Vlade: mandatara predlaže Čupić, za izbor potrebno 126 glasova",
+   "red": 25,
+   "sazetak": "Studentska lista objavila je vodič za formiranje Vlade: kandidata za premijera predlaže Aleksandar Čupić kao predsednik Skupštine koji vrši dužnost predsednika Republike, a rok od 90 dana teče od 17. novembra. Lista navodi da sa 140 mandata može samostalno da izabere Vladu ukoliko je podrži najmanje 126 njenih poslanika; mandatar još nije predložen.",
+   "url": "https://studenti.org.rs/vesti/02vlada/",
+   "id": "v550"
+  },
   {
    "datum": "2026-11-20",
    "izvor": "Treće OJT",
@@ -121,6 +131,16 @@
   },
   {
    "datum": "2026-11-20",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Komisija za zaštitu konkurencije ponovo ispituje preuzimanje Adria News (N1, Nova, Danas, Radar) i privremeno suspendovala raniju saglasnost",
+   "red": 45,
+   "sazetak": "Komisija je po službenoj dužnosti pokrenula ponovno ispitivanje svog rešenja od 23. juna 2026. kojim je odobrila da fond European Future Media Investments preuzme kontrolu nad Adria News, vlasnikom N1, Nove, Danasa, Radara i drugih medija; to rešenje je suspendovano do okončanja postupka. Povod je inicijativa Igora Avžnera od 17. novembra, koji navodi da luksemburški regulator još nije dao mišljenje o promeni vlasništva.",
+   "url": "https://n1info.rs/biznis/pauzirano-resenje-antimonopolske-komisije-o-prodaji-n1-i-drugih-medija-ann-postupak-se-ponovo-pokrece/",
+   "id": "v544"
+  },
+  {
+   "datum": "2026-11-20",
    "izvor": "Danas / Razglas",
    "kategorija": "mediji",
    "naslov": "Šabić: REM će podneti više stotina zahteva za prekršajne postupke zbog kršenja Zakona o oglašavanju",
@@ -132,12 +152,52 @@
   {
    "datum": "2026-11-20",
    "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Nastavno-naučno veće novosadskog DIF-a jednoglasno za razrešenje dekana Patrika Drida",
+   "red": 40,
+   "sazetak": "Nastavno-naučno veće Fakulteta sporta i fizičkog vaspitanja Univerziteta u Novom Sadu na hitnoj sednici jednoglasno je usvojilo predlog za razrešenje dekana Patrika Drida, protiv koga se vodi istraga zbog sumnje na štetu pokrajinskom budžetu. Konačnu odluku donosi Savet fakulteta.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6088952/patrik-drid-razresenje.html",
+   "id": "v543"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "RTS",
    "kategorija": "bezbednost",
    "naslov": "Granična policija: Radoičić ne može zakonito preći granicu; Vulin, Popović i Bajatović nisu imali zabranu putovanja",
    "red": 35,
    "sazetak": "Uprava granične policije saopštila je, povodom navoda da je Milan Radoičić napustio Srbiju, da osoba za kojom je raspisana potraga ne može zakonito preći granicu i da sudske odluke izvršava po službenom dostavljanju. Za let za Moskvu vraćen 3. novembra navela je da putnici nisu imali evidentiranu zabranu.",
    "url": "https://www.rts.rs/lat/vesti/hronika/6088787/granicna-policija-o-radoicicu-i-putovanju-vulina-popovica-i-bajatovica-za-moskvu.html",
    "id": "v539"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "N1 / Beta",
+   "kategorija": "izbori",
+   "naslov": "Tužilaštvo u Kraljevu formiralo tri predmeta zbog prijava o kršenju izbornih propisa",
+   "red": 35,
+   "sazetak": "VJT u Kraljevu formiralo je tri predmeta i zatražilo od policije prikupljanje obaveštenja: zbog upisa građana u poseban birački spisak bošnjačke manjine bez njihovog zahteva, zbog objavljivanja celog biračkog spiska Kragujevca sa JMBG i adresama, i zbog prijave protiv direktora kragujevačkog Centra za socijalni rad „Solidarnost” zbog sumnje na zloupotrebu položaja.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-u-kraljevu-formiralo-tri-predmeta-zbog-prijava-o-krsenju-izbornih-propisa/",
+   "id": "v545"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Suđenje za napad na ekipu N1 kod „Ćacilenda”: snimak pokazuje da policajci u blizini nisu reagovali",
+   "red": 30,
+   "sazetak": "Na godišnjicu napada na ekipu N1 kod kampa ispred Skupštine, N1 je objavila snimak nadzorne kamere na kojem se vidi da policajci udaljeni oko 10–12 metara nisu reagovali, iako je Sektor unutrašnje kontrole MUP-a ocenio da su postupali zakonito. Optuženi Vladan Sretenović izvinio se reporterki Maji Nikolić u sudnici, a ispred suda uzvikivao „Ratko Mladić je heroj”.",
+   "url": "https://n1info.rs/vesti/optuzeni-za-napad-na-ekipu-n1-izvinjavao-se-novinarki-u-sudnici-pa-ispred-suda-uzvikivao-ratko-mladic-je-heroj/",
+   "id": "v547"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "Insajder",
+   "kategorija": "korupcija",
+   "naslov": "Insajder: radovi „Beograda na vodi” na nasipu kod Sajma bez table i dozvole u registru; ministarstvo šalje inspekciju",
+   "red": 30,
+   "sazetak": "Insajder je utvrdio da se radovi na savskom nasipu od Starog železničkog mosta do Hale 1 Sajma izvode bez gradilišne table i bez građevinske dozvole u državnom registru. „Beograd na vodi”, „Milenijum tim” i „Srbijavode” nisu dali jasan odgovor, a Ministarstvo građevinarstva (u tehničkom mandatu) navelo je da šalje inspekciju.",
+   "url": "https://insajder.net/vesti/da-li-beograd-na-vodi-ima-dozvolu-za-radove-kod-sajma-ministarstvo-na-upit-insajdera-kaze-da-salju-inspekciju-video",
+   "id": "v549"
   },
   {
    "datum": "2026-11-20",
@@ -158,6 +218,26 @@
    "sazetak": "Odbornik pokreta Bravo Miran Pogačar tvrdi da je Neven Malešević, brat Dine Vučinić (SNS), dobio otkaz jer deset godina nije dolazio na posao, i najavljuje krivične prijave protiv odgovornih.",
    "url": "https://razglas-news.com/2026/11/20/pogacar-bravo-brat-dine-vucinic-sns-dobio-otkaz-nakon-sto-se-10-godina-nije-pojavio-na-poslu/",
    "id": "v542"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "Forbes Srbija",
+   "kategorija": "institucije",
+   "naslov": "Vladimir Stolović v.d. direktora „Srbijavoda” posle ostavke Gorana Puzovića",
+   "red": 20,
+   "sazetak": "Nedelju dana posle ostavke Gorana Puzovića, za vršioca dužnosti direktora JVP „Srbijavode” postavljen je Vladimir Stolović, inženjer šumarstva zaposlen u preduzeću od 2008, izvršni direktor za razvoj od 2018. i počasni konzul Mongolije u Srbiji.",
+   "url": "https://forbes.n1info.rs/vesti/pocasni-konzul-mongolije-preuzima-srbijavode-drzavno-preduzece-dobilo-v-d-direktora-nakon-ostavke-puzovica/",
+   "id": "v546"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "Cenzolovka / Razglas",
+   "kategorija": "mediji",
+   "naslov": "Vučićević preneo udeo u firmi koja je kupila deset lokalnih televizija za 10.000 dinara",
+   "red": 20,
+   "sazetak": "Urednik „Informera” Dragan J. Vučićević preneo je svoj udeo od 10% u firmi Best Media Team, koja je tokom izborne 2026. kupila deset lokalnih televizija, na Sašu Blagojevića za 10.000 dinara. Prema podacima ANEM-a koje navodi tekst, firma je dobila i više od milion evra kroz medijsko sufinansiranje.",
+   "url": "https://razglas-news.com/2026/11/20/vucicevic-vise-nije-suvlasnik-firme-koja-je-kupila-10-lokalnih-televizija-svoj-udeo-preneo-za-10-000-dinara/",
+   "id": "v548"
   },
   {
    "datum": "2026-11-19",
@@ -5638,10 +5718,12 @@
     "https://n1info.rs/vesti/uhapseni-patrik-drid-i-bivsi-dekan-dif-a-u-novom-sadu/",
     "https://razglas-news.com/2026/11/16/uhapseni-dekan-novosadskog-dif-a-patrik-drid-i-bivsi-dekan-nebojsa-maksimovic-zbog-sumnje-na-zloupotrebu-sluzbenog-polozaja/",
     "https://novisad.vjt.rs/aktuelnosti/17-11-2026-saopstenje-za-javnost/",
-    "https://razglas-news.com/2026/11/17/tuzilastvo-predlozilo-pritvor-patriku-dridu-i-nebojsi-maksimovicu/"
+    "https://razglas-news.com/2026/11/17/tuzilastvo-predlozilo-pritvor-patriku-dridu-i-nebojsi-maksimovicu/",
+    "https://www.rts.rs/lat/vesti/drustvo/6088952/patrik-drid-razresenje.html",
+    "https://razglas-news.com/2026/11/20/nastavno-naucno-vece-dif-a-jednoglasno-za-razresenje-dekana-patrika-drida/"
    ],
    "naslov": "Uhapšeni sadašnji i bivši dekan Fakulteta sporta u Novom Sadu zbog štete pokrajinskom budžetu",
-   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su lišeni slobode P. D. i N. M. zbog sumnje na zloupotrebu službenog položaja: prostor u vlasništvu AP Vojvodine izdavan je u zakup, a novac nije uplaćen u budžet Pokrajine već je potrošen na isplate zaposlenima, uz ugovore vođene kao „organizacija sportskih aktivnosti”. N1 i Razglas navode da je reč o dekanu Patriku Dridu i bivšem dekanu Nebojši Maksimoviću. 17. nov: tužilaštvo je donelo naredbu o sprovođenju istrage, saslušalo osumnjičene i Višem sudu u Novom Sadu predložilo pritvor zbog opasnosti od uticaja na svedoke i ponavljanja dela.",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su lišeni slobode P. D. i N. M. zbog sumnje na zloupotrebu službenog položaja: prostor u vlasništvu AP Vojvodine izdavan je u zakup, a novac nije uplaćen u budžet Pokrajine već je potrošen na isplate zaposlenima, uz ugovore vođene kao „organizacija sportskih aktivnosti”. N1 i Razglas navode da je reč o dekanu Patriku Dridu i bivšem dekanu Nebojši Maksimoviću. 17. nov: tužilaštvo je donelo naredbu o sprovođenju istrage, saslušalo osumnjičene i Višem sudu u Novom Sadu predložilo pritvor zbog opasnosti od uticaja na svedoke i ponavljanja dela; prema Razglasu, sud im je odredio pritvor do 30 dana. 20. nov: Nastavno-naučno veće fakulteta jednoglasno je usvojilo predlog za razrešenje dekana Drida; odluku donosi Savet fakulteta.",
    "osobe": "Patrik Drid · Nebojša Maksimović · Fakultet sporta i fizičkog vaspitanja, Univerzitet u Novom Sadu",
    "red": 70,
    "status": "zvanicno",
