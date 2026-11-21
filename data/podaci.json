@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-21T06:53+00:00",
+ "generisano": "2026-11-21T15:14+00:00",
  "stanje": {
   "azurirano": "2026-11-21",
   "izbori": "2026-10-25",
@@ -39,6 +39,86 @@
   "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-21",
+   "izvor": "BIRN / N1",
+   "kategorija": "korupcija",
+   "naslov": "Šapić izgubio spor protiv BIRN-a: sud utvrdio da je prijavio bitno drugačiju imovinu od vile kupljene u Trstu",
+   "red": 55,
+   "sazetak": "Viši sud u Beogradu odbio je u celosti tužbu gradonačelnika Aleksandra Šapića protiv BIRN-a zbog teksta o vili u Trstu vrednoj 820.000 evra i utvrdio značajno neslaganje između kupljene i Agenciji za sprečavanje korupcije prijavljene imovine. Šapić mora da plati 748.775 dinara troškova; presuda je prvostepena i na nju je dozvoljena žalba.",
+   "url": "https://n1info.rs/vesti/aleksandar-sapic-spor-birn-sud-vila-trst/",
+   "id": "v554"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Leskovac: sud odbio predlog za pritvor, šestoro zaposlenih u Gradskoj upravi pušteno na slobodu",
+   "red": 50,
+   "sazetak": "Posle saslušanja u Posebnom odeljenju za suzbijanje korupcije VJT u Nišu, šestoro službenika Gradske uprave Leskovca osumnjičenih za zloupotrebe u javnoj nabavci pušteno je kući. Nadležni sud odbio je predlog tužilaštva za određivanje pritvora, saopštio je Grad Leskovac.",
+   "url": "https://n1info.rs/vesti/sud-odbio-predlog-za-pritvor-sestoro-zaposlenih-u-gradskoj-upravi-leskovca-pusteno-na-slobodu/",
+   "id": "v553"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Evropski sud za ljudska prava dao Srbiji rok do 15. januara da se izjasni o slučaju „zvučni top”",
+   "red": 48,
+   "sazetak": "Pravnik Beogradskog centra za ljudska prava Vladica Ilić rekao je za RTS da je ESLJP zatražio od Srbije izjašnjenje o upotrebi „zvučnog topa” na protestu 15. marta do 15. januara, i da institucije nisu kažnjavale policijsku torturu.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6089161/vladica-ilic-zvucni-top-evropski-sud-za-ljudska-prava-rok-15-januar-policijska-tortura-danka-ilic-senjak-kricak.html",
+   "id": "v556"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "RTS / Beta",
+   "kategorija": "izbori",
+   "naslov": "Bakić: Studentska lista ima kandidata za predsednika, ime još nije objavljeno",
+   "red": 45,
+   "sazetak": "Šef poslaničke grupe Studentska lista Jovo Bakić rekao je listu Nova da lista ima kandidata za predsedničke izbore, ali da ime još ne objavljuje. Naveo je i da se priprema za mesto ministra unutrašnjih poslova, ali da o tome odlučuju mandatar i poslanici u konsultacijama sa studentima.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6089232/jovo-bakic-imamo-kandidata-za-predsednicke-izbore-ali-jos-ne-izlazimo-sa-imenom.html",
+   "id": "v552"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "N1",
+   "kategorija": "program",
+   "naslov": "Studentska lista o EXPO 2027: prioritet provera bezbednosti objekata, otkazivanje moguće ako nisu bezbedni",
+   "red": 42,
+   "sazetak": "Danijela Milovanović Rodić sa Studentske liste rekla je za N1 da će tim prikupiti dokumentaciju i proceniti bezbednost objekata EXPO 2027, i da izložba može biti otkazana ako se objekti pokažu nebezbednim. Navela je da nova vlada mora preuzeti odgovornost za projekat.",
+   "url": "https://n1info.rs/vesti/studentska-lista-expo-2027-plan-nove-vlasti-moze-li-biti-otkazan/",
+   "id": "v557"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "RTS / Tanjug",
+   "kategorija": "izbori",
+   "naslov": "Vučić: u ovakvim uslovima besmisleno učestvovati na predsedničkim izborima",
+   "red": 40,
+   "sazetak": "Šef poslaničke grupe „Srbija pobeđuje” Aleksandar Vučić rekao je da je učešće SNS na predstojećim predsedničkim izborima besmisleno i da bi eventualno učešće bilo mimo njegove volje, ako tako odluči Skupština SNS. Dodao je da očekuje konsultacije u Skupštini u ponedeljak o mestima u odborima i da će od ponude zavisiti da li će SNS učestvovati.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6089240/vucic-u-ovakvim-uslovima-besmisleno-ucestvovati-na-predsednickim-izborima.html",
+   "id": "v551"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu se neće žaliti na presudu kojom je odbijena optužba protiv devetoro studenata",
+   "red": 35,
+   "sazetak": "Više javno tužilaštvo u Beogradu saopštilo je da je odbijajuća presuda jedina moguća odluka jer je tužilaštvo početkom novembra odustalo od optužnog predloga za „pozivanje na nasilnu promenu ustavnog uređenja”, posle sudskih odluka o izdvajanju dokaza, pa se na nju neće žaliti.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1505/",
+   "id": "v555"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "Danas / Razglas",
+   "kategorija": "bezbednost",
+   "naslov": "Novi Sad: tužilaštvo potvrdilo predistražni postupak po prijavi protiv zamenice načelnika PU Marine Jovanović",
+   "red": 30,
+   "sazetak": "Posle suspenzije policajca Siniše Mašića i disciplinskog postupka protiv njega i kolege zbog intervencije kod Banovine, protiv zamenice načelnika PU Novi Sad Marine Jovanović podneta je krivična prijava za zloupotrebu službenog položaja. VJT u Novom Sadu potvrdilo je da je u toku predistražni postupak.",
+   "url": "https://razglas-news.com/2026/11/21/covek-zbog-kog-su-policajci-u-novom-sadu-intervenisali-a-potom-kaznjeni-tvrdi-da-je-sve-bilo-profesionalno/",
+   "id": "v558"
+  },
   {
    "datum": "2026-11-21",
    "izvor": "Studenti",
@@ -5620,10 +5700,11 @@
    "iznos": "≈ 80 mil. RSD (ugovor)",
    "izvori": [
     "https://razglas-news.com/2026/11/19/direktor-novosadske-firme-gat-u-bekstvu-raspisana-potraga/",
-    "https://razglas-news.com/2026/11/19/uhapseno-sestoro-zaposlenih-u-leskovackoj-gradskoj-upravi-zbog-sumnje-na-zloupotrebe-pri-javnim-nabavkama/"
+    "https://razglas-news.com/2026/11/19/uhapseno-sestoro-zaposlenih-u-leskovackoj-gradskoj-upravi-zbog-sumnje-na-zloupotrebe-pri-javnim-nabavkama/",
+    "https://n1info.rs/vesti/sud-odbio-predlog-za-pritvor-sestoro-zaposlenih-u-gradskoj-upravi-leskovca-pusteno-na-slobodu/"
    ],
    "naslov": "Leskovac: uhapšeno šest službenika Gradske uprave zbog javne nabavke za saobraćajnicu kod stadiona „Dubočica”",
-   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije Višeg javnog tužilaštva u Nišu uhapšeni su šef Odeljenja za javne nabavke Z. N., šef Odeljenja za finansije M. M., šef Odeljenja za komunalne poslove D. S. i tri člana komisije za javne nabavke; određeno im je zadržavanje do 48 sati. Sumnja se da je 16. aprila 2023. zaključen ugovor sa novosadskim ponuđačem na više od 80 miliona dinara, iako je budžetom bilo predviđeno oko 41 milion. Za direktorom i vlasnikom firme GAT Dejanom Slijepčevićem raspisana je potraga.",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije Višeg javnog tužilaštva u Nišu uhapšeni su šef Odeljenja za javne nabavke Z. N., šef Odeljenja za finansije M. M., šef Odeljenja za komunalne poslove D. S. i tri člana komisije za javne nabavke; određeno im je zadržavanje do 48 sati. Sumnja se da je 16. aprila 2023. zaključen ugovor sa novosadskim ponuđačem na više od 80 miliona dinara, iako je budžetom bilo predviđeno oko 41 milion. Za direktorom i vlasnikom firme GAT Dejanom Slijepčevićem raspisana je potraga. Posle saslušanja sud je odbio predlog tužilaštva za pritvor i svih šestoro je pušteno na slobodu (21. nov).",
    "osobe": "Dejan Slijepčević (GAT) · Gradska uprava Leskovca · VJT u Nišu",
    "red": 70,
    "status": "zvanicno",
