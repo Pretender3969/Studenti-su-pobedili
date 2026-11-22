@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-21T15:14+00:00",
+ "generisano": "2026-11-22T07:43+00:00",
  "stanje": {
   "azurirano": "2026-11-21",
   "izbori": "2026-10-25",
@@ -40,6 +40,36 @@
  },
  "vesti": [
   {
+   "datum": "2026-11-22",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "Bač i Bačka Palanka: uhapšeni direktor filijale PIO fonda i rukovodilac u Opštinskoj upravi Bač zbog fiktivnog angažovanja osobe koja je radila za SNS",
+   "red": 85,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu uhapšeni su D.J., direktor Filijale PIO fonda u Bačkoj Palanci, i N.K. iz Opštinske uprave Bač zbog sumnje na zloupotrebu službenog položaja, a R.L. zbog pomaganja. Sumnja se da su jednoj osobi omogućili ugovore i naknadu u PIO fondu i opštini iako je ona radila u prostorijama SNS-a u Baču, čime je oštećen budžet opštine i PIO fond.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/22-11-2026-saopstenje-za-javnost/",
+   "id": "v559"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Hrtkovci: uhapšeno šest osoba zbog napada na bajkere iz mobilnog tima Studentske liste na dan izbora",
+   "red": 75,
+   "sazetak": "OJT u Rumi odredilo je zadržavanje do 48 sati šestorici uhapšenih zbog sumnje na učestvovanje u grupi koja izvrši krivično delo. Prema tužilaštvu, grupa maskiranih lica je 25. oktobra u Hrtkovcima, blizu biračkog mesta, palicama napala motocikliste, od kojih je jedan teško povređen.",
+   "url": "https://n1info.rs/vesti/u-hrtkovcima-uhapsena-sestorica-zbog-napada-na-bajkere-na-dan-izbora/",
+   "id": "v560"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Delegacija EU: Čupić neće prisustvovati samitu EU i Zapadnog Balkana u Briselu",
+   "red": 60,
+   "sazetak": "Predsednik Skupštine i v.d. predsednika Republike Aleksandar Čupić izrazio je žaljenje što neće prisustvovati samitu 25. novembra, saopštila je Delegacija EU posle njegovog sastanka sa otpravnikom poslova Julijanom Vasalom. Čupić je poručio da odnosi sa EU i reforme, posebno u poglavljima 23 i 24, ostaju među najvažnijim prioritetima.",
+   "url": "https://n1info.rs/vesti/delegacija-eu-u-srbiji-cupic-nece-prisustvovati-samitu-zapadnog-balkana-u-briselu/",
+   "id": "v561"
+  },
+  {
    "datum": "2026-11-21",
    "izvor": "BIRN / N1",
    "kategorija": "korupcija",
@@ -48,6 +78,16 @@
    "sazetak": "Viši sud u Beogradu odbio je u celosti tužbu gradonačelnika Aleksandra Šapića protiv BIRN-a zbog teksta o vili u Trstu vrednoj 820.000 evra i utvrdio značajno neslaganje između kupljene i Agenciji za sprečavanje korupcije prijavljene imovine. Šapić mora da plati 748.775 dinara troškova; presuda je prvostepena i na nju je dozvoljena žalba.",
    "url": "https://n1info.rs/vesti/aleksandar-sapic-spor-birn-sud-vila-trst/",
    "id": "v554"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "SNS se pismom žali međunarodnim institucijama zbog izbora potpredsednika Skupštine",
+   "red": 55,
+   "sazetak": "U pismu Parlamentarnoj skupštini Saveta Evrope, PS OEBS-a, Venecijanskoj komisiji i ODIHR-u SNS izbor svih šest potpredsednika sa Studentske liste naziva „nedemokratskim preuzimanjem parlamentarnog rukovodstva” i tvrdi da opozicija i manjinske stranke nisu konsultovane.",
+   "url": "https://n1info.rs/vesti/sns-se-zali-medjunarodne-institucije-demokratija/",
+   "id": "v562"
   },
   {
    "datum": "2026-11-21",
@@ -198,6 +238,16 @@
    "sazetak": "Prema BIRN-u, Osnovni sud u Ivanjici zaključio je 12 dana pre pomilovanja da za pomilovanje Toma Stojića nema osnova. Stojić je jedini pravnosnažno osuđen za smrt dva radnika u požaru u fabrici 2017. godine.",
    "url": "https://n1info.rs/vesti/birn-vucic-suprotno-misljenju-suda-pomilovao-osudjenog-za-smrt-radnika-mb-namenske-u-lucanima/",
    "id": "v538"
+  },
+  {
+   "datum": "2026-11-20",
+   "izvor": "Insajder",
+   "kategorija": "institucije",
+   "naslov": "Štimac: Studentska lista blizu rešenja za sastav nove vlade, razmatra se smanjenje broja ministarstava",
+   "red": 50,
+   "sazetak": "Zamenica šefa poslaničke grupe Aleksandra Štimac rekla je da su razgovori o vladi blizu kadrovskih rešenja i odluke o broju ministarstava, a da bi neka ministarstva bez portfelja mogla postati kancelarije u okviru drugih. Nije precizirala da li će vlada biti izabrana do kraja godine.",
+   "url": "https://insajder.net/vesti/aleksandra-stimac-blizu-smo-resenja-za-novu-vladu-u-skupstinu-ne-dolazimo-da-glasamo-na-zvonce-video",
+   "id": "v563"
   },
   {
    "datum": "2026-11-20",
@@ -5661,6 +5711,33 @@
    "status": "najavljeno",
    "tip": "prijava",
    "id": "h20"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/22-11-2026-saopstenje-za-javnost/"
+   ],
+   "naslov": "Bač i Bačka Palanka: uhapšeni direktor filijale PIO fonda i rukovodilac opštinske uprave zbog plaćanja osobe koja je radila za SNS",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su 22. novembra uhapšeni D.J., direktor Filijale PIO fonda u Bačkoj Palanci, i N.K., rukovodilac odeljenja u Opštinskoj upravi Bač, zbog sumnje na zloupotrebu službenog položaja, a R.L. zbog pomaganja. Sumnja se da su tokom 2026. jednoj osobi omogućili ugovore o privremenim poslovima i naknadu iako je ona radila u prostorijama SNS-a u Baču. U saopštenju se zadržavanje do 48 sati navodi za osumnjičene s inicijalima P.V. i D.M., što se ne poklapa sa inicijalima uhapšenih.",
+   "osobe": "D.J. · N.K. · R.L. · Fond PIO Filijala Bačka Palanka · Opštinska uprava Bač · VJT u Novom Sadu",
+   "red": 70,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h108"
+  },
+  {
+   "datum": "2026-11-21",
+   "izvori": [
+    "https://n1info.rs/vesti/u-hrtkovcima-uhapsena-sestorica-zbog-napada-na-bajkere-na-dan-izbora/",
+    "https://razglas-news.com/2026/11/21/u-hrtkovcima-uhapsena-sestorica-zbog-napada-na-bajkere-na-dan-izbora-video/"
+   ],
+   "naslov": "Hrtkovci: uhapšeno šest osoba zbog napada na bajkere iz mobilnog tima Studentske liste",
+   "opis": "OJT u Rumi odredilo je zadržavanje do 48 sati šestorici uhapšenih zbog sumnje na krivično delo učestvovanje u grupi koja izvrši krivično delo. Na dan izbora, 25. oktobra, grupa maskiranih lica je u Hrtkovcima, blizu biračkog mesta, palicama napala motocikliste iz mobilnog tima Studentske liste; jedan je teško povređen.",
+   "osobe": "OJT u Rumi",
+   "red": 65,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h109"
   },
   {
    "datum": "2026-11-20",
