@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-22T07:43+00:00",
+ "generisano": "2026-11-22T15:13+00:00",
  "stanje": {
   "azurirano": "2026-11-21",
   "izbori": "2026-10-25",
@@ -48,6 +48,56 @@
    "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Novom Sadu uhapšeni su D.J., direktor Filijale PIO fonda u Bačkoj Palanci, i N.K. iz Opštinske uprave Bač zbog sumnje na zloupotrebu službenog položaja, a R.L. zbog pomaganja. Sumnja se da su jednoj osobi omogućili ugovore i naknadu u PIO fondu i opštini iako je ona radila u prostorijama SNS-a u Baču, čime je oštećen budžet opštine i PIO fond.",
    "url": "https://novisad.vjt.rs/aktuelnosti/22-11-2026-saopstenje-za-javnost/",
    "id": "v559"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvor": "VJT Niš",
+   "kategorija": "hapsenje",
+   "naslov": "Niš: uhapšeni direktor i vlasnici firme „Vodogradnja” koja je održavala gradske puteve",
+   "red": 70,
+   "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Nišu lišeni su slobode direktor i dvojica vlasnika firme „Vodogradnja” iz Pukovca zbog sumnje na zloupotrebu položaja odgovornog lica u produženom trajanju, a jedan vlasnik i zbog pranja novca. Firma je od kraja 2023. po ugovorima sa Direkcijom za izgradnju Niša radila rekonstrukciju, zimsko održavanje i izgradnju puteva; osumnjičenima je određeno zadržavanje do 48 sati.",
+   "url": "https://nis.vjt.rs/aktuelnosti/saopstenje-za-javnost-1388/",
+   "id": "v564"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvor": "N1 / Financial Times",
+   "kategorija": "korupcija",
+   "naslov": "FT: Vučić lično vršio pritisak na zvaničnike da uklone prepreke za projekat na mestu Generalštaba",
+   "red": 65,
+   "sazetak": "Financial Times piše, pozivajući se na neobjavljeni investicioni ugovor i iskaz svedoka, da su Vučić i ministar finansija Siniša Mali tražili od službi zaštite kulturnog nasleđa da Generalštabu ukinu status zaštićenog dobra. Bivša direktorka Republičkog zavoda za zaštitu spomenika kulture Dubravka Đukanović navodi da je dobila ultimatum „pokrenuti postupak ili podneti ostavku”. Ovo su navodi lista, nisu sudski utvrđeni.",
+   "url": "https://n1info.rs/vesti/ft-o-generalstabu-vucic-vrsio-pritisak-na-zvanicnike-da-uklone-prepreke-za-izgradnju-tramp-hotela/",
+   "id": "v565"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Skupština Beograda 23. novembra o rebalansu budžeta i inicijativi za razrešenje gradonačelnika Šapića",
+   "red": 45,
+   "sazetak": "Za ponedeljak, 23. novembar, zakazana je sednica Skupštine grada Beograda na kojoj su, između ostalog, rebalans gradskog budžeta za 2026. i inicijativa opozicije za razrešenje gradonačelnika Aleksandra Šapića.",
+   "url": "https://n1info.rs/vesti/novi-dan-sta-donosi-sednica-skupstine-beograda/",
+   "id": "v566"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvor": "Razglas",
+   "kategorija": "bezbednost",
+   "naslov": "Ani Brnabić upućena pretnja smrću detetu; ona odgovornost pripisuje studentskom pokretu i medijima",
+   "red": 40,
+   "sazetak": "Ana Brnabić objavila je na mreži X da je dobila telefonsku poruku sa pretnjom smrću njenom detetu, poslatu sa broja sa luksemburškim pozivnim brojem. Odgovornost za pretnje pripisala je studentskom pokretu i kritičkim medijima; o eventualnoj istrazi nema zvaničnih informacija.",
+   "url": "https://razglas-news.com/2026/11/22/ani-brnabic-upucene-pretnje-smrcu-deteta-ona-tvrdi-da-su-odgovorni-studenti/",
+   "id": "v567"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Potpredsednica Skupštine Lidija Dimitrijević: Poslovnik mora da se menja kako bi se sprečile opstrukcije",
+   "red": 40,
+   "sazetak": "Potpredsednica Narodne skupštine sa Studentske liste Lidija Dimitrijević izjavila je da Poslovnik Skupštine treba izmeniti kako bi se sprečile zloupotrebe i opstrukcije rada parlamenta.",
+   "url": "https://www.rtv.rs/sr_lat/politika/lidija-dimitrijevic-poslovnik-skupstine-mora-da-se-menja-kako-bi-se-sprecile-opstrukcije_1760596.html",
+   "id": "v568"
   },
   {
    "datum": "2026-11-21",
@@ -5702,10 +5752,12 @@
    "izvori": [
     "https://studenti.org.rs/vesti/studentiorgrs-generalstab_tramp/",
     "https://n1info.rs/vesti/odlozeno-rociste-u-slucaju-generalstab-nije-se-pojavio-goran-vasic/",
-    "https://n1info.rs/vesti/tok-za-n1-saslusanje-svedoka-pisanje-gardijana-aleksandar-vucic-sazivao-sastanke/"
+    "https://n1info.rs/vesti/tok-za-n1-saslusanje-svedoka-pisanje-gardijana-aleksandar-vucic-sazivao-sastanke/",
+    "https://studenti.org.rs/vesti/generalstab_6/",
+    "https://n1info.rs/vesti/ft-o-generalstabu-vucic-vrsio-pritisak-na-zvanicnike-da-uklone-prepreke-za-izgradnju-tramp-hotela/"
    ],
    "naslov": "Nastavak ročišta u slučaju Generalštab",
-   "opis": "Ročište zakazano za 4. novembar odloženo je jer se nije pojavio okrivljeni Goran Vasić, čiji je advokat dostavio potvrdu o hospitalizaciji; sledeće je zakazano za 23. novembar. TOK je 4. novembra za N1 potvrdio da su skidanju zaštite prethodili sastanci i da je saslušano nekoliko svedoka, ne imenujući Vučića.",
+   "opis": "Ročište zakazano za 4. novembar odloženo je jer se nije pojavio okrivljeni Goran Vasić, čiji je advokat dostavio potvrdu o hospitalizaciji; šesto ročište zakazano je za 23. novembar u 10 časova u Specijalnom sudu (Ustanička 29), a studenti pozivaju na okupljanje u 9 časova. TOK je 4. novembra za N1 potvrdio da su skidanju zaštite prethodili sastanci i da je saslušano nekoliko svedoka, ne imenujući Vučića. Financial Times je 22. novembra objavio navode (nepotvrđene sudski) da su Vučić i Siniša Mali vršili pritisak na službe zaštite nasleđa da ukinu zaštitu lokacije.",
    "osobe": "Nikola Selaković · Goran Vasić · Aleksandra Ivanović · Slavica Jelača · TOK",
    "red": 50,
    "status": "najavljeno",
@@ -5724,6 +5776,20 @@
    "status": "zvanicno",
    "tip": "hapsenje",
    "id": "h108"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvori": [
+    "https://nis.vjt.rs/aktuelnosti/saopstenje-za-javnost-1388/",
+    "https://n1info.rs/vesti/uhapseni-direktor-i-vlasnici-vodogradnje-firme-koja-radila-na-odrzavanju-puteva-u-nisu/"
+   ],
+   "naslov": "Niš: uhapšeni direktor i vlasnici firme „Vodogradnja” zbog zloupotrebe položaja i pranja novca",
+   "opis": "VJT u Nišu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su 22. novembra lišeni slobode direktor Đ. A. i osnivači D. Lj. i M. Lj. firme „Vodogradnja” iz Pukovca, zbog sumnje na zloupotrebu položaja odgovornog lica u produženom trajanju (D. Lj. i za pranje novca); prijava je podneta i protiv firme. Firma je od kraja 2023. radila na putevima u Nišu po ugovorima sa Direkcijom za izgradnju Niša. Određeno je zadržavanje do 48 sati.",
+   "osobe": "Đ. A. · D. Lj. · M. Lj. · „Vodogradnja” d.o.o. Pukovac · VJT Niš",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h110"
   },
   {
    "datum": "2026-11-21",
