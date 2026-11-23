@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-23T08:26+00:00",
+ "generisano": "2026-11-23T15:14+00:00",
  "stanje": {
   "azurirano": "2026-11-21",
   "izbori": "2026-10-25",
@@ -51,6 +51,16 @@
   },
   {
    "datum": "2026-11-23",
+   "izvor": "Treće OJT",
+   "kategorija": "korupcija",
+   "naslov": "Treće OJT sprovodi dokazne radnje po prijavi ASK protiv Šapića zbog imovine: provera nekretnine u Trstu, računa i ugovora",
+   "red": 55,
+   "sazetak": "Treće osnovno javno tužilaštvo u Beogradu saopštilo je da u predistražnom postupku po krivičnoj prijavi Agencije za sprečavanje korupcije (avgust 2025) protiv gradonačelnika Aleksandra Šapića zbog neprijavljivanja imovine sprovodi dokazne radnje, uključujući zamolnicu za međunarodnu pravnu pomoć. Tužilaštvo navodi da u spisima nema podataka o radnjama preduzetim pre nego što je predmet u decembru 2025. stigao iz Višeg javnog tužilaštva.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27427/",
+   "id": "v577"
+  },
+  {
+   "datum": "2026-11-23",
    "izvor": "N1",
    "kategorija": "bezbednost",
    "naslov": "N1: SMATSA je 2022. na zahtev BIA i Avio-službe Vlade internim aktom dala apsolutni prioritet avionima šefova država",
@@ -58,6 +68,36 @@
    "sazetak": "Kontrola letenja (SMATSA) donela je 2022. interni dokument označen kao poslovna tajna, kojim se avionima šefova država i vlada daje apsolutni prioritet u vazdušnom saobraćaju, a prema sagovornicima N1 to je urađeno pre svega zbog Aleksandra Vučića i pritisaka na kontrolore. SMATSA navodi da takvi letovi predstavljaju posebnu kategoriju u međunarodnoj praksi.",
    "url": "https://n1info.rs/vesti/bia-trazila-izmenu-protokola-u-kontroli-letenja-predsednicki-avion-ne-sme-da-ceka/",
    "id": "v571"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Šapić ostaje gradonačelnik Beograda: inicijativa opozicije za razrešenje nije dobila potrebnu većinu",
+   "red": 45,
+   "sazetak": "Skupština Grada Beograda odbacila je inicijativu za razrešenje gradonačelnika Aleksandra Šapića koju je potpisao 41 opozicioni odbornik. Na tajnom glasanju od 35 listića 34 su bila za razrešenje, a jedan protiv; odbornici većine, prema N1, nisu učestvovali u glasanju, iako je pri utvrđivanju kvoruma u sali bilo 98 odbornika.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6090167/skupstina-grada-begrada-sapic.html",
+   "id": "v576"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Konsultacije o skupštinskim odborima: Vučić kaže da opozicija najverovatnije neće učestvovati u radu odbora",
+   "red": 40,
+   "sazetak": "Predsednik Skupštine Aleksandar Čupić održao je konsultacije sa šefovima poslaničkih grupa Jovom Bakićem i Aleksandrom Vučićem i sa samostalnim poslanicima o izboru članova radnih tela i parlamentarnih delegacija. Vučić je rekao da je većina predložila članstvo srazmerno broju poslanika, da opozicija neće voditi nijedan odbor i da će grupa sutra odlučiti o učešću u odborima; Studentska lista se nije obraćala medijima.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6090434/konsultacije-skupstina-odbori.html",
+   "id": "v578"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Nastavljeno suđenje u slučaju Generalštab: izvođeni materijalni dokazi, Selaković osporava navode",
+   "red": 40,
+   "sazetak": "Na šestom ročištu u Specijalnom sudu izvođeni su materijalni dokazi; TOK je dostavio potvrdu da je v.d. pomoćnice ministra Danijela Vanušić bila na poslu u vreme spornih odluka. Optuženi ministar kulture u tehničkom mandatu Nikola Selaković rekao je da mu se stavljaju na teret reči koje nije izgovorio, a Goran Vasić da je imao pravo da podnese inicijativu za skidanje statusa kulturnog dobra.",
+   "url": "https://n1info.rs/vesti/selakovic-na-rocistu-za-generastab-na-teret-mi-se-stavljaju-reci-koje-nikada-nisam-izgovorio/",
+   "id": "v579"
   },
   {
    "datum": "2026-11-23",
@@ -71,6 +111,16 @@
   },
   {
    "datum": "2026-11-23",
+   "izvor": "N1 / Južne vesti",
+   "kategorija": "hapsenje",
+   "naslov": "Leskovac: predao se vlasnik i direktor firme GAT za kojim je bila raspisana potraga",
+   "red": 35,
+   "sazetak": "Vlasnik i direktor novosadske firme GAT, za kojim je bila raspisana potraga u predmetu o javnoj nabavci za saobraćajnicu kod stadiona „Dubočica” u Leskovcu, predao se nadležnim organima, potvrdili su pravosudni izvori Južnim vestima. Trebalo je da bude saslušan istog dana.",
+   "url": "https://n1info.rs/vesti/predao-se-vlasnik-i-direktor-firme-gat-za-njim-bila-raspisana-potraga-zbog-zloupotreba/",
+   "id": "v580"
+  },
+  {
+   "datum": "2026-11-23",
    "izvor": "Razglas",
    "kategorija": "institucije",
    "naslov": "Vučević kritikovao ministra prosvete zbog razrešenja direktora Jovine gimnazije; Stanković: postupljeno po inspekcijskim nalazima",
@@ -78,6 +128,76 @@
    "sazetak": "Predsednik SNS Miloš Vučević nazvao je sramotom učešće ministra prosvete u tehničkom mandatu Dejana Vuka Stankovića u smeni direktora Jovine gimnazije Radivoja P. Stojkovića. Stanković je odgovorio da je ministarstvo postupilo na osnovu nalaza inspekcije Grada Novog Sada i uz saglasnost pokrajinskog sekretara za obrazovanje.",
    "url": "https://razglas-news.com/2026/11/23/vucevic-ljut-na-ministra-stankovica-zbog-razresenja-direktora-jovine-gimnazije/",
    "id": "v575"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Milivojević (DS): u BIA delovao „situacioni centar za hibridne pretnje” koji je pratio studente, novinare i opoziciju",
+   "red": 30,
+   "sazetak": "Predsednik DS Srđan Milivojević tvrdi, pozivajući se na izvore iz službi, da je pre oko dve godine u BIA formiran situacioni centar koji je pratio studentski pokret, nezavisne redakcije (N1, Nova, Radar), aktiviste i opozicione političare, i da je prestao sa radom 19. novembra. Reč je o navodima koje BIA nije potvrdila.",
+   "url": "https://n1info.rs/vesti/milivojevic-otkrio-bia-unutar-bia-situacioni-centar-za-hibridne-pretnje-pratio-studente-novinare-i-opozicione-politicare/",
+   "id": "v581"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Senat Univerziteta u Novom Sadu nije izglasao razrešenje rektora Madića; on kaže da neće podneti ostavku",
+   "red": 25,
+   "sazetak": "Od 20 prisutnih članova Senata 13 je glasalo za pokretanje razrešenja rektora Dejana Madića, a bilo je potrebno 15 glasova. Dekani PMF-a i Ekonomskog fakulteta kritikovali su odluku, Akademski plenum traži ostavku, a Madić je rekao da je neće podneti jer „nije ništa kriv”.",
+   "url": "https://n1info.rs/vesti/dekani-o-nerazresenju-madica-sramna-odluka-rektor-ne-shvata-da-nema-podrsku-svog-univerziteta/",
+   "id": "v582"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Savet DIF-a u Novom Sadu razrešio uhapšenog dekana Patrika Drida, v.d. dekana Borislav Obradović",
+   "red": 20,
+   "sazetak": "Savet Fakulteta sporta i fizičkog vaspitanja Univerziteta u Novom Sadu usvojio je preporuku Nastavno-naučnog veća i razrešio dekana Patrika Drida (15 za, jedan protiv), koji je uhapšen 16. novembra. Za vršioca dužnosti dekana izabran je profesor Borislav Obradović.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6090216/patrik-drid-razresen-duznosti-savet-fakulteta-novi-sad.html",
+   "id": "v583"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista ne podržava predlog rezolucije EP o Vukovaru: za pomirenje neophodno priznavanje svih stradanja",
+   "red": 20,
+   "sazetak": "Studentska lista saopštila je da se ne slaže sa predlogom rezolucije Evropskog parlamenta povodom 35. godišnjice pada Vukovara jer, kako navodi, zanemaruje stradanja srpskih civila u Hrvatskoj. Ističe da odgovornost za ratne zločine mora biti individualna i da pitanja nestalih, arhiva i procesuiranja zločina treba rešavati regionalnom saradnjom uz jednake standarde.",
+   "url": "https://studenti.org.rs/vesti/ep_vukovar/",
+   "id": "v584"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentska lista: status negovatelja biće prioritet u socijalnoj zaštiti, najavljena reforma sistema",
+   "red": 20,
+   "sazetak": "Studentska lista ocenila je da je Zakon o roditeljima negovateljima i negovateljima diskriminatoran i da je u prvim danima primene pokazao mane. Najavljuje da će rešavanje statusa negovatelja biti jedan od prioriteta kada preuzme izvršnu vlast, kao i temeljnu reformu sistema socijalne zaštite.",
+   "url": "https://studenti.org.rs/vesti/negovatelji/",
+   "id": "v585"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "Preminuo novinar Žig infa Milan Jovanović, kome je 2018. zapaljena kuća zbog pisanja o aferama u Grockoj",
+   "red": 15,
+   "sazetak": "Istraživački novinar portala Žig info Milan Jovanović preminuo je u 77. godini. Njegova kuća u Vrčinu zapaljena je u decembru 2018. dok je u njoj bio sa suprugom, a bivši predsednik opštine Grocka Dragoljub Simonović pravosnažno je osuđen na četiri godine zatvora jer je naložio paljenje.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6090098/preminuo-novinar-milan-jovanovic-zig-info.html",
+   "id": "v586"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "UNS: ni RTS ni Studentska lista nisu odgovorili da li je uređen zahtev za podatke o zaposlenima u javnom servisu",
+   "red": 15,
+   "sazetak": "Udruženje novinara Srbije navodi da RTS i Studentska lista nisu odgovorili na pitanja od 19. novembra o tome da li je zahtev za delove radnih biografija zaposlenih u RTS-u, koji nije bio potpisan, naknadno uređen. RTS je naveo da će postupiti u skladu sa Zakonom o slobodnom pristupu informacijama.",
+   "url": "https://n1info.rs/vesti/uns-ni-rts-ni-studentska-lista-nisu-odgovorili-da-li-je-uredjen-zahtev-za-pristup-informacijama-o-zaposlenima-u-javnom-servisu/",
+   "id": "v587"
   },
   {
    "datum": "2026-11-22",
@@ -5820,17 +5940,32 @@
   {
    "datum": "2026-11-23",
    "izvori": [
+    "https://trece.ojt.rs/aktuelnosti/27427/",
+    "https://n1info.rs/vesti/sapiceva-imovina-pod-lupom-tuzilastva-proveravaju-nekretninu-u-trstu-bankovne-racune-i-ugovore-u-beogradu/"
+   ],
+   "naslov": "Treće OJT sprovodi dokazne radnje po prijavi Agencije za sprečavanje korupcije protiv Šapića zbog imovine",
+   "opis": "Treće osnovno javno tužilaštvo u Beogradu saopštilo je da u predistražnom postupku po krivičnoj prijavi ASK od 14. avgusta 2025 (dopuna 29. avgusta 2025) protiv gradonačelnika Aleksandra Šapića zbog neprijavljivanja imovine i prihoda ili davanja lažnih podataka sprovodi dokazne radnje: provera nekretnine u Trstu, bankovnih računa i ugovora u Beogradu, uključujući zamolnicu za međunarodnu pravnu pomoć. Predmet je od VJT u Beogradu primljen 31. decembra 2025, a prema tužilaštvu u spisima nema podataka o radnjama preduzetim pre toga.",
+   "osobe": "Aleksandar Šapić · Agencija za sprečavanje korupcije · Treće OJT u Beogradu",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "prijava",
+   "id": "h111"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvori": [
     "https://studenti.org.rs/vesti/studentiorgrs-generalstab_tramp/",
     "https://n1info.rs/vesti/odlozeno-rociste-u-slucaju-generalstab-nije-se-pojavio-goran-vasic/",
     "https://n1info.rs/vesti/tok-za-n1-saslusanje-svedoka-pisanje-gardijana-aleksandar-vucic-sazivao-sastanke/",
     "https://studenti.org.rs/vesti/generalstab_6/",
-    "https://n1info.rs/vesti/ft-o-generalstabu-vucic-vrsio-pritisak-na-zvanicnike-da-uklone-prepreke-za-izgradnju-tramp-hotela/"
+    "https://n1info.rs/vesti/ft-o-generalstabu-vucic-vrsio-pritisak-na-zvanicnike-da-uklone-prepreke-za-izgradnju-tramp-hotela/",
+    "https://n1info.rs/vesti/selakovic-na-rocistu-za-generastab-na-teret-mi-se-stavljaju-reci-koje-nikada-nisam-izgovorio/"
    ],
-   "naslov": "Nastavak ročišta u slučaju Generalštab",
-   "opis": "Ročište zakazano za 4. novembar odloženo je jer se nije pojavio okrivljeni Goran Vasić, čiji je advokat dostavio potvrdu o hospitalizaciji; šesto ročište zakazano je za 23. novembar u 10 časova u Specijalnom sudu (Ustanička 29), a studenti pozivaju na okupljanje u 9 časova. TOK je 4. novembra za N1 potvrdio da su skidanju zaštite prethodili sastanci i da je saslušano nekoliko svedoka, ne imenujući Vučića. Financial Times je 22. novembra objavio navode (nepotvrđene sudski) da su Vučić i Siniša Mali vršili pritisak na službe zaštite nasleđa da ukinu zaštitu lokacije.",
+   "naslov": "Nastavak suđenja u slučaju Generalštab",
+   "opis": "Ročište zakazano za 4. novembar odloženo je jer se nije pojavio okrivljeni Goran Vasić, čiji je advokat dostavio potvrdu o hospitalizaciji. TOK je 4. novembra za N1 potvrdio da su skidanju zaštite prethodili sastanci i da je saslušano nekoliko svedoka, ne imenujući Vučića. Financial Times je 22. novembra objavio navode (nepotvrđene sudski) da su Vučić i Siniša Mali vršili pritisak na službe zaštite nasleđa da ukinu zaštitu lokacije. Šesto ročište održano je 23. novembra u Specijalnom sudu: izvođeni su materijalni dokazi, TOK je dostavio potvrdu da je v.d. pomoćnice ministra Danijela Vanušić bila na poslu u vreme spornih odluka, a optuženi Nikola Selaković rekao je da mu se stavljaju na teret reči koje nije izgovorio.",
    "osobe": "Nikola Selaković · Goran Vasić · Aleksandra Ivanović · Slavica Jelača · TOK",
    "red": 50,
-   "status": "najavljeno",
+   "status": "zvanicno",
    "tip": "prijava",
    "id": "h20"
   },
@@ -5914,10 +6049,11 @@
    "izvori": [
     "https://razglas-news.com/2026/11/19/direktor-novosadske-firme-gat-u-bekstvu-raspisana-potraga/",
     "https://razglas-news.com/2026/11/19/uhapseno-sestoro-zaposlenih-u-leskovackoj-gradskoj-upravi-zbog-sumnje-na-zloupotrebe-pri-javnim-nabavkama/",
-    "https://n1info.rs/vesti/sud-odbio-predlog-za-pritvor-sestoro-zaposlenih-u-gradskoj-upravi-leskovca-pusteno-na-slobodu/"
+    "https://n1info.rs/vesti/sud-odbio-predlog-za-pritvor-sestoro-zaposlenih-u-gradskoj-upravi-leskovca-pusteno-na-slobodu/",
+    "https://n1info.rs/vesti/predao-se-vlasnik-i-direktor-firme-gat-za-njim-bila-raspisana-potraga-zbog-zloupotreba/"
    ],
    "naslov": "Leskovac: uhapšeno šest službenika Gradske uprave zbog javne nabavke za saobraćajnicu kod stadiona „Dubočica”",
-   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije Višeg javnog tužilaštva u Nišu uhapšeni su šef Odeljenja za javne nabavke Z. N., šef Odeljenja za finansije M. M., šef Odeljenja za komunalne poslove D. S. i tri člana komisije za javne nabavke; određeno im je zadržavanje do 48 sati. Sumnja se da je 16. aprila 2023. zaključen ugovor sa novosadskim ponuđačem na više od 80 miliona dinara, iako je budžetom bilo predviđeno oko 41 milion. Za direktorom i vlasnikom firme GAT Dejanom Slijepčevićem raspisana je potraga. Posle saslušanja sud je odbio predlog tužilaštva za pritvor i svih šestoro je pušteno na slobodu (21. nov).",
+   "opis": "Po nalogu Posebnog odeljenja za suzbijanje korupcije Višeg javnog tužilaštva u Nišu uhapšeni su šef Odeljenja za javne nabavke Z. N., šef Odeljenja za finansije M. M., šef Odeljenja za komunalne poslove D. S. i tri člana komisije za javne nabavke; određeno im je zadržavanje do 48 sati. Sumnja se da je 16. aprila 2023. zaključen ugovor sa novosadskim ponuđačem na više od 80 miliona dinara, iako je budžetom bilo predviđeno oko 41 milion. Za direktorom i vlasnikom firme GAT Dejanom Slijepčevićem raspisana je potraga. Posle saslušanja sud je odbio predlog tužilaštva za pritvor i svih šestoro je pušteno na slobodu (21. nov). 23. nov: vlasnik i direktor firme GAT predao se nadležnim organima (prema Južnim vestima i N1).",
    "osobe": "Dejan Slijepčević (GAT) · Gradska uprava Leskovca · VJT u Nišu",
    "red": 70,
    "status": "zvanicno",
@@ -6014,10 +6150,11 @@
     "https://novisad.vjt.rs/aktuelnosti/17-11-2026-saopstenje-za-javnost/",
     "https://razglas-news.com/2026/11/17/tuzilastvo-predlozilo-pritvor-patriku-dridu-i-nebojsi-maksimovicu/",
     "https://www.rts.rs/lat/vesti/drustvo/6088952/patrik-drid-razresenje.html",
-    "https://razglas-news.com/2026/11/20/nastavno-naucno-vece-dif-a-jednoglasno-za-razresenje-dekana-patrika-drida/"
+    "https://razglas-news.com/2026/11/20/nastavno-naucno-vece-dif-a-jednoglasno-za-razresenje-dekana-patrika-drida/",
+    "https://www.rts.rs/lat/vesti/drustvo/6090216/patrik-drid-razresen-duznosti-savet-fakulteta-novi-sad.html"
    ],
    "naslov": "Uhapšeni sadašnji i bivši dekan Fakulteta sporta u Novom Sadu zbog štete pokrajinskom budžetu",
-   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su lišeni slobode P. D. i N. M. zbog sumnje na zloupotrebu službenog položaja: prostor u vlasništvu AP Vojvodine izdavan je u zakup, a novac nije uplaćen u budžet Pokrajine već je potrošen na isplate zaposlenima, uz ugovore vođene kao „organizacija sportskih aktivnosti”. N1 i Razglas navode da je reč o dekanu Patriku Dridu i bivšem dekanu Nebojši Maksimoviću. 17. nov: tužilaštvo je donelo naredbu o sprovođenju istrage, saslušalo osumnjičene i Višem sudu u Novom Sadu predložilo pritvor zbog opasnosti od uticaja na svedoke i ponavljanja dela; prema Razglasu, sud im je odredio pritvor do 30 dana. 20. nov: Nastavno-naučno veće fakulteta jednoglasno je usvojilo predlog za razrešenje dekana Drida; odluku donosi Savet fakulteta.",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da su lišeni slobode P. D. i N. M. zbog sumnje na zloupotrebu službenog položaja: prostor u vlasništvu AP Vojvodine izdavan je u zakup, a novac nije uplaćen u budžet Pokrajine već je potrošen na isplate zaposlenima, uz ugovore vođene kao „organizacija sportskih aktivnosti”. N1 i Razglas navode da je reč o dekanu Patriku Dridu i bivšem dekanu Nebojši Maksimoviću. 17. nov: tužilaštvo je donelo naredbu o sprovođenju istrage, saslušalo osumnjičene i Višem sudu u Novom Sadu predložilo pritvor zbog opasnosti od uticaja na svedoke i ponavljanja dela; prema Razglasu, sud im je odredio pritvor do 30 dana. 20. nov: Nastavno-naučno veće fakulteta jednoglasno je usvojilo predlog za razrešenje dekana Drida. 23. nov: Savet fakulteta razrešio je Drida (15 za, 1 protiv), a za v.d. dekana izabran je Borislav Obradović.",
    "osobe": "Patrik Drid · Nebojša Maksimović · Fakultet sporta i fizičkog vaspitanja, Univerzitet u Novom Sadu",
    "red": 70,
    "status": "zvanicno",
