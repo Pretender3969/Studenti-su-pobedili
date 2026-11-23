@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-22T15:13+00:00",
+ "generisano": "2026-11-23T08:26+00:00",
  "stanje": {
   "azurirano": "2026-11-21",
   "izbori": "2026-10-25",
@@ -40,6 +40,46 @@
  },
  "vesti": [
   {
+   "datum": "2026-11-23",
+   "izvor": "Razglas",
+   "kategorija": "korupcija",
+   "naslov": "Otpušteni radnici pokrajinske administracije podnose krivičnu prijavu protiv Maje Gojković",
+   "red": 55,
+   "sazetak": "Grupa otpuštenih radnika pokrajinske administracije najavila je da će Višem javnom tužilaštvu u Novom Sadu podneti krivičnu prijavu protiv predsednice Pokrajinske vlade Maje Gojković i drugih odgovornih zbog sumnje na zloupotrebu službenog položaja. Navode racionalizaciju zaposlenih uz istovremeno novo zapošljavanje 106 izvršilaca, troškove službenih putovanja i dodelu bespovratnih sredstava za turizam u 2026.",
+   "url": "https://razglas-news.com/2026/11/23/grupa-otpustenih-radnika-podnosi-krivicnu-prijavu-protiv-maje-gojkovic-zbog-sumnje-na-zloupotrebu-sluzbenog-polozaja/",
+   "id": "v572"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "N1: SMATSA je 2022. na zahtev BIA i Avio-službe Vlade internim aktom dala apsolutni prioritet avionima šefova država",
+   "red": 50,
+   "sazetak": "Kontrola letenja (SMATSA) donela je 2022. interni dokument označen kao poslovna tajna, kojim se avionima šefova država i vlada daje apsolutni prioritet u vazdušnom saobraćaju, a prema sagovornicima N1 to je urađeno pre svega zbog Aleksandra Vučića i pritisaka na kontrolore. SMATSA navodi da takvi letovi predstavljaju posebnu kategoriju u međunarodnoj praksi.",
+   "url": "https://n1info.rs/vesti/bia-trazila-izmenu-protokola-u-kontroli-letenja-predsednicki-avion-ne-sme-da-ceka/",
+   "id": "v571"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Zaposleni Pasterovog zavoda u Novom Sadu podnose krivične prijave protiv direktorke, ona negira optužbe",
+   "red": 35,
+   "sazetak": "Zaposleni novosadskog Pasterovog zavoda koji ukazuju na, kako tvrde, nameštene tendere, fiktivna službena putovanja i plate za odsutne, podneli su više krivičnih prijava protiv direktorke; četvoro je dobilo otkaz, a jedan je vraćen na rad u vivarijum. Direktorka za N1 negira sve optužbe, a sudskog epiloga još nema.",
+   "url": "https://n1info.rs/vesti/sporovi-krivicne-prijave-ugasena-proizvodnja-pasterov-zavod/",
+   "id": "v574"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "Razglas",
+   "kategorija": "institucije",
+   "naslov": "Vučević kritikovao ministra prosvete zbog razrešenja direktora Jovine gimnazije; Stanković: postupljeno po inspekcijskim nalazima",
+   "red": 30,
+   "sazetak": "Predsednik SNS Miloš Vučević nazvao je sramotom učešće ministra prosvete u tehničkom mandatu Dejana Vuka Stankovića u smeni direktora Jovine gimnazije Radivoja P. Stojkovića. Stanković je odgovorio da je ministarstvo postupilo na osnovu nalaza inspekcije Grada Novog Sada i uz saglasnost pokrajinskog sekretara za obrazovanje.",
+   "url": "https://razglas-news.com/2026/11/23/vucevic-ljut-na-ministra-stankovica-zbog-razresenja-direktora-jovine-gimnazije/",
+   "id": "v575"
+  },
+  {
    "datum": "2026-11-22",
    "izvor": "VJT Novi Sad",
    "kategorija": "hapsenje",
@@ -58,6 +98,16 @@
    "sazetak": "Po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Nišu lišeni su slobode direktor i dvojica vlasnika firme „Vodogradnja” iz Pukovca zbog sumnje na zloupotrebu položaja odgovornog lica u produženom trajanju, a jedan vlasnik i zbog pranja novca. Firma je od kraja 2023. po ugovorima sa Direkcijom za izgradnju Niša radila rekonstrukciju, zimsko održavanje i izgradnju puteva; osumnjičenima je određeno zadržavanje do 48 sati.",
    "url": "https://nis.vjt.rs/aktuelnosti/saopstenje-za-javnost-1388/",
    "id": "v564"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Čupić za RTS: predsednički izbori u narednim danima, manje ministarstava i izmene Zakona o ministarstvima",
+   "red": 70,
+   "sazetak": "Predsednik Skupštine i v.d. predsednika Republike Aleksandar Čupić rekao je u prvom intervjuu za RTS da će predsednički izbori biti raspisani u narednih nekoliko dana i da predstoje izmene Zakona o ministarstvima i smanjenje broja resora, uz poruku da je važnije imati dobru vladu nego je brzo formirati. Naveo je i da primopredaja dužnosti sa bivšom predsednicom Skupštine, bivšim generalnim sekretarom i za funkciju predsednika Republike još nije obavljena.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6089671/cupic-za-rts-kada-sam-izabran-osetio-sam-odgovornost-a-ne-trijumf-vaznije-je-imati-dobru-vladu-nego-je-brzo-formirati.html",
+   "id": "v569"
   },
   {
    "datum": "2026-11-22",
@@ -98,6 +148,26 @@
    "sazetak": "Potpredsednica Narodne skupštine sa Studentske liste Lidija Dimitrijević izjavila je da Poslovnik Skupštine treba izmeniti kako bi se sprečile zloupotrebe i opstrukcije rada parlamenta.",
    "url": "https://www.rtv.rs/sr_lat/politika/lidija-dimitrijevic-poslovnik-skupstine-mora-da-se-menja-kako-bi-se-sprecile-opstrukcije_1760596.html",
    "id": "v568"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentski pokret zabrinut zbog nacrta zakona u Prištini o Centralnom inspektoratu za kulturno nasleđe",
+   "red": 40,
+   "sazetak": "Studentski pokret izrazio je zabrinutost zbog usvajanja u prvom čitanju Nacrta zakona o Centralnom inspektoratu za kulturno nasleđe u skupštini u Prištini, jer bi nova inspekcijska ovlašćenja mogla da umanje poseban režim zaštite srpskih manastira i crkava, a SPC nije konsultovana. Pozvali su međunarodnu zajednicu da prati proces.",
+   "url": "https://studenti.org.rs/vesti/kim_inspektorat/",
+   "id": "v570"
+  },
+  {
+   "datum": "2026-11-22",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Milanu Lazareviću istekao v.d. status, a i dalje je na čelu UKC Niš",
+   "red": 40,
+   "sazetak": "Prema N1, Milanu Lazareviću, lideru Vučićevog političkog pokreta, istekao je zakonski rok od šest meseci za v.d. direktora Univerzitetskog kliničkog centra Niš, ali je i dalje na funkciji. Pred izbore je obilazio sela i pregledao građane, a sada ne odgovara na pitanja o svom statusu.",
+   "url": "https://n1info.rs/vesti/lazarevic-direktor-niskog-ukc-pred-izbore-dostupan-sada-ne/",
+   "id": "v573"
   },
   {
    "datum": "2026-11-21",
@@ -7576,6 +7646,16 @@
    "status": "najavljeno",
    "url": "https://studenti.org.rs/vesti/kofer_ne_ugovor/",
    "id": "o23"
+  },
+  {
+   "azurirano": "2026-11-23",
+   "datum": "2026-11-22",
+   "napomena": "Vlada još nije formirana; predlog izmena zakona nije podnet.",
+   "naslov": "Manje ministarstava: izmena Zakona o ministarstvima",
+   "opis": "Predsednik Skupštine Aleksandar Čupić najavio je izmene Zakona o ministarstvima i smanjenje broja resora u novoj vladi; Aleksandra Štimac je 20. novembra rekla da se razmatra smanjenje broja ministarstava.",
+   "status": "najavljeno",
+   "url": "https://www.rts.rs/lat/vesti/politika/6089671/cupic-za-rts-kada-sam-izabran-osetio-sam-odgovornost-a-ne-trijumf-vaznije-je-imati-dobru-vladu-nego-je-brzo-formirati.html",
+   "id": "o24"
   }
  ],
  "funkcije": [
