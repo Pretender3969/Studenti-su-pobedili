@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-23T15:14+00:00",
+ "generisano": "2026-11-24T08:17+00:00",
  "stanje": {
   "azurirano": "2026-11-21",
   "izbori": "2026-10-25",
@@ -39,6 +39,66 @@
   "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-24",
+   "izvor": "Danas / RTV",
+   "kategorija": "institucije",
+   "naslov": "Bakić: mandatar još nije poznat; Štimac: vlada moguća pre Nove godine, za pojedine resore imena se iskristalisala",
+   "red": 45,
+   "sazetak": "Šef poslaničke grupe Studentske liste Jovo Bakić rekao je da ime mandatara još nije određeno i da pregovori o vladi počinju posle završetka konstitutivne sednice; nada se izboru vlade do kraja godine. Zamenica šefa grupe Aleksandra Štimac rekla je za Danas da se ne isključuje spajanje ministarstava i da su za neke resore imena već iskristalisana, ali ih nije navela.",
+   "url": "https://www.danas.rs/vesti/politika/stimac-nova-vlada-resori-imena/",
+   "id": "v590"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "N1 / Beta",
+   "kategorija": "bezbednost",
+   "naslov": "BIA odbacuje tvrdnje o „Situacionom centru za hibridne pretnje” kao zlonamerne i najavljuje obraćanje nadležnim organima",
+   "red": 40,
+   "sazetak": "BIA je saopštila da odbacuje tvrdnje predsednika DS Srđana Milivojevića da je preko „Situacionog centra za hibridne pretnje” tajno pratila studente, novinare i opoziciju; navodi da centar postoji od 2018. i da ne obavlja operativni rad na terenu. N1 je dan ranije objavio tekst o navodnim aktivnostima tog centra (praćenje novinara, botovi, dostavljanje informacija Informeru)—reč je o navodima koje nadležni organi još nisu proverili.",
+   "url": "https://n1info.rs/vesti/bia-odbacuje-tvrdnje-milivojevica-kao-zlonamerne-obratice-se-nadleznim-instancama/",
+   "id": "v588"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "RTS / RTV",
+   "kategorija": "institucije",
+   "naslov": "Nastavak konstitutivne sednice Skupštine: na dnevnom redu izbor članova odbora i stalnih delegacija",
+   "red": 35,
+   "sazetak": "Sednica se nastavlja 24. novembra u 10 časova sa poslednje dve tačke dnevnog reda – izbor članova radnih tela i stalnih parlamentarnih delegacija. Vučić je posle konsultacija rekao da grupa „Srbija pobeđuje” najverovatnije neće učestvovati u radu odbora.",
+   "url": "https://www.rtv.rs/sr_lat/politika/nastavak-konstitutivne-sednice-skupstine-srbije_1760932.html",
+   "id": "v591"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "Nova / Razglas",
+   "kategorija": "izbori",
+   "naslov": "Predsedničke izbore najverovatnije sprovodi RIK u starom sazivu; rok za raspisivanje 27. novembar",
+   "red": 30,
+   "sazetak": "Predsednički izbori moraju biti raspisani do četvrtka 27. novembra. Prema pisanju Nove, otvoreno je pitanje da li će nova Skupština promeniti stalni sastav RIK-a, ali je najverovatnije da će izbore sprovesti postojeći saziv.",
+   "url": "https://razglas-news.com/2026/11/24/na-predsednicke-izbore-idemo-sa-starim-sazivom-rik/",
+   "id": "v592"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "Razglas",
+   "kategorija": "mediji",
+   "naslov": "Savet REM-a na sednici razmatra postupke protiv RTS-a, N1, Prve, Hepija i K1",
+   "red": 20,
+   "sazetak": "Na dnevnom redu devete redovne sednice Saveta REM-a su postupci protiv više televizija zbog pojedinih emisija i provera da li TV Prva poštuje privremenu zabranu emitovanja jutarnjih „Vesti”.",
+   "url": "https://razglas-news.com/2026/11/24/nova-sednica-saveta-rem-a-na-dnevnom-redu-postupci-protiv-vise-televizija/",
+   "id": "v593"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "Studenti",
+   "kategorija": "institucije",
+   "naslov": "Studenti: posle hapšenja gradonačelnice Smedereva otpad se ne odvozi, odgovornost je na lokalnoj vlasti SNS",
+   "red": 15,
+   "sazetak": "Studenti Smedereva navode da se posle hapšenja gradonačelnice i direktora JKP zbog nelegalne deponije u Radincu otpad gomila po gradu, uključujući dvorišta bolnice i škola, i da JKP nije odgovorio na njihova pitanja. Odbacuju tvrdnje Ane Brnabić da je za stanje odgovorna nova vlast, jer u Smederevu i dalje vlada SNS.",
+   "url": "https://studenti.org.rs/vesti/sd_smece/",
+   "id": "v595"
+  },
   {
    "datum": "2026-11-23",
    "izvor": "Razglas",
@@ -141,6 +201,16 @@
   },
   {
    "datum": "2026-11-23",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Vlada u tehničkom mandatu razrešila Arnoa Gujona dužnosti v.d. direktora Kancelarije za javnu i kulturnu diplomatiju",
+   "red": 30,
+   "sazetak": "Prema rešenju objavljenom u Službenom glasniku, koje je potpisao premijer u tehničkom mandatu Đuro Macut, Gujon je razrešen sa 17. novembrom 2026. zbog prelaska na drugu dužnost. Gujon je član SNS od 2023. i bio je kandidat grupe „Srbija pobeđuje” za potpredsednika Skupštine.",
+   "url": "https://www.rtv.rs/sr_lat/politika/gujon-razresen-sa-funkcije-v.d.-direktora-kancelarije-za-javnu-i-kulturnu-diplomatiju_1760940.html",
+   "id": "v589"
+  },
+  {
+   "datum": "2026-11-23",
    "izvor": "N1",
    "kategorija": "institucije",
    "naslov": "Senat Univerziteta u Novom Sadu nije izglasao razrešenje rektora Madića; on kaže da neće podneti ostavku",
@@ -198,6 +268,16 @@
    "sazetak": "Udruženje novinara Srbije navodi da RTS i Studentska lista nisu odgovorili na pitanja od 19. novembra o tome da li je zahtev za delove radnih biografija zaposlenih u RTS-u, koji nije bio potpisan, naknadno uređen. RTS je naveo da će postupiti u skladu sa Zakonom o slobodnom pristupu informacijama.",
    "url": "https://n1info.rs/vesti/uns-ni-rts-ni-studentska-lista-nisu-odgovorili-da-li-je-uredjen-zahtev-za-pristup-informacijama-o-zaposlenima-u-javnom-servisu/",
    "id": "v587"
+  },
+  {
+   "datum": "2026-11-23",
+   "izvor": "RTV",
+   "kategorija": "institucije",
+   "naslov": "Užice bez gradonačelnika: kandidatkinja vladajuće koalicije Vesna Čitaković Đurišić dobila 33 glasa, jedan manje od potrebnog",
+   "red": 15,
+   "sazetak": "Četvoro odbornika vladajuće većine nije glasalo. Skupština grada ima rok do 10. decembra da izabere rukovodstvo; u suprotnom Vlada može da je raspusti, imenuje privremeni organ i raspiše vanredne lokalne izbore.",
+   "url": "https://www.rtv.rs/sr_lat/politika/skupstina-grada-uzica-nije-izabrala-novog-gradonacelnika_1760938.html",
+   "id": "v594"
   },
   {
    "datum": "2026-11-22",
@@ -7785,9 +7865,9 @@
    "id": "o23"
   },
   {
-   "azurirano": "2026-11-23",
+   "azurirano": "2026-11-24",
    "datum": "2026-11-22",
-   "napomena": "Vlada još nije formirana; predlog izmena zakona nije podnet.",
+   "napomena": "Vlada još nije formirana; predlog izmena zakona nije podnet. 22–24. nov: Čupić najavio izmene Zakona o ministarstvima odmah posle konstitutivne sednice (sada 25 ministarstava i pet ministara bez portfelja); Štimac kaže da se ne isključuje spajanje ministarstava.",
    "naslov": "Manje ministarstava: izmena Zakona o ministarstvima",
    "opis": "Predsednik Skupštine Aleksandar Čupić najavio je izmene Zakona o ministarstvima i smanjenje broja resora u novoj vladi; Aleksandra Štimac je 20. novembra rekla da se razmatra smanjenje broja ministarstava.",
    "status": "najavljeno",
