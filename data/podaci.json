@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-24T08:17+00:00",
+ "generisano": "2026-11-24T15:14+00:00",
  "stanje": {
   "azurirano": "2026-11-21",
   "izbori": "2026-10-25",
@@ -41,6 +41,26 @@
  "vesti": [
   {
    "datum": "2026-11-24",
+   "izvor": "VJT Niš",
+   "kategorija": "hapsenje",
+   "naslov": "Niš: tužilaštvo naložilo hapšenje vlasnika firme „Manco plus” V.M. zbog IPA projekta vrednog 275.320 evra; osumnjičeni je van Srbije",
+   "red": 70,
+   "sazetak": "Posebno odeljenje za suzbijanje korupcije VJT u Nišu naložilo je lišenje slobode V.M., vlasnika firme „Manco plus” iz Beograda, zbog sumnje na zloupotrebu položaja odgovornog lica u sprovođenju IPA projekta Bugarska – Srbija koji je finansirala EU (vrednost 275.320 evra). Osumnjičeni nije zatečen na adresi i nalazi se van Srbije, za njim se traga, a pretresaju se njegovi stanovi i prostorije. Prema N1, reč je o bivšem rukometašu i članu SNS Vladimiru Mandiću; postupak se vodi u koordinaciji sa Komisijom VJT.",
+   "url": "https://nis.vjt.rs/aktuelnosti/saopstenje-za-javnost-1397/",
+   "id": "v596"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "SNS ne učestvuje u radu skupštinskih odbora; predlog članova čine poslanici Studentske liste i manjinskih lista",
+   "red": 60,
+   "sazetak": "Šef poslaničke grupe „Srbija pobeđuje” Aleksandar Vučić saopštio je da ta grupa neće učestvovati u radu odbora jer joj nije dodeljeno nijedno predsedavajuće mesto. U predlogu odluke o članovima odbora su, uz poslanike Studentske liste, Ahmedin Škrijelj, Usame Zukorlić, Šaip Kamberi i Visar Mehmeti; SVM je odbio mesta sa kvote Studentske liste i nema predložene članove. Sednica se nastavlja i posle 18 časova.",
+   "url": "https://n1info.rs/vesti/spisak-clanova-skupstinskih-odbora/",
+   "id": "v598"
+  },
+  {
+   "datum": "2026-11-24",
    "izvor": "Danas / RTV",
    "kategorija": "institucije",
    "naslov": "Bakić: mandatar još nije poznat; Štimac: vlada moguća pre Nove godine, za pojedine resore imena se iskristalisala",
@@ -48,6 +68,16 @@
    "sazetak": "Šef poslaničke grupe Studentske liste Jovo Bakić rekao je da ime mandatara još nije određeno i da pregovori o vladi počinju posle završetka konstitutivne sednice; nada se izboru vlade do kraja godine. Zamenica šefa grupe Aleksandra Štimac rekla je za Danas da se ne isključuje spajanje ministarstava i da su za neke resore imena već iskristalisana, ali ih nije navela.",
    "url": "https://www.danas.rs/vesti/politika/stimac-nova-vlada-resori-imena/",
    "id": "v590"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "RTS / Tanjug",
+   "kategorija": "mediji",
+   "naslov": "Savet REM-a obustavio postupak protiv RTS-a, TV Hepi upozorenje i prekršajna prijava; pokrenuti postupci protiv K1, Tanjuga i Superstara",
+   "red": 45,
+   "sazetak": "Savet REM-a jednoglasno je obustavio ispitni postupak protiv RTS-a zbog predizbornog spota, uz ocenu da nema mesta izricanju mere. TV Hepi je izrečena mera upozorenja i podneta prekršajna prijava zbog prekoračenja vremena oglašavanja tokom kampanje, a pokrenuti su ispitni postupci protiv K1, TV Tanjug, Superstar, Superstar 2 i Superstar 3 zbog kršenja medijskih zakona u izbornoj kampanji.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6091274/savet-rem-a-obustavio-postupak-protiv-rts-a-nema-elemenata-za-izricanje-mere.html",
+   "id": "v599"
   },
   {
    "datum": "2026-11-24",
@@ -61,6 +91,16 @@
   },
   {
    "datum": "2026-11-24",
+   "izvor": "N1 / UNS",
+   "kategorija": "mediji",
+   "naslov": "UNS: za vreme mandata Manje Grčić RTS zaposlio 111 ljudi, 27 u novembru posle njene ostavke",
+   "red": 40,
+   "sazetak": "Prema podacima koje je RTS dostavio Udruženju novinara Srbije, od marta do sredine novembra u radni odnos primljeno je 111 osoba (68 na neodređeno, 43 na određeno), među njima 39 novinara i urednika. Odlukom bivše generalne direktorke Manje Grčić u novembru je zaposleno 27 ljudi, iako je ostavku dala krajem oktobra.",
+   "url": "https://n1info.rs/vesti/uns-za-vreme-mandata-manje-grcic-u-rts-u-zaposleno-111-ljudi-najvise-u-informativnom-programu/",
+   "id": "v601"
+  },
+  {
+   "datum": "2026-11-24",
    "izvor": "RTS / RTV",
    "kategorija": "institucije",
    "naslov": "Nastavak konstitutivne sednice Skupštine: na dnevnom redu izbor članova odbora i stalnih delegacija",
@@ -68,6 +108,16 @@
    "sazetak": "Sednica se nastavlja 24. novembra u 10 časova sa poslednje dve tačke dnevnog reda – izbor članova radnih tela i stalnih parlamentarnih delegacija. Vučić je posle konsultacija rekao da grupa „Srbija pobeđuje” najverovatnije neće učestvovati u radu odbora.",
    "url": "https://www.rtv.rs/sr_lat/politika/nastavak-konstitutivne-sednice-skupstine-srbije_1760932.html",
    "id": "v591"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "VJT Niš",
+   "kategorija": "izbori",
+   "naslov": "Niš: tužilaštvo formiralo predmet po prijavi o kupovini glasova u lokalu na dan izbora",
+   "red": 35,
+   "sazetak": "VJT u Nišu formiralo je predmet na osnovu izveštaja policije o prijavi predsednika biračkog odbora na biračkom mestu u OŠ „Branko Miljković”, koji je 25. oktobra prijavio da se u ugostiteljskom objektu u Nišu kupuju glasovi za određenu političku opciju. Tužilaštvo će odluku doneti posle uvida u izveštaj.",
+   "url": "https://nis.vjt.rs/aktuelnosti/saopstenje-za-javnost-1395/",
+   "id": "v597"
   },
   {
    "datum": "2026-11-24",
@@ -88,6 +138,16 @@
    "sazetak": "Na dnevnom redu devete redovne sednice Saveta REM-a su postupci protiv više televizija zbog pojedinih emisija i provera da li TV Prva poštuje privremenu zabranu emitovanja jutarnjih „Vesti”.",
    "url": "https://razglas-news.com/2026/11/24/nova-sednica-saveta-rem-a-na-dnevnom-redu-postupci-protiv-vise-televizija/",
    "id": "v593"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "Razglas",
+   "kategorija": "mediji",
+   "naslov": "REM povukao Statut iz skupštinske procedure, priprema se novi; nova metodologija za izveštaj o izborima",
+   "red": 20,
+   "sazetak": "Savet REM-a jednoglasno je odlučio da iz skupštinske procedure povuče Statut koji je prethodni saziv uputio 2023. a nije dobio saglasnost, kako bi stručna služba pripremila novi tekst. Usvojena je i nova metodologija za završni izveštaj o izborima 25. oktobra, sa analizom svih prijava i postupanja Saveta.",
+   "url": "https://razglas-news.com/2026/11/24/rem-povlaci-statut-iz-skupstinske-procedure-priprema-se-novi-dokument/",
+   "id": "v600"
   },
   {
    "datum": "2026-11-24",
@@ -6018,6 +6078,21 @@
    "id": "h31"
   },
   {
+   "datum": "2026-11-24",
+   "iznos": "≈ 275.000 € (vrednost projekta)",
+   "izvori": [
+    "https://nis.vjt.rs/aktuelnosti/saopstenje-za-javnost-1397/",
+    "https://n1info.rs/vesti/tuzilastvo-trazi-hapsenje-vladimira-mandica/"
+   ],
+   "naslov": "Niš: naloženo hapšenje vlasnika firme „Manco plus” zbog EU projekta; osumnjičeni van Srbije, traga se za njim",
+   "opis": "Posebno odeljenje za suzbijanje korupcije VJT u Nišu naložilo je lišenje slobode i zadržavanje do 48 sati V.M., vlasnika firme „Manco plus” d.o.o. Beograd, zbog sumnje na zloupotrebu položaja odgovornog lica u sprovođenju IPA projekta Bugarska – Srbija (275.320 evra, finansirala EU). Osumnjičeni se nalazi van Srbije i za njim se traga; pretresi su u toku. Prema N1, reč je o bivšem rukometašu i članu SNS Vladimiru Mandiću. Postupa se u koordinaciji sa Komisijom VJT.",
+   "osobe": "Vladimir Mandić (prema N1) · „Manco plus” · VJT Niš",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h112"
+  },
+  {
    "datum": "2026-11-23",
    "izvori": [
     "https://trece.ojt.rs/aktuelnosti/27427/",
@@ -8103,7 +8178,9 @@
     "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
     "https://studenti.org.rs/vesti/cupic_pobedio/",
     "https://studenti.org.rs/vesti/nasi_zamenici/",
-    "https://www.rtv.rs/sr_lat/politika/aleksandar-cupic-izabran-za-predsednika-skupstine-srbije-izglasano-i-sest-potpredsednika_1759743.html"
+    "https://www.rtv.rs/sr_lat/politika/aleksandar-cupic-izabran-za-predsednika-skupstine-srbije-izglasano-i-sest-potpredsednika_1759743.html",
+    "https://www.rts.rs/lat/vesti/politika/6090791/skupstina-srbija-nastavak-24-novembar-2026-rts.html",
+    "https://n1info.rs/vesti/spisak-clanova-skupstinskih-odbora/"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
    "odluke": [
@@ -8147,7 +8224,7 @@
     },
     {
      "ishod": "u_raspravi",
-     "napomena": "Nastavak sednice 24. novembra.",
+     "napomena": "Rasprava nastavljena 24. nov. Poslanička grupa „Aleksandar Vučić – Srbija pobeđuje” saopštila je da ne učestvuje u radu odbora, pa predlog čine poslanici Studentske liste i četiri poslanika manjinskih lista; SVM nema predložene članove. Glasanje još nije održano.",
      "naslov": "Izbor članova radnih tela i stalnih delegacija u međunarodnim institucijama"
     }
    ],
