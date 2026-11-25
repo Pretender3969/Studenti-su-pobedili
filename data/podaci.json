@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-25T06:48+00:00",
+ "generisano": "2026-11-25T15:14+00:00",
  "stanje": {
   "azurirano": "2026-11-25",
   "izbori": "2026-10-25",
@@ -35,10 +35,60 @@
     "mandati": 1
    }
   ],
-  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); predsednik Aleksandar Čupić, šest potpredsednika i generalna sekretarka Mirjana Radaković izabrani 19. nov; članovi 20 odbora izabrani 24. nov (SNS ne učestvuje u radu odbora); izbor stalnih delegacija 25. nov.",
+  "skupstina": "Konstituisana 17. nov 2026 (15. saziv); predsednik Aleksandar Čupić, šest potpredsednika i generalna sekretarka Mirjana Radaković izabrani 19. nov; članovi 20 odbora izabrani 24. nov (SNS ne učestvuje u radu odbora); stalne delegacije izabrane 25. nov, čime je završena konstitutivna sednica.",
   "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-25",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Uhapšen vlasnik TV Informer Dragan J. Vučićević: zadržavanje zbog sumnje na izazivanje panike i nereda i ometanje pravde",
+   "red": 92,
+   "sazetak": "Po nalogu Drugog OJT u Beogradu Vučićeviću je u PS Voždovac određeno zadržavanje zbog sumnje na izazivanje panike i nereda u produženom trajanju (čl. 343 KZ) i ometanje pravde (čl. 336b KZ). Saslušanje pred tužiocem zakazano je za 26. novembar. Poslanici grupe „Srbija pobeđuje” napustili su sednicu Skupštine i otišli ispred policijske stanice.",
+   "url": "https://n1info.rs/vesti/draganu-j-vucicevicu-odredjeno-zadrzavanje/",
+   "id": "v610"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "KRIK / N1",
+   "kategorija": "hapsenje",
+   "naslov": "KRIK: uhapšeni Dubravko Macura, brat vlasnika Alta banke, i Tatjana Bundalo, direktorka Alta grupe",
+   "red": 88,
+   "sazetak": "Prema saznanjima KRIK-a, oboje su uhapšeni u okviru istrage protiv Davora Macure i zadržani do 48 sati, zbog sumnje da su bili umešani u iznošenje novca iz trezora Alta banke. Dubravko Macura trebalo je da bude saslušan u TOK-u, koji potom odlučuje o predlogu za pritvor. TOK se još nije zvanično oglasio.",
+   "url": "https://n1info.rs/vesti/krik-uhapseni-brat-davora-macure-i-direktorka-firme-alta-grupe/",
+   "id": "v611"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Završena konstitutivna sednica Skupštine: sa 136 glasova izabrane stalne delegacije u međunarodnim institucijama",
+   "red": 75,
+   "sazetak": "Usvajanjem odluke o stalnim delegacijama u međunarodnim parlamentarnim institucijama (136 za) završena je konstitutivna sednica 15. saziva. Sednicu su obeležile prijave povreda poslovnika i opomene; poslanici grupe „Srbija pobeđuje” napustili su zasedanje posle vesti o hapšenju Dragana J. Vučićevića.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6091774/skupstina-odbori-parlamentarne-delegacije.html",
+   "id": "v613"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "VJT Beograd / RTS",
+   "kategorija": "hapsenje",
+   "naslov": "Saslušan Pavle Bihali, tužilaštvo predložilo pritvor zbog opasnosti od bekstva i uticaja na svedoke",
+   "red": 70,
+   "sazetak": "Posebno odeljenje za suzbijanje korupcije VJT u Beogradu saslušalo je P.B.G. (44), koji je izneo odbranu. Naredbom o sprovođenju istrage tereti se za zloupotrebu položaja odgovornog lica i falsifikovanje isprave zbog 22,5 miliona dinara budžetskog novca za kampanju 2022.; o pritvoru odlučuje sudija za prethodni postupak Višeg suda.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6092423/tuzilastvo-trazi-pritvor-za-bihalija-tereti-se-da-je-ostetio-budzet-za-vise-od-22-miliona-dinara.html",
+   "id": "v612"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "MUP / N1",
+   "kategorija": "hapsenje",
+   "naslov": "MUP: šest uhapšenih u Beogradu, Novom Sadu, Kraljevu i Nišu zbog korupcije; među njima bivši direktor OŠ „Prva vojvođanska brigada”",
+   "red": 60,
+   "sazetak": "U akcijama 24. i 25. novembra sa posebnim odeljenjima VJT uhapšeno je šest osoba, a za jednom se traga; sumnja se na protivpravnu korist od oko 90,9 miliona dinara i štetu od 37,6 miliona. U Kraljevu su uhapšeni član komisije za dodelu pomoći za kupovinu kuće i korisnik (1,5 mil. din.), a u Novom Sadu bivši direktor škole S.O., zbog nadogradnje sprata bez prijave radova (šteta oko 53,9 mil. din.).",
+   "url": "https://n1info.rs/vesti/uhapseno-sest-osoba-u-cetiri-grada-zbog-sumnje-na-korupciju-i-zloupotrebe-sluzbenog-polozaja/",
+   "id": "v614"
+  },
   {
    "datum": "2026-11-25",
    "izvor": "Studenti",
@@ -48,6 +98,56 @@
    "sazetak": "Posle oduzimanja dozvole za rad (31. okt) i otvaranja stečaja (3. nov), Studentska lista upozorava da dokumentacija i elektronski podaci ALTA banke mogu nestati. Poziva građane da podnesu zahteve Agenciji za osiguranje depozita, NBS i Upravi za sprečavanje pranja novca o čuvanju dokumentacije i sprovedenim kontrolama.",
    "url": "https://studenti.org.rs/vesti/alta_doc/",
    "id": "v609"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Čupić kao v.d. predsednika Republike imenovao Draganu Đorđević za generalnu sekretarku predsednika; Vučić osporava ovlašćenje",
+   "red": 55,
+   "sazetak": "Odluka je objavljena u „Službenom glasniku”; dosadašnja generalna sekretarka bila je Suzana Paunović. Vučić je u Skupštini tvrdio da v.d. predsednika prema članu 17 Zakona o predsedniku Republike nema pravo da postavlja funkcionere.",
+   "url": "https://n1info.rs/vesti/dragana-djordjevic-imenovana-za-generalnog-sekretara-predsednika-republike/",
+   "id": "v616"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Srdanović: sledi raspisivanje predsedničkih izbora, Studentska lista odmah potom objavljuje kandidata",
+   "red": 52,
+   "sazetak": "Poslanik Ilija Srdanović rekao je da su naredni koraci sednice odbora, prvo Odbora za administrativno-budžetska i mandatno-imunitetska pitanja, i raspisivanje predsedničkih izbora od strane predsednika Skupštine Čupića. Jovo Bakić je hapšenje Vučićevića nazvao „blagom vešću” i „samo početkom”.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6092186/srdanovic-ocekuje-nas-raspisivanje-predsednickih-izbora-bakic-hapsenje-vucicevica-dozivljavamo-kao-blagu-vest.html",
+   "id": "v617"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Ivan Todorović (DS) podneo krivičnu prijavu protiv policijskih funkcionera Dejana Bojovića i Radoslava Repca",
+   "red": 50,
+   "sazetak": "Prijava podneta Posebnom odeljenju VJT za suzbijanje korupcije tereti zamenika načelnika PU za grad Beograd Bojovića i Repca za zloupotrebu položaja, nesavestan rad, trgovinu uticajem i prikrivanje dela, između ostalog zbog angažovanja 60–100 pripadnika Policijske brigade na mitinzima SNS. Reč je o navodima podnosioca; tužilaštvo se nije oglasilo.",
+   "url": "https://n1info.rs/vesti/ivan-todorovi-ds-podneo-krivicnu-prijavu-protiv-bojovica-i-repca/",
+   "id": "v615"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Novi optužni predlog protiv advokata Nemanje Aleksića zbog napada golf-palicom na građane i policajce",
+   "red": 40,
+   "sazetak": "Osnovno javno tužilaštvo u Novom Sadu podnelo je optužni predlog za ugrožavanje opasnim oruđem pri tuči i svađi zbog događaja od 5. aprila 2025, pošto je Vrhovni sud utvrdio da je raniji postupak nezakonito obustavljen; traži se maksimalna kazna.",
+   "url": "https://n1info.rs/vesti/podignuta-nova-optuznica-protiv-advokata-nemanje-aleksica-zbog-napada-golf-palicom-na-gradjane-i-policajce/",
+   "id": "v618"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "RTS",
+   "kategorija": "mediji",
+   "naslov": "UNS traži od Vučića da prestane sa diskvalifikacijama RTS-a i njegovih novinara",
+   "red": 35,
+   "sazetak": "Udruženje novinara Srbije protestuje zbog Vučićevih izjava u kojima je RTS nazvao „Službenim glasnikom Studentske liste” i zaposlene označavao imenom; upozorava da takav govor može ugroziti bezbednost novinara.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6092310/uns-vucic-da-prestane-sa-diskvalifikacijama-rts-a-i-njegovih-novinara-i-urednika.html",
+   "id": "v619"
   },
   {
    "datum": "2026-11-24",
@@ -168,6 +268,16 @@
    "sazetak": "Prema podacima koje je RTS dostavio Udruženju novinara Srbije, od marta do sredine novembra u radni odnos primljeno je 111 osoba (68 na neodređeno, 43 na određeno), među njima 39 novinara i urednika. Odlukom bivše generalne direktorke Manje Grčić u novembru je zaposleno 27 ljudi, iako je ostavku dala krajem oktobra.",
    "url": "https://n1info.rs/vesti/uns-za-vreme-mandata-manje-grcic-u-rts-u-zaposleno-111-ljudi-najvise-u-informativnom-programu/",
    "id": "v601"
+  },
+  {
+   "datum": "2026-11-24",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Smederevo: posle vanredne situacije potpisan hitan ugovor sa FCC EKO, odvoz otpada na deponiju u Lapovu počinje 25. novembra",
+   "red": 38,
+   "sazetak": "JKP „Zelenilo i groblja” potpisalo je ugovor o deponovanju komunalnog otpada u Lapovu posle hitne javne nabavke; zamenik gradonačelnika Vladimir Nešić kaže da se traži trajno rešenje.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6091822/potpisan-ugovor-za-hitno-uklanjanje-otpada-sa-teritorije-smedereva-u-sredu-pocinje-odvoz.html",
+   "id": "v620"
   },
   {
    "datum": "2026-11-24",
@@ -6158,15 +6268,59 @@
    "id": "h31"
   },
   {
+   "datum": "2026-11-25",
+   "izvori": [
+    "https://n1info.rs/vesti/draganu-j-vucicevicu-odredjeno-zadrzavanje/",
+    "https://n1info.rs/vesti/uhasen-dragan-j-vucicevic/",
+    "https://www.rts.rs/lat/vesti/politika/6092186/srdanovic-ocekuje-nas-raspisivanje-predsednickih-izbora-bakic-hapsenje-vucicevica-dozivljavamo-kao-blagu-vest.html"
+   ],
+   "naslov": "Uhapšen vlasnik TV Informer Dragan J. Vučićević",
+   "opis": "Po nalogu Drugog osnovnog javnog tužilaštva u Beogradu MUP (PS Voždovac) doneo je rešenje o zadržavanju Dragana J. Vučićevića zbog osnova sumnje da je izvršio krivična dela izazivanje panike i nereda u produženom trajanju (čl. 343 st. 2 KZ) i ometanje pravde (čl. 336b KZ). Prema saopštenju tužilaštva koje prenosi N1, biće doveden na saslušanje 26. novembra. Aleksandar Vučić i poslanici „Srbija pobeđuje” tvrde da je uhapšen zbog novinarskog rada; Jovo Bakić (Studentska lista) izjavio je da se sa svakim ko prekrši zakon postupa po zakonu.",
+   "osobe": "Dragan J. Vučićević · TV Informer · Drugo OJT Beograd",
+   "red": 90,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h115"
+  },
+  {
+   "datum": "2026-11-25",
+   "iznos": "≈ 90,9 mil. RSD korist / 37,6 mil. RSD šteta",
+   "izvori": [
+    "https://n1info.rs/vesti/uhapseno-sest-osoba-u-cetiri-grada-zbog-sumnje-na-korupciju-i-zloupotrebe-sluzbenog-polozaja/",
+    "https://www.rts.rs/lat/vesti/hronika/6092384/uhapseno-sest-osoba-u-akcijama-protiv-korupcije-za-jednom-se-traga.html"
+   ],
+   "naslov": "Šest uhapšenih u četiri grada zbog korupcije i zloupotrebe položaja",
+   "opis": "MUP (UKP, Služba za borbu protiv korupcije) saopštio je da je 24. i 25. novembra, u saradnji sa posebnim odeljenjima za suzbijanje korupcije VJT u Beogradu, Novom Sadu, Kraljevu i Nišu, uhapšeno šest osoba, a za još jednom se traga. Sumnja se na protivpravnu imovinsku korist od 90,9 miliona dinara i štetu budžetu i pravnim licima od 37,6 miliona. Među uhapšenima su službeno lice komisije Grada Kraljeva za dodelu pomoći za kupovinu kuće (M.V.) i korisnik pomoći (V.M.), bivši direktor novosadske OŠ „Prva vojvođanska brigada” S.O. (šteta školi oko 53,9 mil. din.) i zastupnik udruženja Ž.B. zbog nenamenskog trošenja gradskih sredstava.",
+   "osobe": "M.V. · V.M. · S.O. · Ž.B. · S.N. · MUP · VJT Beograd, Novi Sad, Kraljevo, Niš",
+   "red": 55,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h116"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvori": [
+    "https://n1info.rs/vesti/ivan-todorovi-ds-podneo-krivicnu-prijavu-protiv-bojovica-i-repca/"
+   ],
+   "naslov": "Krivična prijava protiv policijskih funkcionera Bojovića i Repca zbog angažovanja Policijske brigade na mitinzima SNS",
+   "opis": "Advokat i član DS Ivan Todorović podneo je Posebnom odeljenju VJT za suzbijanje korupcije krivičnu prijavu protiv Dejana Bojovića, zamenika načelnika PU za grad Beograd, i Radoslava Repca zbog sumnje na zloupotrebu službenog položaja, nesavestan rad u službi, trgovinu uticajem i prikrivanje krivičnih dela. Navodi da su po nezakonitim naredbama pripadnici Policijske brigade obezbeđivali predizborne skupove SNS i Aleksandra Vučića i da je naređivana prekomerna sila prema demonstrantima. Navodi podnosioca; tužilaštvo se nije oglasilo.",
+   "osobe": "Dejan Bojović · Radoslav Repac · Ivan Todorović (DS) · PU za grad Beograd",
+   "red": 45,
+   "status": "navod",
+   "tip": "prijava",
+   "id": "h117"
+  },
+  {
    "datum": "2026-11-24",
    "iznos": "≈ 22,5 mil. RSD",
    "izvori": [
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1508/",
     "https://n1info.rs/vesti/uhapsen-pavle-bihali-sumnja-se-da-je-zloupotrebio-vise-od-22-miliona-dinara/",
-    "https://razglas-news.com/2026/11/24/uhapsen-voda-levijatana-pavle-bihali-sumnja-se-da-je-zloupotrebio-vise-od-22-miliona-dinara/"
+    "https://razglas-news.com/2026/11/24/uhapsen-voda-levijatana-pavle-bihali-sumnja-se-da-je-zloupotrebio-vise-od-22-miliona-dinara/",
+    "https://www.rts.rs/lat/vesti/hronika/6092423/tuzilastvo-trazi-pritvor-za-bihalija-tereti-se-da-je-ostetio-budzet-za-vise-od-22-miliona-dinara.html"
    ],
    "naslov": "Uhapšen Pavle Bihali zbog sumnje na prisvajanje 22,5 miliona dinara budžetskog novca za kampanju",
-   "opis": "VJT u Beogradu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da je uhapšen P.B.G. (44) zbog sumnje da je kao ovlašćeno lice koalicije „Ruski manjinski savez” novac uplaćen iz budžeta Republike (20.500.667 din.) i Beograda (2.007.387 din.) za kampanju na izborima 3. aprila 2022. preneo na svoj tekući račun i podigao, umesto da neutrošena sredstva vrati u budžet. Tereti se za zloupotrebu položaja odgovornog lica i falsifikovanje isprave; zadržavanje do 48 sati. Mediji (Nova, N1) navode da je reč o Pavlu Bihaliju, lideru pokreta „Levijatan”.",
+   "opis": "VJT u Beogradu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da je uhapšen P.B.G. (44) zbog sumnje da je kao ovlašćeno lice koalicije „Ruski manjinski savez” novac uplaćen iz budžeta Republike (20.500.667 din.) i Beograda (2.007.387 din.) za kampanju na izborima 3. aprila 2022. preneo na svoj tekući račun i podigao, umesto da neutrošena sredstva vrati u budžet. Tereti se za zloupotrebu položaja odgovornog lica i falsifikovanje isprave; zadržavanje do 48 sati. Mediji (Nova, N1) navode da je reč o Pavlu Bihaliju, lideru pokreta „Levijatan”. 25. nov: posle saslušanja, na kojem je izneo odbranu, tužilaštvo je predložilo sudiji za prethodni postupak Višeg suda u Beogradu da mu odredi pritvor zbog opasnosti od bekstva i uticaja na svedoke; protiv njega je doneta naredba o sprovođenju istrage.",
    "osobe": "Pavle Bihali (prema medijima) · „Ruski manjinski savez” / Srpsko-ruski pokret · VJT Beograd",
    "red": 70,
    "status": "zvanicno",
@@ -7256,11 +7410,12 @@
     "https://n1info.rs/vesti/uhapsene-tri-osobe-sumnja-se-da-je-davor-macura-izneo-iz-banke-45-milijardi-dinara/",
     "https://n1info.rs/vesti/davoru-macuri-odredjen-pritvor-do-30-dana/",
     "https://www.rts.rs/lat/vesti/hronika/6075932/odredjen-pritvor-davoru-macuri-i-za-jos-dvoje-zaposlenih-u-alta-banci.html",
-    "https://n1info.rs/vesti/insajder-tok-vlasniku-alta-banke-i-njegovim-firmama-zabranilo-raspolaganje-imovinom/"
+    "https://n1info.rs/vesti/insajder-tok-vlasniku-alta-banke-i-njegovim-firmama-zabranilo-raspolaganje-imovinom/",
+    "https://n1info.rs/vesti/krik-uhapseni-brat-davora-macure-i-direktorka-firme-alta-grupe/"
    ],
    "naslov": "TOK: uhapšen vlasnik Alta banke i dvoje zaposlenih zbog iznošenja novca iz trezora",
-   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra. Macura je pred TOK-om negirao krivicu, naveo je njegov advokat. 4. nov: Viši sud u Beogradu objavio je da je svoj trojici određen pritvor do 30 dana zbog opasnosti od uticaja na svedoke i ponavljanja dela, a Macuri i zbog opasnosti od bekstva. 11. nov: prema Insajderu, TOK je Macuri i njegovim firmama (Alta holding, Alta lizing, Campari International) zabranio raspolaganje imovinom, uključujući oko 35 ha zemljišta bivšeg IMT-a; o privremenom oduzimanju odlučuje sud.",
-   "osobe": "Davor Macura (D.M.) · G.M. · I.P. · Alta banka · TOK",
+   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra. Macura je pred TOK-om negirao krivicu, naveo je njegov advokat. 4. nov: Viši sud u Beogradu objavio je da je svoj trojici određen pritvor do 30 dana zbog opasnosti od uticaja na svedoke i ponavljanja dela, a Macuri i zbog opasnosti od bekstva. 11. nov: prema Insajderu, TOK je Macuri i njegovim firmama (Alta holding, Alta lizing, Campari International) zabranio raspolaganje imovinom, uključujući oko 35 ha zemljišta bivšeg IMT-a; o privremenom oduzimanju odlučuje sud. 25. nov: prema saznanjima KRIK-a (TOK se još nije oglasio), uhapšeni su i Dubravko Macura, brat Davora Macure, i Tatjana Bundalo, direktorka Alta grupe, zbog sumnje da su umešani u iznošenje novca iz trezora; određeno im je zadržavanje do 48 sati.",
+   "osobe": "Davor Macura (D.M.) · G.M. · I.P. · Dubravko Macura · Tatjana Bundalo · Alta banka · Alta grupa · TOK",
    "red": 95,
    "status": "zvanicno",
    "tip": "hapsenje",
@@ -8317,7 +8472,9 @@
     "https://n1info.rs/vesti/spisak-clanova-skupstinskih-odbora/",
     "https://n1info.rs/vesti/blog-nastavak-konstitutivne-sednica-skupstine/",
     "https://www.rtv.rs/sr_lat/politika/parlament-usvojio-odluku-o-clanovima-i-zamenicima-clanova-skupstinskih-odbora_1760932.html",
-    "https://www.rtv.rs/sr_lat/politika/skupstina-nastavlja-konstitutivnu-sednicu-poslednja-tacka-izbor-delegacija_1761188.html"
+    "https://www.rtv.rs/sr_lat/politika/skupstina-nastavlja-konstitutivnu-sednicu-poslednja-tacka-izbor-delegacija_1761188.html",
+    "https://www.rts.rs/lat/vesti/politika/6091774/skupstina-odbori-parlamentarne-delegacije.html",
+    "https://www.rtv.rs/sr_lat/politika/zavrsena-konstitutivna-sednica-skupstine-srbije-usvojena-odluka-o-delegacijama-u-medjunarodnim-institucijama_1761188.html"
    ],
    "naslov": "Konstitutivna sednica Narodne skupštine",
    "odluke": [
@@ -8372,12 +8529,13 @@
      "naslov": "Konstatovanje prestanka mandata ministara Nikole Selakovića (kultura) i Adrijane Mesarović (privreda)"
     },
     {
-     "ishod": "u_raspravi",
-     "napomena": "Poslednja, šesta tačka dnevnog reda; rasprava počinje 25. nov u 10 časova.",
-     "naslov": "Izbor stalnog sastava parlamentarnih delegacija u međunarodnim institucijama"
+     "ishod": "usvojeno",
+     "napomena": "Usvojeno 25. nov sa 136 glasova za (ostali brojevi nisu objavljeni u izvorima); time je završena konstitutivna sednica.",
+     "naslov": "Izbor stalnog sastava parlamentarnih delegacija u međunarodnim institucijama",
+     "za": 136
     }
    ],
-   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; SVM, SPP, SDA Sandžaka i SDP najavili su glasanje za Čupića. 19. nov (treći dan): Čupić je javnim glasanjem prozivkom izabran za predsednika Skupštine i preuzeo predsedavanje; predložio je šest potpredsednika, a obe poslaničke grupe predložile su po šest kandidata. Grupa „Srbija pobeđuje” tvrdi da nije konsultovana; Čupić je izrekao opomene njenim poslanicima Samiru Tandiru i Milošu Stojkoviću. Nešto pre ponoći izabrano je svih šest kandidata Studentske liste za potpredsednike (poslanici „Srbija pobeđuje” napustili su salu tokom glasanja, a SVM i SPP nisu podržali predlog), a za generalnu sekretarku Mirjana Radaković. Nastavak sednice – izbor radnih tela i stalnih delegacija – zakazan je za 24. novembar. 24. nov: posle celodnevne rasprave usvojena je odluka o članovima i zamenicima članova 20 odbora (133 za, 93 protiv), a konstatovan je i prestanak mandata ministara Selakovića i Mesarović. Sednica se nastavlja 25. nov izborom stalnih delegacija.",
+   "opis": "Sednicu je za 17. novembar u 10 časova zakazala predsednica Skupštine iz prethodnog saziva Ana Brnabić. Dnevni red ima šest tačaka: potvrđivanje mandata, izbor predsednika i potpredsednika Skupštine, generalnog sekretara, radnih tela i stalnih delegacija. Do izbora predsednika predsedava najstariji poslanik Stojan Radenović; konstituisanjem počinje rok od 90 dana za izbor Vlade. Na konsultacijama 13. nov dogovoreno je javno glasanje. 17. nov (prvi dan): potvrđeni su mandati svih 250 poslanika i Skupština je konstituisana; formirane su dve poslaničke grupe, a za predsednika Skupštine predloženi su Aleksandar Čupić (Studentska lista) i Stojan Radenović („Aleksandar Vučić – Srbija pobeđuje”). 18. nov (drugi dan): rasprava o kandidatima trajala je do 18 časova bez glasanja; SVM, SPP, SDA Sandžaka i SDP najavili su glasanje za Čupića. 19. nov (treći dan): Čupić je javnim glasanjem prozivkom izabran za predsednika Skupštine i preuzeo predsedavanje; predložio je šest potpredsednika, a obe poslaničke grupe predložile su po šest kandidata. Grupa „Srbija pobeđuje” tvrdi da nije konsultovana; Čupić je izrekao opomene njenim poslanicima Samiru Tandiru i Milošu Stojkoviću. Nešto pre ponoći izabrano je svih šest kandidata Studentske liste za potpredsednike (poslanici „Srbija pobeđuje” napustili su salu tokom glasanja, a SVM i SPP nisu podržali predlog), a za generalnu sekretarku Mirjana Radaković. Nastavak sednice – izbor radnih tela i stalnih delegacija – zakazan je za 24. novembar. 24. nov: posle celodnevne rasprave usvojena je odluka o članovima i zamenicima članova 20 odbora (133 za, 93 protiv), a konstatovan je i prestanak mandata ministara Selakovića i Mesarović. 25. nov: usvojena je odluka o stalnim delegacijama u međunarodnim parlamentarnim institucijama (136 za) i Čupić je zaključio konstitutivnu sednicu; poslanici „Srbija pobeđuje” napustili su zasedanje posle vesti o hapšenju Dragana J. Vučićevića.",
    "organ": "skupstina",
    "status": "odrzana",
    "id": "s01"
