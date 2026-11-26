@@ -1,7 +1,7 @@
 {
- "generisano": "2026-11-25T15:14+00:00",
+ "generisano": "2026-11-26T06:48+00:00",
  "stanje": {
-  "azurirano": "2026-11-25",
+  "azurirano": "2026-11-26",
   "izbori": "2026-10-25",
   "mandati": 140,
   "procenat": "53,01%",
@@ -40,6 +40,36 @@
  },
  "vesti": [
   {
+   "datum": "2026-11-26",
+   "izvor": "RTV",
+   "kategorija": "izbori",
+   "naslov": "Čupić danas u podne potpisuje Odluku o raspisivanju izbora za predsednika Republike",
+   "red": 80,
+   "sazetak": "Predsednik Narodne skupštine Aleksandar Čupić najavio je da 26. novembra potpisuje odluku o raspisivanju predsedničkih izbora. Rok za raspisivanje ističe 27. novembra; Studentska lista je najavila da će kandidata objaviti posle raspisivanja.",
+   "url": "https://www.rtv.rs/sr_lat/politika/cupic-danas-raspisuje-izbore-za-predsednika-republike_1761424.html",
+   "id": "v625"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "Radar",
+   "kategorija": "korupcija",
+   "naslov": "Radar: poverljivo rešenje NBS o Alta banci otkriva slabosti koje odudaraju od javnih uveravanja NBS",
+   "red": 60,
+   "sazetak": "Radar piše o poverljivom rešenju Izvršnog odbora NBS od 30. oktobra: dan pre oduzimanja dozvole banci je naloženo da popiše gotovinu u blagajni, a kao ključni razlog navedeni su pad depozita od 16,67 milijardi dinara 28. i 29. oktobra i neizvršeni nalozi klijenata. Radar postavlja pitanje kada su nadležni saznali za pravo stanje banke.",
+   "url": "https://radar.nova.rs/ekonomija/ko-je-i-zasto-davoru-macuri-cuvao-ledja/",
+   "id": "v627"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "Radar",
+   "kategorija": "institucije",
+   "naslov": "Radar: tehnička Vlada sprema izveštaj o Ekspu 2027 koji će dostaviti novoj Skupštini",
+   "red": 50,
+   "sazetak": "Prema izvoru Radara bliskom kabinetu Đura Macuta, Vlada u tehničkom mandatu planira da naredne nedelje usvoji izveštaj o stanju radova i organizaciji Ekspa 2027 (Građevinska direkcija Srbije i preduzeće Ekspo 2027) i dostavi ga Skupštini. Zvanične potvrde nema.",
+   "url": "https://radar.nova.rs/ekonomija/tehnicka-vlada-sprema-izvestaj-o-ekspo/",
+   "id": "v628"
+  },
+  {
    "datum": "2026-11-25",
    "izvor": "N1",
    "kategorija": "hapsenje",
@@ -61,6 +91,16 @@
   },
   {
    "datum": "2026-11-25",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "hapsenje",
+   "naslov": "Kikinda: uhapšeno troje rukovodilaca državnog MSK zbog isplata radnicima za odlazak na mitinge SNS",
+   "red": 85,
+   "sazetak": "VJT u Novom Sadu saopštilo je da su, posle informacije DRI od 10. novembra, uhapšeni predsednik i dva člana izvršnog odbora „Metanolsko-sirćetnog kompleksa” (M.L, U.M. i D.P.). Sumnjiče se da su 2025. i 2026. organizovali odlazak zaposlenih na skupove tadašnjeg predsednika, SNS-a, ministarstva i Centra za društvenu stabilnost i isplaćivali im zarade, dnevnice i stimulacije, čime je MSK oštećen za 15.201.664 dinara.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/25-11-2026-saopstenje-za-javnost-4/",
+   "id": "v621"
+  },
+  {
+   "datum": "2026-11-25",
    "izvor": "RTS",
    "kategorija": "institucije",
    "naslov": "Završena konstitutivna sednica Skupštine: sa 136 glasova izabrane stalne delegacije u međunarodnim institucijama",
@@ -71,6 +111,16 @@
   },
   {
    "datum": "2026-11-25",
+   "izvor": "Insajder / N1",
+   "kategorija": "institucije",
+   "naslov": "Apelacioni sud ukinuo optužnicu VJT u Beogradu za pad nadstrešnice jer tužilaštvo nije bilo nadležno",
+   "red": 75,
+   "sazetak": "Prema pisanju Insajdera, Apelacioni sud je rešenjem od 2. novembra preinačio odluku Višeg suda i ukinuo optužnicu koju je VJT u Beogradu podiglo u martu 2025. Sud navodi da je Vrhovno javno tužilaštvo predmet prethodno prenelo TOK-u, a da je glavni tužilac Nenad Stefanović podigao optužnicu ne čekajući odluku o svom prigovoru.",
+   "url": "https://n1info.rs/vesti/apelacioni-sud-odbacio-optuznicu-beogradskog-vjt-za-pad-nadstresnice/",
+   "id": "v624"
+  },
+  {
+   "datum": "2026-11-25",
    "izvor": "VJT Beograd / RTS",
    "kategorija": "hapsenje",
    "naslov": "Saslušan Pavle Bihali, tužilaštvo predložilo pritvor zbog opasnosti od bekstva i uticaja na svedoke",
@@ -78,6 +128,26 @@
    "sazetak": "Posebno odeljenje za suzbijanje korupcije VJT u Beogradu saslušalo je P.B.G. (44), koji je izneo odbranu. Naredbom o sprovođenju istrage tereti se za zloupotrebu položaja odgovornog lica i falsifikovanje isprave zbog 22,5 miliona dinara budžetskog novca za kampanju 2022.; o pritvoru odlučuje sudija za prethodni postupak Višeg suda.",
    "url": "https://www.rts.rs/lat/vesti/hronika/6092423/tuzilastvo-trazi-pritvor-za-bihalija-tereti-se-da-je-ostetio-budzet-za-vise-od-22-miliona-dinara.html",
    "id": "v612"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Viši sud u Beogradu odredio pritvor do 30 dana Pavlu Bihaliju",
+   "red": 70,
+   "sazetak": "Posle saslušanja u VJT u Beogradu, sudija za prethodni postupak odredio je Bihaliju pritvor do 30 dana. Sumnjiči se da je novac za kampanju 2022. (oko 22,5 miliona dinara iz budžeta Republike i Beograda) prebacio na lični račun i podigao, kao i da je Agenciji za sprečavanje korupcije podneo lažan izveštaj o troškovima.",
+   "url": "https://n1info.rs/vesti/visi-sud-u-beogradu-odredio-pritvor-do-30-dana-pavlu-bihaliju/",
+   "id": "v622"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "VJT Novi Sad",
+   "kategorija": "korupcija",
+   "naslov": "Optužni akt protiv bivšeg načelnika Gradske uprave za privredu Novog Sada zbog štete od 85,3 miliona dinara",
+   "red": 65,
+   "sazetak": "VJT u Novom Sadu podiglo je optužni akt protiv S.B. za 129 krivičnih dela nesavesnog rada u službi: kao načelnik nije kontrolisao realizaciju 129 projekata udruženja koje je finansirao grad, čime je Novi Sad oštećen za 85.310.000 dinara. Optužni akt ima 345 strana.",
+   "url": "https://novisad.vjt.rs/aktuelnosti/25-11-2026-saopstenja-za-javnost-3/",
+   "id": "v623"
   },
   {
    "datum": "2026-11-25",
@@ -111,6 +181,16 @@
   },
   {
    "datum": "2026-11-25",
+   "izvor": "N1 / Nova",
+   "kategorija": "bezbednost",
+   "naslov": "Bačena bomba na kuću direktora Pro Tenta Slobodana Vujičića u Obrenovcu",
+   "red": 55,
+   "sazetak": "Prema Nova.rs i RTS-u, eksplozija je oštetila fasadu i prozore, a policija i tužilac traže počinioca. Advokat Ivan Ninić ranije je podneo krivičnu prijavu protiv Vujičića i Pro Tenta zbog prikupljanja „kapilarnih glasova”.",
+   "url": "https://n1info.rs/vesti/bacena-bomba-na-kucu-direktora-pro-tenta/",
+   "id": "v626"
+  },
+  {
+   "datum": "2026-11-25",
    "izvor": "RTS",
    "kategorija": "izbori",
    "naslov": "Srdanović: sledi raspisivanje predsedničkih izbora, Studentska lista odmah potom objavljuje kandidata",
@@ -131,6 +211,16 @@
   },
   {
    "datum": "2026-11-25",
+   "izvor": "RTS",
+   "kategorija": "bezbednost",
+   "naslov": "Ministarstvo odbrane i Vojska Srbije demantuju navode o nezakonitom angažovanju Vojne policije i VBA",
+   "red": 45,
+   "sazetak": "Ministarstvo odbrane i Vojska Srbije demantovali su navode o nezakonitom postupanju i angažovanju pripadnika Vojne policije i Vojnobezbednosne agencije prema građanima i naveli da sistem odbrane ne učestvuje u političkim aktivnostima.",
+   "url": "https://www.rts.rs/lat/vesti/drustvo/6092483/ministarstvo-odbrane-i-vojska-srbije-demantuju-navode-o-nezakonitom-angazovanju-vojne-policije-i-vba.html",
+   "id": "v629"
+  },
+  {
+   "datum": "2026-11-25",
    "izvor": "N1",
    "kategorija": "bezbednost",
    "naslov": "Novi optužni predlog protiv advokata Nemanje Aleksića zbog napada golf-palicom na građane i policajce",
@@ -141,6 +231,26 @@
   },
   {
    "datum": "2026-11-25",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Štandard: Dejan Šoškić ozbiljan kandidat Studentske liste za premijera",
+   "red": 40,
+   "sazetak": "Austrijski dnevnik Der Standard piše da se bivši guverner NBS Dejan Šoškić nametnuo kao ozbiljan kandidat za mandatara i da je spreman da prihvati zadatak. Studentska lista ime mandatara još nije zvanično saopštila.",
+   "url": "https://n1info.rs/vesti/standard-soskic-spreman-da-kao-premijer-unese-red-u-privredu-srbije/",
+   "id": "v630"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "N1",
+   "kategorija": "korupcija",
+   "naslov": "Niš: gradska Direkcija za saobraćaj ostala bez 170 miliona dinara u Alta banci",
+   "red": 40,
+   "sazetak": "Direkcija za saobraćaj, koja plaća prevoznike u javnom prevozu, imala je 170 miliona dinara na računu u propaloj Alta banci. Gradonačelnik Dragoslav Pavlović najavio je da će do 15. decembra biti poznato da li grad može da nastavi sa besplatnim javnim prevozom.",
+   "url": "https://n1info.rs/vesti/da-li-je-ugrozen-celokupni-javni-prevoz-u-nisu-direkcija-za-saobracaj-ostala-bez-170-miliona-u-alta-banci/",
+   "id": "v631"
+  },
+  {
+   "datum": "2026-11-25",
    "izvor": "RTS",
    "kategorija": "mediji",
    "naslov": "UNS traži od Vučića da prestane sa diskvalifikacijama RTS-a i njegovih novinara",
@@ -148,6 +258,16 @@
    "sazetak": "Udruženje novinara Srbije protestuje zbog Vučićevih izjava u kojima je RTS nazvao „Službenim glasnikom Studentske liste” i zaposlene označavao imenom; upozorava da takav govor može ugroziti bezbednost novinara.",
    "url": "https://www.rts.rs/lat/vesti/drustvo/6092310/uns-vucic-da-prestane-sa-diskvalifikacijama-rts-a-i-njegovih-novinara-i-urednika.html",
    "id": "v619"
+  },
+  {
+   "datum": "2026-11-25",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Pristalice SRS vređale novinarku N1 na skupu podrške Draganu J. Vučićeviću",
+   "red": 35,
+   "sazetak": "N1 je objavio snimak na kojem pristalice Srpske radikalne stranke na skupu podrške uhapšenom vlasniku Informera grubo vređaju novinarku N1.",
+   "url": "https://n1info.rs/vesti/radikali-vredjaju-n1-protest-dragan-j-vucicevic/",
+   "id": "v632"
   },
   {
    "datum": "2026-11-24",
@@ -6257,10 +6377,11 @@
   {
    "datum": "2026-11-27",
    "izvori": [
-    "https://www.rts.rs/lat/vesti/politika/6072498/brnabic-predsednicki-izbori-bice-raspisani-do-27-novembra-.html"
+    "https://www.rts.rs/lat/vesti/politika/6072498/brnabic-predsednicki-izbori-bice-raspisani-do-27-novembra-.html",
+    "https://www.rtv.rs/sr_lat/politika/cupic-danas-raspisuje-izbore-za-predsednika-republike_1761424.html"
    ],
    "naslov": "Rok za raspisivanje predsedničkih izbora",
-   "opis": "V.d. predsednika Ana Brnabić najavila je da će izbori biti raspisani najkasnije do 27. novembra, ili će to učiniti novi v.d. predsednika ako se ranije formiraju organi vlasti.",
+   "opis": "V.d. predsednika Ana Brnabić najavila je da će izbori biti raspisani najkasnije do 27. novembra, ili će to učiniti novi v.d. predsednika ako se ranije formiraju organi vlasti. 25–26. nov: predsednik Skupštine Aleksandar Čupić najavio je da Odluku o raspisivanju izbora za predsednika Republike potpisuje 26. novembra u podne.",
    "osobe": "Ana Brnabić",
    "red": 60,
    "status": "najavljeno",
@@ -6284,10 +6405,28 @@
   },
   {
    "datum": "2026-11-25",
+   "iznos": "≈ 15,2 mil. RSD",
+   "izvori": [
+    "https://novisad.vjt.rs/aktuelnosti/25-11-2026-saopstenje-za-javnost-4/",
+    "https://n1info.rs/vesti/uhapseno-rukovodstvo-drzavnog-preduzeca-dali-vise-od-100000-evra-na-stimulacije-za-odlazak-na-mitinge-sns/",
+    "https://razglas-news.com/2026/11/25/uhapseno-troje-rukovodilaca-msk-iz-kikinde-zbog-isplata-zaposlenima-za-odlazak-na-mitinge-sns-a/"
+   ],
+   "naslov": "Kikinda: uhapšeno rukovodstvo državnog MSK zbog plaćanja radnika za odlazak na mitinge SNS",
+   "opis": "VJT u Novom Sadu i UKP (Služba za borbu protiv korupcije) uhapsili su 25. novembra predsednika izvršnog odbora „Metanolsko-sirćetnog kompleksa” Kikinda M.L. i članove odbora U.M. i D.P. Sumnjiče se za produženo krivično delo zloupotrebe položaja odgovornog lica: 2025–2026. organizovali su odlazak zaposlenih na skupove tadašnjeg predsednika Republike, SNS-a, Ministarstva za rad i Centra za društvenu stabilnost i isplaćivali im zarade, dnevnice i stimulacije. Postupak je pokrenut na osnovu informacije DRI od 10. novembra.",
+   "osobe": "M.L. · U.M. · D.P. · MSK Kikinda · VJT Novi Sad · DRI",
+   "red": 80,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h118"
+  },
+  {
+   "datum": "2026-11-25",
    "iznos": "≈ 90,9 mil. RSD korist / 37,6 mil. RSD šteta",
    "izvori": [
     "https://n1info.rs/vesti/uhapseno-sest-osoba-u-cetiri-grada-zbog-sumnje-na-korupciju-i-zloupotrebe-sluzbenog-polozaja/",
-    "https://www.rts.rs/lat/vesti/hronika/6092384/uhapseno-sest-osoba-u-akcijama-protiv-korupcije-za-jednom-se-traga.html"
+    "https://www.rts.rs/lat/vesti/hronika/6092384/uhapseno-sest-osoba-u-akcijama-protiv-korupcije-za-jednom-se-traga.html",
+    "https://novisad.vjt.rs/aktuelnosti/25-11-2026-saopstenje-za-javnost/",
+    "https://novisad.vjt.rs/aktuelnosti/25-11-2026-saopstenje-za-javnost-2/"
    ],
    "naslov": "Šest uhapšenih u četiri grada zbog korupcije i zloupotrebe položaja",
    "opis": "MUP (UKP, Služba za borbu protiv korupcije) saopštio je da je 24. i 25. novembra, u saradnji sa posebnim odeljenjima za suzbijanje korupcije VJT u Beogradu, Novom Sadu, Kraljevu i Nišu, uhapšeno šest osoba, a za još jednom se traga. Sumnja se na protivpravnu imovinsku korist od 90,9 miliona dinara i štetu budžetu i pravnim licima od 37,6 miliona. Među uhapšenima su službeno lice komisije Grada Kraljeva za dodelu pomoći za kupovinu kuće (M.V.) i korisnik pomoći (V.M.), bivši direktor novosadske OŠ „Prva vojvođanska brigada” S.O. (šteta školi oko 53,9 mil. din.) i zastupnik udruženja Ž.B. zbog nenamenskog trošenja gradskih sredstava.",
@@ -6317,10 +6456,12 @@
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1508/",
     "https://n1info.rs/vesti/uhapsen-pavle-bihali-sumnja-se-da-je-zloupotrebio-vise-od-22-miliona-dinara/",
     "https://razglas-news.com/2026/11/24/uhapsen-voda-levijatana-pavle-bihali-sumnja-se-da-je-zloupotrebio-vise-od-22-miliona-dinara/",
-    "https://www.rts.rs/lat/vesti/hronika/6092423/tuzilastvo-trazi-pritvor-za-bihalija-tereti-se-da-je-ostetio-budzet-za-vise-od-22-miliona-dinara.html"
+    "https://www.rts.rs/lat/vesti/hronika/6092423/tuzilastvo-trazi-pritvor-za-bihalija-tereti-se-da-je-ostetio-budzet-za-vise-od-22-miliona-dinara.html",
+    "https://beograd.vjt.rs/aktuelnosti/saopstenje-1510/",
+    "https://n1info.rs/vesti/visi-sud-u-beogradu-odredio-pritvor-do-30-dana-pavlu-bihaliju/"
    ],
    "naslov": "Uhapšen Pavle Bihali zbog sumnje na prisvajanje 22,5 miliona dinara budžetskog novca za kampanju",
-   "opis": "VJT u Beogradu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da je uhapšen P.B.G. (44) zbog sumnje da je kao ovlašćeno lice koalicije „Ruski manjinski savez” novac uplaćen iz budžeta Republike (20.500.667 din.) i Beograda (2.007.387 din.) za kampanju na izborima 3. aprila 2022. preneo na svoj tekući račun i podigao, umesto da neutrošena sredstva vrati u budžet. Tereti se za zloupotrebu položaja odgovornog lica i falsifikovanje isprave; zadržavanje do 48 sati. Mediji (Nova, N1) navode da je reč o Pavlu Bihaliju, lideru pokreta „Levijatan”. 25. nov: posle saslušanja, na kojem je izneo odbranu, tužilaštvo je predložilo sudiji za prethodni postupak Višeg suda u Beogradu da mu odredi pritvor zbog opasnosti od bekstva i uticaja na svedoke; protiv njega je doneta naredba o sprovođenju istrage.",
+   "opis": "VJT u Beogradu (Posebno odeljenje za suzbijanje korupcije) saopštilo je da je uhapšen P.B.G. (44) zbog sumnje da je kao ovlašćeno lice koalicije „Ruski manjinski savez” novac uplaćen iz budžeta Republike (20.500.667 din.) i Beograda (2.007.387 din.) za kampanju na izborima 3. aprila 2022. preneo na svoj tekući račun i podigao, umesto da neutrošena sredstva vrati u budžet. Tereti se za zloupotrebu položaja odgovornog lica i falsifikovanje isprave; zadržavanje do 48 sati. Mediji (Nova, N1) navode da je reč o Pavlu Bihaliju, lideru pokreta „Levijatan”. 25. nov: posle saslušanja, na kojem je izneo odbranu, tužilaštvo je predložilo pritvor zbog opasnosti od bekstva i uticaja na svedoke; doneta je naredba o sprovođenju istrage. Istog dana Viši sud u Beogradu odredio mu je pritvor do 30 dana.",
    "osobe": "Pavle Bihali (prema medijima) · „Ruski manjinski savez” / Srpsko-ruski pokret · VJT Beograd",
    "red": 70,
    "status": "zvanicno",
@@ -7773,14 +7914,15 @@
   },
   {
    "datum": "2026-10-28",
-   "iznos": "83,26 mil. din (≈ 710.000 €)",
+   "iznos": "85,31 mil. din (≈ 730.000 €)",
    "izvori": [
     "https://novisad.vjt.rs/aktuelnosti/28-10-2026-saopstenje-za-javnost/",
     "https://novisad.vjt.rs/aktuelnosti/29-10-2026-saopstenje-za-javnost-1-3/",
-    "https://n1info.rs/vesti/nacelniku-novosadske-uprave-za-privredu-odredjen-pritvor-od-30-dana/"
+    "https://n1info.rs/vesti/nacelniku-novosadske-uprave-za-privredu-odredjen-pritvor-od-30-dana/",
+    "https://novisad.vjt.rs/aktuelnosti/25-11-2026-saopstenja-za-javnost-3/"
    ],
    "naslov": "Uhapšen bivši načelnik Gradske uprave za privredu Novog Sada, određen pritvor",
-   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) uhapsilo je 28. oktobra S.B. zbog sumnje na nesavestan rad u službi pri kontroli 126 projekata udruženja finansiranih od grada 2020–2025. Viši sud u Novom Sadu 29. oktobra odredio je pritvor do 30 dana.",
+   "opis": "VJT u Novom Sadu (Posebno odeljenje za suzbijanje korupcije) uhapsilo je 28. oktobra S.B. zbog sumnje na nesavestan rad u službi pri kontroli 126 projekata udruženja finansiranih od grada 2020–2025. Viši sud u Novom Sadu 29. oktobra odredio je pritvor do 30 dana. 25. nov: VJT u Novom Sadu podiglo je optužni akt protiv S.B. za 129 krivičnih dela (produženo krivično delo nesavesnog rada u službi) zbog izostale kontrole 129 projekata udruženja; šteta za grad iznosi 85.310.000 dinara.",
    "osobe": "S.B. (prema medijima Saša Bilinović) · VJT Novi Sad · Viši sud u Novom Sadu",
    "red": 85,
    "status": "zvanicno",
