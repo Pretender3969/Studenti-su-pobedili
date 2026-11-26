@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-26T06:48+00:00",
+ "generisano": "2026-11-26T15:14+00:00",
  "stanje": {
   "azurirano": "2026-11-26",
   "izbori": "2026-10-25",
@@ -41,6 +41,36 @@
  "vesti": [
   {
    "datum": "2026-11-26",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Čupić raspisao predsedničke izbore za 27. decembar",
+   "red": 95,
+   "sazetak": "Predsednik Narodne skupštine i v.d. predsednika Republike Aleksandar Čupić potpisao je 26. novembra Odluku o raspisivanju izbora za predsednika Republike, koji će biti održani 27. decembra. Izbori se raspisuju jer je Aleksandar Vučić 27. septembra podneo ostavku; morali su biti raspisani do 27. novembra.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6092765/cupic-skupstina-predsednicki-izbori.html",
+   "id": "v633"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "RTS / N1",
+   "kategorija": "hapsenje",
+   "naslov": "Saslušan Dragan J. Vučićević, tužilaštvo predložilo pritvor do 30 dana",
+   "red": 85,
+   "sazetak": "Drugo OJT u Beogradu predložilo je sudu pritvor do 30 dana za glavnog urednika TV Informer zbog opasnosti od ponavljanja krivičnog dela. Tereti se za izazivanje panike i nereda u produženom trajanju i ometanje pravde; na saslušanju je negirao krivicu, a odbrana je tražila ukidanje zadržavanja.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6092743/dragan-j-vucicevic-saslusanje.html",
+   "id": "v638"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "RTS / TOK",
+   "kategorija": "hapsenje",
+   "naslov": "TOK potvrdio: troje uhapšenih u nastavku istrage o Alta banci, sumnja na pomaganje Macuri da pribavi 45,5 milijardi dinara",
+   "red": 85,
+   "sazetak": "TOK je saopštio da su uhapšeni D.M., specijalni savetnik u Alta banci, J.P., blagajnica banke, i T.B., direktorka „Alta grupa”, zbog sumnje na zloupotrebu položaja odgovornog lica u pomaganju. Sumnjiče se da su iznošenjem gotovine iz trezora i fiktivnim nalozima za uplatu pazara pomogli Davoru Macuri da pribavi više od 45,5 milijardi dinara.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6092893/iznosenje-novca-iz-trezora-i-fiktivne-uplate--za-sta-tok-sumnjici-brata-davora-macure-i-jos-dvoje-uhapsenih.html",
+   "id": "v639"
+  },
+  {
+   "datum": "2026-11-26",
    "izvor": "RTV",
    "kategorija": "izbori",
    "naslov": "Čupić danas u podne potpisuje Odluku o raspisivanju izbora za predsednika Republike",
@@ -48,6 +78,16 @@
    "sazetak": "Predsednik Narodne skupštine Aleksandar Čupić najavio je da 26. novembra potpisuje odluku o raspisivanju predsedničkih izbora. Rok za raspisivanje ističe 27. novembra; Studentska lista je najavila da će kandidata objaviti posle raspisivanja.",
    "url": "https://www.rtv.rs/sr_lat/politika/cupic-danas-raspisuje-izbore-za-predsednika-republike_1761424.html",
    "id": "v625"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "N1",
+   "kategorija": "hapsenje",
+   "naslov": "Kraljevo: uhapšen pomoćnik gradonačelnika zbog štete od 1,5 miliona dinara Komesarijatu za izbeglice; istraga proširena",
+   "red": 65,
+   "sazetak": "VJT u Kraljevu saopštilo je da je 25. novembra uhapšen pomoćnik gradonačelnika M.V., osumnjičen da je 2023. kao predsednik komisije bez odluke komisije dodelio pomoć za kupovinu seoske kuće licu koje nije ispunjavalo uslove, čime je Komesarijat oštećen za 1.509.641 dinar. 26. novembra istraga je proširena na G.R. iz Kraljeva, koji je zadržan.",
+   "url": "https://n1info.rs/vesti/tuzilastvo-u-kraljevu-prosirena-istraga-u-slucaju-gde-je-komesarijat-ostecen-za-15-miliona-dinara/",
+   "id": "v641"
   },
   {
    "datum": "2026-11-26",
@@ -61,6 +101,56 @@
   },
   {
    "datum": "2026-11-26",
+   "izvor": "RTS / N1",
+   "kategorija": "izbori",
+   "naslov": "Demokratska stranka podržaće predsedničkog kandidata Studentske liste",
+   "red": 60,
+   "sazetak": "Predsedništvo DS odlučilo je da podrži kandidata studentskog pokreta na predsedničkim izborima 27. decembra, navodeći kao zajedničke ciljeve razgradnju sistema organizovanog kriminala i korupcije i obnovu pravne države.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6092978/demokratska-stranka-predsednik-studentska-lista.html",
+   "id": "v634"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "RTS / RTV",
+   "kategorija": "institucije",
+   "naslov": "Stanko Fuštar (Studentska lista) izabran za predsednika Administrativnog odbora Skupštine",
+   "red": 60,
+   "sazetak": "Na prvoj sednici Odbora za administrativno-budžetska i mandatno-imunitetska pitanja za predsednika je jednoglasno izabran Stanko Fuštar sa Studentske liste.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6092773/skupstina-administrativni-odbor-stanko-fustar-predsednik-2026.html",
+   "id": "v636"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "RTS",
+   "kategorija": "hapsenje",
+   "naslov": "Raspisana poternica za Vladimirom Mandićem, vlasnikom firme „Manko plus”",
+   "red": 60,
+   "sazetak": "Sud u Nišu je na predlog VJT u Nišu odredio pritvor i raspisao poternicu za Vladimirom Mandićem, bivšim rukometašem, osumnjičenim za zloupotrebu položaja odgovornog lica u IPA projektu „Bugarska – Srbija” vrednom 275.320 evra. Prema lokaciji telefona, nalazi se van Srbije.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6093006/poternica-vladimir-mandic-zloupotreba.html",
+   "id": "v640"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Ristić (Studentska lista): ime predsedničkog kandidata biće poznato za dan-dva",
+   "red": 55,
+   "sazetak": "Poslanik Studentske liste Jugoslav Ristić rekao je za N1 da očekuje „čistiju” kampanju i da će kandidat liste biti poznat vrlo brzo. Dodao je da se radi i na modelu Vlade, broju ministarstava i ministrima.",
+   "url": "https://n1info.rs/vesti/jugoslav-ristic-studentska-lista-predsednicki-izbori-ocekujem-cistiju-kampanju/",
+   "id": "v635"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "SSP: Komisija za reviziju biračkog spiska usvojila prvi izveštaj, tvrde da potvrđuje krađu izbora u Beogradu 2023.",
+   "red": 55,
+   "sazetak": "Prema saopštenju SSP, komisija iz prethodnog saziva utvrdila je dva obrasca sumnjivih upisa u birački spisak (prijave prebivališta pred lokalne izbore i grupni prvi upisi lica rođenih u inostranstvu na malom broju adresa). Funkcioneri SSP Ana Gođevac i Marko Dimić ocenjuju da je broj takvih upisa u Beogradu 2023. bio uporediv sa brojem glasova koji menja raspodelu mandata i pozivaju tužilaštvo da postupa.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6092735/kradja-izbora-ssp-komisija-revizija-biracki-spisak.html",
+   "id": "v637"
+  },
+  {
+   "datum": "2026-11-26",
    "izvor": "Radar",
    "kategorija": "institucije",
    "naslov": "Radar: tehnička Vlada sprema izveštaj o Ekspu 2027 koji će dostaviti novoj Skupštini",
@@ -68,6 +158,36 @@
    "sazetak": "Prema izvoru Radara bliskom kabinetu Đura Macuta, Vlada u tehničkom mandatu planira da naredne nedelje usvoji izveštaj o stanju radova i organizaciji Ekspa 2027 (Građevinska direkcija Srbije i preduzeće Ekspo 2027) i dostavi ga Skupštini. Zvanične potvrde nema.",
    "url": "https://radar.nova.rs/ekonomija/tehnicka-vlada-sprema-izvestaj-o-ekspo/",
    "id": "v628"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "N1 / RTV",
+   "kategorija": "institucije",
+   "naslov": "Tehnička vlada: Siniša Mali preuzima ovlašćenja ministra privrede, Nenad Vujić ministra kulture",
+   "red": 50,
+   "sazetak": "Premijer u tehničkom mandatu Đuro Macut potpisao je odluke, objavljene u Službenom glasniku, kojima ministri finansija i pravde do izbora nove Vlade preuzimaju i resore privrede i kulture, nakon što su Adrijani Mesarović i Nikoli Selakoviću prestali ministarski mandati.",
+   "url": "https://n1info.rs/vesti/mali-i-vujic-preuzimaju-jos-dva-ministarstva/",
+   "id": "v643"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "RTS / N1",
+   "kategorija": "institucije",
+   "naslov": "Porodica Milivojević podnela ustavnu žalbu protiv Vučićevog pomilovanja osuđenog za eksploziju u Lučanima",
+   "red": 45,
+   "sazetak": "Advokat porodice poginulog radnika Nikola Maslać predao je Ustavnom sudu žalbu na pomilovanje Tome Stojića, osuđenog zbog eksplozije u fabrici „Milan Blagojević” 2017, uz već podnetu tužbu Upravnom sudu. Prema njegovim rečima, dokumentacija o slučaju prosleđena je TOK-u.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6093140/ustavni-sud-milivojevic-lucani-namenska-zalba-pomilovanje.html",
+   "id": "v644"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "VJT Niš naložilo policiji proveru navoda o kupovini glasova u selu Radoševac",
+   "red": 40,
+   "sazetak": "Po krivičnoj prijavi građanina, tužilaštvo proverava navode da je NN lice 1. novembra, na ponovljenom glasanju na parlamentarnim izborima, u Radoševcu kod Babušnice kupovalo glasove za listu „Usame Zukorlić – Pokret za ujedinjenje”.",
+   "url": "https://n1info.rs/vesti/vjt-nis-policija-da-proveri-kupovinu-glasova-u-selu-radosevac/",
+   "id": "v642"
   },
   {
    "datum": "2026-11-25",
@@ -6362,6 +6482,20 @@
  ],
  "hronika": [
   {
+   "datum": "2026-12-27",
+   "izvori": [
+    "https://www.rts.rs/lat/vesti/politika/6092765/cupic-skupstina-predsednicki-izbori.html",
+    "https://www.rtv.rs/sr_lat/politika/izbori-za-predsednika-republike-predlozi-kandidata-najkasnije-20-dana-pre-glasanja_1761562.html"
+   ],
+   "naslov": "Izbori za predsednika Republike",
+   "opis": "Vanredni predsednički izbori raspisani 26. novembra odlukom v.d. predsednika Republike Aleksandra Čupića. Predlozi kandidata podnose se najkasnije 20 dana pre dana glasanja. Studentska lista najavila je da će kandidata objaviti uskoro; DS je najavila podršku kandidatu studentskog pokreta.",
+   "osobe": "Aleksandar Čupić · RIK",
+   "red": 90,
+   "status": "najavljeno",
+   "tip": "izbori",
+   "id": "h119"
+  },
+  {
    "datum": "2026-12-05",
    "izvori": [
     "https://n1info.rs/vesti/izbori-skupstina-srbije-vlada-rokovi/"
@@ -6375,16 +6509,18 @@
    "id": "h66"
   },
   {
-   "datum": "2026-11-27",
+   "datum": "2026-11-26",
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6072498/brnabic-predsednicki-izbori-bice-raspisani-do-27-novembra-.html",
-    "https://www.rtv.rs/sr_lat/politika/cupic-danas-raspisuje-izbore-za-predsednika-republike_1761424.html"
+    "https://www.rtv.rs/sr_lat/politika/cupic-danas-raspisuje-izbore-za-predsednika-republike_1761424.html",
+    "https://www.rts.rs/lat/vesti/politika/6092765/cupic-skupstina-predsednicki-izbori.html",
+    "https://studenti.org.rs/vesti/izbori_predsednik/"
    ],
-   "naslov": "Rok za raspisivanje predsedničkih izbora",
-   "opis": "V.d. predsednika Ana Brnabić najavila je da će izbori biti raspisani najkasnije do 27. novembra, ili će to učiniti novi v.d. predsednika ako se ranije formiraju organi vlasti. 25–26. nov: predsednik Skupštine Aleksandar Čupić najavio je da Odluku o raspisivanju izbora za predsednika Republike potpisuje 26. novembra u podne.",
-   "osobe": "Ana Brnabić",
-   "red": 60,
-   "status": "najavljeno",
+   "naslov": "Raspisani predsednički izbori za 27. decembar",
+   "opis": "V.d. predsednika Ana Brnabić najavila je da će izbori biti raspisani najkasnije do 27. novembra, ili će to učiniti novi v.d. predsednika ako se ranije formiraju organi vlasti. 26. nov: predsednik Narodne skupštine i v.d. predsednika Republike Aleksandar Čupić potpisao je Odluku o raspisivanju izbora za predsednika Republike za 27. decembar 2026, dan pre isteka zakonskog roka.",
+   "osobe": "Aleksandar Čupić · Ana Brnabić",
+   "red": 90,
+   "status": "zvanicno",
    "tip": "izbori",
    "id": "h31"
   },
@@ -6393,10 +6529,12 @@
    "izvori": [
     "https://n1info.rs/vesti/draganu-j-vucicevicu-odredjeno-zadrzavanje/",
     "https://n1info.rs/vesti/uhasen-dragan-j-vucicevic/",
-    "https://www.rts.rs/lat/vesti/politika/6092186/srdanovic-ocekuje-nas-raspisivanje-predsednickih-izbora-bakic-hapsenje-vucicevica-dozivljavamo-kao-blagu-vest.html"
+    "https://www.rts.rs/lat/vesti/politika/6092186/srdanovic-ocekuje-nas-raspisivanje-predsednickih-izbora-bakic-hapsenje-vucicevica-dozivljavamo-kao-blagu-vest.html",
+    "https://www.rts.rs/lat/vesti/hronika/6092743/dragan-j-vucicevic-saslusanje.html",
+    "https://n1info.rs/vesti/tuzilastvo-predlozilo-pritvor-za-dragana-j-vucicevica/"
    ],
    "naslov": "Uhapšen vlasnik TV Informer Dragan J. Vučićević",
-   "opis": "Po nalogu Drugog osnovnog javnog tužilaštva u Beogradu MUP (PS Voždovac) doneo je rešenje o zadržavanju Dragana J. Vučićevića zbog osnova sumnje da je izvršio krivična dela izazivanje panike i nereda u produženom trajanju (čl. 343 st. 2 KZ) i ometanje pravde (čl. 336b KZ). Prema saopštenju tužilaštva koje prenosi N1, biće doveden na saslušanje 26. novembra. Aleksandar Vučić i poslanici „Srbija pobeđuje” tvrde da je uhapšen zbog novinarskog rada; Jovo Bakić (Studentska lista) izjavio je da se sa svakim ko prekrši zakon postupa po zakonu.",
+   "opis": "Po nalogu Drugog osnovnog javnog tužilaštva u Beogradu MUP (PS Voždovac) doneo je rešenje o zadržavanju Dragana J. Vučićevića zbog osnova sumnje da je izvršio krivična dela izazivanje panike i nereda u produženom trajanju (čl. 343 st. 2 KZ) i ometanje pravde (čl. 336b KZ). Aleksandar Vučić i poslanici „Srbija pobeđuje” tvrde da je uhapšen zbog novinarskog rada; Jovo Bakić (Studentska lista) izjavio je da se sa svakim ko prekrši zakon postupa po zakonu. 26. nov: na saslušanju u Drugom OJT Vučićević je negirao krivicu; tužilaštvo je predložilo sudu pritvor do 30 dana zbog opasnosti od ponavljanja dela, a odbrana je tražila ukidanje zadržavanja.",
    "osobe": "Dragan J. Vučićević · TV Informer · Drugo OJT Beograd",
    "red": 90,
    "status": "zvanicno",
@@ -6418,6 +6556,20 @@
    "status": "zvanicno",
    "tip": "hapsenje",
    "id": "h118"
+  },
+  {
+   "datum": "2026-11-25",
+   "iznos": "≈ 1,5 mil. RSD",
+   "izvori": [
+    "https://n1info.rs/vesti/tuzilastvo-u-kraljevu-prosirena-istraga-u-slucaju-gde-je-komesarijat-ostecen-za-15-miliona-dinara/"
+   ],
+   "naslov": "Kraljevo: uhapšen pomoćnik gradonačelnika zbog štete Komesarijatu za izbeglice",
+   "opis": "VJT u Kraljevu saopštilo je da je policija uhapsila pomoćnika gradonačelnika Kraljeva M.V. zbog sumnje na zloupotrebu službenog položaja: kao predsednik Komisije za izbor korisnika pomoći povratnicima po Sporazumu o readmisiji 2023. je bez odluke komisije dodelio pomoć za kupovinu seoske kuće licu koje nije ispunjavalo uslove, čime je Komesarijat za izbeglice i migracije oštećen za 1.509.641 dinar. 26. nov: istraga je proširena na G.R. iz Kraljeva, koji je zadržan zbog sumnje na saizvršilaštvo.",
+   "osobe": "M.V. (pomoćnik gradonačelnika Kraljeva) · G.R. · VJT Kraljevo · Komesarijat za izbeglice i migracije",
+   "red": 60,
+   "status": "zvanicno",
+   "tip": "hapsenje",
+   "id": "h120"
   },
   {
    "datum": "2026-11-25",
@@ -6473,11 +6625,12 @@
    "iznos": "≈ 275.000 € (vrednost projekta)",
    "izvori": [
     "https://nis.vjt.rs/aktuelnosti/saopstenje-za-javnost-1397/",
-    "https://n1info.rs/vesti/tuzilastvo-trazi-hapsenje-vladimira-mandica/"
+    "https://n1info.rs/vesti/tuzilastvo-trazi-hapsenje-vladimira-mandica/",
+    "https://www.rts.rs/lat/vesti/hronika/6093006/poternica-vladimir-mandic-zloupotreba.html"
    ],
-   "naslov": "Niš: naloženo hapšenje vlasnika firme „Manco plus” zbog EU projekta; osumnjičeni van Srbije, traga se za njim",
-   "opis": "Posebno odeljenje za suzbijanje korupcije VJT u Nišu naložilo je lišenje slobode i zadržavanje do 48 sati V.M., vlasnika firme „Manco plus” d.o.o. Beograd, zbog sumnje na zloupotrebu položaja odgovornog lica u sprovođenju IPA projekta Bugarska – Srbija (275.320 evra, finansirala EU). Osumnjičeni se nalazi van Srbije i za njim se traga; pretresi su u toku. Prema N1, reč je o bivšem rukometašu i članu SNS Vladimiru Mandiću. Postupa se u koordinaciji sa Komisijom VJT.",
-   "osobe": "Vladimir Mandić (prema N1) · „Manco plus” · VJT Niš",
+   "naslov": "Niš: poternica za vlasnikom firme „Manco plus” Vladimirom Mandićem zbog EU projekta",
+   "opis": "Posebno odeljenje za suzbijanje korupcije VJT u Nišu naložilo je lišenje slobode i zadržavanje do 48 sati V.M., vlasnika firme „Manco plus” d.o.o. Beograd, zbog sumnje na zloupotrebu položaja odgovornog lica u sprovođenju IPA projekta Bugarska – Srbija (275.320 evra, finansirala EU). Osumnjičeni se nalazi van Srbije; pretresi su obavljeni. Prema N1, reč je o bivšem rukometašu i članu SNS Vladimiru Mandiću. Postupa se u koordinaciji sa Komisijom VJT. 26. nov: na predlog VJT sud u Nišu odredio je pritvor i raspisao poternicu za Mandićem.",
+   "osobe": "Vladimir Mandić · „Manco plus” · VJT Niš",
    "red": 60,
    "status": "zvanicno",
    "tip": "hapsenje",
@@ -7552,11 +7705,12 @@
     "https://n1info.rs/vesti/davoru-macuri-odredjen-pritvor-do-30-dana/",
     "https://www.rts.rs/lat/vesti/hronika/6075932/odredjen-pritvor-davoru-macuri-i-za-jos-dvoje-zaposlenih-u-alta-banci.html",
     "https://n1info.rs/vesti/insajder-tok-vlasniku-alta-banke-i-njegovim-firmama-zabranilo-raspolaganje-imovinom/",
-    "https://n1info.rs/vesti/krik-uhapseni-brat-davora-macure-i-direktorka-firme-alta-grupe/"
+    "https://n1info.rs/vesti/krik-uhapseni-brat-davora-macure-i-direktorka-firme-alta-grupe/",
+    "https://www.rts.rs/lat/vesti/hronika/6092893/iznosenje-novca-iz-trezora-i-fiktivne-uplate--za-sta-tok-sumnjici-brata-davora-macure-i-jos-dvoje-uhapsenih.html"
    ],
    "naslov": "TOK: uhapšen vlasnik Alta banke i dvoje zaposlenih zbog iznošenja novca iz trezora",
-   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra. Macura je pred TOK-om negirao krivicu, naveo je njegov advokat. 4. nov: Viši sud u Beogradu objavio je da je svoj trojici određen pritvor do 30 dana zbog opasnosti od uticaja na svedoke i ponavljanja dela, a Macuri i zbog opasnosti od bekstva. 11. nov: prema Insajderu, TOK je Macuri i njegovim firmama (Alta holding, Alta lizing, Campari International) zabranio raspolaganje imovinom, uključujući oko 35 ha zemljišta bivšeg IMT-a; o privremenom oduzimanju odlučuje sud. 25. nov: prema saznanjima KRIK-a (TOK se još nije oglasio), uhapšeni su i Dubravko Macura, brat Davora Macure, i Tatjana Bundalo, direktorka Alta grupe, zbog sumnje da su umešani u iznošenje novca iz trezora; određeno im je zadržavanje do 48 sati.",
-   "osobe": "Davor Macura (D.M.) · G.M. · I.P. · Dubravko Macura · Tatjana Bundalo · Alta banka · Alta grupa · TOK",
+   "opis": "Po nalogu TOK-a lišeni su slobode D.M. (prema medijima Davor Macura), odgovorno lice Alta banke, G.M., direktor Odeljenja trezora, i I.P., saradnik za trezorsko poslovanje. D.M. se sumnjiči za zloupotrebu položaja odgovornog lica (čl. 227 KZ) zbog iznošenja oko 45,6 milijardi dinara iz trezora, a dvoje zaposlenih da su mu omogućili pristup. Pretresi su obavljeni 31. oktobra i 1. novembra. Macura je pred TOK-om negirao krivicu, naveo je njegov advokat. 4. nov: Viši sud u Beogradu objavio je da je svoj trojici određen pritvor do 30 dana zbog opasnosti od uticaja na svedoke i ponavljanja dela, a Macuri i zbog opasnosti od bekstva. 11. nov: prema Insajderu, TOK je Macuri i njegovim firmama (Alta holding, Alta lizing, Campari International) zabranio raspolaganje imovinom, uključujući oko 35 ha zemljišta bivšeg IMT-a; o privremenom oduzimanju odlučuje sud. 25. nov: prema saznanjima KRIK-a uhapšeni su i Dubravko Macura, brat Davora Macure, i Tatjana Bundalo, direktorka Alta grupe. 26. nov: TOK je zvanično saopštio da su uhapšeni D.M. (specijalni savetnik u Alta banci), J.P. (blagajnica banke) i T.B. (direktorka „Alta grupa”), osumnjičeni za pomaganje u zloupotrebi položaja: iznošenje gotovine iz trezora i fiktivne naloge za uplatu pazara preko kojih je novac prebacivan na Macurin račun.",
+   "osobe": "Davor Macura (D.M.) · G.M. · I.P. · Dubravko Macura · Tatjana Bundalo · J.P. · Alta banka · Alta grupa · TOK",
    "red": 95,
    "status": "zvanicno",
    "tip": "hapsenje",
@@ -8561,6 +8715,18 @@
    "uloga": "Predsednik poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje”",
    "url": "https://www.rts.rs/lat/vesti/politika/6085037/skupstina-konstituisanje-poslanici-studentska-lista-sns.html",
    "id": "f04"
+  },
+  {
+   "ime": "Stanko Fuštar",
+   "lista": "Studentska lista",
+   "napomena": "Jednoglasno izabran na prvoj sednici odbora.",
+   "od": "2026-11-26",
+   "organ": "skupstina",
+   "red": 40,
+   "status": "izabran",
+   "uloga": "Predsednik Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
+   "url": "https://www.rts.rs/lat/vesti/politika/6092773/skupstina-administrativni-odbor-stanko-fustar-predsednik-2026.html",
+   "id": "f20"
   },
   {
    "do": "2026-11-17",
