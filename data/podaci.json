@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-26T15:14+00:00",
+ "generisano": "2026-11-27T06:46+00:00",
  "stanje": {
   "azurirano": "2026-11-26",
   "izbori": "2026-10-25",
@@ -40,6 +40,16 @@
  },
  "vesti": [
   {
+   "datum": "2026-11-27",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Čupić kao v.d. predsednika Republike predstavlja Srbiju na samitu procesa Brdo-Brioni u Ohridu",
+   "red": 30,
+   "sazetak": "Predsednik Narodne skupštine i vršilac dužnosti predsednika Republike Aleksandar Čupić učestvuje na sastanku lidera procesa Brdo-Brioni u Ohridu.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6093463/samit-procesa-brdo-brioni-na-ohridu-srbiju-predstavlja-aleksandar-cupic.html",
+   "id": "v651"
+  },
+  {
    "datum": "2026-11-26",
    "izvor": "RTS",
    "kategorija": "izbori",
@@ -78,6 +88,26 @@
    "sazetak": "Predsednik Narodne skupštine Aleksandar Čupić najavio je da 26. novembra potpisuje odluku o raspisivanju predsedničkih izbora. Rok za raspisivanje ističe 27. novembra; Studentska lista je najavila da će kandidata objaviti posle raspisivanja.",
    "url": "https://www.rtv.rs/sr_lat/politika/cupic-danas-raspisuje-izbore-za-predsednika-republike_1761424.html",
    "id": "v625"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "RTS / Tanjug",
+   "kategorija": "hapsenje",
+   "naslov": "Sud odredio pritvor do 30 dana Draganu J. Vučićeviću",
+   "red": 75,
+   "sazetak": "Na predlog Drugog osnovnog javnog tužilaštva u Beogradu sud je glavnom i odgovornom uredniku TV Informer Draganu J. Vučićeviću odredio pritvor do 30 dana zbog opasnosti od ponavljanja krivičnog dela. Tereti se za izazivanje panike i nereda u produženom trajanju i ometanje pravde; na saslušanju je negirao krivicu.",
+   "url": "https://www.rts.rs/lat/vesti/hronika/6093467/dragan-j-vucicevic-pritvor-30-dana-informer.html",
+   "id": "v647"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "Studenti",
+   "kategorija": "izbori",
+   "naslov": "Oformljena grupa građana „Studenti ponovo pobeđuju!” za predsedničke izbore 27. decembra",
+   "red": 70,
+   "sazetak": "Studentski pokret objavio je da je oformljena grupa građana „Studenti ponovo pobeđuju!” radi učešća na predsedničkim izborima. Među 15 potpisnika su Aleksandra Štimac, Sanja Fric, Miroslav Andrić i Milica Vasiljević Blagojević. Konferencija za medije povodom izbora najavljena je za 27. novembar u 12 časova.",
+   "url": "https://studenti.org.rs/vesti/ponovo_pobedjuju/",
+   "id": "v645"
   },
   {
    "datum": "2026-11-26",
@@ -131,6 +161,16 @@
   },
   {
    "datum": "2026-11-26",
+   "izvor": "Treće OJT",
+   "kategorija": "institucije",
+   "naslov": "Apelaciono javno tužilaštvo: Treće OJT ostaje nadležno za predmete „Hotel Jugoslavija” i „Belgrade Eye”",
+   "red": 60,
+   "sazetak": "Apelaciono javno tužilaštvo u Beogradu ukinulo je rešenje VJT o prenošenju predmeta Prvom OJT, uz obrazloženje da izuzeće glavne tužiteljke Ivane Stojiljković Pomoriški ne sprečava ostalih 27 tužilaca Trećeg OJT da postupaju. Branioci osumnjičenih S. V. i Z. B. podneli su nove zahteve za izuzeće svih tužilaca tog tužilaštva, o kojima odlučuje VJT.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27570/",
+   "id": "v648"
+  },
+  {
+   "datum": "2026-11-26",
    "izvor": "N1",
    "kategorija": "izbori",
    "naslov": "Ristić (Studentska lista): ime predsedničkog kandidata biće poznato za dan-dva",
@@ -148,6 +188,16 @@
    "sazetak": "Prema saopštenju SSP, komisija iz prethodnog saziva utvrdila je dva obrasca sumnjivih upisa u birački spisak (prijave prebivališta pred lokalne izbore i grupni prvi upisi lica rođenih u inostranstvu na malom broju adresa). Funkcioneri SSP Ana Gođevac i Marko Dimić ocenjuju da je broj takvih upisa u Beogradu 2023. bio uporediv sa brojem glasova koji menja raspodelu mandata i pozivaju tužilaštvo da postupa.",
    "url": "https://www.rts.rs/lat/vesti/politika/6092735/kradja-izbora-ssp-komisija-revizija-biracki-spisak.html",
    "id": "v637"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "RTV / RTS",
+   "kategorija": "izbori",
+   "naslov": "RIK usvojio rokovnik za predsedničke izbore: predlozi kandidata do 6. decembra, žreb do 11. decembra",
+   "red": 55,
+   "sazetak": "Republička izborna komisija donela je odluku o obrascima za podnošenje predloga kandidata i usvojila rokovnik izbornih radnji. Predlozi kandidata za predsednika Republike podnose se najkasnije do 6. decembra, a žreb za redosled na glasačkom listiću održava se do 11. decembra.",
+   "url": "https://www.rtv.rs/sr_lat/izbori-2026/predsednicki-izbori/rik-kandidatura-za-predsednicke-izbore-do-6.-decembra-zreb-za-redosled-do-11.12._1761659.html",
+   "id": "v646"
   },
   {
    "datum": "2026-11-26",
@@ -171,6 +221,16 @@
   },
   {
    "datum": "2026-11-26",
+   "izvor": "Razglas",
+   "kategorija": "izbori",
+   "naslov": "Nezvanično: Radomir Saičić kandidat Studentske liste za predsednika Republike",
+   "red": 50,
+   "sazetak": "Prema navodima pojedinih medija i društvenih mreža, akademik i profesor Hemijskog fakulteta Radomir Saičić dobio je podršku plenuma i poslanika i biće kandidat Studentske liste za predsednika. Studentska lista to još nije zvanično potvrdila; objava se očekuje na konferenciji 27. novembra.",
+   "url": "https://razglas-news.com/2026/11/26/pojedini-mediji-i-drustvene-mreze-radomir-saicic-je-kandidat-studentske-liste-za-predsednika-srbije/",
+   "id": "v649"
+  },
+  {
+   "datum": "2026-11-26",
    "izvor": "RTS / N1",
    "kategorija": "institucije",
    "naslov": "Porodica Milivojević podnela ustavnu žalbu protiv Vučićevog pomilovanja osuđenog za eksploziju u Lučanima",
@@ -188,6 +248,16 @@
    "sazetak": "Po krivičnoj prijavi građanina, tužilaštvo proverava navode da je NN lice 1. novembra, na ponovljenom glasanju na parlamentarnim izborima, u Radoševcu kod Babušnice kupovalo glasove za listu „Usame Zukorlić – Pokret za ujedinjenje”.",
    "url": "https://n1info.rs/vesti/vjt-nis-policija-da-proveri-kupovinu-glasova-u-selu-radosevac/",
    "id": "v642"
+  },
+  {
+   "datum": "2026-11-26",
+   "izvor": "N1",
+   "kategorija": "bezbednost",
+   "naslov": "Zvezdanović (bivši inspektor BIA): sumnja da je rukovodstvo Druge uprave BIA dostavljalo informacije Milanu Radoičiću",
+   "red": 40,
+   "sazetak": "Bivši inspektor BIA Milan Zvezdanović rekao je u emisiji „N1 Direktno” da postoji ozbiljna sumnja da su operativne informacije o Radoičiću i Srpskoj listi prosleđivane samom Radoičiću, koji je potom pretio izvorima. Zatražio je da Druga uprava BIA u istražnom postupku pruži podatke o slučaju Banjska i Radoičićevom odlasku. Reč je o navodima koje nadležni organi nisu potvrdili.",
+   "url": "https://n1info.rs/vesti/bia-dostavljala-informacije-milanu-radoicicu/",
+   "id": "v650"
   },
   {
    "datum": "2026-11-25",
@@ -6531,10 +6601,12 @@
     "https://n1info.rs/vesti/uhasen-dragan-j-vucicevic/",
     "https://www.rts.rs/lat/vesti/politika/6092186/srdanovic-ocekuje-nas-raspisivanje-predsednickih-izbora-bakic-hapsenje-vucicevica-dozivljavamo-kao-blagu-vest.html",
     "https://www.rts.rs/lat/vesti/hronika/6092743/dragan-j-vucicevic-saslusanje.html",
-    "https://n1info.rs/vesti/tuzilastvo-predlozilo-pritvor-za-dragana-j-vucicevica/"
+    "https://n1info.rs/vesti/tuzilastvo-predlozilo-pritvor-za-dragana-j-vucicevica/",
+    "https://www.rts.rs/lat/vesti/hronika/6093467/dragan-j-vucicevic-pritvor-30-dana-informer.html",
+    "https://n1info.rs/vesti/vucicevicu-odredjen-pritvor-do-30-dana-njegov-advokat-na-putu-je-ka-cz-u/"
    ],
    "naslov": "Uhapšen vlasnik TV Informer Dragan J. Vučićević",
-   "opis": "Po nalogu Drugog osnovnog javnog tužilaštva u Beogradu MUP (PS Voždovac) doneo je rešenje o zadržavanju Dragana J. Vučićevića zbog osnova sumnje da je izvršio krivična dela izazivanje panike i nereda u produženom trajanju (čl. 343 st. 2 KZ) i ometanje pravde (čl. 336b KZ). Aleksandar Vučić i poslanici „Srbija pobeđuje” tvrde da je uhapšen zbog novinarskog rada; Jovo Bakić (Studentska lista) izjavio je da se sa svakim ko prekrši zakon postupa po zakonu. 26. nov: na saslušanju u Drugom OJT Vučićević je negirao krivicu; tužilaštvo je predložilo sudu pritvor do 30 dana zbog opasnosti od ponavljanja dela, a odbrana je tražila ukidanje zadržavanja.",
+   "opis": "Po nalogu Drugog osnovnog javnog tužilaštva u Beogradu MUP (PS Voždovac) doneo je rešenje o zadržavanju Dragana J. Vučićevića zbog osnova sumnje da je izvršio krivična dela izazivanje panike i nereda u produženom trajanju (čl. 343 st. 2 KZ) i ometanje pravde (čl. 336b KZ). Aleksandar Vučić i poslanici „Srbija pobeđuje” tvrde da je uhapšen zbog novinarskog rada; Jovo Bakić (Studentska lista) izjavio je da se sa svakim ko prekrši zakon postupa po zakonu. 26. nov: na saslušanju u Drugom OJT Vučićević je negirao krivicu; tužilaštvo je predložilo pritvor, a sud mu je istog dana odredio pritvor do 30 dana zbog opasnosti od ponavljanja krivičnog dela.",
    "osobe": "Dragan J. Vučićević · TV Informer · Drugo OJT Beograd",
    "red": 90,
    "status": "zvanicno",
@@ -6828,10 +6900,12 @@
     "https://beograd.vjt.rs/aktuelnosti/saopstenje-1499/",
     "https://n1info.rs/vesti/trece-ojt-odlukom-vjt-ponovo-izuzeta-nasa-glavna-tuziteljka-u-slucaju-belgrade-eye-ali-nas-nece-pokolebati/",
     "https://n1info.rs/vesti/milenijum-tim-najavljuje-krivicnu-prijavu-protiv-glavne-tuziteljke-treceg-ojt/",
-    "https://www.krik.rs/ko-su-vlasnici-milenijum-tima-cije-hapsenje-trazi-tuzilastvo/"
+    "https://www.krik.rs/ko-su-vlasnici-milenijum-tima-cije-hapsenje-trazi-tuzilastvo/",
+    "https://trece.ojt.rs/aktuelnosti/27570/",
+    "https://www.rts.rs/lat/vesti/hronika/6093434/milenijum-tim-trazi-izuzece-svih-tuzilaca-treceg-osnovnog-javnog-tuzilastva-zbog-sumnje-na-nepristrasnost.html"
    ],
-   "naslov": "„Belgrade Eye”: nalog za hapšenje zastupnika „Beograda na vodi” i „Millennium Team”, predmet prenet Prvom OJT",
-   "opis": "Treće OJT je zbog izgradnje panoramskog točka bez građevinske dozvole 16. novembra izdalo usmeni nalog za hapšenje zakonskog zastupnika „Beograda na vodi” Z. B. i tri odgovorna lica „Millennium Team”, ali zadržavanje nije sprovedeno, odnosno ukinuto je, posle zahteva za izuzeće. 17. nov: VJT u Beogradu usvojilo je izuzeće glavne tužiteljke Trećeg OJT i naložilo Prvom OJT da hitno nastavi postupak; „Millennium Team” najavljuje krivičnu prijavu protiv tužiteljke. Navodi tužilaštva nisu sudski utvrđeni.",
+   "naslov": "„Belgrade Eye”: nalog za hapšenje zastupnika „Beograda na vodi” i „Millennium Team”; spor oko nadležnosti tužilaštva",
+   "opis": "Treće OJT je zbog izgradnje panoramskog točka bez građevinske dozvole 16. novembra izdalo usmeni nalog za hapšenje zakonskog zastupnika „Beograda na vodi” Z. B. i tri odgovorna lica „Millennium Team”, ali zadržavanje nije sprovedeno, odnosno ukinuto je, posle zahteva za izuzeće. 17. nov: VJT u Beogradu usvojilo je izuzeće glavne tužiteljke Trećeg OJT i naložilo Prvom OJT da hitno nastavi postupak; „Millennium Team” najavljuje krivičnu prijavu protiv tužiteljke. 26. nov: Apelaciono javno tužilaštvo ukinulo je rešenje VJT o prenošenju nadležnosti, pa predmete „Belgrade Eye” i „Hotel Jugoslavija” ponovo vodi Treće OJT (bez glavne tužiteljke); branioci osumnjičenih zatražili su izuzeće svih tužilaca Trećeg OJT. Navodi tužilaštva nisu sudski utvrđeni.",
    "osobe": "Beograd na vodi · Millennium Team · Ivana Stojiljković Pomoriški · Treće OJT · VJT u Beogradu · Prvo OJT",
    "red": 72,
    "status": "zvanicno",
