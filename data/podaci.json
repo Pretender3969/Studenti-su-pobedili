@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-27T06:46+00:00",
+ "generisano": "2026-11-27T15:15+00:00",
  "stanje": {
   "azurirano": "2026-11-26",
   "izbori": "2026-10-25",
@@ -41,6 +41,76 @@
  "vesti": [
   {
    "datum": "2026-11-27",
+   "izvor": "Studenti",
+   "kategorija": "izbori",
+   "naslov": "Akademik Radomir Saičić zvanično predstavljen kao kandidat studentskog pokreta za predsednika Republike",
+   "red": 90,
+   "sazetak": "Na konferenciji za medije studentski pokret predstavio je akademika Radomira N. Saičića, redovnog profesora Hemijskog fakulteta i člana SANU, kao kandidata za predsednika Republike. Kandidaturu predlaže grupa građana „Studenti ponovo pobeđuju!”, a izbori su zakazani za 27. decembar. Saičić je narodni poslanik Studentske liste.",
+   "url": "https://studenti.org.rs/vesti/nas_predsednik/",
+   "id": "v652"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "Saičić: konsultacije o formiranju vlade u toku, vlada biće formirana znatno pre zakonskog roka",
+   "red": 65,
+   "sazetak": "Predsednički kandidat studentskog pokreta Radomir Saičić rekao je da su konsultacije o formiranju vlade u toku i da će nova vlada biti formirana relativno brzo. Ocenio je da odlazeća vlast u tehničkom mandatu „isisava” velika finansijska sredstva iz sistema.",
+   "url": "https://n1info.rs/vesti/saicic-konsultacije-o-vladi-u-toku-bice-formirana-relativno-brzo/",
+   "id": "v653"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "RTS",
+   "kategorija": "izbori",
+   "naslov": "Brnabić: nema uslova za fer izbore, SNS o učešću na predsedničkim izborima odlučuje 13. decembra",
+   "red": 60,
+   "sazetak": "Ana Brnabić ocenila je da u Srbiji nema uslova za fer izbore i da će Skupština SNS-a 13. decembra odlučiti o učešću na predsedničkim izborima 27. decembra. Rok za podnošenje predloga kandidata RIK-u ističe 6. decembra u ponoć.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6093988/brnabic-nema-uslova-za-fer-izbore-odluka-o-ucescu-na-skupstini-sns-a-13-decembra.html",
+   "id": "v654"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "BIRN / N1",
+   "kategorija": "bezbednost",
+   "naslov": "BIRN: BIA pratila članove misije OEBS/ODIHR koja je posmatrala izbore 2023.",
+   "red": 55,
+   "sazetak": "Prema saznanjima BIRN-a, više od deset pripadnika BIA pratilo je posmatrače misije OEBS/ODIHR tokom izbora decembra 2023, uz pristup ključevima hotelskih soba i adresama stanova. Ni BIA ni ODIHR nisu odgovorili na pitanja BIRN-a.",
+   "url": "https://n1info.rs/vesti/birn-bia-pratila-clanove-misije-oebs-a-koji-su-posmatrali-izbore/",
+   "id": "v655"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "DRI / N1",
+   "kategorija": "korupcija",
+   "naslov": "DRI: Uprava za veterinu od 2021. do 2025. kupovala vakcine protiv klasične kuge svinja koje se ne koriste od 2019.",
+   "red": 50,
+   "sazetak": "Državna revizorska institucija utvrdila je da je Uprava za veterinu nabavljala vakcine iako se preventivna vakcinacija ne sprovodi od 2019; broj doza porastao je sa 500.000 na 1,5 miliona, a cena sa 42 na 67 dinara po dozi. Zbog afričke kuge svinja vlasnicima je od 2023. do 2025. isplaćeno 1,96 milijardi dinara naknade.",
+   "url": "https://razglas-news.com/2026/11/27/dri-uprava-za-veterinu-godinama-kupovala-vakcine-za-svinje-koje-se-ne-koriste-od-2019-godine/",
+   "id": "v657"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu obratilo se institucijama EU, Saveta Evrope, OEBS-a i UN zbog izveštaja Komisije Vrhovnog javnog tužilaštva",
+   "red": 45,
+   "sazetak": "Više javno tužilaštvo u Beogradu tvrdi da izveštaj Komisije VJT o postupanju u sedam predmeta prekoračuje zakonsku nadzornu funkciju i zadire u pitanja individualne disciplinske i krivične odgovornosti tužilaca, te traži od evropskih institucija da razmotre to pitanje.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/obracanje-vjt-u-beogradu-evropskim-institucijama/",
+   "id": "v656"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "N1 / FoNet",
+   "kategorija": "program",
+   "naslov": "Petrović Ropret (Studentska lista): posle osnivanja Ministarstva sporta prvi zadatak obračun sa korupcijom u sportu",
+   "red": 35,
+   "sazetak": "Poslanica Studentske liste Tatjana Petrović Ropret najavila je utvrđivanje svih zloupotreba javnih sredstava u sportskim savezima, osnivanje nezavisnog nacionalnog centra za bezbednost i integritet u sportu i sistem vaučera po principu „novac prati dete”.",
+   "url": "https://n1info.rs/vesti/tatjana-petrovic-ropret-potreban-obracun-sa-korupcijom-u-sportu-i-utvrdjivanje-svih-zloupotreba-javnih-sredstava/",
+   "id": "v658"
+  },
+  {
+   "datum": "2026-11-27",
    "izvor": "RTS",
    "kategorija": "institucije",
    "naslov": "Čupić kao v.d. predsednika Republike predstavlja Srbiju na samitu procesa Brdo-Brioni u Ohridu",
@@ -48,6 +118,36 @@
    "sazetak": "Predsednik Narodne skupštine i vršilac dužnosti predsednika Republike Aleksandar Čupić učestvuje na sastanku lidera procesa Brdo-Brioni u Ohridu.",
    "url": "https://www.rts.rs/lat/vesti/politika/6093463/samit-procesa-brdo-brioni-na-ohridu-srbiju-predstavlja-aleksandar-cupic.html",
    "id": "v651"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "N1 / FoNet",
+   "kategorija": "program",
+   "naslov": "Milošević (Studentska lista): prioritet uspostavljanje demokratskih standarda, tehnički deo pristupanja EU kasnije",
+   "red": 30,
+   "sazetak": "Poslanik Studentske liste Stanislav Milošević rekao je na sastanku Zajedničkog konsultativnog odbora EU i Srbije da će Studentska lista prvo raditi na demokratskim standardima, a tehničko pristupanje EU ostaviti za kasnije.",
+   "url": "https://n1info.rs/vesti/milosevic-studentska-lista-ce-evropske-integracije-ostaviti-za-kasnije-prioritet-uspostavljanje-demokratskih-standarda/",
+   "id": "v659"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "N1 / FoNet",
+   "kategorija": "korupcija",
+   "naslov": "Trstenik: Aleksić (NPS) prijavio ASK-u i Poreskoj upravi predsednicu opštine Milenu Turk radi provere imovine",
+   "red": 30,
+   "sazetak": "Miroslav Aleksić najavio je ispitivanje odluka lokalne vlasti i rekao da je 25. novembra podneo prijave za proveru imovine i prihoda predsednice opštine. Kritikovao je izdvajanje 670 miliona dinara iz budžetske rezerve za javnu rasvetu uprkos ugovoru o JPP od 4,5 miliona evra.",
+   "url": "https://n1info.rs/vesti/aleksic-trstenik-provera-imovine-opstinskih-funkcionera/",
+   "id": "v660"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "RTS",
+   "kategorija": "institucije",
+   "naslov": "Marta Kos posle sastanka sa Ademom Mavrićem: politička tranzicija u Srbiji prilika za jačanje vladavine prava",
+   "red": 30,
+   "sazetak": "Evropska komesarka za proširenje Marta Kos sastala se sa potpredsednikom Narodne skupštine Ademom Mavrićem i poručila da politička tranzicija pruža priliku za jačanje vladavine prava.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6093780/marta-kos-sa-ademom-mavricem-politicka-tranzicija-u-srbiji-prilika-za-jacanje-vladavine-prava.html",
+   "id": "v661"
   },
   {
    "datum": "2026-11-26",
@@ -6555,11 +6655,13 @@
    "datum": "2026-12-27",
    "izvori": [
     "https://www.rts.rs/lat/vesti/politika/6092765/cupic-skupstina-predsednicki-izbori.html",
-    "https://www.rtv.rs/sr_lat/politika/izbori-za-predsednika-republike-predlozi-kandidata-najkasnije-20-dana-pre-glasanja_1761562.html"
+    "https://www.rtv.rs/sr_lat/politika/izbori-za-predsednika-republike-predlozi-kandidata-najkasnije-20-dana-pre-glasanja_1761562.html",
+    "https://studenti.org.rs/vesti/nas_predsednik/",
+    "https://www.rts.rs/lat/vesti/politika/6093988/brnabic-nema-uslova-za-fer-izbore-odluka-o-ucescu-na-skupstini-sns-a-13-decembra.html"
    ],
    "naslov": "Izbori za predsednika Republike",
-   "opis": "Vanredni predsednički izbori raspisani 26. novembra odlukom v.d. predsednika Republike Aleksandra Čupića. Predlozi kandidata podnose se najkasnije 20 dana pre dana glasanja. Studentska lista najavila je da će kandidata objaviti uskoro; DS je najavila podršku kandidatu studentskog pokreta.",
-   "osobe": "Aleksandar Čupić · RIK",
+   "opis": "Vanredni predsednički izbori raspisani 26. novembra odlukom v.d. predsednika Republike Aleksandra Čupića. Predlozi kandidata podnose se RIK-u do 6. decembra u ponoć. Studentski pokret 27. novembra predstavio je kandidata Radomira Saičića (podršku najavile DS i Kreni-promeni); SNS o učešću odlučuje 13. decembra.",
+   "osobe": "Aleksandar Čupić · RIK · Radomir Saičić",
    "red": 90,
    "status": "najavljeno",
    "tip": "izbori",
@@ -6577,6 +6679,20 @@
    "status": "najavljeno",
    "tip": "izbori",
    "id": "h66"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvori": [
+    "https://studenti.org.rs/vesti/nas_predsednik/",
+    "https://razglas-news.com/2026/11/27/akademik-radomir-saicic-kandidat-studentskog-pokreta-za-predsednika-srbije-video/"
+   ],
+   "naslov": "Radomir Saičić kandidat studentskog pokreta za predsednika Republike",
+   "opis": "Studentski pokret na konferenciji za medije predstavio je akademika Radomira N. Saičića, profesora Hemijskog fakulteta, člana SANU i poslanika Studentske liste, kao kandidata na predsedničkim izborima 27. decembra. Kandidaturu predlaže grupa građana „Studenti ponovo pobeđuju!”; predlog kandidata RIK-u podnosi se do 6. decembra.",
+   "osobe": "Radomir N. Saičić · Studentska lista · grupa građana „Studenti ponovo pobeđuju!”",
+   "red": 85,
+   "status": "zvanicno",
+   "tip": "izbori",
+   "id": "h121"
   },
   {
    "datum": "2026-11-26",
