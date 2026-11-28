@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-27T15:15+00:00",
+ "generisano": "2026-11-28T06:50+00:00",
  "stanje": {
   "azurirano": "2026-11-26",
   "izbori": "2026-10-25",
@@ -71,6 +71,16 @@
   },
   {
    "datum": "2026-11-27",
+   "izvor": "N1 / Studenti",
+   "kategorija": "institucije",
+   "naslov": "Dejan Bodiroga (Studentska lista), Marko Korać (SNS) i Dženan Palamar (SDP) podneli ostavke na poslaničke mandate",
+   "red": 60,
+   "sazetak": "Bodiroga je naveo da zbog brojnih obaveza ne može da se posveti poslaničkom radu, ali da ostaje uz Studentski pokret i podržaće Radomira Saičića u predsedničkoj kampanji. Ostavke će razmatrati Odbor za administrativno-budžetska i mandatno-imunitetska pitanja na sednici zakazanoj za ponedeljak, 30. novembar.",
+   "url": "https://n1info.rs/vesti/dejan-bodiroga-podneo-ostavku-na-mesto-narodnog-poslanika/",
+   "id": "v662"
+  },
+  {
+   "datum": "2026-11-27",
    "izvor": "BIRN / N1",
    "kategorija": "bezbednost",
    "naslov": "BIRN: BIA pratila članove misije OEBS/ODIHR koja je posmatrala izbore 2023.",
@@ -78,6 +88,16 @@
    "sazetak": "Prema saznanjima BIRN-a, više od deset pripadnika BIA pratilo je posmatrače misije OEBS/ODIHR tokom izbora decembra 2023, uz pristup ključevima hotelskih soba i adresama stanova. Ni BIA ni ODIHR nisu odgovorili na pitanja BIRN-a.",
    "url": "https://n1info.rs/vesti/birn-bia-pratila-clanove-misije-oebs-a-koji-su-posmatrali-izbore/",
    "id": "v655"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "N1",
+   "kategorija": "institucije",
+   "naslov": "N1: TOK dobio dva obavezna uputstva Vrhovnog javnog tužilaštva u predmetima vezanim za tužioca Nenada Stefanovića",
+   "red": 55,
+   "sazetak": "Prema saznanjima N1, jedno uputstvo odnosi se na izveštaj Komisije VJT o sedam predmeta VJT u Beogradu (zvučni top, pomilovanja, napad na studente FDU i dr.) i traži predistražne radnje, a drugo na krivičnu prijavu Studentske liste protiv Stefanovića od 6. novembra. Tužilaštva to nisu zvanično saopštila.",
+   "url": "https://n1info.rs/vesti/jtok-dobio-dva-obavezna-uputstva-vrhovnog-tuzilastva-o-postupanju-trazi-se-gonjenje-i-nekih-tuzilaca/",
+   "id": "v665"
   },
   {
    "datum": "2026-11-27",
@@ -101,6 +121,36 @@
   },
   {
    "datum": "2026-11-27",
+   "izvor": "RTS / FoNet",
+   "kategorija": "program",
+   "naslov": "Sanja Fric: Ekspo verovatno neće biti otkazan, ali će biti vraćen u zakonske okvire uz proveru bezbednosti objekata",
+   "red": 45,
+   "sazetak": "Poslanica Studentske liste rekla je da tim stručnjaka analizira dostupne podatke i da će proceniti bezbednost objekata kada dobije kompletnu dokumentaciju i građevinske dnevnike. Navela je da se o raskidu ugovora po leks specijalisima ne može govoriti unapred, već da će svaki projekat biti posebno razmotren, i da se lista trudi da vlada bude formirana do kraja godine.",
+   "url": "https://www.rts.rs/lat/vesti/politika/6094638/sanja-fric-ekspo.html",
+   "id": "v663"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "RTV / N1",
+   "kategorija": "institucije",
+   "naslov": "Vlada u tehničkom mandatu razrešila osam državnih sekretara, među njima Lava Pajkića",
+   "red": 40,
+   "sazetak": "Prema rešenjima objavljenim u Službenom glasniku, razrešena su četiri državna sekretara u Ministarstvu privrede, tri u Ministarstvu kulture (Lav Grigorije Pajkić, Dejan Antić, Miomir Đorđević) i jedan u Ministarstvu informisanja na sopstveni zahtev, posle prestanka mandata ministara Mesarović i Selakovića. Istim rešenjima više pomoćnika ministara dobilo je status v.d. na tri meseca od decembra.",
+   "url": "https://www.rtv.rs/sr_lat/politika/razreseno-osam-drzavnih-sekretara-u-tri-ministarstva_1761974.html",
+   "id": "v664"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "N1 / Južne vesti",
+   "kategorija": "bezbednost",
+   "naslov": "Južne vesti: 150–200 ljudi sa juga Srbije, uglavnom studenti i profesori, bilo pod tajnim nadzorom sa kodnim imenima",
+   "red": 40,
+   "sazetak": "Urednik Južnih vesti Milan Zirojević navodi da je od pada nadstrešnice izdato ukupno 174 sudske naredbe o merama tajnog nadzora i da je cilj bio razbijanje studentskog pokreta. Navodi nisu zvanično potvrđeni, a BIA, MUP i tužilaštvo se nisu oglasili.",
+   "url": "https://n1info.rs/vesti/kodna-imena-tajni-nadzor-i-prisluskivanje-kako-je-prema-saznanjima-juznih-vesti-pokusano-razbijanje-studentskog-pokreta/",
+   "id": "v667"
+  },
+  {
+   "datum": "2026-11-27",
    "izvor": "N1 / FoNet",
    "kategorija": "program",
    "naslov": "Petrović Ropret (Studentska lista): posle osnivanja Ministarstva sporta prvi zadatak obračun sa korupcijom u sportu",
@@ -108,6 +158,26 @@
    "sazetak": "Poslanica Studentske liste Tatjana Petrović Ropret najavila je utvrđivanje svih zloupotreba javnih sredstava u sportskim savezima, osnivanje nezavisnog nacionalnog centra za bezbednost i integritet u sportu i sistem vaučera po principu „novac prati dete”.",
    "url": "https://n1info.rs/vesti/tatjana-petrovic-ropret-potreban-obracun-sa-korupcijom-u-sportu-i-utvrdjivanje-svih-zloupotreba-javnih-sredstava/",
    "id": "v658"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "Nova / Razglas",
+   "kategorija": "bezbednost",
+   "naslov": "Odžaci: VJT u Somboru vodi postupak protiv dvojice učesnika tuče u kojoj se pucalo; Nova.rs navodi da su učesnici iz kruga SNS",
+   "red": 35,
+   "sazetak": "Tužilaštvo je potvrdilo krivični postupak protiv Gorana Stančića zbog pucanja iz pištolja i istragu protiv Saše Milenkovića zbog teške telesne povrede. Vučić je u Skupštini tvrdio da su pristalice Studentske liste napale naprednjake, dok Nova.rs navodi da je Stančić bio obezbeđenje funkcionera SNS Gorana Đakovića; političku pripadnost tužilaštvo ne navodi.",
+   "url": "https://razglas-news.com/2026/11/27/vucic-lazno-optuzio-pristalice-studentske-liste-za-napad-na-naprednjake-u-odzacima-sad-to-potvrdilo-i-tuzilastvo/",
+   "id": "v666"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "Treće OJT / KRIK",
+   "kategorija": "hapsenje",
+   "naslov": "Treće OJT: saslušan S.S. zbog ometanja pravde, predložen pritvor; KRIK: reč je o navijaču Stevanu Sojiću čije je veze sa Vučićem otkrio",
+   "red": 35,
+   "sazetak": "Sumnja se da je 31. jula ispred Trećeg osnovnog suda pokušao da utiče na advokata da promeni iskaz; osumnjičeni negira delo. KRIK navodi da je Sojić uticajni član navijačke grupe Crvene zvezde i da je ranije objavio da se viđao sa Vučićem.",
+   "url": "https://trece.ojt.rs/aktuelnosti/27573/",
+   "id": "v668"
   },
   {
    "datum": "2026-11-27",
@@ -148,6 +218,26 @@
    "sazetak": "Evropska komesarka za proširenje Marta Kos sastala se sa potpredsednikom Narodne skupštine Ademom Mavrićem i poručila da politička tranzicija pruža priliku za jačanje vladavine prava.",
    "url": "https://www.rts.rs/lat/vesti/politika/6093780/marta-kos-sa-ademom-mavricem-politicka-tranzicija-u-srbiji-prilika-za-jacanje-vladavine-prava.html",
    "id": "v661"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "N1 / Razglas",
+   "kategorija": "izbori",
+   "naslov": "Predsednički izbori: kandidature najavili i Karić, Nestorović i Branko Pavlović; PSG i Boris Tadić podržali Saičića",
+   "red": 30,
+   "sazetak": "Bogoljub Karić i Branimir Nestorović potvrdili su da izlaze na izbore 27. decembra, a advokat Branko Pavlović pozvao je građane da prikupljaju potpise. Pokret slobodnih građana i bivši predsednik Boris Tadić podržali su kandidata Studentskog pokreta Radomira Saičića; SNS i SPS još nisu odlučili.",
+   "url": "https://n1info.rs/vesti/za-sada-poznata-tri-kandidata-na-predsednickim-izborima/",
+   "id": "v669"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Kragujevac: gradska skupština odbila predlog opozicije da se preispita finansiranje RTK",
+   "red": 25,
+   "sazetak": "Opozicioni odbornici navode da RTK od neuspele privatizacije 2017. dobija direktne subvencije grada, po njihovoj tvrdnji oko pola milijarde dinara za devet godina, i da je reemitovala program Informera. Odbornici SNS nisu komentarisali finansiranje.",
+   "url": "https://n1info.rs/vesti/rtk-godinama-dobija-novac-iz-budzeta-reemituje-informer-i-ceka-privatizaciju-skupstina-odbila-preispitivanje-finansiranja/",
+   "id": "v670"
   },
   {
    "datum": "2026-11-26",
@@ -8583,9 +8673,9 @@
    "id": "o12"
   },
   {
-   "azurirano": "2026-11-15",
+   "azurirano": "2026-11-28",
    "datum": "2026-10-30",
-   "napomena": "Najavio kandidat Vladan Kuzmanović. 12. nov: Sanja Fric rekla je da treba preispitati sve projekte po leks specijalisima i razmotriti ukidanje tog zakonskog okvira. 14. nov: program „Privreda i finansije” predviđa da se novi projekti ugovaraju po opštem postupku umesto posebnim zakonom, a da posebni zakoni za Beograd na vodi, EXPO 2027 i linijsku infrastrukturu prođu reviziju (ukidanje, izmena ili usklađivanje), uz procenu arbitražnog rizika.",
+   "napomena": "Najavio kandidat Vladan Kuzmanović. 12. nov: Sanja Fric rekla je da treba preispitati sve projekte po leks specijalisima i razmotriti ukidanje tog zakonskog okvira. 14. nov: program „Privreda i finansije” predviđa da se novi projekti ugovaraju po opštem postupku umesto posebnim zakonom, a da posebni zakoni za Beograd na vodi, EXPO 2027 i linijsku infrastrukturu prođu reviziju (ukidanje, izmena ili usklađivanje), uz procenu arbitražnog rizika. 27. nov: Fric je rekla da će svaki projekat biti posebno razmotren, bez unapred najavljenog raskida svih ugovora, i da Ekspo verovatno neće biti otkazan već vraćen u zakonske okvire uz proveru bezbednosti objekata.",
    "naslov": "Suspenzija leks specijalisa u građevinarstvu",
    "opis": "Suspendovati posebne zakone (leks specijalise) ili ih uskladiti sa važećim propisima; kratkoročne mere u roku od 6–12 meseci.",
    "status": "najavljeno",
