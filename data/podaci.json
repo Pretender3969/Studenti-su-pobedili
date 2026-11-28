@@ -1,5 +1,5 @@
 {
- "generisano": "2026-11-28T06:50+00:00",
+ "generisano": "2026-11-28T15:17+00:00",
  "stanje": {
   "azurirano": "2026-11-26",
   "izbori": "2026-10-25",
@@ -39,6 +39,56 @@
   "vlada": "Nije formirana (tehnički mandat); rok od 90 dana za izbor Vlade teče od 17. nov 2026."
  },
  "vesti": [
+  {
+   "datum": "2026-11-28",
+   "izvor": "N1",
+   "kategorija": "izbori",
+   "naslov": "Komisija za reviziju biračkog spiska objavila izveštaj: oko 879.000 birača više nego punoletnih građana, 1.466 starijih od 100 godina",
+   "red": 75,
+   "sazetak": "U izveštaju od 160 strana, objavljenom na sajtu Skupštine, Komisija navodi da razlika sama ne pokazuje koliko je upisa netačno, ali ukazuje na obrasce organizovanih upisa pred izbore, posebno lokalne 2023. Na izdvojenim adresama upisano je 13.920 osoba iz organizovanih prvih upisa, a u pojedinim stanovima prijavljeno je i više od 100 birača.",
+   "url": "https://n1info.rs/vesti/u-birackom-spisku-900000-vise-ljudi-nego-punoletnih-gradjana/",
+   "id": "v672"
+  },
+  {
+   "datum": "2026-11-28",
+   "izvor": "VJT Beograd",
+   "kategorija": "institucije",
+   "naslov": "VJT u Beogradu: vrhovna javna tužiteljka Zagorka Dolovac „na najgrublji način zloupotrebila hijerarhijska ovlašćenja”",
+   "red": 70,
+   "sazetak": "Više javno tužilaštvo u Beogradu saopštilo je da je Dolovac obaveznim uputstvom naložila postupanje po izveštaju Komisije Vrhovnog javnog tužilaštva kao po krivičnoj prijavi protiv tužilaca VJT, iako je Komisija izveštaj dostavila samo na ocenu. VJT tvrdi da je Komisija nezakonito formirana i da se uputstvo poklapa sa njegovim obraćanjem evropskim institucijama.",
+   "url": "https://beograd.vjt.rs/aktuelnosti/saopstenje-1514/",
+   "id": "v671"
+  },
+  {
+   "datum": "2026-11-28",
+   "izvor": "Studenti",
+   "kategorija": "program",
+   "naslov": "Studentski pokret apelovao na javne izvršitelje da ne iseljavaju građane iz jedinih domova",
+   "red": 50,
+   "sazetak": "Povod je prinudno iseljenje porodice Peruničić sa Novog Beograda zakazano za 30. novembar. Pokret ponavlja da će izmenama Zakona o izvršenju i obezbeđenju proširiti zaštitu prava na dom i uvesti sudsku kontrolu.",
+   "url": "https://studenti.org.rs/vesti/apel_ponovo/",
+   "id": "v673"
+  },
+  {
+   "datum": "2026-11-28",
+   "izvor": "N1",
+   "kategorija": "mediji",
+   "naslov": "Tri sindikata u RTS-u traže ostavku v.d. urednika Borivoja Uskokovića",
+   "red": 45,
+   "sazetak": "SMER, Sindikat radnika produkcije i tehnike i Sindikat Sloga traže neopozivu ostavku, navodeći njegov nastup u „Utisku nedelje”, javno čitanje imena 50 novinara i urednika i, kako tvrde, pritiske na zaposlene.",
+   "url": "https://n1info.rs/vesti/tri-sindikata-u-rts-u-traze-ostavku-vd-glavnog-i-odgovornog-urednika-borivoja-uskokovica/",
+   "id": "v674"
+  },
+  {
+   "datum": "2026-11-28",
+   "izvor": "Razglas / Beta",
+   "kategorija": "izbori",
+   "naslov": "Počinje prikupljanje potpisa za kandidaturu Radomira Saičića; podršku dala i Romska partija",
+   "red": 40,
+   "sazetak": "Grupa građana „Studenti ponovo pobeđuju” 29. novembra prikuplja overene potpise u Nišu, Leskovcu, Prokuplju i Vranju, a isto i u Novom Sadu. Kandidaturu Saičića podržala je i Romska partija.",
+   "url": "https://razglas-news.com/2026/11/28/prikupljanje-potpisa-za-saicicevu-kandidaturu-sutra-u-cetiri-grada-na-jugu-srbije/",
+   "id": "v675"
+  },
   {
    "datum": "2026-11-27",
    "izvor": "Studenti",
@@ -228,6 +278,16 @@
    "sazetak": "Bogoljub Karić i Branimir Nestorović potvrdili su da izlaze na izbore 27. decembra, a advokat Branko Pavlović pozvao je građane da prikupljaju potpise. Pokret slobodnih građana i bivši predsednik Boris Tadić podržali su kandidata Studentskog pokreta Radomira Saičića; SNS i SPS još nisu odlučili.",
    "url": "https://n1info.rs/vesti/za-sada-poznata-tri-kandidata-na-predsednickim-izborima/",
    "id": "v669"
+  },
+  {
+   "datum": "2026-11-27",
+   "izvor": "Transparentnost Srbija",
+   "kategorija": "korupcija",
+   "naslov": "RFZO posle izbora zaključio ugovor o hemodijalizi vredan 1,24 mlrd dinara",
+   "red": 30,
+   "sazetak": "Republički fond za zdravstveno osiguranje zaključio je 13. novembra, na osnovu okvirnog sporazuma, ugovor o usluzi hemodijalize vredan 1.236.394.536 dinara. Transparentnost Srbija ocenjuje povišen rizik zbog vrednosti iznad milijardu dinara i zaključenja posle izbora, uz napomenu da je reč o usluzi koja se pruža bez prekida.",
+   "url": "https://tehnickavlada.rs/akt/32966",
+   "id": "v676"
   },
   {
    "datum": "2026-11-27",
